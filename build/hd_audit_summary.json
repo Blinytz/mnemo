@@ -1,0 +1,164 @@
+{
+  "image_cells": 2275,
+  "ok": 1644,
+  "issues": 631,
+  "missing_thumb": 0,
+  "missing_full": 0,
+  "low_resolution": 600,
+  "low_bytes": 192,
+  "possible_mismatch": 116,
+  "by_list": {
+    "chefs_etat": {
+      "total": 43,
+      "issues": 18
+    },
+    "departements": {
+      "total": 202,
+      "issues": 89
+    },
+    "etats_usa": {
+      "total": 100,
+      "issues": 0
+    },
+    "mythologie": {
+      "total": 59,
+      "issues": 16
+    },
+    "os": {
+      "total": 122,
+      "issues": 47
+    },
+    "pays": {
+      "total": 197,
+      "issues": 0
+    },
+    "peintres": {
+      "total": 93,
+      "issues": 35
+    },
+    "rois_france": {
+      "total": 67,
+      "issues": 27
+    },
+    "coupes_monde": {
+      "total": 23,
+      "issues": 8
+    },
+    "xixe": {
+      "total": 75,
+      "issues": 17
+    },
+    "xxe": {
+      "total": 97,
+      "issues": 59
+    },
+    "litterature": {
+      "total": 60,
+      "issues": 30
+    },
+    "guerres": {
+      "total": 40,
+      "issues": 23
+    },
+    "philosophes": {
+      "total": 45,
+      "issues": 9
+    },
+    "mouvements_peinture": {
+      "total": 41,
+      "issues": 5
+    },
+    "jo_ete": {
+      "total": 32,
+      "issues": 13
+    },
+    "jo_hiver": {
+      "total": 25,
+      "issues": 7
+    },
+    "f1_champions": {
+      "total": 76,
+      "issues": 24
+    },
+    "consoles": {
+      "total": 43,
+      "issues": 24
+    },
+    "lunes": {
+      "total": 56,
+      "issues": 31
+    },
+    "periodes_geologiques": {
+      "total": 31,
+      "issues": 0
+    },
+    "films": {
+      "total": 390,
+      "issues": 54
+    },
+    "civilisations": {
+      "total": 12,
+      "issues": 6
+    },
+    "fleuves_monde": {
+      "total": 12,
+      "issues": 2
+    },
+    "compositeurs": {
+      "total": 12,
+      "issues": 2
+    },
+    "constellations": {
+      "total": 12,
+      "issues": 1
+    },
+    "grands_scientifiques": {
+      "total": 12,
+      "issues": 4
+    },
+    "batailles_decisives": {
+      "total": 33,
+      "issues": 14
+    },
+    "grandes_explorations": {
+      "total": 25,
+      "issues": 6
+    },
+    "revolutions": {
+      "total": 30,
+      "issues": 11
+    },
+    "montagnes_monde": {
+      "total": 30,
+      "issues": 4
+    },
+    "mers_oceans": {
+      "total": 20,
+      "issues": 6
+    },
+    "detroits_monde": {
+      "total": 20,
+      "issues": 8
+    },
+    "parcs_nationaux": {
+      "total": 30,
+      "issues": 5
+    },
+    "architectes_majeurs": {
+      "total": 30,
+      "issues": 7
+    },
+    "musees_monde": {
+      "total": 25,
+      "issues": 5
+    },
+    "inventions_majeures": {
+      "total": 31,
+      "issues": 4
+    },
+    "decouvertes_scientifiques": {
+      "total": 24,
+      "issues": 10
+    }
+  }
+}

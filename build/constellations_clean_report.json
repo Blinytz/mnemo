@@ -1,0 +1,275 @@
+{
+  "source": {
+    "lines": "https://raw.githubusercontent.com/ofrohn/d3-celestial/master/data/constellations.lines.json",
+    "stars": "https://raw.githubusercontent.com/ofrohn/d3-celestial/master/data/stars.6.json"
+  },
+  "version": 85,
+  "built": [
+    {
+      "row": 1,
+      "name": "Orion",
+      "abbr": "Ori",
+      "full": "full/constellations/1.png",
+      "thumb": "thumbs/constellations/1.webp"
+    },
+    {
+      "row": 2,
+      "name": "Grande Ourse",
+      "abbr": "UMa",
+      "full": "full/constellations/2.png",
+      "thumb": "thumbs/constellations/2.webp"
+    },
+    {
+      "row": 3,
+      "name": "Petite Ourse",
+      "abbr": "UMi",
+      "full": "full/constellations/3.png",
+      "thumb": "thumbs/constellations/3.webp"
+    },
+    {
+      "row": 4,
+      "name": "Cassiopée",
+      "abbr": "Cas",
+      "full": "full/constellations/4.png",
+      "thumb": "thumbs/constellations/4.webp"
+    },
+    {
+      "row": 5,
+      "name": "Cygne",
+      "abbr": "Cyg",
+      "full": "full/constellations/5.png",
+      "thumb": "thumbs/constellations/5.webp"
+    },
+    {
+      "row": 6,
+      "name": "Lyre",
+      "abbr": "Lyr",
+      "full": "full/constellations/6.png",
+      "thumb": "thumbs/constellations/6.webp"
+    },
+    {
+      "row": 7,
+      "name": "Aigle",
+      "abbr": "Aql",
+      "full": "full/constellations/7.png",
+      "thumb": "thumbs/constellations/7.webp"
+    },
+    {
+      "row": 8,
+      "name": "Scorpion",
+      "abbr": "Sco",
+      "full": "full/constellations/8.png",
+      "thumb": "thumbs/constellations/8.webp"
+    },
+    {
+      "row": 9,
+      "name": "Sagittaire",
+      "abbr": "Sgr",
+      "full": "full/constellations/9.png",
+      "thumb": "thumbs/constellations/9.webp"
+    },
+    {
+      "row": 10,
+      "name": "Taureau",
+      "abbr": "Tau",
+      "full": "full/constellations/10.png",
+      "thumb": "thumbs/constellations/10.webp"
+    },
+    {
+      "row": 11,
+      "name": "Gémeaux",
+      "abbr": "Gem",
+      "full": "full/constellations/11.png",
+      "thumb": "thumbs/constellations/11.webp"
+    },
+    {
+      "row": 12,
+      "name": "Lion",
+      "abbr": "Leo",
+      "full": "full/constellations/12.png",
+      "thumb": "thumbs/constellations/12.webp"
+    },
+    {
+      "row": 13,
+      "name": "Persée",
+      "abbr": "Per",
+      "full": "full/constellations/13.png",
+      "thumb": "thumbs/constellations/13.webp"
+    },
+    {
+      "row": 14,
+      "name": "Andromède",
+      "abbr": "And",
+      "full": "full/constellations/14.png",
+      "thumb": "thumbs/constellations/14.webp"
+    },
+    {
+      "row": 15,
+      "name": "Hercule",
+      "abbr": "Her",
+      "full": "full/constellations/15.png",
+      "thumb": "thumbs/constellations/15.webp"
+    },
+    {
+      "row": 16,
+      "name": "Vierge",
+      "abbr": "Vir",
+      "full": "full/constellations/16.png",
+      "thumb": "thumbs/constellations/16.webp"
+    },
+    {
+      "row": 17,
+      "name": "Balance",
+      "abbr": "Lib",
+      "full": "full/constellations/17.png",
+      "thumb": "thumbs/constellations/17.webp"
+    },
+    {
+      "row": 18,
+      "name": "Verseau",
+      "abbr": "Aqr",
+      "full": "full/constellations/18.png",
+      "thumb": "thumbs/constellations/18.webp"
+    },
+    {
+      "row": 19,
+      "name": "Bélier",
+      "abbr": "Ari",
+      "full": "full/constellations/19.png",
+      "thumb": "thumbs/constellations/19.webp"
+    },
+    {
+      "row": 20,
+      "name": "Cancer",
+      "abbr": "Cnc",
+      "full": "full/constellations/20.png",
+      "thumb": "thumbs/constellations/20.webp"
+    },
+    {
+      "row": 21,
+      "name": "Capricorne",
+      "abbr": "Cap",
+      "full": "full/constellations/21.png",
+      "thumb": "thumbs/constellations/21.webp"
+    },
+    {
+      "row": 22,
+      "name": "Poissons",
+      "abbr": "Psc",
+      "full": "full/constellations/22.png",
+      "thumb": "thumbs/constellations/22.webp"
+    },
+    {
+      "row": 23,
+      "name": "Centaure",
+      "abbr": "Cen",
+      "full": "full/constellations/23.png",
+      "thumb": "thumbs/constellations/23.webp"
+    },
+    {
+      "row": 24,
+      "name": "Croix du Sud",
+      "abbr": "Cru",
+      "full": "full/constellations/24.png",
+      "thumb": "thumbs/constellations/24.webp"
+    },
+    {
+      "row": 25,
+      "name": "Dragon",
+      "abbr": "Dra",
+      "full": "full/constellations/25.png",
+      "thumb": "thumbs/constellations/25.webp"
+    },
+    {
+      "row": 26,
+      "name": "Pégase",
+      "abbr": "Peg",
+      "full": "full/constellations/26.png",
+      "thumb": "thumbs/constellations/26.webp"
+    },
+    {
+      "row": 27,
+      "name": "Grand Chien",
+      "abbr": "CMa",
+      "full": "full/constellations/27.png",
+      "thumb": "thumbs/constellations/27.webp"
+    },
+    {
+      "row": 28,
+      "name": "Petit Chien",
+      "abbr": "CMi",
+      "full": "full/constellations/28.png",
+      "thumb": "thumbs/constellations/28.webp"
+    },
+    {
+      "row": 29,
+      "name": "Cocher",
+      "abbr": "Aur",
+      "full": "full/constellations/29.png",
+      "thumb": "thumbs/constellations/29.webp"
+    },
+    {
+      "row": 30,
+      "name": "Bouvier",
+      "abbr": "Boo",
+      "full": "full/constellations/30.png",
+      "thumb": "thumbs/constellations/30.webp"
+    },
+    {
+      "row": 31,
+      "name": "Couronne boréale",
+      "abbr": "CrB",
+      "full": "full/constellations/31.png",
+      "thumb": "thumbs/constellations/31.webp"
+    },
+    {
+      "row": 32,
+      "name": "Ophiuchus",
+      "abbr": "Oph",
+      "full": "full/constellations/32.png",
+      "thumb": "thumbs/constellations/32.webp"
+    },
+    {
+      "row": 33,
+      "name": "Hydre",
+      "abbr": "Hya",
+      "full": "full/constellations/33.png",
+      "thumb": "thumbs/constellations/33.webp"
+    },
+    {
+      "row": 34,
+      "name": "Éridan",
+      "abbr": "Eri",
+      "full": "full/constellations/34.png",
+      "thumb": "thumbs/constellations/34.webp"
+    },
+    {
+      "row": 35,
+      "name": "Corbeau",
+      "abbr": "Crv",
+      "full": "full/constellations/35.png",
+      "thumb": "thumbs/constellations/35.webp"
+    },
+    {
+      "row": 36,
+      "name": "Lièvre",
+      "abbr": "Lep",
+      "full": "full/constellations/36.png",
+      "thumb": "thumbs/constellations/36.webp"
+    },
+    {
+      "row": 37,
+      "name": "Phénix",
+      "abbr": "Phe",
+      "full": "full/constellations/37.png",
+      "thumb": "thumbs/constellations/37.webp"
+    },
+    {
+      "row": 38,
+      "name": "Serpent",
+      "abbr": "Ser",
+      "full": "full/constellations/38.png",
+      "thumb": "thumbs/constellations/38.webp"
+    }
+  ]
+}

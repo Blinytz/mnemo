@@ -1,0 +1,55 @@
+{
+  "section": "royals",
+  "completed": [
+    {
+      "list": "rois_france",
+      "row": "4",
+      "source": "wiki:fr.wikipedia.org:Clotaire II",
+      "thumb": "thumbs/rois_france/4.webp",
+      "full": "full/rois_france/4.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "7",
+      "source": "wiki:fr.wikipedia.org:Clotaire III",
+      "thumb": "thumbs/rois_france/7.webp",
+      "full": "full/rois_france/7.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "10",
+      "source": "wiki:fr.wikipedia.org:Childebert III",
+      "thumb": "thumbs/rois_france/10.webp",
+      "full": "full/rois_france/10.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "25",
+      "source": "wiki:fr.wikipedia.org:Robert Ier de France",
+      "thumb": "thumbs/rois_france/25.webp",
+      "full": "full/rois_france/25.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "26",
+      "source": "wiki:fr.wikipedia.org:Raoul de France",
+      "thumb": "thumbs/rois_france/26.webp",
+      "full": "full/rois_france/26.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "28",
+      "source": "wiki:fr.wikipedia.org:Lothaire de France",
+      "thumb": "thumbs/rois_france/28.webp",
+      "full": "full/rois_france/28.webp"
+    }
+  ],
+  "failures": [
+    {
+      "list": "rois_france",
+      "row": "21",
+      "requested": "Carloman II",
+      "error": "page sans image: Carloman II"
+    }
+  ]
+}

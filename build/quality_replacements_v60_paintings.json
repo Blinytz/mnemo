@@ -1,0 +1,83 @@
+{
+  "section": "paintings",
+  "completed": [
+    {
+      "list": "peintres",
+      "row": "5b",
+      "source": "wiki:en.wikipedia.org:Sistine Chapel ceiling",
+      "thumb": "thumbs/peintres/5b.webp",
+      "full": "full/peintres/5b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "10b",
+      "source": "wiki:en.wikipedia.org:The Descent from the Cross (Rubens)",
+      "thumb": "thumbs/peintres/10b.webp",
+      "full": "full/peintres/10b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "21b",
+      "source": "wiki:en.wikipedia.org:Mont Sainte-Victoire (Cezanne)",
+      "thumb": "thumbs/peintres/21b.webp",
+      "full": "full/peintres/21b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "32b",
+      "source": "wiki:en.wikipedia.org:Guernica (Picasso)",
+      "thumb": "thumbs/peintres/32b.webp",
+      "full": "full/peintres/32b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "35b",
+      "source": "wiki:en.wikipedia.org:Man at the Crossroads",
+      "thumb": "thumbs/peintres/35b.webp",
+      "full": "full/peintres/35b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "37b",
+      "source": "wiki:en.wikipedia.org:The Melancholy and Mystery of a Street",
+      "thumb": "thumbs/peintres/37b.webp",
+      "full": "full/peintres/37b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "41b",
+      "source": "wiki:en.wikipedia.org:The Two Fridas",
+      "thumb": "thumbs/peintres/41b.webp",
+      "full": "full/peintres/41b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "42b",
+      "source": "wiki:en.wikipedia.org:Three Studies of Lucian Freud",
+      "thumb": "thumbs/peintres/42b.webp",
+      "full": "full/peintres/42b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "43b",
+      "source": "wiki:en.wikipedia.org:Number 31 (Jackson Pollock)",
+      "thumb": "thumbs/peintres/43b.webp",
+      "full": "full/peintres/43b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "46b",
+      "source": "wiki:en.wikipedia.org:Untitled (Skull)",
+      "thumb": "thumbs/peintres/46b.webp",
+      "full": "full/peintres/46b.webp"
+    }
+  ],
+  "failures": [
+    {
+      "list": "peintres",
+      "row": "47b",
+      "requested": "Girl with Balloon",
+      "error": "page sans image: Girl with Balloon"
+    }
+  ]
+}

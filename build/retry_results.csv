@@ -1,0 +1,36 @@
+folder,num,query,source_url,width,height,kb,score
+peintres,26,Toulouse-Lautrec Moulin Rouge poster,https://cdn.shopify.com/s/files/1/2238/5375/products/Moulin_Rouge_t_Latrec_1024x1024@2x.jpg?v=1553600011,847,1200,246,10
+peintres,31,Kandinsky Composition abstract painting,https://www.arthistoryproject.com/site/assets/files/12027/wassily-kandinsky-on-white-ii-1923-obelisk-art-history.webp,1114,1200,290,10
+peintres,34,Diego Rivera mural fresco Mexico,https://cdn.theculturetrip.com/wp-content/uploads/2016/01/MC.jpg,1200,1039,495,10
+peintres,46,Hockney A Bigger Splash painting Tate,https://www.bonhams.com/_next/image.jpg?url=https://img2.bonhams.com/image?src=Images/live/2011-02/11/8229052-41-1.JPG&w=2400&q=75,792,1200,79,10
+peintres,50,Rembrandt self portrait old age painting,https://www.artchive.com/wp-content/uploads/2024/04/self-portrait-in-at-the-age-of-63-rembrandt-1669-scaled.jpg,970,1200,128,10
+musees_monde,4,Hermitage Museum Saint Petersburg exterior facade,https://thumbs.dreamstime.com/z/st-petersburg-russia-march-exterior-view-hermitage-museum-building-palace-square-dvortsovaya-square-st-petersburg-114803077.jpg,1200,868,271,10
+musees_monde,5,Vatican Museums Rome Sistine Chapel aerial,https://c8.alamy.com/comp/B7J2G7/sistine-chapel-vatican-museum-vatican-city-rome-italy-europe-B7J2G7.jpg,1200,937,351,10
+musees_monde,15,Acropolis Museum Athens new building exterior,https://www.villalikehome.com/blog/wp-content/uploads/2016/06/featured-2.jpg,1200,797,164,10
+parcs_nationaux,13,Machu Picchu Inca ruins aerial Peru,http://www.ourcolombiamission.com/wp-content/uploads/2016/11/IMG_3635.jpg,1200,800,388,10
+parcs_nationaux,16,Mount Kilimanjaro aerial Tanzania snow summit,https://c8.alamy.com/comp/B3YXHN/geography-travel-tanzania-mount-kilimanjaro-sunrise-aerial-view-overview-B3YXHN.jpg,1084,1200,298,10
+parcs_nationaux,18,Denali Mount McKinley Alaska aerial,https://c8.alamy.com/comp/B0HBNM/mount-mckinley-denali-national-park-6195-m-aerial-view-alaska-range-B0HBNM.jpg,1200,1053,319,10
+compositeurs,2,George Frideric Handel portrait painting composer,https://interlude-cdn-blob-prod.azureedge.net/interlude-blob-storage-prod/2023/04/George-Frideric-Handel-oil-canvas-Thomas-Hudson-1736.jpg,928,1200,203,10
+compositeurs,10,Richard Wagner portrait photograph opera composer,https://images-e-venise.global.ssl.fastly.net/pics/musique/portrait-photographie-richard-wagner.jpg,987,1200,127,10
+compositeurs,11,Giuseppe Verdi portrait photograph opera Italian,https://c8.alamy.com/comp/2ATHG5X/giuseppe-verdi-1813-1901-italian-composer-2ATHG5X.jpg,929,1200,198,10
+mouvements_peinture,8,Dutch Golden Age Vermeer Rembrandt interior light,https://www.artgallery.nsw.gov.au/media/thumbnails/uploads/artboards/2017_10/SID59264S_cToEzt9.jpg.1400x1400_q85.jpg,989,1200,233,10
+mouvements_peinture,13,Barbizon school Corot Millet landscape forest painting,https://cms.guggenheim-bilbao.eus/uploads/2019/10/5-Corot_1209-1977-14_LL.jpg,1200,868,313,10
+mouvements_peinture,31,Hyperrealism photorealistic Chuck Close painting,https://gallerease.com/images/8340be78-a6e4-4f5d-8f99-e89e1b1fea2c/26213911-web1-l-chuck-close-edh-170819.jpeg,1200,863,252,10
+mouvements_peinture,34,Neo-expressionism Basquiat Kiefer raw painting,https://masterful-artists.com/wp-content/uploads/2025/03/Jean-michel-basquiat-warrior-zoom-chrities-min-scaled-e1742243145219.jpg,798,1200,258,10
+architectes_majeurs,10,Wren Saint Paul's Cathedral London dome exterior,https://cdn.britannica.com/78/178978-050-412DDDE3/Christopher-Wren-St-Pauls-Cathedral-London.jpg,1200,1098,316,10
+architectes_majeurs,17,Louis Kahn Salk Institute La Jolla courtyard,https://sistaticv2.blob.core.windows.net/cultured-mag/img/2020/04/Kahn-01--scaled.jpg,1200,813,135,10
+architectes_majeurs,25,Tate Modern Herzog de Meuron London exterior,https://news.artnet.com/app/news-upload/2023/07/tate-modern1.jpg,1200,800,312,10
+decouvertes_scientifiques,3,calculus Newton Leibniz manuscript mathematics differential,"https://images.lib.cam.ac.uk/iiif/MS-ADD-03960-008-00023.jp2/0,2568,4849,2546/1200,630/0/default.jpg",1200,630,114,10
+decouvertes_scientifiques,8,Mendeleev periodic table elements chemistry wall 1869,https://thumbs.dreamstime.com/z/mendeleev-s-table-27274123.jpg,1200,925,232,10
+decouvertes_scientifiques,9,X-ray radiography hand bones Röntgen Wilhelm 1895,https://s-media-cache-ak0.pinimg.com/originals/4c/49/03/4c4903907c61f769765684477d34c63f.jpg,811,1200,152,10
+decouvertes_scientifiques,13,DNA double helix model Watson Crick molecular biology,https://image.slidesharecdn.com/watsonandcrickmodelofdna-200723160105/75/watson-and-crick-model-of-DNA-molecular-biology-5-2048.jpg,1200,900,107,10
+grands_scientifiques,4,Charles Darwin portrait photograph naturalist,https://c8.alamy.com/comp/2BW06P1/charles-darwin-portrait-of-the-english-naturalist-charles-darwin-1809-1882-by-john-collier-1883-2BW06P1.jpg,956,1200,201,10
+grands_scientifiques,19,Leonhard Euler portrait painting Swiss mathematician,https://c8.alamy.com/comp/HM20F7/this-portrait-of-leonhard-euler-the-swiss-mathematician-showcases-HM20F7.jpg,912,1200,136,10
+grands_scientifiques,25,André-Marie Ampère portrait physicist electromagnetism,https://c8.alamy.com/comp/2B993MX/portrait-of-andre-marie-ampere-1775-1836-philosopher-mathematician-and-physicist-david-dangers-1788-1856-portrait-dandr-marie-ampre-1775-1836-philosophe-mathmaticien-et-physicien-bronze-fonte-au-sable-1829-paris-muse-carnavalet-2B993MX.jpg,1094,1200,224,10
+grands_scientifiques,29,Wilhelm Röntgen portrait physicist X-ray Nobel,https://c8.alamy.com/comp/2Y166J2/portrait-of-wilhelm-conrad-rntgen-1845-1923-german-mechanical-engineer-and-physicist-digitally-edited-2Y166J2.jpg,893,1200,144,10
+grands_scientifiques,36,Stephen Hawking wheelchair portrait physicist Cambridge,https://media.craiyon.com/2025-04-28/8C5kHGMaS2-AArBZqi0uMw.webp,900,1200,257,10
+grandes_explorations,7,Henry Hudson explorer portrait painting river bay,https://exploration.marinersmuseum.org/wp-content/uploads/sites/2/2013/11/E129.H8-J64-1992_Cover.jpg,1101,1200,632,10
+grandes_explorations,8,Abel Tasman explorer portrait Australia New Zealand,https://static-prod.lib.princeton.edu/visual_materials/maps/websites/pacific/tasman/tasman-portrait.jpg,958,1200,447,10
+grandes_explorations,22,Yuri Gagarin cosmonaut Soviet space suit portrait,https://c8.alamy.com/comp/2Y1DE4A/yuri-gagarin-1934-1968-soviet-cosmonaut-who-was-the-first-human-in-space-and-first-to-orbit-the-earth-photographed-in-the-vostok-3ka-space-capsule-before-launch-of-the-vostok-1-on-12-april-1961-2Y1DE4A.jpg,1200,1027,301,10
+inventions_majeures,4,Watt steam engine industrial revolution Newcomen,https://cdn.britannica.com/35/60535-050-167C3CCD/James-Watt-steam-engine-gear-drawing-Science-1788.jpg,982,1200,275,10
+inventions_majeures,14,Theodore Maiman laser 1960 ruby red beam invention,https://www.nagelwohl.de/wp-content/uploads/2015/09/laser-theodore-maiman.jpg,1200,900,167,10

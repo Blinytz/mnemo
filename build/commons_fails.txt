@@ -1,0 +1,514 @@
+peintres	23	Georges Seurat	Seurat Sunday Afternoon Grande Jatte painting	download failed
+peintres	26	Toulouse-Lautrec	Toulouse-Lautrec Moulin Rouge poster	download failed
+peintres	30	Pablo Picasso	Picasso Guernica painting large	download failed
+peintres	31	Wassily Kandinsky	Kandinsky Composition abstract painting	download failed
+peintres	34	Diego Rivera	Diego Rivera mural fresco Mexico	download failed
+peintres	36	Giorgio de Chirico	Chirico metaphysical painting city street	download failed
+peintres	37	René Magritte	Magritte Son of Man painting surrealism	download failed
+peintres	42	Andy Warhol	Warhol Marilyn Diptych pop art	download failed
+peintres	43	Roy Lichtenstein	Lichtenstein Whaam comic pop art painting	no results
+peintres	46	David Hockney	Hockney A Bigger Splash painting Tate	download failed
+peintres	50	Rembrandt 2	Rembrandt self portrait old age painting	download failed
+musees_monde	1	Louvre	Louvre Museum Paris pyramid exterior	download failed
+musees_monde	2	Metropolitan	Metropolitan Museum Art New York exterior Fifth Avenue	download failed
+musees_monde	3	British Museum	British Museum London Great Court interior	download failed
+musees_monde	4	Ermitage	Hermitage Museum Saint Petersburg exterior facade	download failed
+musees_monde	5	Musées du Vatican	Vatican Museums Rome Sistine Chapel aerial	download failed
+musees_monde	6	Offices de Florence	Uffizi Gallery Florence exterior Piazzale degli	download failed
+musees_monde	10	Tate Modern	Tate Modern London exterior Thames Bankside	download failed
+musees_monde	11	MoMA	Museum Modern Art MoMA New York interior atrium	download failed
+musees_monde	15	Musée de l'Acropole	Acropolis Museum Athens new building exterior	download failed
+musees_monde	17	Tokyo National	Tokyo National Museum Ueno Park exterior Japan	download failed
+musees_monde	20	Galerie de Dresde	Gemäldegalerie Alte Meister Dresden Zwinger	download failed
+parcs_nationaux	5	Serengeti	Serengeti savanna Tanzania wildebeest migration aerial	download failed
+parcs_nationaux	8	Galápagos	Galapagos Islands Ecuador giant tortoise iguana	download failed
+parcs_nationaux	9	Fiordland	Fiordland National Park Milford Sound New Zealand	download failed
+parcs_nationaux	10	Banff	Banff National Park Lake Louise turquoise Canada	download failed
+parcs_nationaux	11	Kruger	Kruger National Park South Africa elephant lion	download failed
+parcs_nationaux	13	Machu Picchu	Machu Picchu Inca ruins aerial Peru	download failed
+parcs_nationaux	16	Kilimandjaro	Mount Kilimanjaro aerial Tanzania snow summit	download failed
+parcs_nationaux	17	Iguazu	Iguazu Falls aerial waterfall Argentina Brazil	download failed
+parcs_nationaux	18	Denali	Denali Mount McKinley Alaska aerial	download failed
+parcs_nationaux	19	Glacier	Glacier National Park Montana lakes mountains USA	download failed
+parcs_nationaux	20	Arches	Arches National Park Utah Delicate Arch sandstone	download failed
+parcs_nationaux	21	Tongariro	Tongariro National Park volcanic New Zealand	download failed
+parcs_nationaux	22	Dolomites	Dolomites Italy mountain peaks landscape alpine	download failed
+parcs_nationaux	25	Baie d'Halong	Ha Long Bay Vietnam karst limestone aerial	download failed
+compositeurs	1	Bach	Johann Sebastian Bach portrait painting composer	download failed
+compositeurs	2	Haendel	George Frideric Handel portrait painting composer	download failed
+compositeurs	7	Chopin	Frédéric Chopin portrait romantic composer piano	download failed
+compositeurs	8	Schumann	Robert Schumann portrait painting composer	download failed
+compositeurs	9	Liszt	Franz Liszt portrait composer pianist	download failed
+compositeurs	10	Wagner	Richard Wagner portrait photograph opera composer	download failed
+compositeurs	11	Verdi	Giuseppe Verdi portrait photograph opera Italian	download failed
+compositeurs	12	Brahms	Johannes Brahms portrait photograph composer	download failed
+compositeurs	13	Dvořák	Antonín Dvořák portrait photograph Czech composer	download failed
+compositeurs	15	Puccini	Giacomo Puccini portrait photograph opera	download failed
+compositeurs	17	Debussy	Claude Debussy portrait photograph French composer	download failed
+compositeurs	19	Stravinsky	Igor Stravinsky portrait photograph composer	download failed
+compositeurs	20	Bartók	Béla Bartók portrait photograph Hungarian composer	download failed
+compositeurs	24	Alban Berg	Alban Berg portrait photograph Austrian composer	download failed
+mouvements_peinture	4	Primitifs flamands	Early Flemish painting van Eyck Annunciation altar	download failed
+mouvements_peinture	5	Renaissance italienne	Italian Renaissance Raphael Botticelli painting	download failed
+mouvements_peinture	6	Maniérisme	Mannerism Pontormo Bronzino elongated figures painting	download failed
+mouvements_peinture	7	Baroque	Baroque Caravaggio dramatic light shadow chiaroscuro	download failed
+mouvements_peinture	8	Âge d'or néerlandais	Dutch Golden Age Vermeer Rembrandt interior light	download failed
+mouvements_peinture	9	Rococo	Rococo Fragonard Watteau painting elegant pastoral	download failed
+mouvements_peinture	10	Néoclassicisme	Neoclassicism Jacques-Louis David Greek Roman	download failed
+mouvements_peinture	11	Romantisme	Romanticism Delacroix dramatic nature sublime painting	download failed
+mouvements_peinture	12	Réalisme	Realism Courbet Millet peasants everyday life painting	download failed
+mouvements_peinture	13	École de Barbizon	Barbizon school Corot Millet landscape forest painting	download failed
+mouvements_peinture	17	Symbolisme	Symbolism Gustave Moreau mysterious allegory painting	download failed
+mouvements_peinture	18	Art nouveau	Art Nouveau Klimt Mucha organic decorative	download failed
+mouvements_peinture	20	Expressionnisme	Expressionism Die Brücke Kirchner Munch color distort	download failed
+mouvements_peinture	23	Constructivisme	Constructivism Russian El Lissitzky Rodchenko abstract	no results
+mouvements_peinture	31	Hyperréalisme	Hyperrealism photorealistic Chuck Close painting	no results
+mouvements_peinture	34	Néo-expressionnisme	Neo-expressionism Basquiat Kiefer raw painting	no results
+architectes_majeurs	1	Brunelleschi	Brunelleschi Florence Cathedral dome cupola exterior	download failed
+architectes_majeurs	2	Palladio	Palladio Villa Rotonda Vicenza architecture	download failed
+architectes_majeurs	3	Gaudí	Gaudí Sagrada Familia Barcelona exterior	download failed
+architectes_majeurs	4	Frank Lloyd Wright	Fallingwater Wright house architecture Pennsylvania	download failed
+architectes_majeurs	8	I. M. Pei	IM Pei Louvre Pyramid glass exterior	download failed
+architectes_majeurs	10	Christopher Wren	Wren Saint Paul's Cathedral London dome exterior	download failed
+architectes_majeurs	12	Charles Garnier	Paris Opéra Garnier exterior grand facade	download failed
+architectes_majeurs	14	Walter Gropius	Bauhaus Dessau building Gropius architecture	download failed
+architectes_majeurs	16	Oscar Niemeyer	Niemeyer National Congress Brasilia dome	download failed
+architectes_majeurs	17	Louis Kahn	Louis Kahn Salk Institute La Jolla courtyard	download failed
+architectes_majeurs	18	Renzo Piano	Renzo Piano Centre Pompidou Paris exterior	download failed
+architectes_majeurs	19	Norman Foster	Norman Foster 30 St Mary Axe Gherkin London	download failed
+architectes_majeurs	20	Frank Gehry	Gehry Guggenheim Museum Bilbao titanium curves	download failed
+architectes_majeurs	22	Jean Nouvel	Jean Nouvel Institut du Monde Arabe Paris mashrabiya	download failed
+architectes_majeurs	23	Rem Koolhaas	Rem Koolhaas CCTV Headquarters Beijing tower	download failed
+architectes_majeurs	25	Herzog & de Meuron	Tate Modern Herzog de Meuron London exterior	download failed
+architectes_majeurs	27	Dominique Perrault	Bibliothèque nationale France Perrault towers	download failed
+architectes_majeurs	28	Carlo Scarpa	Carlo Scarpa Castelvecchio museum Verona	download failed
+decouvertes_scientifiques	2	Gravitation	Newton gravitation apple law universal gravity portrait	download failed
+decouvertes_scientifiques	3	Calcul infinitésimal	calculus Newton Leibniz manuscript mathematics differential	download failed
+decouvertes_scientifiques	4	Thermodynamique	Watt steam engine thermodynamics industrial revolution	download failed
+decouvertes_scientifiques	5	Électromagnétisme	Faraday electromagnetic induction experiment coil magnet	download failed
+decouvertes_scientifiques	6	Évolution	Darwin On Origin Species evolution tree of life illustration	download failed
+decouvertes_scientifiques	7	Germes	Pasteur germ theory experiment bacteriology laboratory	download failed
+decouvertes_scientifiques	8	Tableau périodique	Mendeleev periodic table elements chemistry wall 1869	download failed
+decouvertes_scientifiques	9	Rayons X	X-ray radiography hand bones Röntgen Wilhelm 1895	download failed
+decouvertes_scientifiques	12	Mécanique quantique	quantum mechanics atom Bohr model electron orbital	download failed
+decouvertes_scientifiques	13	ADN	DNA double helix model Watson Crick molecular biology	download failed
+decouvertes_scientifiques	14	Pénicilline	Alexander Fleming penicillin mold Petri dish antibiotic	download failed
+decouvertes_scientifiques	18	Ondes gravitationnelles	gravitational waves LIGO interferometer merger black hole	download failed
+grands_scientifiques	1	Newton	Isaac Newton portrait painting physicist mathematician	download failed
+grands_scientifiques	2	Galilée	Galileo Galilei portrait painting telescope astronomer	download failed
+grands_scientifiques	3	Einstein	Albert Einstein portrait photograph physicist	download failed
+grands_scientifiques	4	Darwin	Charles Darwin portrait photograph naturalist	download failed
+grands_scientifiques	7	Tesla	Nikola Tesla portrait photograph electricity inventor	download failed
+grands_scientifiques	19	Euler	Leonhard Euler portrait painting Swiss mathematician	download failed
+grands_scientifiques	22	Lavoisier	Antoine Lavoisier chemistry laboratory portrait	download failed
+grands_scientifiques	23	Humphry Davy	Humphry Davy portrait chemist sodium potassium	download failed
+grands_scientifiques	24	Volta	Alessandro Volta battery portrait physicist	download failed
+grands_scientifiques	25	Ampère	André-Marie Ampère portrait physicist electromagnetism	download failed
+grands_scientifiques	26	Joule	James Prescott Joule portrait physicist thermodynamics	download failed
+grands_scientifiques	27	Lord Kelvin	Lord Kelvin portrait physicist temperature scale	download failed
+grands_scientifiques	28	Hertz	Heinrich Hertz portrait physicist radio waves	download failed
+grands_scientifiques	29	Röntgen	Wilhelm Röntgen portrait physicist X-ray Nobel	download failed
+grands_scientifiques	34	Francis Crick	Francis Crick portrait photograph DNA double helix	download failed
+grands_scientifiques	36	Hawking	Stephen Hawking wheelchair portrait physicist Cambridge	download failed
+grandes_explorations	1	Christophe Colomb	Christopher Columbus portrait painting Americas explorer	download failed
+grandes_explorations	3	Magellan	Ferdinand Magellan portrait painting circumnavigation	download failed
+grandes_explorations	4	Amerigo Vespucci	Amerigo Vespucci portrait painting explorer Americas	download failed
+grandes_explorations	5	John Cabot	John Cabot explorer portrait painting England	download failed
+grandes_explorations	7	Henry Hudson	Henry Hudson explorer portrait painting river bay	download failed
+grandes_explorations	8	Abel Tasman	Abel Tasman explorer portrait Australia New Zealand	download failed
+grandes_explorations	9	James Cook	James Cook portrait painting explorer Pacific	download failed
+grandes_explorations	11	Lewis et Clark	Lewis Clark expedition America map portrait	download failed
+grandes_explorations	16	David Livingstone	David Livingstone portrait explorer Africa missionary	download failed
+grandes_explorations	17	Mungo Park	Mungo Park portrait explorer Africa Niger River	download failed
+grandes_explorations	22	Youri Gagarine	Yuri Gagarin cosmonaut Soviet space suit portrait	download failed
+grandes_explorations	23	Neil Armstrong	Neil Armstrong astronaut Moon Apollo 11 portrait	download failed
+grandes_explorations	24	Valentina Terechkova	Valentina Tereshkova cosmonaut Soviet portrait first woman	download failed
+inventions_majeures	1	La roue	ancient wheel Mesopotamia pottery clay history	download failed
+inventions_majeures	3	Imprimerie	Gutenberg printing press movable type 1450 invention	download failed
+inventions_majeures	4	Machine à vapeur	Watt steam engine industrial revolution Newcomen	download failed
+inventions_majeures	11	Ordinateur	ENIAC computer 1945 vacuum tubes enormous room	download failed
+inventions_majeures	12	Internet	ARPANET network diagram nodes 1969 internet history	download failed
+inventions_majeures	14	Laser	Theodore Maiman laser 1960 ruby red beam invention	download failed
+inventions_majeures	15	Plastique	Bakelite plastic invention Baekeland 1907 polymer	download failed
+inventions_majeures	16	Réacteur nucléaire	Chicago Pile-1 first nuclear reactor 1942 Fermi	download failed
+inventions_majeures	17	Satellite	Sputnik 1957 Soviet satellite space orbit sphere	download failed
+inventions_majeures	18	Circuit intégré	integrated circuit silicon chip Intel microprocessor	download failed
+inventions_majeures	19	World Wide Web	Tim Berners-Lee World Wide Web CERN proposal 1989	download failed
+inventions_majeures	20	Smartphone	Apple iPhone 2007 Steve Jobs keynote first announcement	download failed
+inventions_majeures	21	GPS	GPS satellite constellation global positioning navigation	download failed
+inventions_majeures	22	Impression 3D	3D printing additive manufacturing FDM prototype layer	download failed
+inventions_majeures	23	Poudre à canon	gunpowder Chinese invention medieval cannon fireworks	download failed
+inventions_majeures	24	Boussole	magnetic compass Chinese invention navigation ship	download failed
+inventions_majeures	25	Horloge mécanique	mechanical clock tower medieval escapement invention	download failed
+inventions_majeures	26	Télescope	Galileo telescope invention 1609 astronomy refractor	download failed
+inventions_majeures	27	Microscope	Leeuwenhoek microscope invention bacteria 17th century	download failed
+inventions_majeures	28	Vaccination	Edward Jenner smallpox vaccination cowpox 1796	download failed
+civilisations	5	Empire perse	Persian Empire Persepolis ruins Apadana staircase Iran	download failed
+civilisations	7	Civilisation indus	Indus Valley civilization Mohenjo-daro Harappa ruins	download failed
+civilisations	8	Mayas	Maya civilization Chichen Itza pyramid El Castillo	download failed
+civilisations	10	Incas	Inca Machu Picchu aerial Peru ruins Andes	download failed
+civilisations	11	Empire byzantin	Byzantine Hagia Sophia Constantinople mosaic Emperor	download failed
+civilisations	12	Âge d'or islamique	Islamic Golden Age manuscript astronomy Baghdad Al-Biruni	download failed
+civilisations	14	Saint-Empire	Holy Roman Empire Cologne Cathedral medieval map	download failed
+civilisations	15	Empire mongol	Mongol Empire horseback cavalry steppe map expansion	download failed
+civilisations	17	Empire moghol	Mughal Empire Taj Mahal Agra marble aerial	download failed
+civilisations	18	Empire britannique	British Empire map 1897 colonial Victorian world	download failed
+civilisations	19	Empire carolingien	Charlemagne Carolingian Empire map medieval illustration	download failed
+civilisations	21	Civilisation minoenne	Minoan Knossos Crete fresco bull leaping palace	download failed
+civilisations	22	Phénicie	Phoenician ship purple dye trade Mediterranean ancient	download failed
+civilisations	24	Nubie	Nubian pyramids Meroe Sudan aerial Africa ancient	download failed
+guerres	1	Guerre de Troie	Trojan War wooden horse Troy ancient Greek vase painting	download failed
+guerres	2	Guerres médiques	Battle of Marathon Salamis ancient Greek trireme painting	download failed
+guerres	3	Guerre du Péloponnèse	Peloponnesian War Athens Sparta ancient map Thucydides	download failed
+guerres	4	Guerres puniques	Punic Wars Hannibal elephants Alps Roman legion painting	download failed
+guerres	5	Guerres des Gaules	Julius Caesar Gallic Wars battle legions painting	download failed
+guerres	6	Guerre de Cent Ans	Hundred Years War Joan of Arc French English medieval painting	download failed
+guerres	7	Croisades	Crusades Jerusalem medieval siege knights painting	download failed
+guerres	9	Guerres ottomanes	Ottoman conquest Constantinople 1453 siege Mehmed II	download failed
+guerres	12	Guerres napoléoniennes	Napoleonic Wars Waterloo 1815 painting battle	download failed
+guerres	13	Guerre de Crimée	Crimean War 1854 Charge Light Brigade Balaclava photo	download failed
+guerres	16	Première Guerre mondiale	World War I Western Front trenches soldiers photo	download failed
+guerres	17	Deuxième Guerre mondiale	World War II D-Day Omaha Beach Normandy 1944 photo	download failed
+guerres	18	Guerre de Corée	Korean War 1950 soldiers Inchon landing battle photo	download failed
+guerres	19	Guerre du Viêt Nam	Vietnam War soldiers jungle battle photograph Ap Bac	download failed
+guerres	20	Guerre du Golfe	Gulf War 1991 coalition soldiers M1A1 tank desert photo	download failed
+guerres	21	Afghanistan	Afghanistan War 2001 soldiers mountains Kandahar photo	download failed
+guerres	22	Guerre d'Irak	Iraq War 2003 Baghdad soldiers urban combat photograph	download failed
+rois_france	2	Dagobert Ier	Dagobert I Frankish king golden portrait medieval	download failed
+rois_france	3	Pépin le Bref	Pepin the Short Carolingian Frankish king portrait	download failed
+rois_france	4	Charlemagne	Charlemagne emperor portrait painting Albrecht Dürer	download failed
+rois_france	8	Robert II	Robert II Pious Capetian king France medieval	download failed
+rois_france	9	Philippe Ier	Philip I Capetian king France medieval portrait	download failed
+rois_france	10	Louis VI	Louis VI Fat king France medieval portrait	download failed
+rois_france	11	Louis VII	Louis VII France Crusades king medieval portrait	download failed
+rois_france	12	Philippe II Auguste	Philip II Augustus France medieval portrait Crusade	download failed
+rois_france	13	Louis VIII	Louis VIII France medieval king Capetian portrait	download failed
+rois_france	14	Saint Louis IX	Saint Louis IX king France medieval crusades portrait Joinville	download failed
+rois_france	15	Philippe III	Philip III Bold France medieval Capetian portrait	download failed
+rois_france	16	Philippe IV le Bel	Philip IV Fair France medieval portrait Templars	download failed
+rois_france	17	Louis X	Louis X Hutin France medieval Capetian king	download failed
+rois_france	18	Philippe V	Philip V Long France medieval Capetian portrait	download failed
+rois_france	19	Charles IV	Charles IV Fair France medieval Capetian king	download failed
+rois_france	20	Philippe VI	Philip VI Valois France medieval portrait king	download failed
+rois_france	21	Jean II le Bon	Jean II Good France medieval portrait Louvre painting	download failed
+rois_france	22	Charles V le Sage	Charles V Wise France medieval portrait	download failed
+rois_france	23	Charles VI le Fou	Charles VI Mad France medieval portrait	download failed
+rois_france	24	Charles VII	Charles VII France medieval portrait Joan of Arc	download failed
+rois_france	25	Louis XI	Louis XI Spider King France medieval portrait	download failed
+rois_france	26	Charles VIII	Charles VIII France medieval portrait Italian Wars	download failed
+rois_france	27	Louis XII	Louis XII Father People France portrait painting	download failed
+rois_france	28	François Ier	Francis I France Renaissance portrait Holbein Clouet painting	download failed
+rois_france	29	Henri II	Henry II France Renaissance portrait painting	download failed
+rois_france	30	François II	Francis II France Valois portrait Mary Stuart	download failed
+rois_france	31	Charles IX	Charles IX France Valois portrait painting	download failed
+rois_france	34	Louis XIII	Louis XIII France Bourbon portrait painting Philippe de Champaigne	download failed
+rois_france	35	Louis XIV	Louis XIV Sun King portrait Hyacinthe Rigaud painting 1701	download failed
+mythologie	1	Zeus	Zeus king gods ancient Greek sculpture Otricoli marble	download failed
+mythologie	2	Héra	Hera Greek goddess queen ancient sculpture marble	download failed
+mythologie	3	Poséidon	Poseidon god sea trident ancient Greek bronze sculpture	download failed
+mythologie	4	Déméter	Demeter Greek goddess harvest grain ancient vase painting	download failed
+mythologie	7	Artémis	Artemis Greek goddess hunt arrow ancient marble sculpture	download failed
+mythologie	8	Arès	Ares Greek god war ancient Roman marble sculpture	download failed
+mythologie	11	Hermès	Hermes messenger Greek god winged helmet Lysippos bronze	download failed
+mythologie	12	Dionysos	Dionysus Bacchus Greek god wine ancient vase painting ivy	download failed
+mythologie	13	Hadès	Hades Persephone abduction Greek vase underworld painting	download failed
+mythologie	14	Perséphone	Persephone Greek goddess spring pomegranate ancient vase	download failed
+mythologie	15	Hestia	Hestia Vesta Greek goddess hearth flame ancient sculpture	download failed
+mythologie	16	Nyx	Nyx Greek goddess night ancient pottery black figure	download failed
+mythologie	19	Prométhée	Prometheus fire eagle Rubens painting chained cliff	download failed
+mythologie	21	Héraclès	Heracles Hercules Farnese ancient sculpture lion skin	download failed
+mythologie	22	Achille	Achilles Troy warrior ancient Greek vase armor red figure	download failed
+mythologie	23	Ulysse	Odysseus Ulysses ancient Greek vase black figure Troy	download failed
+mythologie	24	Thésée	Theseus Minotaur ancient Greek vase labyrinth Athens	download failed
+mythologie	25	Méduse	Medusa Gorgon Perseus ancient Greek vase marble rondanini	download failed
+mythologie	26	Persée	Perseus Medusa head Cellini bronze sculpture Florence	download failed
+litterature	3	Divine Comédie	Dante Divine Comedy Doré engraving Inferno illustration	download failed
+litterature	4	Don Quichotte	Don Quixote Cervantes windmills Doré illustration 1863	download failed
+litterature	7	Candide	Voltaire Candide philosophical tale illustration 18th century	download failed
+litterature	8	Les Misérables	Victor Hugo Les Misérables Cosette Émile Bayard illustration	download failed
+litterature	9	Madame Bovary	Flaubert Madame Bovary French novel 1857 illustration	download failed
+litterature	10	Crime et Châtiment	Dostoevsky Crime Punishment Russian novel illustration	download failed
+litterature	12	Anna Karénine	Tolstoy Anna Karenina railway station illustration	download failed
+litterature	13	Moby Dick	Melville Moby Dick white whale ship Nantucket illustration	download failed
+litterature	14	Dorian Gray	Wilde Picture Dorian Gray portrait Victorian painting	download failed
+litterature	16	Ulysse	James Joyce Ulysses Dublin portrait photograph	download failed
+litterature	18	L'Étranger	Camus The Stranger Absurd Meursault Algeria sun beach	download failed
+litterature	20	Faust	Goethe Faust Mephistopheles devil deal Delacroix painting	download failed
+litterature	22	1984	Orwell 1984 Big Brother telescreen poster dystopia	download failed
+litterature	24	Cent ans de Solitude	García Márquez Hundred Years Solitude Macondo cover	download failed
+litterature	26	Harry Potter	Harry Potter Hogwarts castle lightning bolt wizard	download failed
+litterature	27	Les Fleurs du Mal	Baudelaire Flowers Evil Paris symbolism poetry portrait	download failed
+batailles_decisives	1	Marathon	Battle of Marathon 490 BC ancient Greek Persian illustration	download failed
+batailles_decisives	2	Hastings	Battle of Hastings 1066 Bayeux Tapestry Norman conquest	download failed
+batailles_decisives	3	Bouvines	Battle of Bouvines 1214 France Philip Augustus medieval painting	download failed
+batailles_decisives	5	Verdun	Battle of Verdun 1916 World War I trenches soldiers	download failed
+batailles_decisives	7	Midway	Battle of Midway 1942 aircraft carrier explosion Pacific	download failed
+batailles_decisives	8	Gaugamèles	Battle of Gaugamela Alexander Great Darius mosaic Pompeii	download failed
+batailles_decisives	10	Actium	Battle of Actium 31 BC Augustus Cleopatra naval painting	download failed
+batailles_decisives	11	Poitiers	Battle of Tours Poitiers 732 Charles Martel Arabic	download failed
+batailles_decisives	15	Somme	Battle of Somme 1916 British soldiers mud trench WWI	download failed
+batailles_decisives	16	El-Alamein	Second Battle El Alamein 1942 Montgomery Rommel desert	download failed
+batailles_decisives	17	Koursk	Battle of Kursk 1943 Soviet tank T-34 German Tiger Eastern Front	download failed
+batailles_decisives	18	Normandie	D-Day Normandy landing 1944 Omaha Beach soldiers coast	download failed
+batailles_decisives	20	Diên Biên Phu	Battle Dien Bien Phu 1954 French Viet Minh soldiers	download failed
+fleuves_monde	1	Nil	Nile River Egypt aerial satellite photo green valley	download failed
+fleuves_monde	2	Amazone	Amazon River Brazil aerial rainforest meandering	download failed
+fleuves_monde	3	Yangtsé	Yangtze River China Three Gorges Dam aerial	download failed
+fleuves_monde	4	Mississippi	Mississippi River USA aerial meander delta bayou	download failed
+fleuves_monde	5	Ienisseï	Yenisei River Siberia Russia aerial landscape	download failed
+fleuves_monde	7	Ob	Ob River Siberia Russia aerial landscape map	download failed
+fleuves_monde	8	Paraná	Paraná River South America aerial delta Argentina	download failed
+fleuves_monde	10	Amour	Amur River Russia China aerial landscape Manchuria	download failed
+fleuves_monde	12	Mékong	Mekong River Southeast Asia aerial delta Vietnam	download failed
+fleuves_monde	14	Mackenzie	Mackenzie River Canada Northwest Territories delta Arctic	download failed
+fleuves_monde	16	Zambèze	Zambezi River Victoria Falls aerial Zambia Zimbabwe	download failed
+fleuves_monde	17	Orénoque	Orinoco River Venezuela aerial jungle delta map	download failed
+fleuves_monde	18	Euphrate	Euphrates River Iraq Syria Mesopotamia aerial	download failed
+fleuves_monde	19	Tigre	Tigris River Iraq Mosul Mesopotamia aerial	download failed
+fleuves_monde	21	Indus	Indus River Pakistan India aerial Himalaya delta	download failed
+fleuves_monde	22	Murray	Murray River Australia aerial South Australia	download failed
+fleuves_monde	23	Danube	Danube River Budapest Iron Gate aerial Europe	download failed
+fleuves_monde	24	Saint-Laurent	Saint Lawrence River Canada Quebec City aerial	download failed
+fleuves_monde	27	Orange	Orange River South Africa Lesotho aerial landscape	download failed
+fleuves_monde	28	Rhin	Rhine River Europe Loreley aerial Germany Switzerland	download failed
+fleuves_monde	29	Sénégal	Senegal River West Africa aerial Dakar delta	download failed
+fleuves_monde	30	Irrawaddy	Irrawaddy River Myanmar Burma aerial delta	download failed
+constellations	1	Orion	Orion constellation stars Rigel Betelgeuse nebula photo	download failed
+constellations	2	Grande Ourse	Ursa Major Big Dipper constellation star trail long exposure	download failed
+constellations	3	Petite Ourse	Ursa Minor Little Dipper Polaris North Star constellation	download failed
+constellations	4	Cassiopée	Cassiopeia W constellation Milky Way stars photo	download failed
+constellations	6	Lion	Leo constellation Regulus lion stars night sky	download failed
+constellations	7	Vierge	Virgo constellation Spica galaxy cluster stars	download failed
+constellations	9	Verseau	Aquarius constellation water bearer stars nebula	download failed
+constellations	10	Poissons	Pisces fish constellation stars night sky	download failed
+constellations	13	Cancer	Cancer crab constellation Beehive Praesepe cluster	download failed
+constellations	14	Balance	Libra scales constellation stars night sky	download failed
+constellations	15	Sagittaire	Sagittarius teapot Milky Way core constellation stars	download failed
+constellations	16	Capricorne	Capricornus sea goat constellation stars night sky	download failed
+constellations	17	Persée	Perseus constellation Algol double cluster stars	download failed
+constellations	18	Andromède	Andromeda galaxy M31 constellation night sky photo	download failed
+constellations	21	Aigle	Aquila eagle Altair constellation Milky Way stars	download failed
+constellations	22	Hercule	Hercules constellation M13 globular cluster stars	download failed
+constellations	23	Bouvier	Boötes constellation Arcturus orange star night sky	download failed
+constellations	24	Dragon	Draco dragon constellation circumpolar stars night	download failed
+constellations	25	Centaure	Centaurus Alpha Centauri closest star southern sky	download failed
+constellations	28	Petit Chien	Canis Minor Procyon constellation stars night sky	download failed
+constellations	29	Hydre	Hydra constellation largest stars night sky	download failed
+detroits_monde	1	Gibraltar	Strait of Gibraltar aerial Spain Morocco Mediterranean Atlantic	download failed
+detroits_monde	3	Dardanelles	Dardanelles Çanakkale Turkey strait aerial	download failed
+detroits_monde	4	Hormuz	Strait of Hormuz aerial oil tanker Gulf Oman Iran	download failed
+detroits_monde	5	Malacca	Strait of Malacca aerial container ship Singapore Malaysia	download failed
+detroits_monde	6	Béring	Bering Strait Alaska Russia aerial sea ice satellite	download failed
+detroits_monde	7	Magellan	Strait of Magellan Patagonia Chile aerial fjord narrow	download failed
+detroits_monde	9	Calais	Strait of Dover Channel Tunnel aerial England France	download failed
+detroits_monde	11	Taiwan	Taiwan Strait aerial China island sea satellite	download failed
+detroits_monde	12	Corée	Korea Strait Japan South Korea Tsushima aerial sea	download failed
+detroits_monde	14	Floride	Florida Straits aerial Cuba USA Miami satellite	download failed
+detroits_monde	16	Mozambique	Mozambique Channel aerial Madagascar Africa satellite	download failed
+detroits_monde	18	Bass	Bass Strait Australia Tasmania aerial sea	download failed
+detroits_monde	19	Skagerrak	Skagerrak strait Denmark Norway Sweden aerial sea	download failed
+revolutions	1	Révolution américaine	American Revolution 1776 Independence Declaration painting Continental	download failed
+revolutions	2	Révolution française	French Revolution 1789 Bastille storming crowd painting	download failed
+revolutions	4	Indépendances Amérique latine	Simon Bolivar portrait painting South American independence	download failed
+revolutions	5	Révolutions 1848	Revolutions 1848 barricades Paris Berlin spring nations	download failed
+revolutions	6	Restauration Meiji	Meiji Restoration 1868 Japan Emperor modernization Western	download failed
+revolutions	7	Révolution russe	Russian Revolution October 1917 Bolshevik Lenin soldiers Petrograd	download failed
+revolutions	11	Révolution chinoise 1949	Communist Revolution China 1949 Mao Zedong Tiananmen proclamation	download failed
+revolutions	12	Révolution cubaine	Cuban Revolution Fidel Castro Che Guevara guerrilla Sierra Maestra	download failed
+revolutions	13	Révolution iranienne	Iranian Revolution 1979 Khomeini Tehran protesters street	download failed
+revolutions	15	Révolution de velours	Velvet Revolution 1989 Prague Wenceslas Square Havel crowd	download failed
+revolutions	16	Printemps arabe	Arab Spring 2011 Tahrir Square Cairo crowd protest Egypt	download failed
+chefs_etat	1	George Washington	George Washington portrait Gilbert Stuart painting President USA	download failed
+chefs_etat	2	Abraham Lincoln	Abraham Lincoln portrait photograph Brady President Civil War	download failed
+chefs_etat	9	Hitler	Adolf Hitler portrait photograph Nazi Germany	download failed
+chefs_etat	10	Mussolini	Mussolini Benito portrait photograph fascist Italy Duce	download failed
+chefs_etat	11	Franklin Roosevelt	Franklin D Roosevelt portrait photograph New Deal USA president	download failed
+chefs_etat	15	John F Kennedy	John F Kennedy JFK portrait photograph President White House	download failed
+chefs_etat	19	Jawaharlal Nehru	Nehru portrait photograph India prime minister independence	download failed
+chefs_etat	20	Simón Bolívar	Simón Bolívar portrait painting South American liberator	download failed
+chefs_etat	22	Franklin Roosevelt 2	FDR Roosevelt wheelchair Warm Springs portrait photograph	download failed
+chefs_etat	24	Dwight Eisenhower	Eisenhower portrait photograph president general WWII	download failed
+jo_ete	3	Saint-Louis 1904	St Louis 1904 Summer Olympics World Fair USA	download failed
+jo_ete	4	Londres 1908	London 1908 Summer Olympics White City stadium marathon	download failed
+jo_ete	5	Stockholm 1912	Stockholm 1912 Summer Olympics Sweden opening ceremony	download failed
+jo_ete	6	Anvers 1920	Antwerp 1920 Summer Olympics Belgium athletes flag	download failed
+jo_ete	9	Los Angeles 1932	Los Angeles 1932 Summer Olympics Coliseum athletes	download failed
+jo_ete	11	Londres 1948	London 1948 Summer Olympics Wembley postwar austerity	download failed
+jo_ete	12	Helsinki 1952	Helsinki 1952 Summer Olympics Finland Paavo Nurmi torch	download failed
+jo_ete	14	Rome 1960	Rome 1960 Summer Olympics Abebe Bikila marathon barefoot	download failed
+jo_ete	17	Munich 1972	Munich 1972 Olympics Germany terror attack memorial	download failed
+jo_ete	19	Moscou 1980	Moscow 1980 Summer Olympics Soviet Union Misha bear mascot	download failed
+jo_ete	21	Séoul 1988	Seoul 1988 Summer Olympics Korea opening ceremony dragon	download failed
+jo_ete	24	Sydney 2000	Sydney 2000 Summer Olympics Opera House Cathy Freeman torch	download failed
+jo_ete	28	Rio 2016	Rio 2016 Summer Olympics Maracanã torch Christ Redeemer	download failed
+jo_ete	30	Paris 2024	Paris 2024 Summer Olympics Seine River ceremony Eiffel Tower	download failed
+jo_hiver	4	Garmisch 1936	Garmisch-Partenkirchen 1936 Winter Olympics Germany ski	download failed
+jo_hiver	11	Sapporo 1972	Sapporo 1972 Winter Olympics Japan Hokkaido ski jump	download failed
+jo_hiver	12	Innsbruck 1976	Innsbruck 1976 Winter Olympics Austria biathlon	download failed
+jo_hiver	13	Lake Placid 1980	Lake Placid 1980 Miracle on Ice USA hockey Soviet Union	download failed
+jo_hiver	14	Sarajevo 1984	Sarajevo 1984 Winter Olympics Yugoslavia Jahorina ski	download failed
+jo_hiver	16	Albertville 1992	Albertville 1992 Winter Olympics France Alps Savoie	download failed
+jo_hiver	18	Nagano 1998	Nagano 1998 Winter Olympics Japan ski jump Masahiko	download failed
+jo_hiver	25	Milan 2026	Milan Cortina 2026 Winter Olympics Italy Alps logo	download failed
+coupes_monde	19	Afrique du Sud 2010	South Africa 2010 World Cup vuvuzela Spain Iniesta final	download failed
+coupes_monde	22	Qatar 2022	Qatar 2022 World Cup Argentina Messi trophy Lusail Stadium	download failed
+f1_champions	2	Alberto Ascari	Alberto Ascari Formula 1 champion Ferrari 1952 racing driver	download failed
+f1_champions	4	Mike Hawthorn	Mike Hawthorn Formula 1 champion Ferrari 1958 British bow tie	download failed
+f1_champions	6	Phil Hill	Phil Hill Formula 1 champion Ferrari 1961 American driver	download failed
+f1_champions	9	John Surtees	John Surtees Formula 1 champion Ferrari 1964 British	download failed
+f1_champions	11	Jackie Stewart	Jackie Stewart Formula 1 champion Tyrrell Scottish tartan cap	download failed
+f1_champions	13	Niki Lauda	Niki Lauda Formula 1 champion Ferrari scars comeback	download failed
+f1_champions	14	James Hunt	James Hunt Formula 1 champion McLaren 1976 helmet	download failed
+f1_champions	16	Jody Scheckter	Jody Scheckter Formula 1 champion Ferrari 1979 South Africa	download failed
+f1_champions	20	Alain Prost	Alain Prost Formula 1 champion McLaren racing cockpit France	download failed
+f1_champions	22	Nigel Mansell	Nigel Mansell Formula 1 champion Williams British 1992	download failed
+f1_champions	23	Michael Schumacher	Michael Schumacher Formula 1 champion Ferrari German	download failed
+f1_champions	27	Kimi Räikkönen	Kimi Räikkönen Formula 1 champion Ferrari Finnish Iceman 2007	download failed
+f1_champions	28	Fernando Alonso	Fernando Alonso Formula 1 champion Renault Spanish 2005	download failed
+f1_champions	30	Sebastian Vettel	Sebastian Vettel Formula 1 champion Red Bull German	download failed
+f1_champions	31	Lewis Hamilton	Lewis Hamilton Formula 1 champion Mercedes British record	download failed
+consoles	1	Magnavox Odyssey	Magnavox Odyssey first home video game console 1972 white box	download failed
+consoles	3	Intellivision	Mattel Intellivision vintage game console disc controller	no results
+consoles	4	ColecoVision	Coleco ColecoVision vintage game console	no results
+consoles	6	Sega Master System	Sega Master System vintage 8-bit console controller	download failed
+consoles	8	Sega Mega Drive	Sega Mega Drive Genesis 16-bit console black controller	download failed
+consoles	10	3DO	3DO Interactive Multiplayer Panasonic FZ-1 console 1993	download failed
+consoles	12	PlayStation 1	Sony PlayStation One PS1 gray console controller 1994	download failed
+consoles	14	Dreamcast	Sega Dreamcast white swirl logo console VMU controller	download failed
+consoles	15	PlayStation 2	PlayStation 2 PS2 black slim console DVD player	download failed
+consoles	22	Wii	Nintendo Wii white console Wiimote motion remote	download failed
+consoles	24	Nintendo 3DS	Nintendo 3DS clamshell dual screen handheld 3D	download failed
+consoles	25	Xbox One	Xbox One console black Microsoft launch 2013	download failed
+consoles	27	Nintendo Switch	Nintendo Switch hybrid console Joy-Con dock tablet mode	download failed
+films	3	Cuirassé Potemkine	Battleship Potemkin 1925 Eisenstein Odessa steps baby carriage	download failed
+films	9	Rome Ville ouverte	Rome Open City 1945 Rossellini Italian neorealism still	download failed
+films	12	Chantons sous pluie	Singin Rain 1952 Gene Kelly umbrella lamp post musical	download failed
+films	13	Fenêtre sur cour 1954	Rear Window 1954 Hitchcock James Stewart binoculars	download failed
+films	22	Le Parrain 1972	Godfather 1972 Coppola Brando horse Don Corleone	download failed
+films	26	Apocalypse Now 1979	Apocalypse Now 1979 Coppola Vietnam helicopter Brando	download failed
+films	28	E.T. 1982	E.T. Extra-Terrestrial 1982 Spielberg bicycle moon silhouette	download failed
+films	30	Pulp Fiction 1994	Pulp Fiction 1994 Tarantino Uma Thurman dance contest	download failed
+films	32	Toy Story 1995	Toy Story 1995 Pixar Woody Buzz Lightyear animation still	download failed
+films	34	Matrix 1999	Matrix 1999 Keanu Reeves green code bullet time sunglasses	download failed
+films	36	Spirited Away 2001	Spirited Away 2001 Miyazaki bathhouse dragon tunnel still	download failed
+films	38	Cité de Dieu 2002	City of God 2002 favela Brazil gang violence slum still	download failed
+films	40	Dark Knight 2008	Dark Knight 2008 Nolan Heath Ledger Joker pencil magic trick	download failed
+films	42	Mad Max Fury Road	Mad Max Fury Road 2015 Miller war rig desert action	download failed
+lunes	1	Io	Io moon Jupiter volcanic surface sulfur NASA Voyager Galileo	download failed
+lunes	2	Europe	Europa moon Jupiter icy surface cracks NASA Galileo spacecraft	download failed
+lunes	5	Titan	Titan moon Saturn Cassini atmosphere haze NASA orange	download failed
+lunes	9	Japet	Iapetus moon Saturn two-tone dark bright ridge Cassini	download failed
+lunes	12	Miranda	Miranda moon Uranus cliffs Verona Rupes Voyager 2 NASA	download failed
+lunes	13	Titania	Titania moon Uranus largest Voyager 2 NASA craters	download failed
+lunes	17	Lune	Moon full resolution NASA LROC detailed surface craters	download failed
+lunes	18	Dioné	Dione moon Saturn cliffs ice Cassini NASA photo	download failed
+lunes	22	Umbriel	Umbriel moon Uranus darkest cratered Voyager 2 NASA	download failed
+xxe	2	Révolution russe	Russian Revolution 1917 October Bolshevik Petrograd	download failed
+xxe	8	Droits civiques	Civil Rights Martin Luther King March Washington DC 1963	download failed
+xxe	9	Course à l'espace	Space Race Apollo Moon landing 1969 astronaut Earth	download failed
+xxe	11	Internet	World Wide Web internet CERN Tim Berners-Lee 1991	download failed
+xxe	12	11 Septembre	September 11 attacks 2001 Twin Towers New York smoke	download failed
+xxe	14	Génocide Rwanda	Rwanda genocide 1994 Africa tragedy memorial	download failed
+montagnes_monde	3	Kangchenjunga	Kangchenjunga Himalaya third highest peak Nepal	download failed
+montagnes_monde	5	Makalu	Makalu Himalaya Nepal aerial fifth highest	download failed
+montagnes_monde	7	Dhaulagiri	Dhaulagiri Himalaya Nepal aerial	download failed
+montagnes_monde	9	Nanga Parbat	Nanga Parbat Pakistan Killer Mountain aerial	download failed
+montagnes_monde	11	Aconcagua	Aconcagua Andes Argentina highest Americas aerial	download failed
+montagnes_monde	13	Kilimandjaro	Kilimanjaro Tanzania snow summit aerial highest Africa	download failed
+montagnes_monde	15	Mont Blanc	Mont Blanc Alps France Italy aerial snow highest Western Europe	download failed
+montagnes_monde	17	Fuji	Mount Fuji Japan snow peak reflection lake Kawaguchi	download failed
+montagnes_monde	18	Popocatépetl	Popocatépetl volcano Mexico City eruption smoke aerial	download failed
+montagnes_monde	20	Puncak Jaya	Carstensz Pyramid Puncak Jaya Papua Indonesia glacier	download failed
+montagnes_monde	21	Ojos del Salado	Ojos del Salado volcano Chile Argentina Andes crater aerial	download failed
+montagnes_monde	22	Mont Logan	Mount Logan Yukon Canada highest peak aerial	download failed
+montagnes_monde	23	Grand Teton	Grand Teton Wyoming reflection lake aerial	download failed
+montagnes_monde	25	Olympe	Mount Olympus Greece highest peak Mytikas cloud aerial	download failed
+montagnes_monde	26	St-Hélène	Mount St Helens 1980 eruption explosion ash cloud aerial	download failed
+mers_oceans	1	Pacifique	Pacific Ocean largest satellite view earth space NASA	download failed
+mers_oceans	2	Atlantique	Atlantic Ocean satellite view waves aerial ship	download failed
+mers_oceans	3	Indien	Indian Ocean aerial satellite tropical blue	download failed
+mers_oceans	4	Arctique	Arctic Ocean sea ice aerial polar bear satellite NASA	download failed
+mers_oceans	5	Antarctique	Southern Antarctic Ocean sea ice iceberg aerial	download failed
+mers_oceans	7	Caraïbes	Caribbean Sea aerial coral reef turquoise tropical	download failed
+mers_oceans	8	Mer Rouge	Red Sea aerial satellite coral reef coral Egypt	download failed
+mers_oceans	9	Baltique	Baltic Sea aerial satellite coastline frozen winter	download failed
+mers_oceans	11	Mer de Corail	Coral Sea Great Barrier Reef aerial Australia	download failed
+mers_oceans	12	Mer de Tasman	Tasman Sea New Zealand Australia aerial ocean	download failed
+mers_oceans	14	Golfe du Mexique	Gulf of Mexico aerial satellite oil deepwater Louisiana	download failed
+mers_oceans	15	Golfe Persique	Persian Gulf aerial satellite oil tanker Arabian	download failed
+mers_oceans	16	Mer du Nord	North Sea aerial offshore wind farm platform	download failed
+mers_oceans	17	Mer Noire	Black Sea aerial satellite coastline Turkey Romania	download failed
+mers_oceans	19	Mer Égée	Aegean Sea Greece Turkey aerial islands blue turquoise	download failed
+mers_oceans	20	Mer Baltique 2	Baltic Sea Stockholm archipelago aerial Sweden islands	download failed
+philosophes	1	Socrate	Socrates ancient Greek philosopher bust marble Vatican	download failed
+philosophes	2	Platon	Plato ancient philosopher marble bust Vatican Rome	download failed
+philosophes	3	Aristote	Aristotle ancient philosopher marble bust Roman copy	download failed
+philosophes	4	Épicure	Epicurus ancient philosopher Hellenistic marble bust	download failed
+philosophes	5	Zénon de Kition	Zeno Citium Stoic philosopher ancient marble bust	download failed
+philosophes	6	Marc Aurèle	Marcus Aurelius Roman emperor philosopher bronze statue equestrian	download failed
+philosophes	7	Épictète	Epictetus Stoic philosopher ancient portrait painting	download failed
+philosophes	9	Thomas d'Aquin	Thomas Aquinas Dominican medieval philosopher portrait painting	download failed
+philosophes	10	Machiavel	Niccolò Machiavelli portrait Renaissance painting Santi di Tito	download failed
+philosophes	11	Francis Bacon	Francis Bacon Lord Chancellor portrait English philosopher painting	download failed
+philosophes	19	Voltaire	Voltaire French philosopher portrait Enlightenment irony	download failed
+philosophes	20	Hume	David Hume Scottish philosopher portrait empiricism	download failed
+philosophes	21	Rousseau	Jean-Jacques Rousseau portrait philosopher French	download failed
+philosophes	22	Adam Smith	Adam Smith philosopher economist Wealth Nations portrait	download failed
+philosophes	23	Kant	Immanuel Kant portrait painting philosopher Critique	download failed
+philosophes	26	Auguste Comte	Auguste Comte portrait positivism sociology French	download failed
+philosophes	27	John Stuart Mill	John Stuart Mill portrait utilitarian philosopher English	download failed
+philosophes	28	Karl Marx	Karl Marx portrait beard Das Kapital Communist Manifesto	download failed
+philosophes	30	Husserl	Edmund Husserl portrait phenomenology German philosopher	download failed
+philosophes	33	Wittgenstein	Ludwig Wittgenstein portrait Austrian philosopher language	download failed
+philosophes	34	Heidegger	Martin Heidegger portrait philosopher Being Time German	download failed
+philosophes	40	Foucault	Michel Foucault portrait philosopher French bald	download failed
+philosophes	42	Derrida	Jacques Derrida portrait philosopher French deconstruction	no results
+xixe	1	Napoléon 1800	Napoleon Bonaparte First Consul 1800 portrait David painting	download failed
+xixe	2	Couronnement 1804	Napoleon coronation 1804 Notre-Dame David painting detail	download failed
+xixe	5	Traité de Tilsit 1807	Treaty Tilsit 1807 Napoleon Alexander I raft Niemen	download failed
+xixe	9	Congrès de Vienne 1815	Congress Vienna 1815 diplomats meeting Metternich map	download failed
+xixe	14	9e symphonie 1824	Beethoven Symphony 9 Choral 1824 musical score manuscript	download failed
+xixe	15	Chemin de fer 1825	Stephenson Locomotion railway 1825 Stockton Darlington steam	download failed
+xixe	18	Loi réforme 1832	Reform Act 1832 Parliament British electoral map vote	download failed
+xixe	19	Abolition esclavage 1833	Abolition Slavery 1833 Britain Wilberforce West Indies freedom	download failed
+xixe	20	Reine Victoria 1837	Queen Victoria coronation 1837 portrait young monarch throne	download failed
+xixe	28	Second Empire 1852	Napoleon III Second Empire 1852 proclamation imperial portrait	download failed
+xixe	29	Guerre Crimée 1853	Crimean War 1854 soldiers charge Balaclava photograph	download failed
+xixe	30	Darwin 1859	Darwin On the Origin of Species 1859 book cover title page	download failed
+xixe	31	Unification Italie 1861	Italian unification Risorgimento 1861 Garibaldi Cavour portrait	download failed
+xixe	32	Guerre Sécession 1861	American Civil War 1861 Gettysburg Battle soldiers cannon	download failed
+xixe	33	Proclamation Émancipation	Lincoln Emancipation Proclamation 1863 slaves freedom USA	download failed
+xixe	34	Croix-Rouge 1864	Red Cross Geneva Convention 1864 Dunant Solferino wounded	download failed
+xixe	35	Assassinat Lincoln 1865	Lincoln assassination 1865 Ford Theatre booth photograph	download failed
+xixe	36	Bismarck Prusse 1866	Austro-Prussian War 1866 Königgrätz Bismarck German unification	download failed
+xixe	38	Meiji 1868	Meiji Restoration 1868 Japan Emperor modernization samurai	download failed
+xixe	39	Canal Suez 1869	Suez Canal opening 1869 Egypt ships fireworks Ismailia	download failed
+xixe	40	Franco-prussien 1870	Franco-Prussian War 1870 Sedan Napoleon III German siege	download failed
+xixe	41	Commune Paris 1871	Paris Commune 1871 Communards barricades Semaine Sanglante	download failed
+xixe	42	Téléphone 1876	Alexander Graham Bell telephone invention 1876 laboratory	download failed
+xixe	44	Lumière Edison 1879	Edison light bulb filament incandescent 1879 laboratory Menlo Park	download failed
+xixe	45	Tsar Alexandre II 1881	Alexander II assassination 1881 bomb carriage St Petersburg Russia	download failed
+xixe	46	Alliance triple 1882	Triple Alliance 1882 Germany Austria-Hungary Italy Bismarck map	download failed
+xixe	48	Statue Liberté 1886	Statue of Liberty dedication 1886 New York Harbor Bedloe	download failed
+xixe	49	Tour Eiffel 1889	Eiffel Tower 1889 construction Paris Exposition Universelle aerial	download failed
+xixe	50	Wounded Knee 1890	Wounded Knee massacre 1890 Native American Sioux Ghost Dance	download failed
+xixe	51	Affaire Dreyfus 1894	Dreyfus Affair 1894 France anti-semitism J'Accuse Zola trial	download failed
+xixe	55	Hispano-américaine 1898	Spanish-American War 1898 Cuba USS Maine San Juan Hill soldiers	download failed
+xixe	56	Guerre des Boers 1899	Second Boer War 1899 South Africa British soldiers Ladysmith	download failed
+xixe	57	Marie Curie Nobel 1903	Marie Curie Nobel Prize 1903 laboratory portrait radium	download failed
+xixe	58	Avion 1903	Wright brothers Flyer 1903 Kitty Hawk first flight Orville	download failed
+xixe	59	Révolution Russe 1905	Russian Revolution 1905 Bloody Sunday St Petersburg workers	download failed
+xixe	60	Tremblement SF 1906	San Francisco earthquake 1906 fire destruction photograph	download failed
+xixe	61	Ford T 1908	Ford Model T automobile 1908 assembly line mass production	download failed
+xixe	64	Révolution Mexicaine 1910	Mexican Revolution 1910 Zapata Villa peasants portrait	download failed
+xixe	65	Théorie relativité 1905	Einstein special relativity theory 1905 E=mc2 Albert	download failed
+xixe	66	Radio Marconi 1895	Marconi wireless telegraphy 1895 radio transmission antenna	download failed
+xixe	67	Peinture Cézanne	Cézanne Post-Impressionism painting landscape portrait apples	download failed
+xixe	68	Exposition universelle 1900	Paris Universal Exhibition 1900 Grand Palais Eiffel Tower	download failed
+xixe	69	Canal Panama 1889	Panama Canal construction 1904 lock workers aerial French	download failed
+xixe	70	Seconde Révolution Ind.	Second Industrial Revolution steel factory workers 1880s	download failed
+xixe	71	Colonialisme Afrique	Berlin Conference 1884 Africa partition colonial scramble map	download failed
+xixe	72	Suez canal 1869	Suez Canal 1869 inauguration De Lesseps Egypt desert ships	download failed
+xixe	73	Philosophie Nietzsche	Nietzsche philosopher portrait mustache Beyond Good Evil	download failed
+xixe	74	Rimbaud Verlaine	Arthur Rimbaud portrait French Symbolist poet young photograph	download failed
+xixe	75	Expositions Beaux-Arts	Belle Époque Paris 1900 Impressionism Salon exhibition art	download failed

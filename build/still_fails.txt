@@ -1,0 +1,96 @@
+peintres	23	Georges Seurat	Seurat Sunday Afternoon Grande Jatte painting	no DDG results
+peintres	30	Pablo Picasso	Picasso Guernica painting large	no DDG results
+peintres	36	Giorgio de Chirico	Chirico metaphysical painting city street	no DDG results
+peintres	37	René Magritte	Magritte Son of Man painting surrealism	no DDG results
+peintres	42	Andy Warhol	Warhol Marilyn Diptych pop art	no DDG results
+peintres	43	Roy Lichtenstein	Lichtenstein Whaam comic pop art painting	no DDG results
+musees_monde	1	Louvre	Louvre Museum Paris pyramid exterior	no DDG results
+musees_monde	2	Metropolitan	Metropolitan Museum Art New York exterior Fifth Avenue	no DDG results
+musees_monde	3	British Museum	British Museum London Great Court interior	no DDG results
+musees_monde	6	Offices de Florence	Uffizi Gallery Florence exterior Piazzale degli	no DDG results
+musees_monde	10	Tate Modern	Tate Modern London exterior Thames Bankside	no DDG results
+musees_monde	11	MoMA	Museum Modern Art MoMA New York interior atrium	no DDG results
+musees_monde	17	Tokyo National	Tokyo National Museum Ueno Park exterior Japan	no DDG results
+musees_monde	20	Galerie de Dresde	Gemäldegalerie Alte Meister Dresden Zwinger	no DDG results
+parcs_nationaux	5	Serengeti	Serengeti savanna Tanzania wildebeest migration aerial	no DDG results
+parcs_nationaux	8	Galápagos	Galapagos Islands Ecuador giant tortoise iguana	no DDG results
+parcs_nationaux	9	Fiordland	Fiordland National Park Milford Sound New Zealand	no DDG results
+parcs_nationaux	10	Banff	Banff National Park Lake Louise turquoise Canada	no DDG results
+parcs_nationaux	11	Kruger	Kruger National Park South Africa elephant lion	no DDG results
+parcs_nationaux	17	Iguazu	Iguazu Falls aerial waterfall Argentina Brazil	no DDG results
+parcs_nationaux	19	Glacier	Glacier National Park Montana lakes mountains USA	no DDG results
+parcs_nationaux	20	Arches	Arches National Park Utah Delicate Arch sandstone	no DDG results
+parcs_nationaux	21	Tongariro	Tongariro National Park volcanic New Zealand	no DDG results
+parcs_nationaux	22	Dolomites	Dolomites Italy mountain peaks landscape alpine	no DDG results
+parcs_nationaux	25	Baie d'Halong	Ha Long Bay Vietnam karst limestone aerial	no DDG results
+compositeurs	1	Bach	Johann Sebastian Bach portrait painting composer	no DDG results
+compositeurs	7	Chopin	Frédéric Chopin portrait romantic composer piano	no DDG results
+compositeurs	8	Schumann	Robert Schumann portrait painting composer	no DDG results
+compositeurs	9	Liszt	Franz Liszt portrait composer pianist	no DDG results
+compositeurs	12	Brahms	Johannes Brahms portrait photograph composer	no DDG results
+compositeurs	13	Dvořák	Antonín Dvořák portrait photograph Czech composer	no DDG results
+compositeurs	15	Puccini	Giacomo Puccini portrait photograph opera	no DDG results
+compositeurs	17	Debussy	Claude Debussy portrait photograph French composer	no DDG results
+compositeurs	19	Stravinsky	Igor Stravinsky portrait photograph composer	no DDG results
+compositeurs	20	Bartók	Béla Bartók portrait photograph Hungarian composer	no DDG results
+compositeurs	24	Alban Berg	Alban Berg portrait photograph Austrian composer	no DDG results
+mouvements_peinture	4	Primitifs flamands	Early Flemish painting van Eyck Annunciation altar	no DDG results
+mouvements_peinture	5	Renaissance italienne	Italian Renaissance Raphael Botticelli painting	no DDG results
+mouvements_peinture	6	Maniérisme	Mannerism Pontormo Bronzino elongated figures painting	no DDG results
+mouvements_peinture	7	Baroque	Baroque Caravaggio dramatic light shadow chiaroscuro	no DDG results
+mouvements_peinture	9	Rococo	Rococo Fragonard Watteau painting elegant pastoral	no DDG results
+mouvements_peinture	10	Néoclassicisme	Neoclassicism Jacques-Louis David Greek Roman	no DDG results
+mouvements_peinture	11	Romantisme	Romanticism Delacroix dramatic nature sublime painting	no DDG results
+mouvements_peinture	12	Réalisme	Realism Courbet Millet peasants everyday life painting	no DDG results
+mouvements_peinture	17	Symbolisme	Symbolism Gustave Moreau mysterious allegory painting	no DDG results
+mouvements_peinture	18	Art nouveau	Art Nouveau Klimt Mucha organic decorative	no DDG results
+mouvements_peinture	20	Expressionnisme	Expressionism Die Brücke Kirchner Munch color distort	no DDG results
+mouvements_peinture	23	Constructivisme	Constructivism Russian El Lissitzky Rodchenko abstract	no DDG results
+architectes_majeurs	1	Brunelleschi	Brunelleschi Florence Cathedral dome cupola exterior	no DDG results
+architectes_majeurs	2	Palladio	Palladio Villa Rotonda Vicenza architecture	no DDG results
+architectes_majeurs	3	Gaudí	Gaudí Sagrada Familia Barcelona exterior	no DDG results
+architectes_majeurs	4	Frank Lloyd Wright	Fallingwater Wright house architecture Pennsylvania	no DDG results
+architectes_majeurs	8	I. M. Pei	IM Pei Louvre Pyramid glass exterior	no DDG results
+architectes_majeurs	12	Charles Garnier	Paris Opéra Garnier exterior grand facade	no DDG results
+architectes_majeurs	14	Walter Gropius	Bauhaus Dessau building Gropius architecture	no DDG results
+architectes_majeurs	16	Oscar Niemeyer	Niemeyer National Congress Brasilia dome	no DDG results
+architectes_majeurs	18	Renzo Piano	Renzo Piano Centre Pompidou Paris exterior	no DDG results
+architectes_majeurs	19	Norman Foster	Norman Foster 30 St Mary Axe Gherkin London	no DDG results
+architectes_majeurs	20	Frank Gehry	Gehry Guggenheim Museum Bilbao titanium curves	no DDG results
+architectes_majeurs	22	Jean Nouvel	Jean Nouvel Institut du Monde Arabe Paris mashrabiya	no DDG results
+architectes_majeurs	23	Rem Koolhaas	Rem Koolhaas CCTV Headquarters Beijing tower	no DDG results
+architectes_majeurs	27	Dominique Perrault	Bibliothèque nationale France Perrault towers	no DDG results
+architectes_majeurs	28	Carlo Scarpa	Carlo Scarpa Castelvecchio museum Verona	no DDG results
+decouvertes_scientifiques	2	Gravitation	Newton gravitation apple law universal gravity portrait	no DDG results
+decouvertes_scientifiques	4	Thermodynamique	Watt steam engine thermodynamics industrial revolution	no DDG results
+decouvertes_scientifiques	5	Électromagnétisme	Faraday electromagnetic induction experiment coil magnet	no DDG results
+decouvertes_scientifiques	6	Évolution	Darwin On Origin Species evolution tree of life illustration	no DDG results
+decouvertes_scientifiques	7	Germes	Pasteur germ theory experiment bacteriology laboratory	no DDG results
+decouvertes_scientifiques	12	Mécanique quantique	quantum mechanics atom Bohr model electron orbital	no DDG results
+decouvertes_scientifiques	14	Pénicilline	Alexander Fleming penicillin mold Petri dish antibiotic	no DDG results
+decouvertes_scientifiques	18	Ondes gravitationnelles	gravitational waves LIGO interferometer merger black hole	no DDG results
+grands_scientifiques	1	Newton	Isaac Newton portrait painting physicist mathematician	no DDG results
+grands_scientifiques	2	Galilée	Galileo Galilei portrait painting telescope astronomer	no DDG results
+grands_scientifiques	3	Einstein	Albert Einstein portrait photograph physicist	no DDG results
+grands_scientifiques	7	Tesla	Nikola Tesla portrait photograph electricity inventor	no DDG results
+grands_scientifiques	22	Lavoisier	Antoine Lavoisier chemistry laboratory portrait	no DDG results
+grands_scientifiques	23	Humphry Davy	Humphry Davy portrait chemist sodium potassium	no DDG results
+grands_scientifiques	24	Volta	Alessandro Volta battery portrait physicist	no DDG results
+grands_scientifiques	26	Joule	James Prescott Joule portrait physicist thermodynamics	no DDG results
+grands_scientifiques	27	Lord Kelvin	Lord Kelvin portrait physicist temperature scale	no DDG results
+grands_scientifiques	28	Hertz	Heinrich Hertz portrait physicist radio waves	no DDG results
+grands_scientifiques	34	Francis Crick	Francis Crick portrait photograph DNA double helix	no DDG results
+grandes_explorations	1	Christophe Colomb	Christopher Columbus portrait painting Americas explorer	no DDG results
+grandes_explorations	3	Magellan	Ferdinand Magellan portrait painting circumnavigation	no DDG results
+grandes_explorations	4	Amerigo Vespucci	Amerigo Vespucci portrait painting explorer Americas	no DDG results
+grandes_explorations	5	John Cabot	John Cabot explorer portrait painting England	no DDG results
+grandes_explorations	9	James Cook	James Cook portrait painting explorer Pacific	no DDG results
+grandes_explorations	11	Lewis et Clark	Lewis Clark expedition America map portrait	no DDG results
+grandes_explorations	16	David Livingstone	David Livingstone portrait explorer Africa missionary	no DDG results
+grandes_explorations	17	Mungo Park	Mungo Park portrait explorer Africa Niger River	no DDG results
+grandes_explorations	23	Neil Armstrong	Neil Armstrong astronaut Moon Apollo 11 portrait	no DDG results
+grandes_explorations	24	Valentina Terechkova	Valentina Tereshkova cosmonaut Soviet portrait first woman	no DDG results
+inventions_majeures	1	La roue	ancient wheel Mesopotamia pottery clay history	no DDG results
+inventions_majeures	3	Imprimerie	Gutenberg printing press movable type 1450 invention	no DDG results
+inventions_majeures	11	Ordinateur	ENIAC computer 1945 vacuum tubes enormous room	no DDG results
+inventions_majeures	12	Internet	ARPANET network diagram nodes 1969 internet history	no DDG results

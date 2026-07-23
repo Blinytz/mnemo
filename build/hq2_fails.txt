@@ -1,0 +1,195 @@
+peintres	6	Raphael (painter)
+peintres	10	Rembrandt	ERR:Image size (194161737 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+peintres	12	Rembrandt	ERR:Image size (194161737 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+peintres	45	Francis Bacon (artist)
+peintres	50	Banksy
+musees_monde	1	Louvre Museum
+musees_monde	6	Uffizi Gallery
+musees_monde	7	Prado Museum
+musees_monde	9	Musée d'Orsay
+musees_monde	13	National Gallery (London)
+musees_monde	16	Egyptian Museum, Cairo
+musees_monde	20	Dresden Gallery
+parcs_nationaux	17	Iguazu National Park
+parcs_nationaux	18	Denali National Park
+parcs_nationaux	19	Glacier National Park
+parcs_nationaux	24	Lake District National Park
+parcs_nationaux	25	Halong Bay
+mouvements_peinture	13	Barbizon school
+mouvements_peinture	17	Symbolism (arts)
+mouvements_peinture	22	Futurism (art)
+mouvements_peinture	27	Abstract expressionism
+mouvements_peinture	28	Pop art
+mouvements_peinture	31	Hyperrealism (painting)
+mouvements_peinture	32	Street art
+mouvements_peinture	34	Abstract expressionism
+mouvements_peinture	35	Neo-expressionism
+mouvements_peinture	39	Neo-expressionism
+architectes_majeurs	25	Herzog & de Meuron
+architectes_majeurs	29	Richard Rogers (architect)
+decouvertes_scientifiques	2	Newton law of universal gravitation
+decouvertes_scientifiques	3	Calculus
+decouvertes_scientifiques	6	Theory of evolution
+decouvertes_scientifiques	10	Radioactivity
+decouvertes_scientifiques	11	Theory of relativity	ERR:cannot identify image file <_io.BytesIO object at 0x000001662C756430>
+decouvertes_scientifiques	18	Gravitational wave	ERR:cannot identify image file <_io.BytesIO object at 0x00000166257A3560>
+grands_scientifiques	27	William Thomson, 1st Baron Kelvin
+grandes_explorations	12	William Clark (explorer)
+grandes_explorations	13	René-Robert Cavelier de La Salle
+grandes_explorations	15	Henry the Navigator
+inventions_majeures	2	Writing system
+inventions_majeures	7	Automobile
+inventions_majeures	22	3D printing	ERR:cannot identify image file <_io.BytesIO object at 0x000001662C76F8D0>
+inventions_majeures	29	Railway
+civilisations	6	Chinese civilization
+civilisations	24	Ancient Nubia
+guerres	8	Mongol invasions of Europe
+rois_france	13	Theuderic IV
+rois_france	21	Carloman II of France
+rois_france	23	Odo, Count of Paris
+rois_france	50	Louis XI of France
+rois_france	52	Louis XII of France
+mythologie	22	Charon (mythology)
+mythologie	28	Selene (goddess)
+mythologie	38	Eurydice (mythology)
+mythologie	51	Selene (goddess)
+mythologie	53	Aeolus
+mythologie	56	Jason (mythology)
+mythologie	59	Hyperion (Titan)
+litterature	4	Metamorphoses (Ovid)
+litterature	19	Crime and Punishment
+litterature	22	Anna Karenina	ERR:broken data stream when reading image file
+litterature	23	The Idiot (novel)
+litterature	34	Nausea (Sartre)
+litterature	35	The Trial (novel)
+litterature	40	Brave New World
+litterature	41	The Lord of the Rings
+litterature	44	One Hundred Years of Solitude
+litterature	46	Lolita (novel)
+litterature	49	The Name of the Rose
+litterature	52	Journey to the End of the Night
+litterature	53	Man's Fate
+litterature	55	Foundation (Asimov novel)
+litterature	56	The Hitchhiker's Guide to the Galaxy
+litterature	57	Harry Potter and the Philosopher's Stone
+batailles_decisives	19	Siege of Yorktown (1781)
+batailles_decisives	29	Battle of Berlin (1945)
+fleuves_monde	10	Amur River
+fleuves_monde	24	Saint Lawrence River
+fleuves_monde	25	Colorado River (United States)
+constellations	20	Lyra (constellation)
+constellations	34	Auriga (constellation)
+constellations	36	Cetus
+detroits_monde	2	Bosphorus
+revolutions	4	Latin American wars of independence
+revolutions	8	Xinhai Revolution
+jo_ete	11	1936 Summer Olympics
+jo_ete	12	1948 Summer Olympics
+jo_ete	14	1956 Summer Olympics
+jo_ete	15	1960 Summer Olympics
+jo_ete	17	1968 Summer Olympics
+jo_ete	21	1984 Summer Olympics
+jo_ete	22	1988 Summer Olympics
+jo_ete	23	1992 Summer Olympics
+jo_ete	24	1996 Summer Olympics
+jo_ete	25	2000 Summer Olympics
+jo_ete	26	2004 Summer Olympics
+jo_ete	27	2008 Summer Olympics
+jo_ete	28	2012 Summer Olympics
+jo_ete	29	2016 Summer Olympics
+jo_ete	30	2020 Summer Olympics
+jo_ete	31	2024 Summer Olympics
+jo_hiver	4	1936 Winter Olympics
+jo_hiver	5	1948 Winter Olympics
+jo_hiver	6	1952 Winter Olympics
+jo_hiver	8	1960 Winter Olympics
+jo_hiver	10	1968 Winter Olympics
+jo_hiver	11	1972 Winter Olympics
+jo_hiver	12	1976 Winter Olympics
+jo_hiver	13	1980 Winter Olympics
+jo_hiver	15	1988 Winter Olympics
+jo_hiver	16	1992 Winter Olympics
+jo_hiver	17	1994 Winter Olympics
+jo_hiver	20	2006 Winter Olympics
+jo_hiver	21	2010 Winter Olympics
+jo_hiver	24	2022 Winter Olympics
+coupes_monde	5	1954 FIFA World Cup
+coupes_monde	6	1958 FIFA World Cup
+coupes_monde	7	1962 FIFA World Cup
+coupes_monde	8	1966 FIFA World Cup
+coupes_monde	12	1982 FIFA World Cup
+coupes_monde	14	1990 FIFA World Cup
+coupes_monde	16	1998 FIFA World Cup
+coupes_monde	17	2002 FIFA World Cup
+coupes_monde	18	2006 FIFA World Cup
+coupes_monde	19	2010 FIFA World Cup
+coupes_monde	20	2014 FIFA World Cup
+coupes_monde	21	2018 FIFA World Cup
+coupes_monde	22	2022 FIFA World Cup
+f1_champions	4	Mike Hawthorn
+f1_champions	6	Phil Hill (racing driver)
+consoles	6	Sega Master System
+consoles	11	3DO Interactive Multiplayer
+consoles	18	Nintendo GameCube
+consoles	21	Xbox 360
+films	7	M (1931 film)
+films	10	The Wizard of Oz (1939 film)
+films	14	Rome, Open City
+films	15	Bicycle Thieves
+films	20	Pather Panchali
+films	21	12 Angry Men (1957 film)
+films	23	Breathless (1960 film)
+films	25	L'Avventura
+films	27	8½
+films	28	The Good, the Bad and the Ugly
+films	29	Rosemary's Baby (film)
+films	30	2001: A Space Odyssey (film)
+films	31	The Godfather
+films	32	Chinatown (1974 film)
+films	33	One Flew Over the Cuckoo's Nest (film)
+films	34	Taxi Driver
+films	35	Star Wars (film)
+films	36	Apocalypse Now
+films	37	Raiders of the Lost Ark
+films	38	Blade Runner
+films	39	E.T. the Extra-Terrestrial
+films	40	Schindler's List
+films	41	Pulp Fiction
+films	42	The Shawshank Redemption
+films	43	Toy Story
+films	44	Titanic (1997 film)
+films	45	The Matrix
+films	46	Gladiator (2000 film)
+films	47	Spirited Away
+films	48	The Lord of the Rings: The Fellowship of the Ring
+films	49	City of God (film)
+films	50	No Country for Old Men (film)
+films	51	The Dark Knight
+films	52	Inception
+films	53	The Social Network (film)
+films	54	Gravity (2013 film)
+films	55	Boyhood (film)
+films	56	Mad Max: Fury Road
+films	57	Moonlight (2016 film)
+films	58	Parasite (2019 film)
+films	59	Nomadland
+films	60	Everything Everywhere All at Once
+lunes	13	Leda (moon)
+lunes	15	Adrastea (moon)	ERR:672 octets trop court
+lunes	19	Iapetus
+lunes	23	Mimas (moon)
+lunes	40	Sycorax (moon)
+lunes	42	Nereid (moon)	ERR:1099 octets trop court
+xxe	8	Decolonization
+montagnes_monde	10	Annapurna massif
+philosophes	41	Gilles Deleuze
+xixe	11	Latin American wars of independence
+xixe	19	Peterloo massacre
+xixe	20	Discovery of the Antarctic
+xixe	22	Brazilian independence
+xixe	41	California Gold Rush
+xixe	45	Paris Peace Congress (1856)
+xixe	63	Assassination of Alexander II
+xixe	66	Benz Patent-Motorwagen
+xixe	69	Wounded Knee massacre
+xixe	71	Auguste and Louis Lumière

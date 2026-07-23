@@ -1,0 +1,58 @@
+{
+  "section": "commons",
+  "completed": [
+    {
+      "list": "rois_france",
+      "row": "21",
+      "source": "commons:Carloman II of France.jpg",
+      "thumb": "thumbs/rois_france/21.webp",
+      "full": "full/rois_france/21.webp"
+    },
+    {
+      "list": "lunes",
+      "row": "12",
+      "source": "commons:Leda WISE-W3.jpg",
+      "thumb": "thumbs/lunes/12.webp",
+      "full": "full/lunes/12.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "18",
+      "source": "commons:Pasiphae-WISE.gif",
+      "thumb": "thumbs/lunes/18.webp",
+      "full": "full/lunes/18.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "list": "peintres",
+      "row": "43b",
+      "requested": "Peddler by Jackson Pollock.jpg",
+      "error": "fichier Commons absent: Peddler by Jackson Pollock.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "22",
+      "requested": "PIA12593 Prometheus2.jpg",
+      "error": "fichier Commons absent: PIA12593 Prometheus2.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "23",
+      "requested": "Pandora moon.jpg",
+      "error": "fichier Commons absent: Pandora moon.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "28",
+      "requested": "Calypso (moon).jpg",
+      "error": "fichier Commons absent: Calypso (moon).jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "42",
+      "requested": "Caliban discovery full.jpg",
+      "error": "fichier Commons absent: Caliban discovery full.jpg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+peintres	1	Jan van Eyck	orig	872px
+peintres	2	Sandro Botticelli	orig	1098px
+peintres	3	Leonardo da Vinci	orig	838px
+peintres	4	Albrecht Dürer	orig	851px
+peintres	5	Michelangelo	orig	1037px
+peintres	7	Titian	orig	884px
+peintres	8	Pieter Bruegel the Elder	orig	1002px
+peintres	9	Caravaggio	orig	859px
+peintres	11	Nicolas Poussin	orig	922px
+peintres	13	Johannes Vermeer	orig	863px
+peintres	14	Francisco Goya	orig	972px
+peintres	15	Jacques-Louis David	orig	855px
+peintres	16	Caspar David Friedrich	orig	925px
+peintres	17	Eugène Delacroix	orig	842px
+peintres	18	Gustave Courbet	orig	811px
+peintres	19	Édouard Manet	orig	902px
+peintres	20	Claude Monet	orig	900px
+peintres	21	Pierre-Auguste Renoir	orig	525px
+peintres	22	Edgar Degas	orig	899px
+peintres	23	Paul Cézanne	orig	250px
+peintres	24	Georges Seurat	orig	775px

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Test qualité images</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #1a1a1a; color: #eee; font-family: sans-serif; padding: 20px; }
+h1 { font-size: 1.2rem; margin-bottom: 20px; color: #aaa; }
+.legend { display: flex; gap: 16px; margin-bottom: 24px; font-size: 0.85rem; }
+.legend span { padding: 4px 10px; border-radius: 4px; }
+.tag-A { background: #444; }
+.tag-B { background: #2a5a8a; }
+.tag-C { background: #1a7a4a; }
+
+.subject { margin-bottom: 36px; }
+.subject h2 { font-size: 1rem; margin-bottom: 10px; color: #ccc; border-bottom: 1px solid #333; padding-bottom: 6px; }
+.row { display: flex; gap: 12px; align-items: flex-start; }
+.col { flex: 1; }
+.col .label { font-size: 0.75rem; padding: 4px 8px; margin-bottom: 6px; border-radius: 3px; display: inline-block; }
+.col img { width: 100%; display: block; border: 1px solid #333; }
+.col .size { font-size: 0.7rem; color: #888; margin-top: 4px; }
+</style>
+</head>
+<body>
+<h1>Test qualité images agrandies — 3 variantes</h1>
+<div class="legend">
+  <span class="tag-A">A — actuel : source 800px → max 800px JPEG q88</span>
+  <span class="tag-B">B — moyen  : source 1200px → max 1200px JPEG q88</span>
+  <span class="tag-C">C — HD     : source 1600px → max 1600px JPEG q92</span>
+</div>
+
+<div class="subject">
+  <h2>La Ronde de nuit — Rembrandt (peinture)</h2>
+  <div class="row">
+    <div class="col"><span class="label tag-A">A</span><img src="full_test/night_watch_A.jpg"><div class="size">133 KB · 800×651</div></div>
+    <div class="col"><span class="label tag-B">B</span><img src="full_test/night_watch_B.jpg"><div class="size">284 KB · 1200×976</div></div>
+    <div class="col"><span class="label tag-C">C</span><img src="full_test/night_watch_C.jpg"><div class="size">643 KB · 1600×1302</div></div>
+  </div>
+</div>
+
+<div class="subject">
+  <h2>Bal du Moulin de la Galette — Renoir (peinture)</h2>
+  <div class="row">
+    <div class="col"><span class="label tag-A">A</span><img src="full_test/moulin_galette_A.jpg"><div class="size">191 KB · 800×595</div></div>
+    <div class="col"><span class="label tag-B">B</span><img src="full_test/moulin_galette_B.jpg"><div class="size">391 KB · 1200×892</div></div>
+    <div class="col"><span class="label tag-C">C</span><img src="full_test/moulin_galette_C.jpg"><div class="size">811 KB · 1600×1189</div></div>
+  </div>
+</div>
+
+<div class="subject">
+  <h2>La Divine Comédie — enluminure</h2>
+  <div class="row">
+    <div class="col"><span class="label tag-A">A</span><img src="full_test/divine_comedy_A.jpg"><div class="size">211 KB · 800×644</div></div>
+    <div class="col"><span class="label tag-B">B</span><img src="full_test/divine_comedy_B.jpg"><div class="size">494 KB · 1200×967</div></div>
+    <div class="col"><span class="label tag-C">C</span><img src="full_test/divine_comedy_C.jpg"><div class="size">884 KB · 1600×1288</div></div>
+  </div>
+</div>
+
+<div class="subject">
+  <h2>Empire moghol — miniature</h2>
+  <div class="row">
+    <div class="col"><span class="label tag-A">A</span><img src="full_test/mughal_empire_A.jpg"><div class="size">151 KB · 560×800</div></div>
+    <div class="col"><span class="label tag-B">B</span><img src="full_test/mughal_empire_B.jpg"><div class="size">278 KB · 840×1200</div></div>
+    <div class="col"><span class="label tag-C">C</span><img src="full_test/mughal_empire_C.jpg"><div class="size">330 KB · 840×1200</div></div>
+  </div>
+</div>
+
+</body>
+</html>

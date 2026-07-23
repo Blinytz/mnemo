@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Test qualité</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #111; font-family: system-ui, sans-serif; }
+
+.section {
+  border-bottom: 3px solid #333;
+  padding-bottom: 0;
+}
+
+.header {
+  background: #222;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.badge {
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 3px 10px;
+  border-radius: 20px;
+  color: #fff;
+}
+.A { background: #555; }
+.B { background: #1a6bbf; }
+.C { background: #1a8a50; }
+
+.header h2 { font-size: 0.9rem; color: #ddd; font-weight: normal; }
+.header .info { font-size: 0.75rem; color: #888; margin-left: auto; }
+
+.img-wrap {
+  width: 100%;
+  background: #000;
+  display: flex;
+  justify-content: center;
+}
+.img-wrap img {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  display: block;
+}
+
+.nav {
+  position: fixed;
+  bottom: 0;
+  left: 0; right: 0;
+  background: #1a1a1a;
+  border-top: 1px solid #333;
+  display: flex;
+  padding: 8px 16px;
+  gap: 8px;
+  justify-content: center;
+}
+.nav a {
+  color: #aaa;
+  text-decoration: none;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  border: 1px solid #444;
+}
+.nav a:hover { background: #333; color: #fff; }
+</style>
+</head>
+<body>
+
+<div class="section" id="sec1">
+  <div class="header">
+    <span class="badge A">A</span>
+    <h2>Jan van Eyck — L'Agneau mystique</h2>
+    <span class="info">800 × 590 · 188 KB · actuel</span>
+  </div>
+  <div class="img-wrap">
+    <img src="full/peintres/1.jpg" alt="Jan van Eyck A">
+  </div>
+</div>
+
+<div class="section" id="sec2">
+  <div class="header">
+    <span class="badge B">B</span>
+    <h2>Rembrandt — La Ronde de nuit</h2>
+    <span class="info">1200 × 976 · 284 KB · moyen</span>
+  </div>
+  <div class="img-wrap">
+    <img src="full/peintres/12.jpg" alt="Rembrandt B">
+  </div>
+</div>
+
+<div class="section" id="sec3">
+  <div class="header">
+    <span class="badge C">C</span>
+    <h2>Renoir — Bal du Moulin de la Galette</h2>
+    <span class="info">1600 × 1189 · 811 KB · HD</span>
+  </div>
+  <div class="img-wrap">
+    <img src="full/peintres/23.jpg" alt="Renoir C">
+  </div>
+</div>
+
+<div style="height:60px"></div>
+<div class="nav">
+  <a href="#sec1">⬆ A — actuel</a>
+  <a href="#sec2">B — moyen</a>
+  <a href="#sec3">C — HD ⬇</a>
+</div>
+
+</body>
+</html>

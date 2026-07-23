@@ -1,0 +1,33 @@
+# Secrets et réglages propres à chaque ordinateur
+.env
+.env.*
+!.env.example
+.claude/
+
+# Caches et fichiers temporaires reconstructibles
+__pycache__/
+*.py[cod]
+build/.cache.pkl
+*.tmp
+*.bak
+
+# Journaux d'exécution
+*.log
+*.log.err
+*.err
+
+# Images haute définition conservées séparément pour le moment
+full/
+full_test/
+
+# Livrables et espaces de travail générés
+outputs/
+work/
+
+# Copies conflictuelles créées par OneDrive
+*-DESKTOP-*
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/

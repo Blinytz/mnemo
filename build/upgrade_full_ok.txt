@@ -1,0 +1,694 @@
+litterature	7	310KB	Don Quichotte
+litterature	8	56KB	Hamlet
+litterature	9	294KB	Roméo et Juliette
+litterature	12	75KB	Faust
+litterature	13	360KB	Les Misérables
+litterature	14	307KB	Notre-Dame de Paris
+litterature	18	174KB	Madame Bovary
+litterature	27	77KB	Jane Eyre
+litterature	31	259KB	Mrs Dalloway
+litterature	37	210KB	1984
+litterature	46	116KB	Lolita
+litterature	51	217KB	Les Fleurs du mal
+litterature	54	130KB	Dune
+litterature	59	39KB	L'Assommoir
+litterature	60	261KB	Invisible Man
+peintres	1	213KB	Jan van Eyck
+peintres	2	561KB	Sandro Botticelli
+peintres	4	200KB	Albrecht Dürer
+peintres	11	206KB	Nicolas Poussin
+peintres	12	181KB	Rembrandt
+peintres	15	288KB	Jacques-Louis David
+peintres	16	290KB	Caspar David Friedrich
+peintres	17	176KB	Eugène Delacroix
+peintres	18	209KB	Gustave Courbet
+peintres	19	175KB	Édouard Manet
+peintres	20	252KB	Edgar Degas
+peintres	21	21KB	Paul Cézanne
+peintres	22	187KB	Claude Monet
+peintres	23	48KB	Pierre-Auguste Renoir
+peintres	24	244KB	Paul Gauguin
+peintres	25	459KB	Vincent van Gogh
+peintres	26	137KB	Georges Seurat
+peintres	27	196KB	Gustav Klimt
+peintres	28	91KB	Edvard Munch
+peintres	30	248KB	Henri Matisse
+peintres	31	302KB	Paul Klee
+peintres	32	186KB	Pablo Picasso
+peintres	33	209KB	Edward Hopper
+peintres	34	441KB	Amedeo Modigliani
+peintres	35	275KB	Diego Rivera
+peintres	36	177KB	Marcel Duchamp
+peintres	37	35KB	Giorgio de Chirico
+peintres	38	159KB	Joan Miró
+peintres	39	203KB	Mark Rothko
+peintres	40	260KB	Salvador Dalí
+peintres	41	222KB	Frida Kahlo
+peintres	42	299KB	Francis Bacon
+peintres	43	78KB	Jackson Pollock
+peintres	44	369KB	René Magritte
+peintres	45	176KB	Andy Warhol
+peintres	46	10KB	Jean-Michel Basquiat
+rois_france	6	35KB	Clovis II
+rois_france	9	278KB	Clovis IV
+rois_france	10	86KB	Childebert III
+rois_france	11	18KB	Dagobert III
+rois_france	16	319KB	Charlemagne
+rois_france	21	188KB	Carloman II
+rois_france	50	147KB	Louis XI
+rois_france	52	295KB	Louis XII
+rois_france	59	346KB	Louis XIII
+rois_france	60	317KB	Louis XIV
+rois_france	61	435KB	Louis XV
+rois_france	62	247KB	Louis XVI
+rois_france	64	265KB	Louis XVIII
+chefs_etat	1	247KB	Louis XVI
+chefs_etat	2	247KB	Louis XVI
+chefs_etat	3	21KB	Committee of Public Safety
+chefs_etat	4	21KB	French Directory
+chefs_etat	7	265KB	Louis XVIII
+chefs_etat	9	265KB	Louis XVIII
+chefs_etat	10	232KB	Charles X of France
+chefs_etat	12	36KB	Louis-Eugène Cavaignac
+chefs_etat	14	199KB	Napoleon III
+chefs_etat	15	86KB	Adolphe Thiers
+chefs_etat	16	54KB	Patrice de MacMahon
+chefs_etat	17	25KB	Jules Grévy
+chefs_etat	19	21KB	Jean Casimir-Perier
+chefs_etat	20	156KB	Félix Faure
+chefs_etat	21	67KB	Émile Loubet
+chefs_etat	22	91KB	Armand Fallières
+chefs_etat	23	304KB	Raymond Poincaré
+chefs_etat	24	75KB	Paul Deschanel
+chefs_etat	25	351KB	Alexandre Millerand
+chefs_etat	26	276KB	Gaston Doumergue
+chefs_etat	27	62KB	Paul Doumer
+chefs_etat	28	24KB	Albert Lebrun
+chefs_etat	29	336KB	Philippe Pétain
+chefs_etat	30	180KB	Charles de Gaulle
+chefs_etat	31	80KB	Félix Gouin
+chefs_etat	32	160KB	Georges Bidault
+chefs_etat	33	72KB	Léon Blum
+chefs_etat	34	223KB	Vincent Auriol
+chefs_etat	35	74KB	René Coty
+chefs_etat	36	180KB	Charles de Gaulle
+chefs_etat	37	39KB	Georges Pompidou
+chefs_etat	38	279KB	Valéry Giscard d'Estaing
+chefs_etat	39	254KB	François Mitterrand
+chefs_etat	40	223KB	Jacques Chirac
+chefs_etat	41	146KB	Nicolas Sarkozy
+chefs_etat	42	228KB	François Hollande
+chefs_etat	43	227KB	Emmanuel Macron
+lunes	34	392KB	Iapetus (moon)
+mers_oceans	1	36KB	Pacific Ocean
+mers_oceans	2	31KB	Atlantic Ocean
+mers_oceans	3	30KB	Indian Ocean
+mers_oceans	4	37KB	Arctic Ocean
+mers_oceans	5	340KB	Mediterranean Sea
+mers_oceans	6	154KB	Caribbean Sea
+mers_oceans	7	243KB	Red Sea
+mers_oceans	8	215KB	Baltic Sea
+mers_oceans	9	117KB	Southern Ocean
+mers_oceans	10	170KB	South China Sea
+mers_oceans	11	142KB	Coral Sea
+mers_oceans	12	103KB	Tasman Sea
+mers_oceans	13	85KB	Arabian Sea
+mers_oceans	15	283KB	Gulf of Mexico
+mers_oceans	16	321KB	Persian Gulf
+mers_oceans	17	290KB	North Sea
+mers_oceans	18	93KB	Black Sea
+mers_oceans	19	315KB	Caspian Sea
+mers_oceans	20	65KB	Aegean Sea
+detroits_monde	3	66KB	Dardanelles
+detroits_monde	8	170KB	Bab-el-Mandeb
+detroits_monde	11	75KB	Skagerrak
+detroits_monde	17	98KB	Øresund
+parcs_nationaux	1	317KB	Yellowstone National Park
+parcs_nationaux	2	402KB	Yosemite National Park
+parcs_nationaux	3	331KB	Banff National Park
+parcs_nationaux	4	360KB	Kruger National Park
+parcs_nationaux	5	276KB	Serengeti National Park
+parcs_nationaux	6	426KB	Torres del Paine National Park
+parcs_nationaux	7	506KB	Fiordland National Park
+parcs_nationaux	8	117KB	Kakadu National Park
+parcs_nationaux	9	346KB	Grand Canyon National Park
+parcs_nationaux	10	63KB	Galápagos National Park
+parcs_nationaux	12	305KB	Everglades National Park
+parcs_nationaux	13	286KB	Great Barrier Reef
+parcs_nationaux	14	321KB	Vanoise National Park
+parcs_nationaux	15	359KB	Gran Paradiso National Park
+parcs_nationaux	16	285KB	Virunga National Park
+parcs_nationaux	17	307KB	Sagarmatha National Park
+parcs_nationaux	18	452KB	Jiuzhaigou
+parcs_nationaux	19	504KB	Sundarbans
+parcs_nationaux	20	319KB	Kaziranga National Park
+parcs_nationaux	22	390KB	Cévennes National Park
+parcs_nationaux	25	344KB	Okavango Delta
+parcs_nationaux	26	517KB	Białowieża Forest
+parcs_nationaux	27	98KB	Simien Mountains National Park
+parcs_nationaux	28	387KB	Bwindi Impenetrable Forest
+parcs_nationaux	30	367KB	Dolomites
+architectes_majeurs	1	417KB	Filippo Brunelleschi
+architectes_majeurs	2	344KB	Andrea Palladio
+architectes_majeurs	3	209KB	Antoni Gaudí
+architectes_majeurs	4	268KB	Frank Lloyd Wright
+architectes_majeurs	5	230KB	Le Corbusier
+architectes_majeurs	6	340KB	Ludwig Mies van der Rohe
+architectes_majeurs	7	173KB	Zaha Hadid
+architectes_majeurs	8	176KB	I. M. Pei
+architectes_majeurs	9	310KB	Michelangelo
+architectes_majeurs	10	127KB	Christopher Wren
+architectes_majeurs	11	275KB	Balthasar Neumann
+architectes_majeurs	13	47KB	Victor Horta
+architectes_majeurs	14	65KB	Walter Gropius
+architectes_majeurs	15	161KB	Alvar Aalto
+architectes_majeurs	16	222KB	Oscar Niemeyer
+architectes_majeurs	17	98KB	Louis Kahn
+architectes_majeurs	18	357KB	Renzo Piano
+architectes_majeurs	19	185KB	Norman Foster
+architectes_majeurs	20	36KB	Frank Gehry
+architectes_majeurs	21	56KB	Tadao Ando
+architectes_majeurs	22	102KB	Jean Nouvel
+architectes_majeurs	23	86KB	Rem Koolhaas
+architectes_majeurs	24	96KB	Santiago Calatrava
+architectes_majeurs	26	174KB	Kengo Kuma
+architectes_majeurs	27	122KB	Dominique Perrault
+architectes_majeurs	28	198KB	Carlo Scarpa
+architectes_majeurs	29	116KB	Richard Rogers
+architectes_majeurs	30	210KB	Bjarke Ingels
+musees_monde	2	270KB	Metropolitan Museum of Art
+musees_monde	3	277KB	Museo del Prado
+musees_monde	4	501KB	British Museum
+musees_monde	5	12KB	Vatican Museums
+musees_monde	7	332KB	Museum of Modern Art
+musees_monde	8	297KB	Hermitage Museum
+musees_monde	10	16KB	Centre Pompidou
+musees_monde	11	312KB	Rijksmuseum
+musees_monde	12	56KB	Van Gogh Museum
+musees_monde	13	81KB	Kunsthistorisches Museum
+musees_monde	14	230KB	National Museum of China
+musees_monde	15	267KB	Smithsonian Institution
+musees_monde	16	40KB	Acropolis Museum
+musees_monde	19	272KB	Tate Modern
+musees_monde	20	233KB	Guggenheim Museum Bilbao
+musees_monde	22	312KB	Tokyo National Museum
+musees_monde	23	384KB	National Museums of Kenya
+musees_monde	24	264KB	Bargello
+musees_monde	25	405KB	Musée Rodin
+mouvements_peinture	1	521KB	Cave painting
+mouvements_peinture	3	313KB	Ancient Greek art
+mouvements_peinture	4	171KB	Roman art
+mouvements_peinture	5	932KB	Byzantine art
+mouvements_peinture	6	422KB	Romanesque art
+mouvements_peinture	7	312KB	Gothic art
+mouvements_peinture	8	209KB	Early Netherlandish painting
+mouvements_peinture	9	326KB	Quattrocento
+mouvements_peinture	10	371KB	High Renaissance
+mouvements_peinture	11	170KB	Mannerism
+mouvements_peinture	12	209KB	Northern Renaissance
+mouvements_peinture	13	236KB	Baroque
+mouvements_peinture	15	358KB	Rococo
+mouvements_peinture	16	232KB	Neoclassicism
+mouvements_peinture	17	255KB	Romanticism
+mouvements_peinture	18	264KB	Realism (art movement)
+mouvements_peinture	19	315KB	Pre-Raphaelite Brotherhood
+mouvements_peinture	20	407KB	Impressionism
+mouvements_peinture	21	380KB	Post-Impressionism
+mouvements_peinture	22	98KB	Pointillism
+mouvements_peinture	24	293KB	Art Nouveau
+mouvements_peinture	25	382KB	Fauvism
+mouvements_peinture	26	339KB	Expressionism
+mouvements_peinture	27	264KB	Cubism
+mouvements_peinture	28	547KB	Futurism
+mouvements_peinture	29	368KB	Dada
+mouvements_peinture	30	344KB	Constructivism (art)
+mouvements_peinture	31	20KB	De Stijl
+mouvements_peinture	32	261KB	Bauhaus
+mouvements_peinture	33	22KB	Surrealism
+mouvements_peinture	36	478KB	Minimalism
+mouvements_peinture	37	201KB	Conceptual art
+mouvements_peinture	41	262KB	Digital art
+decouvertes_scientifiques	1	77KB	Heliocentrism
+decouvertes_scientifiques	2	107KB	Kepler's laws of planetary motion
+decouvertes_scientifiques	6	61KB	Lightning rod
+decouvertes_scientifiques	7	115KB	Oxygen
+decouvertes_scientifiques	8	20KB	Laws of thermodynamics
+decouvertes_scientifiques	9	57KB	Natural selection
+decouvertes_scientifiques	10	27KB	Electromagnetic radiation
+decouvertes_scientifiques	11	148KB	Periodic table
+decouvertes_scientifiques	12	90KB	X-ray
+decouvertes_scientifiques	14	320KB	Special relativity
+decouvertes_scientifiques	15	107KB	Plate tectonics
+decouvertes_scientifiques	16	180KB	Quantum mechanics
+decouvertes_scientifiques	17	15KB	Penicillin
+decouvertes_scientifiques	18	54KB	Nuclear fission
+decouvertes_scientifiques	19	69KB	DNA
+decouvertes_scientifiques	21	79KB	Quark
+decouvertes_scientifiques	22	68KB	Exoplanet
+decouvertes_scientifiques	23	177KB	Higgs boson
+decouvertes_scientifiques	24	60KB	Gravitational wave
+compositeurs	1	221KB	Johann Sebastian Bach
+compositeurs	2	392KB	Antonio Vivaldi
+compositeurs	3	213KB	George Frideric Handel
+compositeurs	4	166KB	Joseph Haydn
+compositeurs	5	381KB	Wolfgang Amadeus Mozart
+compositeurs	6	361KB	Ludwig van Beethoven
+compositeurs	7	189KB	Franz Schubert
+compositeurs	8	162KB	Frédéric Chopin
+compositeurs	9	200KB	Giuseppe Verdi
+compositeurs	10	195KB	Richard Wagner
+compositeurs	11	268KB	Claude Debussy
+compositeurs	12	245KB	Igor Stravinsky
+compositeurs	13	237KB	Johannes Brahms
+compositeurs	14	202KB	Hector Berlioz
+compositeurs	15	146KB	Pyotr Ilyich Tchaikovsky
+compositeurs	16	144KB	Gustav Mahler
+compositeurs	17	110KB	Giacomo Puccini
+compositeurs	18	195KB	Franz Liszt
+compositeurs	19	370KB	Robert Schumann
+compositeurs	20	141KB	Sergei Rachmaninoff
+compositeurs	21	69KB	Dmitri Shostakovich
+compositeurs	22	19KB	Béla Bartók
+compositeurs	23	239KB	Leonard Bernstein
+compositeurs	24	306KB	Maurice Ravel
+compositeurs	25	48KB	Gabriel Fauré
+compositeurs	26	93KB	Camille Saint-Saëns
+compositeurs	27	364KB	Claudio Monteverdi
+compositeurs	28	306KB	Edvard Grieg
+compositeurs	29	253KB	Jean Sibelius
+compositeurs	30	454KB	Antonín Dvořák
+compositeurs	31	273KB	Sergei Prokofiev
+compositeurs	32	99KB	Aaron Copland
+compositeurs	33	292KB	Benjamin Britten
+compositeurs	34	327KB	Philip Glass
+compositeurs	35	122KB	Georges Bizet
+compositeurs	36	60KB	Henry Purcell
+compositeurs	37	320KB	Christoph Willibald Gluck
+compositeurs	38	248KB	Carl Maria von Weber
+compositeurs	39	191KB	Jean-Philippe Rameau
+mythologie	1	210KB	Zeus
+mythologie	9	117KB	Aphrodite
+mythologie	54	360KB	Cerberus (mythology)
+philosophes	1	254KB	Socrates
+philosophes	2	155KB	Plato
+philosophes	3	218KB	Aristotle
+philosophes	4	185KB	Epicurus
+philosophes	5	196KB	Zeno of Citium
+philosophes	6	156KB	Marcus Aurelius
+philosophes	7	509KB	Epictetus
+philosophes	8	328KB	Augustine of Hippo
+philosophes	9	374KB	Thomas Aquinas
+philosophes	10	154KB	Niccolò Machiavelli
+philosophes	11	299KB	Francis Bacon
+philosophes	12	185KB	Thomas Hobbes
+philosophes	13	158KB	René Descartes
+philosophes	14	249KB	Blaise Pascal
+philosophes	15	335KB	John Locke
+philosophes	16	255KB	Baruch Spinoza
+philosophes	17	191KB	Gottfried Wilhelm Leibniz
+philosophes	18	175KB	Montesquieu
+philosophes	19	311KB	Voltaire
+philosophes	20	276KB	David Hume
+philosophes	21	222KB	Jean-Jacques Rousseau
+philosophes	22	202KB	Adam Smith
+philosophes	23	164KB	Immanuel Kant
+philosophes	24	281KB	Georg Wilhelm Friedrich Hegel
+philosophes	25	221KB	Arthur Schopenhauer
+philosophes	26	246KB	Auguste Comte
+philosophes	27	184KB	John Stuart Mill
+philosophes	28	167KB	Karl Marx
+philosophes	29	247KB	Friedrich Nietzsche
+philosophes	30	177KB	Edmund Husserl
+philosophes	31	238KB	Henri Bergson
+philosophes	32	169KB	Bertrand Russell
+philosophes	33	206KB	Ludwig Wittgenstein
+philosophes	34	42KB	Martin Heidegger
+philosophes	35	320KB	Hannah Arendt
+philosophes	36	222KB	Jean-Paul Sartre
+philosophes	37	80KB	Simone de Beauvoir
+philosophes	38	124KB	Albert Camus
+philosophes	39	284KB	Claude Lévi-Strauss
+philosophes	40	29KB	Michel Foucault
+philosophes	42	291KB	Jacques Derrida
+philosophes	43	252KB	John Rawls
+philosophes	44	211KB	Jürgen Habermas
+philosophes	45	156KB	Peter Singer
+grandes_explorations	1	238KB	Zheng He
+grandes_explorations	2	380KB	Christopher Columbus
+grandes_explorations	3	288KB	Vasco da Gama
+grandes_explorations	4	68KB	Ferdinand Magellan
+grandes_explorations	5	209KB	James Cook
+grandes_explorations	6	118KB	Alexander von Humboldt
+grandes_explorations	7	190KB	David Livingstone
+grandes_explorations	8	208KB	Roald Amundsen
+grandes_explorations	9	141KB	Ibn Battuta
+grandes_explorations	10	122KB	Bartolomeu Dias
+grandes_explorations	11	65KB	Amerigo Vespucci
+grandes_explorations	12	74KB	Hernán Cortés
+grandes_explorations	13	389KB	Francisco Pizarro
+grandes_explorations	14	201KB	Jacques Cartier
+grandes_explorations	15	232KB	Francis Drake
+grandes_explorations	16	108KB	Samuel de Champlain
+grandes_explorations	17	425KB	Abel Tasman
+grandes_explorations	18	271KB	Mungo Park (explorer)
+grandes_explorations	19	23KB	Lewis and Clark Expedition
+grandes_explorations	20	311KB	René Caillié
+grandes_explorations	21	235KB	Ernest Shackleton
+grandes_explorations	22	225KB	Edmund Hillary
+grandes_explorations	23	258KB	Jacques Piccard
+grandes_explorations	24	245KB	Neil Armstrong
+grandes_explorations	25	259KB	Valentina Tereshkova
+grands_scientifiques	1	379KB	Archimedes
+grands_scientifiques	2	267KB	Ibn al-Haytham
+grands_scientifiques	3	213KB	Nicolaus Copernicus
+grands_scientifiques	4	322KB	Galileo Galilei
+grands_scientifiques	5	326KB	Isaac Newton
+grands_scientifiques	6	101KB	Antoine Lavoisier
+grands_scientifiques	7	255KB	Charles Darwin
+grands_scientifiques	8	189KB	Marie Curie
+grands_scientifiques	9	265KB	Albert Einstein
+grands_scientifiques	10	58KB	Rosalind Franklin
+grands_scientifiques	11	246KB	Katherine Johnson
+grands_scientifiques	12	198KB	Jane Goodall
+grands_scientifiques	13	205KB	Euclid
+grands_scientifiques	14	126KB	Hippocrates
+grands_scientifiques	15	277KB	Leonardo da Vinci
+grands_scientifiques	16	218KB	Johannes Kepler
+grands_scientifiques	17	363KB	Christiaan Huygens
+grands_scientifiques	18	261KB	Carl Linnaeus
+grands_scientifiques	19	35KB	Alessandro Volta
+grands_scientifiques	20	164KB	Michael Faraday
+grands_scientifiques	21	80KB	James Clerk Maxwell
+grands_scientifiques	22	246KB	Louis Pasteur
+grands_scientifiques	23	263KB	Gregor Mendel
+grands_scientifiques	24	249KB	Nikola Tesla
+grands_scientifiques	25	221KB	Max Planck
+grands_scientifiques	26	199KB	Niels Bohr
+grands_scientifiques	27	136KB	Lise Meitner
+grands_scientifiques	28	132KB	Alan Turing
+grands_scientifiques	29	215KB	Barbara McClintock
+grands_scientifiques	30	41KB	Carl Sagan
+grands_scientifiques	31	35KB	Stephen Hawking
+grands_scientifiques	32	221KB	Tim Berners-Lee
+grands_scientifiques	33	274KB	Tycho Brahe
+grands_scientifiques	34	248KB	Robert Hooke
+grands_scientifiques	35	198KB	Dmitri Mendeleev
+grands_scientifiques	36	194KB	Werner Heisenberg
+grands_scientifiques	37	310KB	Francis Crick
+grands_scientifiques	38	179KB	James Watson
+inventions_majeures	1	258KB	Wheel
+inventions_majeures	2	618KB	Cuneiform
+inventions_majeures	4	420KB	Printing press
+inventions_majeures	5	389KB	Movable type
+inventions_majeures	6	144KB	Thermometer
+inventions_majeures	7	141KB	Telescope
+inventions_majeures	8	132KB	Mechanical calculator
+inventions_majeures	9	277KB	Steam engine
+inventions_majeures	10	230KB	Vaccine
+inventions_majeures	11	316KB	Steam locomotive
+inventions_majeures	12	89KB	Photography
+inventions_majeures	13	49KB	Dynamo
+inventions_majeures	14	293KB	Electrical telegraph
+inventions_majeures	15	130KB	Anesthesia
+inventions_majeures	16	205KB	Telephone
+inventions_majeures	17	45KB	Internal combustion engine
+inventions_majeures	18	95KB	Incandescent light bulb
+inventions_majeures	19	338KB	Radio
+inventions_majeures	20	205KB	Film
+inventions_majeures	21	122KB	Fixed-wing aircraft
+inventions_majeures	22	15KB	Penicillin
+inventions_majeures	23	117KB	Radar
+inventions_majeures	25	70KB	Transistor
+inventions_majeures	26	228KB	Sputnik 1
+inventions_majeures	27	201KB	Laser
+inventions_majeures	28	222KB	ARPANET
+inventions_majeures	29	52KB	World Wide Web
+inventions_majeures	30	168KB	Compass
+inventions_majeures	31	261KB	Gunpowder
+civilisations	1	188KB	Mesopotamia
+civilisations	2	76KB	Ancient Egypt
+civilisations	3	211KB	Indus Valley Civilisation
+civilisations	4	114KB	Shang dynasty
+civilisations	5	505KB	Ancient Greece
+civilisations	6	25KB	Ancient Rome
+civilisations	7	167KB	Byzantine Empire
+civilisations	8	297KB	Kingdom of Aksum
+civilisations	9	154KB	Mali Empire
+civilisations	10	170KB	Maya civilization
+civilisations	11	122KB	Aztec Empire
+civilisations	12	110KB	Inca Empire
+civilisations	13	345KB	Carthage
+civilisations	14	140KB	Achaemenid Empire
+civilisations	15	369KB	Maurya Empire
+civilisations	16	89KB	Han dynasty
+civilisations	17	95KB	Sasanian Empire
+civilisations	19	13KB	Abbasid Caliphate
+civilisations	20	227KB	Mongol Empire
+civilisations	21	30KB	Ottoman Empire
+civilisations	22	498KB	Teotihuacan
+civilisations	23	268KB	Nubia
+civilisations	24	167KB	Songhai Empire
+civilisations	25	278KB	Mughal Empire
+civilisations	27	41KB	British Empire
+civilisations	28	18KB	Soviet Union
+guerres	1	500KB	Greco-Persian Wars
+guerres	2	170KB	Peloponnesian War
+guerres	3	557KB	Wars of Alexander the Great
+guerres	4	33KB	Punic Wars
+guerres	5	157KB	Crusades
+guerres	6	69KB	Mongol conquests
+guerres	7	354KB	Hundred Years' War
+guerres	8	324KB	French Wars of Religion
+guerres	9	399KB	Thirty Years' War
+guerres	10	454KB	Seven Years' War
+guerres	11	252KB	American Revolutionary War
+guerres	12	302KB	Napoleonic Wars
+guerres	13	398KB	Crimean War
+guerres	14	319KB	American Civil War
+guerres	15	370KB	Franco-Prussian War
+guerres	17	141KB	Russo-Japanese War
+guerres	18	129KB	Balkan Wars
+guerres	19	320KB	World War I
+guerres	20	272KB	Russian Civil War
+guerres	21	221KB	Irish War of Independence
+guerres	22	35KB	Spanish Civil War
+guerres	23	74KB	World War II
+guerres	24	296KB	First Indochina War
+guerres	25	296KB	Korean War
+guerres	26	353KB	Algerian War
+guerres	27	139KB	Vietnam War
+guerres	28	93KB	Six-Day War
+guerres	29	106KB	Yom Kippur War
+guerres	30	267KB	Lebanese Civil War
+guerres	31	95KB	Iran–Iraq War
+guerres	32	129KB	Falklands War
+guerres	33	140KB	Gulf War
+guerres	34	80KB	Bosnian War
+guerres	35	269KB	Kosovo War
+guerres	36	282KB	War in Afghanistan (2001–2021)
+guerres	37	199KB	Iraq War
+guerres	38	193KB	Syrian civil war
+guerres	39	117KB	Yemeni civil war (2014–present)
+jo_ete	1	333KB	1896 Summer Olympics
+jo_ete	2	226KB	1900 Summer Olympics
+jo_ete	3	297KB	1904 Summer Olympics
+jo_ete	5	113KB	1908 Summer Olympics
+jo_ete	6	285KB	1912 Summer Olympics
+jo_ete	7	42KB	1920 Summer Olympics
+jo_ete	8	134KB	1924 Summer Olympics
+jo_ete	9	33KB	1928 Summer Olympics
+jo_ete	10	130KB	1932 Summer Olympics
+jo_ete	13	41KB	1952 Summer Olympics
+jo_ete	16	63KB	1964 Summer Olympics
+jo_ete	18	47KB	1972 Summer Olympics
+jo_ete	19	73KB	1976 Summer Olympics
+jo_ete	20	63KB	1980 Summer Olympics
+jo_ete	32	70KB	2028 Summer Olympics
+jo_hiver	1	360KB	1924 Winter Olympics
+jo_hiver	2	238KB	1928 Winter Olympics
+jo_hiver	3	87KB	1932 Winter Olympics
+jo_hiver	7	190KB	1956 Winter Olympics
+jo_hiver	9	104KB	1964 Winter Olympics
+jo_hiver	14	99KB	1984 Winter Olympics
+jo_hiver	18	276KB	1998 Winter Olympics
+jo_hiver	19	56KB	2002 Winter Olympics
+jo_hiver	22	59KB	2014 Winter Olympics
+jo_hiver	23	62KB	2018 Winter Olympics
+jo_hiver	25	103KB	2026 Winter Olympics
+coupes_monde	1	54KB	1930 FIFA World Cup
+coupes_monde	2	57KB	1934 FIFA World Cup
+coupes_monde	3	55KB	1938 FIFA World Cup
+coupes_monde	4	167KB	1950 FIFA World Cup
+coupes_monde	9	56KB	1970 FIFA World Cup
+coupes_monde	10	75KB	1974 FIFA World Cup
+coupes_monde	11	69KB	1978 FIFA World Cup
+coupes_monde	13	228KB	1986 FIFA World Cup
+coupes_monde	15	92KB	1994 FIFA World Cup
+consoles	1	74KB	Magnavox Odyssey
+consoles	2	91KB	Pong
+consoles	3	111KB	Atari 2600
+consoles	4	124KB	Fairchild Channel F
+consoles	5	129KB	Magnavox Odyssey 2
+consoles	6	98KB	Intellivision
+consoles	7	115KB	ColecoVision
+consoles	8	90KB	Atari 5200
+consoles	9	65KB	Nintendo Entertainment System
+consoles	10	87KB	SG-1000
+consoles	11	65KB	Nintendo Entertainment System
+consoles	13	113KB	TurboGrafx-16
+consoles	14	83KB	Sega Genesis
+consoles	15	82KB	Game Boy
+consoles	16	61KB	Super Nintendo Entertainment System
+consoles	17	83KB	Sega Genesis
+consoles	19	74KB	Sega Saturn
+consoles	20	51KB	PlayStation (console)
+consoles	21	73KB	Nintendo 64
+consoles	23	126KB	Game Boy Color
+consoles	24	63KB	Dreamcast
+consoles	25	94KB	PlayStation 2
+consoles	26	103KB	Game Boy Advance
+consoles	27	89KB	GameCube
+consoles	28	79KB	Xbox (console)
+consoles	29	150KB	Nintendo DS
+consoles	30	76KB	PlayStation Portable
+consoles	32	84KB	PlayStation 3
+consoles	33	116KB	Wii
+consoles	34	159KB	Nintendo 3DS
+consoles	35	68KB	PlayStation Vita
+consoles	36	52KB	Wii U
+consoles	37	64KB	PlayStation 4
+consoles	38	108KB	Xbox One
+consoles	39	73KB	Nintendo Switch
+consoles	40	74KB	PlayStation 5
+consoles	41	49KB	Xbox Series X and Series S
+consoles	42	76KB	Steam Deck
+revolutions	1	441KB	English Civil War
+revolutions	2	498KB	Glorious Revolution
+revolutions	3	243KB	American Revolution
+revolutions	4	395KB	French Revolution
+revolutions	5	481KB	Haitian Revolution
+revolutions	6	522KB	Thermidorian Reaction
+revolutions	7	127KB	Spanish American wars of independence
+revolutions	8	163KB	Argentine War of Independence
+revolutions	11	312KB	Revolutions of 1848
+revolutions	12	479KB	Indian Rebellion of 1857
+revolutions	13	216KB	Paris Commune
+revolutions	14	235KB	Mexican Revolution
+revolutions	16	247KB	Russian Revolution
+revolutions	17	156KB	Turkish War of Independence
+revolutions	18	33KB	Second Spanish Republic
+revolutions	19	382KB	Indian independence movement
+revolutions	20	363KB	Cuban Revolution
+revolutions	21	353KB	Algerian War
+revolutions	23	109KB	Carnation Revolution
+revolutions	24	141KB	Iranian Revolution
+revolutions	25	287KB	Nicaraguan Revolution
+revolutions	26	281KB	Velvet Revolution
+revolutions	27	100KB	Fall of the Berlin Wall
+revolutions	28	231KB	Bolivarian Revolution
+revolutions	29	102KB	Arab Spring
+f1_champions	1	326KB	Giuseppe Farina
+f1_champions	2	161KB	Juan Manuel Fangio
+f1_champions	3	128KB	Alberto Ascari
+f1_champions	4	128KB	Alberto Ascari
+f1_champions	5	161KB	Juan Manuel Fangio
+f1_champions	6	161KB	Juan Manuel Fangio
+f1_champions	7	161KB	Juan Manuel Fangio
+f1_champions	8	161KB	Juan Manuel Fangio
+f1_champions	10	206KB	Jack Brabham
+f1_champions	11	206KB	Jack Brabham
+f1_champions	12	165KB	Phil Hill
+f1_champions	13	334KB	Graham Hill
+f1_champions	14	84KB	Jim Clark
+f1_champions	15	43KB	John Surtees
+f1_champions	16	84KB	Jim Clark
+f1_champions	17	206KB	Jack Brabham
+f1_champions	18	414KB	Denny Hulme
+f1_champions	19	334KB	Graham Hill
+f1_champions	20	160KB	Jackie Stewart
+f1_champions	21	329KB	Jochen Rindt
+f1_champions	22	160KB	Jackie Stewart
+f1_champions	23	122KB	Emerson Fittipaldi
+f1_champions	24	160KB	Jackie Stewart
+f1_champions	25	122KB	Emerson Fittipaldi
+f1_champions	26	286KB	Niki Lauda
+f1_champions	27	161KB	James Hunt
+f1_champions	28	286KB	Niki Lauda
+f1_champions	29	213KB	Mario Andretti
+f1_champions	30	76KB	Jody Scheckter
+f1_champions	31	167KB	Alan Jones (racing driver)
+f1_champions	32	241KB	Nelson Piquet
+f1_champions	33	324KB	Keke Rosberg
+f1_champions	34	241KB	Nelson Piquet
+f1_champions	35	286KB	Niki Lauda
+f1_champions	36	301KB	Alain Prost
+f1_champions	37	301KB	Alain Prost
+f1_champions	38	241KB	Nelson Piquet
+f1_champions	39	82KB	Ayrton Senna
+f1_champions	40	301KB	Alain Prost
+f1_champions	41	82KB	Ayrton Senna
+f1_champions	42	82KB	Ayrton Senna
+f1_champions	43	139KB	Nigel Mansell
+f1_champions	44	301KB	Alain Prost
+f1_champions	45	89KB	Michael Schumacher
+f1_champions	46	89KB	Michael Schumacher
+f1_champions	47	203KB	Damon Hill
+f1_champions	48	125KB	Jacques Villeneuve
+f1_champions	49	166KB	Mika Häkkinen
+f1_champions	50	166KB	Mika Häkkinen
+f1_champions	51	89KB	Michael Schumacher
+f1_champions	52	89KB	Michael Schumacher
+f1_champions	53	89KB	Michael Schumacher
+f1_champions	54	89KB	Michael Schumacher
+f1_champions	55	89KB	Michael Schumacher
+f1_champions	56	165KB	Fernando Alonso
+f1_champions	57	165KB	Fernando Alonso
+f1_champions	58	94KB	Kimi Räikkönen
+f1_champions	59	226KB	Lewis Hamilton
+f1_champions	60	198KB	Jenson Button
+f1_champions	61	180KB	Sebastian Vettel
+f1_champions	62	180KB	Sebastian Vettel
+f1_champions	63	180KB	Sebastian Vettel
+f1_champions	64	180KB	Sebastian Vettel
+f1_champions	65	226KB	Lewis Hamilton
+f1_champions	66	226KB	Lewis Hamilton
+f1_champions	67	187KB	Nico Rosberg
+f1_champions	68	226KB	Lewis Hamilton
+f1_champions	69	226KB	Lewis Hamilton
+f1_champions	70	226KB	Lewis Hamilton
+f1_champions	71	226KB	Lewis Hamilton
+f1_champions	72	279KB	Max Verstappen
+f1_champions	73	279KB	Max Verstappen
+f1_champions	74	279KB	Max Verstappen
+f1_champions	75	279KB	Max Verstappen
+f1_champions	76	243KB	Lando Norris
+montagnes_monde	1	334KB	Mount Everest
+montagnes_monde	2	377KB	K2
+montagnes_monde	3	324KB	Kangchenjunga
+montagnes_monde	4	331KB	Lhotse
+montagnes_monde	5	204KB	Makalu
+montagnes_monde	6	181KB	Cho Oyu
+montagnes_monde	7	263KB	Dhaulagiri
+montagnes_monde	8	169KB	Manaslu
+montagnes_monde	9	408KB	Nanga Parbat
+montagnes_monde	10	363KB	Annapurna
+montagnes_monde	11	363KB	Aconcagua
+montagnes_monde	12	210KB	Ojos del Salado
+montagnes_monde	13	454KB	Denali
+montagnes_monde	14	188KB	Mount Logan
+montagnes_monde	15	254KB	Mount Kilimanjaro
+montagnes_monde	16	123KB	Mount Elbrus
+montagnes_monde	17	210KB	Popocatépetl
+montagnes_monde	18	106KB	Vinson Massif
+montagnes_monde	19	273KB	Puncak Jaya
+montagnes_monde	20	246KB	Mont Blanc
+montagnes_monde	21	216KB	Matterhorn
+montagnes_monde	22	378KB	Grand Teton
+montagnes_monde	23	96KB	Mount Fuji
+montagnes_monde	24	281KB	Teide
+montagnes_monde	25	45KB	Aneto
+montagnes_monde	26	390KB	Mount Olympus
+montagnes_monde	27	195KB	Mount St. Helens
+montagnes_monde	28	281KB	Ben Nevis
+montagnes_monde	29	235KB	Mount Vesuvius
+montagnes_monde	30	181KB	Table Mountain

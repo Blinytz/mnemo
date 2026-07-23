@@ -1,0 +1,30 @@
+{
+  "section": "films",
+  "completed": [],
+  "failures": [
+    {
+      "list": "films",
+      "row": "15",
+      "requested": "Le Christ marchant sur les eaux",
+      "error": "TMDB sans poster: Le Christ marchant sur les eaux"
+    },
+    {
+      "list": "films",
+      "row": "23",
+      "requested": "La Vie d'un joueur",
+      "error": "TMDB sans poster: La Vie d'un joueur"
+    },
+    {
+      "list": "films",
+      "row": "27",
+      "requested": "Le Vol d'un tableau",
+      "error": "TMDB sans poster: Le Vol d'un tableau"
+    },
+    {
+      "list": "films",
+      "row": "51",
+      "requested": "Feat of Clay",
+      "error": "TMDB sans poster: Feat of Clay"
+    }
+  ]
+}

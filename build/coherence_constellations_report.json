@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-27",
+  "scope": [
+    "coherence miniature/image agrandie",
+    "constellations"
+  ],
+  "coherence_fix": {
+    "method": "Regeneration des miniatures raster depuis leur image plein format correspondante.",
+    "updated_thumbnails": 1624,
+    "skipped": 190,
+    "skipped_reason": "Principalement SVG/vectoriel ou absence de couple raster exploitable.",
+    "witness": {
+      "list": "architectes_majeurs",
+      "row": 3,
+      "subject": "Antoni Gaudi",
+      "thumbnail": "thumbs/architectes_majeurs/3.webp",
+      "full": "full/architectes_majeurs/3.jpg",
+      "full_dimensions": "882x1200",
+      "thumbnail_dimensions": "118x160"
+    }
+  },
+  "constellations": {
+    "rows": 38,
+    "thumbnail_pattern": "thumbs/constellations/<n>.webp",
+    "full_pattern": "full/constellations/<n>.png",
+    "source_family": "Wikimedia Commons - IAU constellation charts",
+    "visual_contract": "Cartes de ciel homogenes avec etoiles et lignes de constellation visibles.",
+    "contact_sheet": "build/constellations_iau_contact_sheet_current.jpg",
+    "verified_files_missing": 0,
+    "http_probe": {
+      "thumbs/constellations/1.webp": 200,
+      "full/constellations/1.png": 200
+    }
+  }
+}

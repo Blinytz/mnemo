@@ -1,0 +1,76 @@
+{
+  "section": "history",
+  "completed": [
+    {
+      "list": "periodes_geologiques",
+      "row": "13",
+      "source": "wiki:en.wikipedia.org:Tonian",
+      "thumb": "thumbs/periodes_geologiques/13.webp",
+      "full": "full/periodes_geologiques/13.webp"
+    },
+    {
+      "list": "periodes_geologiques",
+      "row": "22",
+      "source": "wiki:en.wikipedia.org:Triassic",
+      "thumb": "thumbs/periodes_geologiques/22.webp",
+      "full": "full/periodes_geologiques/22.webp"
+    },
+    {
+      "list": "xixe",
+      "row": "47",
+      "source": "wiki:en.wikipedia.org:On the Origin of Species",
+      "thumb": "thumbs/xixe/47.webp",
+      "full": "full/xixe/47.webp"
+    },
+    {
+      "list": "xixe",
+      "row": "71",
+      "source": "wiki:en.wikipedia.org:Wilhelm Rontgen",
+      "thumb": "thumbs/xixe/71.webp",
+      "full": "full/xixe/71.webp"
+    },
+    {
+      "list": "xxe",
+      "row": "3",
+      "source": "wiki:en.wikipedia.org:Second Boer War",
+      "thumb": "thumbs/xxe/3.webp",
+      "full": "full/xxe/3.webp"
+    },
+    {
+      "list": "xxe",
+      "row": "44",
+      "source": "wiki:en.wikipedia.org:Allied invasion of Sicily",
+      "thumb": "thumbs/xxe/44.webp",
+      "full": "full/xxe/44.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "3",
+      "source": "wiki:en.wikipedia.org:National Convention",
+      "thumb": "thumbs/chefs_etat/3.webp",
+      "full": "full/chefs_etat/3.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "4",
+      "source": "wiki:fr.wikipedia.org:Directoire",
+      "thumb": "thumbs/chefs_etat/4.webp",
+      "full": "full/chefs_etat/4.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "16",
+      "source": "wiki:fr.wikipedia.org:Patrice de MacMahon",
+      "thumb": "thumbs/chefs_etat/16.webp",
+      "full": "full/chefs_etat/16.webp"
+    }
+  ],
+  "failures": [
+    {
+      "list": "litterature",
+      "row": "56",
+      "requested": "The Hitchhiker's Guide to the Galaxy",
+      "error": "page sans image: The Hitchhiker's Guide to the Galaxy"
+    }
+  ]
+}

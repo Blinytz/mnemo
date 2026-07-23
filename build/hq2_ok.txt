@@ -1,0 +1,943 @@
+peintres	1	Jan van Eyck	orig	872px
+peintres	2	Sandro Botticelli	orig	1098px
+peintres	3	Leonardo da Vinci	orig	838px
+peintres	4	Albrecht Dürer	orig	851px
+peintres	5	Michelangelo	orig	1037px
+peintres	7	Titian	orig	884px
+peintres	8	Pieter Bruegel the Elder	orig	1002px
+peintres	9	Caravaggio	orig	859px
+peintres	11	Nicolas Poussin	orig	922px
+peintres	13	Johannes Vermeer	orig	863px
+peintres	14	Francisco Goya	orig	972px
+peintres	15	Jacques-Louis David	orig	855px
+peintres	16	Caspar David Friedrich	orig	925px
+peintres	17	Eugène Delacroix	orig	842px
+peintres	18	Gustave Courbet	orig	811px
+peintres	19	Édouard Manet	orig	902px
+peintres	20	Claude Monet	orig	900px
+peintres	21	Pierre-Auguste Renoir	orig	525px
+peintres	22	Edgar Degas	orig	899px
+peintres	23	Paul Cézanne	orig	250px
+peintres	24	Georges Seurat	orig	775px
+peintres	25	Vincent van Gogh	orig	949px
+peintres	26	Paul Gauguin	orig	944px
+peintres	27	Henri de Toulouse-Lautrec	orig	715px
+peintres	28	Gustav Klimt	orig	780px
+peintres	29	Edvard Munch	orig	589px
+peintres	30	Henri Matisse	orig	1009px
+peintres	31	Pablo Picasso	orig	1027px
+peintres	32	Wassily Kandinsky	orig	864px
+peintres	33	Edward Hopper	orig	801px
+peintres	34	Amedeo Modigliani	orig	1029px
+peintres	35	Diego Rivera	orig	862px
+peintres	36	Marcel Duchamp	orig	942px
+peintres	37	Giorgio de Chirico	orig	290px
+peintres	38	René Magritte	orig	1200px
+peintres	39	Salvador Dalí	orig	934px
+peintres	40	Frida Kahlo	orig	800px
+peintres	41	Jackson Pollock	orig	603px
+peintres	42	Mark Rothko	orig	1198px
+peintres	43	Andy Warhol	orig	826px
+peintres	44	Roy Lichtenstein	orig	899px
+peintres	46	Lucian Freud	orig	427px
+peintres	47	David Hockney	orig	455px
+peintres	48	Gerhard Richter	orig	960px
+peintres	49	Jean-Michel Basquiat	orig	165px
+musees_monde	2	Metropolitan Museum of Art	orig	1200px
+musees_monde	3	British Museum	orig	1200px
+musees_monde	4	Hermitage Museum	orig	1200px
+musees_monde	5	Vatican Museums	thumb	1200px
+musees_monde	8	Rijksmuseum	orig	1200px
+musees_monde	10	Tate Modern	orig	1200px
+musees_monde	11	Museum of Modern Art	orig	900px
+musees_monde	12	Guggenheim Museum Bilbao	orig	1200px
+musees_monde	14	Smithsonian Institution	orig	1200px
+musees_monde	15	Acropolis Museum	thumb	1200px
+musees_monde	17	Tokyo National Museum	orig	1200px
+musees_monde	18	National Museum of China	orig	1200px
+musees_monde	19	Pergamon Museum	orig	1024px
+musees_monde	21	Pinacoteca di Brera	orig	1200px
+musees_monde	22	Topkapı Palace	orig	1200px
+musees_monde	23	Palace of Versailles	orig	1200px
+musees_monde	24	Centre Pompidou	thumb	1200px
+musees_monde	25	Stedelijk Museum Amsterdam	orig	1200px
+parcs_nationaux	1	Yellowstone National Park	orig	768px
+parcs_nationaux	2	Grand Canyon National Park	orig	1200px
+parcs_nationaux	3	Yosemite National Park	orig	1200px
+parcs_nationaux	4	Great Barrier Reef Marine Park	orig	1200px
+parcs_nationaux	5	Serengeti National Park	orig	1200px
+parcs_nationaux	6	Amazon rainforest	orig	1200px
+parcs_nationaux	7	Torres del Paine National Park	orig	948px
+parcs_nationaux	8	Galápagos National Park	orig	674px
+parcs_nationaux	9	Fiordland National Park	orig	1200px
+parcs_nationaux	10	Banff National Park	orig	1200px
+parcs_nationaux	11	Kruger National Park	orig	1200px
+parcs_nationaux	12	Everglades National Park	orig	1200px
+parcs_nationaux	13	Machu Picchu	orig	1200px
+parcs_nationaux	14	Zhangjiajie National Forest Park	orig	1200px
+parcs_nationaux	15	Komodo National Park	orig	800px
+parcs_nationaux	16	Kilimanjaro National Park	orig	1200px
+parcs_nationaux	20	Arches National Park	orig	1200px
+parcs_nationaux	21	Tongariro National Park	orig	660px
+parcs_nationaux	22	Dolomites	orig	1200px
+parcs_nationaux	23	Cévennes National Park	orig	1200px
+compositeurs	1	Johann Sebastian Bach	orig	925px
+compositeurs	2	George Frideric Handel	orig	993px
+compositeurs	3	Antonio Vivaldi	orig	974px
+compositeurs	4	Wolfgang Amadeus Mozart	orig	900px
+compositeurs	5	Ludwig van Beethoven	orig	964px
+compositeurs	6	Franz Schubert	orig	1006px
+compositeurs	7	Frédéric Chopin	orig	836px
+compositeurs	8	Robert Schumann	orig	1200px
+compositeurs	9	Franz Liszt	orig	656px
+compositeurs	10	Richard Wagner	orig	866px
+compositeurs	11	Giuseppe Verdi	orig	977px
+compositeurs	12	Johannes Brahms	orig	997px
+compositeurs	13	Antonín Dvořák	orig	969px
+compositeurs	14	Pyotr Ilyich Tchaikovsky	orig	860px
+compositeurs	15	Giacomo Puccini	orig	1024px
+compositeurs	16	Gustav Mahler	orig	801px
+compositeurs	17	Claude Debussy	orig	858px
+compositeurs	18	Maurice Ravel	orig	900px
+compositeurs	19	Igor Stravinsky	orig	993px
+compositeurs	20	Béla Bartók	orig	411px
+compositeurs	21	Sergei Prokofiev	orig	974px
+compositeurs	22	Dmitri Shostakovich	orig	521px
+compositeurs	23	Arnold Schoenberg	orig	843px
+compositeurs	24	Alban Berg	orig	793px
+compositeurs	25	Anton Webern	orig	879px
+mouvements_peinture	1	Byzantine art	orig	1135px
+mouvements_peinture	2	Romanesque art	orig	1200px
+mouvements_peinture	3	Gothic art	orig	806px
+mouvements_peinture	4	Early Netherlandish painting	orig	877px
+mouvements_peinture	5	Italian Renaissance	orig	720px
+mouvements_peinture	6	Mannerism	orig	767px
+mouvements_peinture	7	Baroque painting	orig	1200px
+mouvements_peinture	8	Dutch Golden Age painting	orig	1070px
+mouvements_peinture	9	Rococo	orig	1200px
+mouvements_peinture	10	Neoclassicism	orig	1200px
+mouvements_peinture	11	Romanticism	orig	937px
+mouvements_peinture	12	Realism (arts)	orig	1200px
+mouvements_peinture	14	Pre-Raphaelite Brotherhood	orig	1200px
+mouvements_peinture	15	Impressionism	orig	1200px
+mouvements_peinture	16	Post-Impressionism	orig	1200px
+mouvements_peinture	18	Art Nouveau	orig	1200px
+mouvements_peinture	19	Fauvism	orig	882px
+mouvements_peinture	20	Expressionism	orig	967px
+mouvements_peinture	21	Cubism	orig	868px
+mouvements_peinture	23	Constructivism (art)	orig	1200px
+mouvements_peinture	24	De Stijl	orig	400px
+mouvements_peinture	25	Dada	orig	1200px
+mouvements_peinture	26	Surrealism	orig	378px
+mouvements_peinture	29	Minimalism	orig	1200px
+mouvements_peinture	30	Conceptual art	orig	919px
+mouvements_peinture	33	Surrealism	orig	378px
+mouvements_peinture	36	Photorealism	orig	1200px
+mouvements_peinture	37	Arte Povera	orig	1200px
+mouvements_peinture	38	Fluxus	orig	609px
+architectes_majeurs	1	Filippo Brunelleschi	orig	961px
+architectes_majeurs	2	Andrea Palladio	orig	1045px
+architectes_majeurs	3	Antoni Gaudí	orig	882px
+architectes_majeurs	4	Frank Lloyd Wright	orig	941px
+architectes_majeurs	5	Le Corbusier	orig	1200px
+architectes_majeurs	6	Ludwig Mies van der Rohe	orig	933px
+architectes_majeurs	7	Zaha Hadid	orig	1200px
+architectes_majeurs	8	I. M. Pei	orig	898px
+architectes_majeurs	9	Michelangelo	orig	1037px
+architectes_majeurs	10	Christopher Wren	orig	942px
+architectes_majeurs	11	Balthasar Neumann	orig	1039px
+architectes_majeurs	12	Charles Garnier (architect)	orig	889px
+architectes_majeurs	13	Victor Horta	orig	378px
+architectes_majeurs	14	Walter Gropius	orig	540px
+architectes_majeurs	15	Alvar Aalto	orig	909px
+architectes_majeurs	16	Oscar Niemeyer	orig	686px
+architectes_majeurs	17	Louis Kahn	orig	480px
+architectes_majeurs	18	Renzo Piano	orig	800px
+architectes_majeurs	19	Norman Foster	orig	952px
+architectes_majeurs	20	Frank Gehry	orig	391px
+architectes_majeurs	21	Tadao Ando	orig	683px
+architectes_majeurs	22	Jean Nouvel	orig	1200px
+architectes_majeurs	23	Rem Koolhaas	orig	1200px
+architectes_majeurs	24	Santiago Calatrava	orig	773px
+architectes_majeurs	26	Kengo Kuma	orig	1200px
+architectes_majeurs	27	Dominique Perrault	orig	709px
+architectes_majeurs	28	Carlo Scarpa	orig	773px
+architectes_majeurs	30	Bjarke Ingels	orig	957px
+decouvertes_scientifiques	1	Heliocentrism	orig	570px
+decouvertes_scientifiques	4	Laws of thermodynamics	thumb	1200px
+decouvertes_scientifiques	5	Electromagnetism	thumb	1200px
+decouvertes_scientifiques	7	Germ theory of disease	orig	1200px
+decouvertes_scientifiques	8	Periodic table	thumb	1200px
+decouvertes_scientifiques	9	X-ray	orig	1200px
+decouvertes_scientifiques	12	Quantum mechanics	orig	1200px
+decouvertes_scientifiques	13	DNA	thumb	1200px
+decouvertes_scientifiques	14	Penicillin	thumb	1200px
+decouvertes_scientifiques	15	Big Bang	orig	1200px
+decouvertes_scientifiques	16	Plate tectonics	thumb	1200px
+decouvertes_scientifiques	17	Higgs boson	orig	720px
+decouvertes_scientifiques	19	CRISPR	orig	1200px
+decouvertes_scientifiques	20	Exoplanet	orig	1000px
+grands_scientifiques	1	Isaac Newton	orig	996px
+grands_scientifiques	2	Galileo Galilei	orig	945px
+grands_scientifiques	3	Albert Einstein	orig	970px
+grands_scientifiques	4	Charles Darwin	orig	912px
+grands_scientifiques	5	Marie Curie	orig	883px
+grands_scientifiques	6	Louis Pasteur	orig	870px
+grands_scientifiques	7	Nikola Tesla	orig	895px
+grands_scientifiques	8	Michael Faraday	orig	907px
+grands_scientifiques	9	James Clerk Maxwell	orig	819px
+grands_scientifiques	10	Max Planck	orig	949px
+grands_scientifiques	11	Niels Bohr	orig	853px
+grands_scientifiques	12	Werner Heisenberg	orig	900px
+grands_scientifiques	13	Richard Feynman	orig	713px
+grands_scientifiques	14	Erwin Schrödinger	orig	869px
+grands_scientifiques	15	Gregor Mendel	orig	884px
+grands_scientifiques	16	Johannes Kepler	orig	836px
+grands_scientifiques	17	René Descartes	orig	817px
+grands_scientifiques	18	Blaise Pascal	orig	1007px
+grands_scientifiques	19	Leonhard Euler	orig	928px
+grands_scientifiques	20	Carl Friedrich Gauss	orig	942px
+grands_scientifiques	21	James Watt	orig	956px
+grands_scientifiques	22	Antoine Lavoisier	orig	860px
+grands_scientifiques	23	Humphry Davy	orig	922px
+grands_scientifiques	24	Alessandro Volta	orig	390px
+grands_scientifiques	25	André-Marie Ampère	orig	493px
+grands_scientifiques	26	James Prescott Joule	orig	907px
+grands_scientifiques	28	Heinrich Hertz	orig	918px
+grands_scientifiques	29	Wilhelm Röntgen	orig	932px
+grands_scientifiques	30	Ernest Rutherford	orig	889px
+grands_scientifiques	31	Enrico Fermi	orig	971px
+grands_scientifiques	32	J. Robert Oppenheimer	orig	825px
+grands_scientifiques	33	Linus Pauling	orig	624px
+grands_scientifiques	34	Francis Crick	orig	1092px
+grands_scientifiques	35	James Watson	orig	911px
+grands_scientifiques	36	Stephen Hawking	orig	250px
+grandes_explorations	1	Christopher Columbus	orig	992px
+grandes_explorations	2	Vasco da Gama	orig	883px
+grandes_explorations	3	Ferdinand Magellan	orig	562px
+grandes_explorations	4	Amerigo Vespucci	orig	400px
+grandes_explorations	5	John Cabot	orig	891px
+grandes_explorations	6	Francis Drake	orig	928px
+grandes_explorations	7	Henry Hudson	orig	987px
+grandes_explorations	8	Abel Tasman	orig	1199px
+grandes_explorations	9	James Cook	orig	956px
+grandes_explorations	10	Alexander von Humboldt	orig	800px
+grandes_explorations	11	Meriwether Lewis	orig	965px
+grandes_explorations	14	Jacques Cartier	orig	894px
+grandes_explorations	16	Samuel de Champlain	orig	526px
+grandes_explorations	17	David Livingstone	orig	982px
+grandes_explorations	18	Mungo Park (explorer)	orig	918px
+grandes_explorations	19	Roald Amundsen	orig	892px
+grandes_explorations	20	Ernest Shackleton	orig	869px
+grandes_explorations	21	Robert Falcon Scott	orig	904px
+grandes_explorations	22	Edmund Hillary	orig	945px
+grandes_explorations	23	Yuri Gagarin	orig	900px
+grandes_explorations	24	Neil Armstrong	orig	960px
+grandes_explorations	25	Valentina Tereshkova	orig	900px
+inventions_majeures	1	Wheel	orig	1200px
+inventions_majeures	3	Printing press	orig	952px
+inventions_majeures	4	Steam engine	orig	1200px
+inventions_majeures	5	Telephone	orig	1200px
+inventions_majeures	6	Incandescent light bulb	orig	723px
+inventions_majeures	8	Airplane	orig	1024px
+inventions_majeures	9	Television	orig	1200px
+inventions_majeures	10	Penicillin	thumb	1200px
+inventions_majeures	11	Computer	orig	1200px
+inventions_majeures	12	Internet	orig	1200px
+inventions_majeures	13	Transistor	orig	831px
+inventions_majeures	14	Laser	orig	1200px
+inventions_majeures	15	Plastic	orig	601px
+inventions_majeures	16	Nuclear reactor	orig	1200px
+inventions_majeures	17	Satellite	orig	1200px
+inventions_majeures	18	Integrated circuit	orig	1200px
+inventions_majeures	19	World Wide Web	orig	1200px
+inventions_majeures	20	Smartphone	orig	1200px
+inventions_majeures	21	Global Positioning System	orig	1200px
+inventions_majeures	23	Gunpowder	orig	1200px
+inventions_majeures	24	Compass	orig	1200px
+inventions_majeures	25	Clock	orig	877px
+inventions_majeures	26	Telescope	orig	554px
+inventions_majeures	27	Microscope	orig	1195px
+inventions_majeures	28	Vaccine	orig	1200px
+inventions_majeures	30	Radio	orig	1058px
+civilisations	1	Ancient Egypt	thumb	588px
+civilisations	2	Mesopotamia	thumb	1200px
+civilisations	3	Ancient Greece	orig	1200px
+civilisations	4	Roman Empire	orig	1200px
+civilisations	5	Achaemenid Empire	orig	1200px
+civilisations	7	Indus Valley Civilisation	orig	900px
+civilisations	8	Maya civilization	orig	1074px
+civilisations	9	Aztec Empire	thumb	1200px
+civilisations	10	Inca Empire	thumb	1200px
+civilisations	11	Byzantine Empire	thumb	1200px
+civilisations	12	Islamic Golden Age	orig	1101px
+civilisations	13	Viking Age	orig	1200px
+civilisations	14	Holy Roman Empire	thumb	1200px
+civilisations	15	Mongol Empire	orig	1200px
+civilisations	16	Ottoman Empire	thumb	1200px
+civilisations	17	Mughal Empire	orig	840px
+civilisations	18	British Empire	thumb	1200px
+civilisations	19	Carolingian Empire	thumb	1200px
+civilisations	20	Ancient Carthage	orig	770px
+civilisations	21	Minoan civilization	thumb	1200px
+civilisations	22	Phoenicia	thumb	1200px
+civilisations	23	Hittites	orig	1200px
+civilisations	25	Mughal Empire	orig	840px
+guerres	1	Trojan War	orig	1200px
+guerres	2	Greco-Persian Wars	orig	1200px
+guerres	3	Peloponnesian War	orig	1200px
+guerres	4	Punic Wars	orig	800px
+guerres	5	Gallic Wars	orig	1200px
+guerres	6	Hundred Years' War	orig	1200px
+guerres	7	Crusades	orig	823px
+guerres	9	Ottoman wars in Europe	orig	1200px
+guerres	10	Thirty Years' War	orig	1200px
+guerres	11	American Revolutionary War	orig	1200px
+guerres	12	Napoleonic Wars	orig	800px
+guerres	13	Crimean War	orig	1200px
+guerres	14	American Civil War	orig	1200px
+guerres	15	Franco-Prussian War	orig	1200px
+guerres	16	World War I	orig	1200px
+guerres	17	World War II	orig	798px
+guerres	18	Korean War	orig	1200px
+guerres	19	Vietnam War	orig	1085px
+guerres	20	Gulf War	orig	1200px
+guerres	21	War in Afghanistan (2001–2021)	orig	1200px
+guerres	22	Iraq War	orig	1200px
+rois_france	1	Clovis I	orig	276px
+rois_france	2	Chlothar I	orig	446px
+rois_france	3	Chilperic I	orig	286px
+rois_france	4	Chlothar II	orig	533px
+rois_france	5	Dagobert I	orig	637px
+rois_france	6	Clovis II	orig	441px
+rois_france	7	Chlothar III	orig	686px
+rois_france	8	Theuderic III	orig	846px
+rois_france	9	Clovis IV	orig	618px
+rois_france	10	Childebert III	orig	472px
+rois_france	11	Dagobert III	orig	230px
+rois_france	12	Chilperic II	orig	433px
+rois_france	14	Childeric III	orig	989px
+rois_france	15	Pepin the Short	orig	731px
+rois_france	16	Charlemagne	orig	1200px
+rois_france	17	Louis the Pious	orig	700px
+rois_france	18	Charles the Bald	orig	1008px
+rois_france	19	Louis the Stammerer	orig	1200px
+rois_france	20	Louis III of France	orig	1200px
+rois_france	22	Charles the Fat	orig	302px
+rois_france	24	Charles the Simple	orig	1200px
+rois_france	25	Robert I of France	orig	269px
+rois_france	26	Rudolph of France	orig	971px
+rois_france	27	Louis IV of France	orig	1200px
+rois_france	28	Lothair of France	orig	794px
+rois_france	29	Louis V of France	orig	758px
+rois_france	30	Hugh Capet	orig	227px
+rois_france	31	Robert II of France	orig	412px
+rois_france	32	Henry I of France	orig	566px
+rois_france	33	Philip I of France	orig	564px
+rois_france	34	Louis VI of France	orig	544px
+rois_france	35	Louis VII of France	orig	568px
+rois_france	36	Philip II of France	orig	511px
+rois_france	37	Louis VIII of France	orig	346px
+rois_france	38	Louis IX of France	orig	826px
+rois_france	39	Philip III of France	orig	372px
+rois_france	40	Philip IV of France	orig	352px
+rois_france	41	Louis X of France	orig	435px
+rois_france	42	John I of France	orig	980px
+rois_france	43	Philip V of France	orig	427px
+rois_france	44	Charles IV of France	orig	400px
+rois_france	45	Philip VI of France	orig	295px
+rois_france	46	John II of France	orig	725px
+rois_france	47	Charles V of France	orig	900px
+rois_france	48	Charles VI of France	orig	848px
+rois_france	49	Charles VII of France	orig	986px
+rois_france	51	Charles VIII of France	orig	931px
+rois_france	53	Francis I of France	orig	928px
+rois_france	54	Henry II of France	orig	875px
+rois_france	55	Francis II of France	orig	883px
+rois_france	56	Charles IX of France	orig	879px
+rois_france	57	Henry III of France	orig	985px
+rois_france	58	Henry IV of France	orig	972px
+rois_france	59	Louis XIII	orig	947px
+rois_france	60	Louis XIV	orig	845px
+rois_france	61	Louis XV	orig	903px
+rois_france	62	Louis XVI	orig	852px
+rois_france	63	Napoleon	orig	720px
+rois_france	64	Louis XVIII	orig	832px
+rois_france	65	Charles X of France	orig	837px
+rois_france	66	Louis Philippe I	orig	776px
+mythologie	1	Zeus	orig	789px
+mythologie	2	Hera	orig	658px
+mythologie	3	Poseidon	orig	900px
+mythologie	4	Demeter	orig	524px
+mythologie	5	Athena	orig	600px
+mythologie	6	Apollo	orig	797px
+mythologie	7	Artemis	orig	900px
+mythologie	8	Ares	orig	600px
+mythologie	9	Aphrodite	orig	513px
+mythologie	10	Hephaestus	orig	1200px
+mythologie	11	Hermes	orig	549px
+mythologie	12	Dionysus	orig	609px
+mythologie	13	Hades	orig	1194px
+mythologie	14	Persephone	orig	662px
+mythologie	15	Hestia	orig	483px
+mythologie	16	Nyx	orig	1200px
+mythologie	17	Chaos (cosmogony)	orig	1200px
+mythologie	18	Cronus	orig	1200px
+mythologie	19	Hecate	orig	800px
+mythologie	20	Thanatos	orig	600px
+mythologie	21	Hypnos	orig	1152px
+mythologie	23	Eros	orig	777px
+mythologie	24	Nike (mythology)	orig	1200px
+mythologie	25	Prometheus	orig	1200px
+mythologie	26	Atlas (mythology)	orig	900px
+mythologie	27	Helios	orig	528px
+mythologie	29	Pan (god)	orig	388px
+mythologie	30	Dionysus	orig	609px
+mythologie	31	Asclepius	orig	504px
+mythologie	32	Heracles	orig	1200px
+mythologie	33	Achilles	orig	684px
+mythologie	34	Odysseus	orig	1014px
+mythologie	35	Theseus	orig	1200px
+mythologie	36	Minotaur	orig	1200px
+mythologie	37	Orpheus	orig	1130px
+mythologie	39	Sisyphus	orig	1166px
+mythologie	40	Perseus	orig	800px
+mythologie	41	Medusa	orig	1200px
+mythologie	42	Icarus	orig	1110px
+mythologie	43	Daedalus	orig	1200px
+mythologie	44	Narcissus (mythology)	orig	1096px
+mythologie	45	Echo (mythology)	orig	1200px
+mythologie	46	Arachne	orig	1200px
+mythologie	47	Oedipus	orig	1200px
+mythologie	48	Pandora	orig	764px
+mythologie	49	Eris (mythology)	orig	560px
+mythologie	50	Helios	orig	528px
+mythologie	52	Tyche	orig	1200px
+mythologie	54	Cerberus	orig	1200px
+mythologie	55	Medea	orig	1030px
+mythologie	57	Tantalus	orig	1200px
+mythologie	58	Ixion	orig	935px
+litterature	1	Iliad	orig	1200px
+litterature	2	Odyssey	orig	779px
+litterature	3	Aeneid	orig	1050px
+litterature	5	Divine Comedy	orig	1200px
+litterature	6	The Decameron	orig	794px
+litterature	7	Don Quixote	orig	748px
+litterature	8	William Shakespeare	orig	941px
+litterature	9	Hamlet	orig	361px
+litterature	10	King Lear	orig	1200px
+litterature	11	Essays (Montaigne)	orig	922px
+litterature	12	Candide	orig	661px
+litterature	13	Gulliver's Travels	orig	1200px
+litterature	14	Les Misérables	orig	811px
+litterature	15	The Red and the Black	orig	1200px
+litterature	16	The Charterhouse of Parma	orig	514px
+litterature	17	Père Goriot	orig	726px
+litterature	18	Madame Bovary	orig	759px
+litterature	20	The Brothers Karamazov	orig	636px
+litterature	21	War and Peace	orig	756px
+litterature	24	Adventures of Huckleberry Finn	orig	918px
+litterature	25	Moby-Dick	orig	730px
+litterature	26	Wuthering Heights	orig	702px
+litterature	27	Jane Eyre	orig	700px
+litterature	28	The Picture of Dorian Gray	orig	795px
+litterature	29	In Search of Lost Time	orig	506px
+litterature	30	Ulysses (novel)	orig	444px
+litterature	31	Mrs Dalloway	orig	869px
+litterature	32	The Great Gatsby	orig	847px
+litterature	33	The Stranger (Camus novel)	orig	601px
+litterature	36	The Castle (novel)	orig	837px
+litterature	37	Faust, Part One	orig	679px
+litterature	38	Animal Farm	orig	543px
+litterature	39	Nineteen Eighty-Four	orig	220px
+litterature	42	The Catcher in the Rye	orig	1032px
+litterature	43	On the Road	orig	795px
+litterature	45	The Master and Margarita	orig	900px
+litterature	47	The Sound and the Fury	orig	817px
+litterature	48	Beloved (novel)	orig	811px
+litterature	50	The Grapes of Wrath	orig	702px
+litterature	51	Les Fleurs du mal	orig	724px
+litterature	54	Dune (novel)	orig	773px
+litterature	58	The Alchemist (novel)	orig	516px
+batailles_decisives	1	Battle of Marathon	orig	1200px
+batailles_decisives	2	Battle of Hastings	orig	1200px
+batailles_decisives	3	Battle of Bouvines	orig	1200px
+batailles_decisives	4	Battle of Waterloo	orig	1200px
+batailles_decisives	5	Battle of Verdun	orig	971px
+batailles_decisives	6	Battle of Stalingrad	orig	1024px
+batailles_decisives	7	Battle of Midway	orig	1200px
+batailles_decisives	8	Battle of Dien Bien Phu	orig	1200px
+batailles_decisives	9	Battle of Gaugamela	orig	1200px
+batailles_decisives	10	Battle of Cannae	orig	1200px
+batailles_decisives	11	Battle of Actium	orig	1200px
+batailles_decisives	12	Battle of the Catalaunian Plains	orig	961px
+batailles_decisives	13	Battle of the Yarmuk	orig	1200px
+batailles_decisives	14	Battle of Tours	orig	1200px
+batailles_decisives	15	Battle of Lepanto	orig	1200px
+batailles_decisives	16	Battle of Rocroi	orig	593px
+batailles_decisives	17	Battle of Poltava	orig	1200px
+batailles_decisives	18	Battle of Plassey	orig	1200px
+batailles_decisives	20	Battle of Valmy	orig	1200px
+batailles_decisives	21	Battle of Austerlitz	orig	1200px
+batailles_decisives	22	Battle of Leipzig	orig	1200px
+batailles_decisives	23	Battle of Tsushima	orig	900px
+batailles_decisives	24	First Battle of the Marne	orig	501px
+batailles_decisives	25	Battle of the Somme	thumb	1200px
+batailles_decisives	26	Second Battle of El Alamein	orig	1200px
+batailles_decisives	27	Battle of Kursk	orig	605px
+batailles_decisives	28	Normandy landings	orig	1200px
+batailles_decisives	30	Battle of Inchon	orig	1200px
+batailles_decisives	31	Yom Kippur War	thumb	798px
+batailles_decisives	32	Falklands War	orig	800px
+batailles_decisives	33	Gulf War	orig	1200px
+fleuves_monde	1	Nile	orig	1200px
+fleuves_monde	2	Amazon River	orig	1200px
+fleuves_monde	3	Yangtze	orig	1200px
+fleuves_monde	4	Mississippi River	orig	900px
+fleuves_monde	5	Yenisei	orig	1200px
+fleuves_monde	6	Yellow River	orig	1200px
+fleuves_monde	7	Ob	orig	1200px
+fleuves_monde	8	Paraná River	orig	1000px
+fleuves_monde	9	Congo River	orig	1200px
+fleuves_monde	11	Lena River	orig	640px
+fleuves_monde	12	Mekong	orig	1200px
+fleuves_monde	13	Niger River	orig	1200px
+fleuves_monde	14	Mackenzie River	orig	1109px
+fleuves_monde	15	Volga	orig	1200px
+fleuves_monde	16	Zambezi	orig	600px
+fleuves_monde	17	Orinoco	orig	1024px
+fleuves_monde	18	Euphrates	orig	1200px
+fleuves_monde	19	Tigris	orig	1200px
+fleuves_monde	20	Ganges	orig	1094px
+fleuves_monde	21	Indus River	orig	1008px
+fleuves_monde	22	Murray River	orig	1200px
+fleuves_monde	23	Danube	orig	1200px
+fleuves_monde	26	Rio Grande	orig	1200px
+fleuves_monde	27	Orange River	orig	1200px
+fleuves_monde	28	Rhine	orig	1200px
+fleuves_monde	29	Senegal River	orig	1200px
+fleuves_monde	30	Irrawaddy River	orig	1200px
+constellations	1	Orion (constellation)	thumb	967px
+constellations	2	Ursa Major	thumb	1200px
+constellations	3	Ursa Minor	thumb	1081px
+constellations	4	Cassiopeia (constellation)	thumb	1200px
+constellations	5	Scorpius	thumb	969px
+constellations	6	Leo (constellation)	thumb	976px
+constellations	7	Virgo (constellation)	thumb	1200px
+constellations	8	Gemini (constellation)	thumb	1200px
+constellations	9	Aquarius (constellation)	thumb	1200px
+constellations	10	Pisces (constellation)	thumb	1200px
+constellations	11	Aries (constellation)	thumb	1200px
+constellations	12	Taurus (constellation)	thumb	1200px
+constellations	13	Cancer (constellation)	thumb	1200px
+constellations	14	Libra (constellation)	thumb	1200px
+constellations	15	Sagittarius (constellation)	thumb	974px
+constellations	16	Capricornus	thumb	1200px
+constellations	17	Perseus (constellation)	thumb	1200px
+constellations	18	Andromeda (constellation)	thumb	1200px
+constellations	19	Cygnus (constellation)	thumb	976px
+constellations	21	Aquila (constellation)	thumb	1200px
+constellations	22	Hercules (constellation)	thumb	976px
+constellations	23	Boötes	thumb	976px
+constellations	24	Draco (constellation)	thumb	1200px
+constellations	25	Centaurus	thumb	1200px
+constellations	26	Crux	thumb	1200px
+constellations	27	Canis Major	thumb	1200px
+constellations	28	Canis Minor	thumb	1200px
+constellations	29	Hydra (constellation)	thumb	1200px
+constellations	30	Eridanus (constellation)	thumb	1174px
+constellations	31	Ophiuchus	thumb	976px
+constellations	32	Serpens	thumb	920px
+constellations	33	Corona Borealis	thumb	1200px
+constellations	35	Pegasus (constellation)	thumb	1200px
+constellations	37	Piscis Austrinus	thumb	1200px
+constellations	38	Lupus (constellation)	thumb	1200px
+detroits_monde	1	Strait of Gibraltar	orig	1200px
+detroits_monde	3	Dardanelles	orig	700px
+detroits_monde	4	Strait of Hormuz	orig	1200px
+detroits_monde	5	Strait of Malacca	orig	850px
+detroits_monde	6	Bering Strait	orig	1024px
+detroits_monde	7	Strait of Magellan	orig	923px
+detroits_monde	8	Bab-el-Mandeb	orig	1200px
+detroits_monde	9	Strait of Dover	orig	1000px
+detroits_monde	10	Strait of Messina	orig	694px
+detroits_monde	11	Skagerrak	orig	445px
+detroits_monde	12	Taiwan Strait	orig	1187px
+detroits_monde	13	Korea Strait	orig	681px
+detroits_monde	14	Lombok Strait	orig	1200px
+detroits_monde	15	Bass Strait	thumb	1200px
+detroits_monde	16	Straits of Florida	orig	260px
+detroits_monde	17	Øresund	orig	465px
+detroits_monde	18	Mozambique Channel	orig	250px
+detroits_monde	19	Singapore Strait	orig	1200px
+detroits_monde	20	Tsugaru Strait	orig	705px
+revolutions	1	American Revolution	orig	1200px
+revolutions	2	French Revolution	orig	1200px
+revolutions	3	Haitian Revolution	orig	1200px
+revolutions	5	Revolutions of 1848	orig	1200px
+revolutions	6	Meiji Restoration	orig	949px
+revolutions	7	Russian Revolution	orig	1200px
+revolutions	9	Mexican Revolution	orig	1200px
+revolutions	10	Turkish War of Independence	orig	655px
+revolutions	11	Indian independence movement	orig	801px
+revolutions	12	Chinese Communist Revolution	orig	640px
+revolutions	13	Cuban Revolution	orig	1200px
+revolutions	14	Iranian Revolution	orig	766px
+revolutions	15	Velvet Revolution	orig	1200px
+revolutions	16	Fall of the Berlin Wall	orig	661px
+chefs_etat	1	George Washington	orig	988px
+chefs_etat	2	Abraham Lincoln	orig	900px
+chefs_etat	3	Napoleon	orig	720px
+chefs_etat	4	Winston Churchill	orig	965px
+chefs_etat	5	Charles de Gaulle	orig	797px
+chefs_etat	6	Otto von Bismarck	orig	676px
+chefs_etat	7	Vladimir Lenin	orig	900px
+chefs_etat	8	Joseph Stalin	orig	900px
+chefs_etat	9	Adolf Hitler	orig	885px
+chefs_etat	10	Benito Mussolini	orig	886px
+chefs_etat	11	Franklin D. Roosevelt	orig	901px
+chefs_etat	12	Mao Zedong	orig	673px
+chefs_etat	13	Mahatma Gandhi	orig	961px
+chefs_etat	14	Nelson Mandela	orig	928px
+chefs_etat	15	John F. Kennedy	orig	925px
+chefs_etat	16	Fidel Castro	orig	692px
+chefs_etat	17	Che Guevara	orig	1036px
+chefs_etat	18	Ho Chi Minh	orig	853px
+chefs_etat	19	Jawaharlal Nehru	orig	265px
+chefs_etat	20	Simón Bolívar	orig	800px
+chefs_etat	21	Otto von Bismarck	orig	676px
+chefs_etat	22	Mustafa Kemal Atatürk	orig	850px
+chefs_etat	23	Franklin D. Roosevelt	orig	901px
+chefs_etat	24	Harry S. Truman	orig	889px
+chefs_etat	25	Dwight D. Eisenhower	orig	919px
+jo_ete	1	1896 Summer Olympics	orig	965px
+jo_ete	2	1900 Summer Olympics	orig	800px
+jo_ete	3	1904 Summer Olympics	orig	766px
+jo_ete	4	1906 Intercalated Games	orig	409px
+jo_ete	5	1908 Summer Olympics	orig	590px
+jo_ete	6	1912 Summer Olympics	orig	887px
+jo_ete	7	1920 Summer Olympics	orig	278px
+jo_ete	8	1924 Summer Olympics	thumb	1200px
+jo_ete	9	1928 Summer Olympics	orig	274px
+jo_ete	10	1932 Summer Olympics	thumb	1151px
+jo_ete	13	1952 Summer Olympics	orig	266px
+jo_ete	16	1964 Summer Olympics	thumb	658px
+jo_ete	18	1972 Summer Olympics	thumb	1200px
+jo_ete	19	1976 Summer Olympics	thumb	991px
+jo_ete	20	1980 Summer Olympics	thumb	527px
+jo_hiver	1	1924 Winter Olympics	orig	847px
+jo_hiver	2	1928 Winter Olympics	orig	764px
+jo_hiver	3	1932 Winter Olympics	thumb	720px
+jo_hiver	7	1956 Winter Olympics	orig	900px
+jo_hiver	9	1964 Winter Olympics	thumb	1173px
+jo_hiver	14	1984 Winter Olympics	thumb	660px
+jo_hiver	18	1998 Winter Olympics	orig	1200px
+jo_hiver	19	2002 Winter Olympics	thumb	1192px
+jo_hiver	22	2014 Winter Olympics	thumb	1200px
+jo_hiver	23	2018 Winter Olympics	thumb	1200px
+jo_hiver	25	2026 Winter Olympics	thumb	1081px
+coupes_monde	1	1930 FIFA World Cup	orig	400px
+coupes_monde	2	1934 FIFA World Cup	orig	400px
+coupes_monde	3	1938 FIFA World Cup	orig	396px
+coupes_monde	4	1950 FIFA World Cup	orig	772px
+coupes_monde	9	1970 FIFA World Cup	thumb	850px
+coupes_monde	10	1974 FIFA World Cup	thumb	1200px
+coupes_monde	11	1978 FIFA World Cup	thumb	1149px
+coupes_monde	13	1986 FIFA World Cup	orig	819px
+coupes_monde	15	1994 FIFA World Cup	thumb	1200px
+f1_champions	1	Giuseppe Farina	orig	886px
+f1_champions	2	Alberto Ascari	orig	586px
+f1_champions	3	Juan Manuel Fangio	orig	900px
+f1_champions	5	Jack Brabham	orig	774px
+f1_champions	7	Graham Hill	orig	958px
+f1_champions	8	Jim Clark	orig	600px
+f1_champions	9	John Surtees	orig	433px
+f1_champions	10	Denny Hulme	orig	1200px
+f1_champions	11	Jackie Stewart	orig	797px
+f1_champions	12	Emerson Fittipaldi	orig	687px
+f1_champions	13	Niki Lauda	orig	873px
+f1_champions	14	James Hunt	orig	860px
+f1_champions	15	Mario Andretti	orig	899px
+f1_champions	16	Jody Scheckter	orig	407px
+f1_champions	17	Alan Jones (racing driver)	orig	898px
+f1_champions	18	Nelson Piquet	orig	900px
+f1_champions	19	Keke Rosberg	orig	796px
+f1_champions	20	Alain Prost	orig	960px
+f1_champions	21	Ayrton Senna	orig	438px
+f1_champions	22	Nigel Mansell	orig	850px
+f1_champions	23	Michael Schumacher	orig	828px
+f1_champions	24	Damon Hill	orig	800px
+f1_champions	25	Jacques Villeneuve	orig	873px
+f1_champions	26	Mika Häkkinen	orig	799px
+f1_champions	27	Kimi Räikkönen	orig	641px
+f1_champions	28	Fernando Alonso	orig	800px
+f1_champions	29	Jenson Button	orig	800px
+f1_champions	30	Sebastian Vettel	orig	791px
+f1_champions	31	Lewis Hamilton	orig	900px
+f1_champions	32	Max Verstappen	orig	909px
+consoles	1	Magnavox Odyssey	orig	1200px
+consoles	2	Atari 2600	orig	1200px
+consoles	3	Intellivision	orig	1200px
+consoles	4	ColecoVision	orig	1200px
+consoles	5	Nintendo Entertainment System	orig	1200px
+consoles	7	Atari 7800	orig	1200px
+consoles	8	TurboGrafx-16	orig	1200px
+consoles	9	Sega Genesis	orig	1200px
+consoles	10	Super Nintendo Entertainment System	orig	1200px
+consoles	12	Sega Saturn	orig	1200px
+consoles	13	PlayStation (console)	thumb	1200px
+consoles	14	Nintendo 64	orig	1200px
+consoles	15	Dreamcast	thumb	1200px
+consoles	16	PlayStation 2	orig	1200px
+consoles	17	Xbox (console)	orig	1200px
+consoles	19	PlayStation Portable	orig	1200px
+consoles	20	Nintendo DS	orig	1200px
+consoles	22	PlayStation 3	orig	730px
+consoles	23	Wii	orig	1200px
+consoles	24	PlayStation Vita	orig	1200px
+consoles	25	Nintendo 3DS	orig	1200px
+consoles	26	Xbox One	orig	800px
+consoles	27	PlayStation 4	orig	1200px
+consoles	28	Nintendo Switch	thumb	1200px
+consoles	29	Xbox Series X and Series S	thumb	1200px
+consoles	30	PlayStation 5	orig	663px
+films	1	The Birth of a Nation	orig	778px
+films	2	Metropolis (1927 film)	orig	542px
+films	3	City Lights	orig	800px
+films	4	Nosferatu	orig	1200px
+films	5	Battleship Potemkin	orig	850px
+films	6	Sunrise: A Song of Two Humans	orig	762px
+films	8	It Happened One Night	orig	787px
+films	9	Snow White and the Seven Dwarfs (1937 film)	orig	787px
+films	11	Citizen Kane	orig	799px
+films	12	Casablanca (film)	orig	580px
+films	13	Double Indemnity	orig	796px
+films	16	All About Eve	orig	783px
+films	17	Rashomon	orig	862px
+films	18	Singin' in the Rain	orig	792px
+films	19	Rear Window	orig	802px
+films	22	Vertigo (film)	orig	774px
+films	24	Psycho (1960 film)	orig	810px
+films	26	Lawrence of Arabia (film)	orig	788px
+lunes	1	Io (moon)	orig	1200px
+lunes	2	Europa (moon)	orig	1200px
+lunes	3	Ganymede (moon)	orig	1200px
+lunes	4	Callisto (moon)	orig	1200px
+lunes	5	Amalthea (moon)	orig	860px
+lunes	6	Himalia (moon)	orig	735px
+lunes	7	Elara (moon)	orig	400px
+lunes	8	Pasiphae (moon)	orig	400px
+lunes	9	Sinope (moon)	orig	400px
+lunes	10	Lysithea (moon)	orig	256px
+lunes	11	Carme (moon)	orig	400px
+lunes	12	Ananke (moon)	orig	419px
+lunes	14	Thebe (moon)	orig	229px
+lunes	16	Metis (moon)	orig	150px
+lunes	17	Titan (moon)	orig	750px
+lunes	18	Rhea (moon)	orig	1200px
+lunes	20	Dione (moon)	orig	1019px
+lunes	21	Tethys (moon)	orig	1200px
+lunes	22	Enceladus	orig	1020px
+lunes	24	Hyperion (moon)	orig	1080px
+lunes	25	Phoebe (moon)	orig	1050px
+lunes	26	Janus (moon)	orig	988px
+lunes	27	Epimetheus (moon)	orig	600px
+lunes	28	Helene (moon)	orig	960px
+lunes	29	Telesto (moon)	orig	600px
+lunes	30	Calypso (moon)	orig	600px
+lunes	31	Atlas (moon)	orig	1200px
+lunes	32	Prometheus (moon)	orig	800px
+lunes	33	Pandora (moon)	orig	501px
+lunes	34	Miranda (moon)	orig	1200px
+lunes	35	Ariel (moon)	orig	1151px
+lunes	36	Umbriel	orig	620px
+lunes	37	Titania (moon)	orig	646px
+lunes	38	Oberon (moon)	orig	350px
+lunes	39	Puck (moon)	orig	510px
+lunes	41	Triton (moon)	orig	1200px
+lunes	43	Larissa (moon)	orig	227px
+lunes	44	Proteus (moon)	orig	836px
+lunes	45	Despina (moon)	orig	320px
+lunes	46	Galatea (moon)	orig	320px
+lunes	47	Thalassa (moon)	orig	1200px
+lunes	48	Naiad (moon)	orig	535px
+lunes	49	Charon (moon)	orig	1200px
+lunes	50	Nix (moon)	orig	336px
+lunes	51	Hydra (moon)	orig	500px
+lunes	52	Kerberos (moon)	orig	1200px
+lunes	53	Styx (moon)	orig	300px
+lunes	54	Moon	orig	1200px
+lunes	55	Phobos (moon)	orig	1200px
+lunes	56	Deimos (moon)	orig	630px
+xxe	1	World War I	orig	1200px
+xxe	2	World War II	orig	798px
+xxe	3	Russian Revolution	orig	1200px
+xxe	4	Great Depression	orig	1200px
+xxe	5	Cold War	thumb	1200px
+xxe	6	Space Race	orig	1094px
+xxe	7	Nuclear warfare	orig	1018px
+xxe	9	Civil rights movement	orig	1200px
+xxe	10	Moon landing	thumb	1200px
+xxe	11	Fall of the Berlin Wall	orig	661px
+xxe	12	Dissolution of the Soviet Union	thumb	1200px
+xxe	13	Internet	orig	1200px
+xxe	14	September 11 attacks	orig	1200px
+xxe	15	Human Genome Project	orig	1163px
+montagnes_monde	1	Mount Everest	orig	1200px
+montagnes_monde	2	K2	orig	1200px
+montagnes_monde	3	Kangchenjunga	orig	1200px
+montagnes_monde	4	Lhotse	orig	1200px
+montagnes_monde	5	Makalu	orig	1200px
+montagnes_monde	6	Cho Oyu	orig	1200px
+montagnes_monde	7	Dhaulagiri	orig	1200px
+montagnes_monde	8	Manaslu	orig	1200px
+montagnes_monde	9	Nanga Parbat	orig	1200px
+montagnes_monde	11	Aconcagua	orig	1200px
+montagnes_monde	12	Ojos del Salado	orig	1200px
+montagnes_monde	13	Denali	orig	1200px
+montagnes_monde	14	Mount Logan	orig	975px
+montagnes_monde	15	Mount Kilimanjaro	orig	1200px
+montagnes_monde	16	Mount Elbrus	orig	1094px
+montagnes_monde	17	Popocatépetl	orig	1200px
+montagnes_monde	18	Vinson Massif	orig	1200px
+montagnes_monde	19	Puncak Jaya	orig	941px
+montagnes_monde	20	Mont Blanc	orig	1200px
+montagnes_monde	21	Matterhorn	orig	1200px
+montagnes_monde	22	Grand Teton	orig	800px
+montagnes_monde	23	Mount Fuji	orig	1200px
+montagnes_monde	24	Teide	orig	1200px
+montagnes_monde	25	Aneto	orig	551px
+montagnes_monde	26	Mount Olympus	orig	1200px
+montagnes_monde	27	Mount St. Helens	orig	1200px
+montagnes_monde	28	Ben Nevis	orig	1200px
+montagnes_monde	29	Mount Vesuvius	orig	1200px
+montagnes_monde	30	Table Mountain	orig	1200px
+mers_oceans	1	Pacific Ocean	orig	330px
+mers_oceans	2	Atlantic Ocean	orig	328px
+mers_oceans	3	Indian Ocean	orig	330px
+mers_oceans	4	Arctic Ocean	orig	329px
+mers_oceans	5	Mediterranean Sea	orig	1200px
+mers_oceans	6	Caribbean Sea	orig	1200px
+mers_oceans	7	Red Sea	orig	734px
+mers_oceans	8	Baltic Sea	orig	800px
+mers_oceans	9	Southern Ocean	thumb	1200px
+mers_oceans	10	South China Sea	orig	1060px
+mers_oceans	11	Coral Sea	orig	1200px
+mers_oceans	12	Tasman Sea	orig	919px
+mers_oceans	13	Arabian Sea	thumb	1200px
+mers_oceans	14	Gulf of Oman	orig	1200px
+mers_oceans	15	Gulf of Mexico	orig	1200px
+mers_oceans	16	Persian Gulf	orig	923px
+mers_oceans	17	North Sea	orig	918px
+mers_oceans	18	Black Sea	orig	784px
+mers_oceans	19	Caspian Sea	orig	943px
+mers_oceans	20	Aegean Sea	orig	902px
+philosophes	1	Socrates	orig	900px
+philosophes	2	Plato	orig	800px
+philosophes	3	Aristotle	orig	897px
+philosophes	4	Epicurus	orig	800px
+philosophes	5	Zeno of Citium	orig	813px
+philosophes	6	Marcus Aurelius	orig	900px
+philosophes	7	Epictetus	orig	817px
+philosophes	8	Augustine of Hippo	orig	940px
+philosophes	9	Thomas Aquinas	orig	801px
+philosophes	10	Niccolò Machiavelli	orig	933px
+philosophes	11	Francis Bacon	orig	977px
+philosophes	12	Thomas Hobbes	orig	905px
+philosophes	13	René Descartes	orig	817px
+philosophes	14	Blaise Pascal	orig	1007px
+philosophes	15	John Locke	orig	984px
+philosophes	16	Baruch Spinoza	orig	1033px
+philosophes	17	Gottfried Wilhelm Leibniz	orig	972px
+philosophes	18	Montesquieu	orig	752px
+philosophes	19	Voltaire	orig	901px
+philosophes	20	David Hume	orig	991px
+philosophes	21	Jean-Jacques Rousseau	orig	947px
+philosophes	22	Adam Smith	orig	985px
+philosophes	23	Immanuel Kant	orig	919px
+philosophes	24	Georg Wilhelm Friedrich Hegel	orig	952px
+philosophes	25	Arthur Schopenhauer	orig	939px
+philosophes	26	Auguste Comte	orig	935px
+philosophes	27	John Stuart Mill	orig	956px
+philosophes	28	Karl Marx	orig	899px
+philosophes	29	Friedrich Nietzsche	orig	885px
+philosophes	30	Edmund Husserl	orig	837px
+philosophes	31	Henri Bergson	orig	941px
+philosophes	32	Bertrand Russell	orig	955px
+philosophes	33	Ludwig Wittgenstein	orig	887px
+philosophes	34	Martin Heidegger	orig	322px
+philosophes	35	Hannah Arendt	orig	912px
+philosophes	36	Jean-Paul Sartre	orig	917px
+philosophes	37	Simone de Beauvoir	orig	516px
+philosophes	38	Albert Camus	orig	719px
+philosophes	39	Claude Lévi-Strauss	orig	961px
+philosophes	40	Michel Foucault	orig	318px
+philosophes	42	Jacques Derrida	orig	881px
+philosophes	43	John Rawls	orig	857px
+philosophes	44	Jürgen Habermas	orig	901px
+philosophes	45	Peter Singer	orig	868px
+xixe	1	Napoleon	orig	720px
+xixe	2	Acts of Union 1800	thumb	1200px
+xixe	3	Treaty of Amiens	orig	1200px
+xixe	4	Louisiana Purchase	orig	1200px
+xixe	5	Coronation of Napoleon	orig	1200px
+xixe	6	Battle of Austerlitz	orig	1200px
+xixe	7	Dissolution of the Holy Roman Empire	thumb	1183px
+xixe	8	Treaties of Tilsit	orig	1200px
+xixe	9	Peninsular War	orig	1200px
+xixe	10	Battle of Wagram	orig	1200px
+xixe	12	King of Rome	orig	1200px
+xixe	13	French invasion of Russia	orig	1200px
+xixe	14	Battle of Leipzig	orig	1200px
+xixe	15	Congress of Vienna	orig	1200px
+xixe	16	Hundred Days	orig	1200px
+xixe	17	Year Without a Summer	orig	1200px
+xixe	18	Chilean Declaration of Independence	orig	479px
+xixe	21	Mexican War of Independence	orig	845px
+xixe	23	Monroe Doctrine	orig	719px
+xixe	24	Symphony No. 9 (Beethoven)	orig	741px
+xixe	25	Stockton and Darlington Railway	orig	971px
+xixe	26	Battle of Navarino	orig	1200px
+xixe	27	Greek War of Independence	orig	1200px
+xixe	28	July Revolution	orig	1200px
+xixe	29	Faraday's law of induction	thumb	1200px
+xixe	30	Reform Act 1832	thumb	1200px
+xixe	31	Slavery Abolition Act 1833	thumb	1200px
+xixe	32	Electrical telegraph	orig	952px
+xixe	33	Texas Revolution	orig	883px
+xixe	34	Queen Victoria	orig	850px
+xixe	35	First Opium War	orig	1040px
+xixe	36	Treaty of Waitangi	orig	641px
+xixe	37	Treaty of Nanking	orig	1200px
+xixe	38	Great Famine (Ireland)	orig	405px
+xixe	39	Discovery of Neptune	orig	529px
+xixe	40	Revolutions of 1848	orig	1200px
+xixe	42	Great Exhibition	orig	1200px
+xixe	43	Second French Empire	thumb	1200px
+xixe	44	Crimean War	orig	1200px
+xixe	46	Indian Rebellion of 1857	orig	1200px
+xixe	47	On the Origin of Species	orig	748px
+xixe	48	Expedition of the Thousand	orig	545px
+xixe	49	American Civil War	orig	1200px
+xixe	50	Battle of Antietam	orig	1200px
+xixe	51	Emancipation Proclamation	orig	1200px
+xixe	52	Second Schleswig War	orig	1200px
+xixe	53	Abraham Lincoln	orig	900px
+xixe	54	Austro-Prussian War	orig	1200px
+xixe	55	Alaska Purchase	orig	1200px
+xixe	56	Meiji Restoration	orig	949px
+xixe	57	Suez Canal	orig	792px
+xixe	58	Franco-Prussian War	orig	1200px
+xixe	59	Paris Commune	orig	1200px
+xixe	60	Battle of the Little Bighorn	orig	1200px
+xixe	61	Congress of Berlin	orig	1200px
+xixe	62	Incandescent light bulb	orig	723px
+xixe	64	Triple Alliance (1882)	thumb	1200px
+xixe	65	Berlin Conference	orig	1200px
+xixe	67	Statue of Liberty	orig	783px
+xixe	68	Eiffel Tower	orig	720px
+xixe	70	Dreyfus affair	orig	913px
+xixe	72	1896 Summer Olympics	orig	965px
+xixe	73	First Zionist Congress	orig	1200px
+xixe	74	Spanish–American War	orig	1030px
+xixe	75	Second Boer War	orig	1157px

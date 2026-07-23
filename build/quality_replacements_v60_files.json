@@ -1,0 +1,66 @@
+{
+  "section": "files",
+  "completed": [
+    {
+      "list": "peintres",
+      "row": "32b",
+      "source": "wiki-file:en.wikipedia.org:Bundesarchiv Bild 183-H25224, Guernica, Ruinen.jpg",
+      "thumb": "thumbs/peintres/32b.webp",
+      "full": "full/peintres/32b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "46b",
+      "source": "wiki-file:en.wikipedia.org:Untitled-Head-Jean-Michel Basquiat-1981.jpg",
+      "thumb": "thumbs/peintres/46b.webp",
+      "full": "full/peintres/46b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "47b",
+      "source": "wiki-file:en.wikipedia.org:Girl with balloon.jpg",
+      "thumb": "thumbs/peintres/47b.webp",
+      "full": "full/peintres/47b.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "3",
+      "source": "wiki-file:en.wikipedia.org:Extrait du procès-verbal de la convention nationale du vongt-quatrième jour de Thermidor l'an deuxième de la République, Paris Musées 20230910202229.jpg",
+      "thumb": "thumbs/chefs_etat/3.webp",
+      "full": "full/chefs_etat/3.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "4",
+      "source": "wiki-file:en.wikipedia.org:LL-Q150 (fra)-LoquaxFR-directoire.wav",
+      "thumb": "thumbs/chefs_etat/4.webp",
+      "full": "full/chefs_etat/4.webp"
+    }
+  ],
+  "failures": [
+    {
+      "list": "peintres",
+      "row": "41b",
+      "requested": "The Two Fridas",
+      "error": "fichier cible absent: The Two Fridas"
+    },
+    {
+      "list": "peintres",
+      "row": "42b",
+      "requested": "Three Studies of Lucian Freud",
+      "error": "fichier cible absent: Three Studies of Lucian Freud"
+    },
+    {
+      "list": "peintres",
+      "row": "43b",
+      "requested": "Number 31 (Jackson Pollock)",
+      "error": "fichier cible absent: Number 31 (Jackson Pollock)"
+    },
+    {
+      "list": "litterature",
+      "row": "56",
+      "requested": "The Hitchhiker's Guide to the Galaxy",
+      "error": "fichier cible absent: The Hitchhiker's Guide to the Galaxy"
+    }
+  ]
+}

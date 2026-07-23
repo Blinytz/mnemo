@@ -1,0 +1,255 @@
+{
+  "downloaded": 3,
+  "failures": [
+    {
+      "row": 3,
+      "name": "Petite Ourse",
+      "latin": "Ursa Minor",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ursa_Minor_IAU.svg"
+    },
+    {
+      "row": 4,
+      "name": "Cassiopée",
+      "latin": "Cassiopeia",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cassiopeia_IAU.svg"
+    },
+    {
+      "row": 5,
+      "name": "Cygne",
+      "latin": "Cygnus",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cygnus_IAU.svg"
+    },
+    {
+      "row": 6,
+      "name": "Lyre",
+      "latin": "Lyra",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lyra_IAU.svg"
+    },
+    {
+      "row": 7,
+      "name": "Aigle",
+      "latin": "Aquila",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Aquila_IAU.svg"
+    },
+    {
+      "row": 8,
+      "name": "Scorpion",
+      "latin": "Scorpius",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Scorpius_IAU.svg"
+    },
+    {
+      "row": 9,
+      "name": "Sagittaire",
+      "latin": "Sagittarius",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
+    },
+    {
+      "row": 10,
+      "name": "Taureau",
+      "latin": "Taurus",
+      "reason": "HTTP Error 429: Too many requests (f061ab2)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg"
+    },
+    {
+      "row": 11,
+      "name": "Gémeaux",
+      "latin": "Gemini",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 12,
+      "name": "Lion",
+      "latin": "Leo",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Leo_IAU.svg"
+    },
+    {
+      "row": 13,
+      "name": "Persée",
+      "latin": "Perseus",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Perseus_IAU.svg"
+    },
+    {
+      "row": 14,
+      "name": "Andromède",
+      "latin": "Andromeda",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Andromeda_IAU.svg"
+    },
+    {
+      "row": 15,
+      "name": "Hercule",
+      "latin": "Hercules",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hercules_IAU.svg"
+    },
+    {
+      "row": 17,
+      "name": "Balance",
+      "latin": "Libra",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Libra_IAU.svg"
+    },
+    {
+      "row": 18,
+      "name": "Verseau",
+      "latin": "Aquarius",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Aquarius_IAU.svg"
+    },
+    {
+      "row": 19,
+      "name": "Bélier",
+      "latin": "Aries",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aries_IAU.svg"
+    },
+    {
+      "row": 20,
+      "name": "Cancer",
+      "latin": "Cancer",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cancer_IAU.svg"
+    },
+    {
+      "row": 21,
+      "name": "Capricorne",
+      "latin": "Capricornus",
+      "reason": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Capricornus_IAU.svg"
+    },
+    {
+      "row": 22,
+      "name": "Poissons",
+      "latin": "Pisces",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 23,
+      "name": "Centaure",
+      "latin": "Centaurus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 24,
+      "name": "Croix du Sud",
+      "latin": "Crux",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 25,
+      "name": "Dragon",
+      "latin": "Draco",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 26,
+      "name": "Pégase",
+      "latin": "Pegasus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 27,
+      "name": "Grand Chien",
+      "latin": "Canis Major",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 28,
+      "name": "Petit Chien",
+      "latin": "Canis Minor",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 29,
+      "name": "Cocher",
+      "latin": "Auriga",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 30,
+      "name": "Bouvier",
+      "latin": "Bootes",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 31,
+      "name": "Couronne boréale",
+      "latin": "Corona Borealis",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 32,
+      "name": "Ophiuchus",
+      "latin": "Ophiuchus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 33,
+      "name": "Hydre",
+      "latin": "Hydra",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 34,
+      "name": "Éridain",
+      "latin": "Eridanus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 35,
+      "name": "Corbeau",
+      "latin": "Corvus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 36,
+      "name": "Lièvre",
+      "latin": "Lepus",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 37,
+      "name": "Phénix",
+      "latin": "Phoenix",
+      "reason": "no_commons_file"
+    },
+    {
+      "row": 38,
+      "name": "Serpent",
+      "latin": "Serpens",
+      "reason": "no_commons_file"
+    }
+  ],
+  "results": [
+    {
+      "row": 1,
+      "name": "Orion",
+      "latin": "Orion",
+      "source": "Orion IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orion_IAU.svg"
+    },
+    {
+      "row": 2,
+      "name": "Grande Ourse",
+      "latin": "Ursa Major",
+      "source": "Ursa Major IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ursa_Major_IAU.svg"
+    },
+    {
+      "row": 16,
+      "name": "Vierge",
+      "latin": "Virgo",
+      "source": "Virgo IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Virgo_IAU.svg"
+    }
+  ]
+}

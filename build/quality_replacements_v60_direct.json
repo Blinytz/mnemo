@@ -1,0 +1,34 @@
+{
+  "section": "direct",
+  "completed": [
+    {
+      "list": "peintres",
+      "row": "32b",
+      "source": "direct:https://en.wikipedia.org/wiki/Special:FilePath/PicassoGuernica.jpg",
+      "thumb": "thumbs/peintres/32b.webp",
+      "full": "full/peintres/32b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "41b",
+      "source": "direct:https://en.wikipedia.org/wiki/Special:FilePath/The%20Two%20Fridas.jpg",
+      "thumb": "thumbs/peintres/41b.webp",
+      "full": "full/peintres/41b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "42b",
+      "source": "direct:https://francis-bacon-prod.fra1.cdn.digitaloceanspaces.com/s3fs-public/decade_images/69-07%20FB%20b-centre%20RGB.jpg",
+      "thumb": "thumbs/peintres/42b.webp",
+      "full": "full/peintres/42b.webp"
+    }
+  ],
+  "failures": [
+    {
+      "list": "peintres",
+      "row": "43b",
+      "requested": "https://www.moma.org/collection/works/78386",
+      "error": "og:image indisponible: https://www.moma.org/collection/works/78386"
+    }
+  ]
+}

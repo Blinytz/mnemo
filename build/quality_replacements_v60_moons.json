@@ -1,0 +1,110 @@
+{
+  "section": "moons",
+  "completed": [
+    {
+      "list": "lunes",
+      "row": "12",
+      "source": "wiki:en.wikipedia.org:Leda (moon)",
+      "thumb": "thumbs/lunes/12.webp",
+      "full": "full/lunes/12.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "13",
+      "source": "wiki:en.wikipedia.org:Himalia (moon)",
+      "thumb": "thumbs/lunes/13.webp",
+      "full": "full/lunes/13.png"
+    },
+    {
+      "list": "lunes",
+      "row": "16",
+      "source": "wiki:en.wikipedia.org:Ananke (moon)",
+      "thumb": "thumbs/lunes/16.webp",
+      "full": "full/lunes/16.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "17",
+      "source": "wiki:en.wikipedia.org:Carme (moon)",
+      "thumb": "thumbs/lunes/17.webp",
+      "full": "full/lunes/17.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "31",
+      "source": "wiki:en.wikipedia.org:Rhea (moon)",
+      "thumb": "thumbs/lunes/31.webp",
+      "full": "full/lunes/31.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "32",
+      "source": "wiki:en.wikipedia.org:Titan (moon)",
+      "thumb": "thumbs/lunes/32.webp",
+      "full": "full/lunes/32.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "36",
+      "source": "wiki:en.wikipedia.org:Puck (moon)",
+      "thumb": "thumbs/lunes/36.webp",
+      "full": "full/lunes/36.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "list": "lunes",
+      "row": "18",
+      "requested": "Pasiphae (moon)",
+      "error": "page sans image: Pasiphae (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "19",
+      "requested": "Sinope (moon)",
+      "error": "page sans image: Sinope (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "22",
+      "requested": "Prometheus (moon)",
+      "error": "page sans image: Prometheus (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "23",
+      "requested": "Pandora (moon)",
+      "error": "page sans image: Pandora (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "27",
+      "requested": "Telesto (moon)",
+      "error": "page sans image: Telesto (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "28",
+      "requested": "Calypso (moon)",
+      "error": "page sans image: Calypso (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "29",
+      "requested": "Dione (moon)",
+      "error": "page sans image: Dione (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "42",
+      "requested": "Caliban (moon)",
+      "error": "page sans image: Caliban (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "44",
+      "requested": "Naiad (moon)",
+      "error": "page sans image: Naiad (moon)"
+    }
+  ]
+}

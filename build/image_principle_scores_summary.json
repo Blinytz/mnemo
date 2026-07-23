@@ -1,0 +1,334 @@
+{
+  "generated_for": "memo.html",
+  "principles": [
+    "pertinence",
+    "coherence",
+    "homogeneity",
+    "quality"
+  ],
+  "scale": "1=très mauvais, 5=excellent",
+  "total_images": 2632,
+  "by_list": {
+    "chefs_etat": {
+      "total": 43,
+      "review_required": 43,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 4.51,
+      "avg_quality": 3.42
+    },
+    "departements": {
+      "total": 202,
+      "review_required": 89,
+      "avg_pertinence": 5.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 3.64,
+      "avg_quality": 4.1
+    },
+    "elements": {
+      "total": 118,
+      "review_required": 0,
+      "avg_pertinence": 5.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 5.0,
+      "avg_quality": 5.0
+    },
+    "etats_usa": {
+      "total": 100,
+      "review_required": 0,
+      "avg_pertinence": 5.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 5.0,
+      "avg_quality": 5.0
+    },
+    "mythologie": {
+      "total": 59,
+      "review_required": 59,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 2.58,
+      "avg_homogeneity": 4.42,
+      "avg_quality": 3.56
+    },
+    "os": {
+      "total": 122,
+      "review_required": 122,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 4.51,
+      "avg_quality": 3.24
+    },
+    "pays": {
+      "total": 197,
+      "review_required": 0,
+      "avg_pertinence": 5.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 5.0,
+      "avg_quality": 5.0
+    },
+    "peintres": {
+      "total": 93,
+      "review_required": 93,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.6,
+      "avg_homogeneity": 4.13,
+      "avg_quality": 3.08
+    },
+    "rois_france": {
+      "total": 67,
+      "review_required": 67,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.64,
+      "avg_homogeneity": 4.46,
+      "avg_quality": 2.99
+    },
+    "coupes_monde": {
+      "total": 23,
+      "review_required": 23,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.0,
+      "avg_homogeneity": 4.35,
+      "avg_quality": 3.39
+    },
+    "xixe": {
+      "total": 75,
+      "review_required": 75,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.36,
+      "avg_homogeneity": 4.29,
+      "avg_quality": 3.61
+    },
+    "xxe": {
+      "total": 97,
+      "review_required": 97,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.91,
+      "avg_homogeneity": 4.32,
+      "avg_quality": 3.11
+    },
+    "litterature": {
+      "total": 60,
+      "review_required": 60,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.13,
+      "avg_homogeneity": 4.45,
+      "avg_quality": 2.82
+    },
+    "guerres": {
+      "total": 40,
+      "review_required": 40,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.72,
+      "avg_homogeneity": 4.05,
+      "avg_quality": 2.45
+    },
+    "philosophes": {
+      "total": 45,
+      "review_required": 45,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.51,
+      "avg_homogeneity": 4.51,
+      "avg_quality": 3.67
+    },
+    "mouvements_peinture": {
+      "total": 41,
+      "review_required": 41,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.41,
+      "avg_homogeneity": 4.41,
+      "avg_quality": 3.83
+    },
+    "jo_ete": {
+      "total": 32,
+      "review_required": 32,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.16,
+      "avg_homogeneity": 4.19,
+      "avg_quality": 2.91
+    },
+    "jo_hiver": {
+      "total": 25,
+      "review_required": 25,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.4,
+      "avg_homogeneity": 4.24,
+      "avg_quality": 3.28
+    },
+    "f1_champions": {
+      "total": 76,
+      "review_required": 76,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.67,
+      "avg_homogeneity": 4.17,
+      "avg_quality": 3.59
+    },
+    "consoles": {
+      "total": 43,
+      "review_required": 43,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.21,
+      "avg_homogeneity": 4.42,
+      "avg_quality": 2.77
+    },
+    "lunes": {
+      "total": 56,
+      "review_required": 56,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.3,
+      "avg_homogeneity": 4.75,
+      "avg_quality": 2.79
+    },
+    "periodes_geologiques": {
+      "total": 31,
+      "review_required": 0,
+      "avg_pertinence": 5.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 5.0,
+      "avg_quality": 5.0
+    },
+    "films": {
+      "total": 390,
+      "review_required": 390,
+      "avg_pertinence": 4.0,
+      "avg_coherence": 4.96,
+      "avg_homogeneity": 4.78,
+      "avg_quality": 3.78
+    },
+    "civilisations": {
+      "total": 28,
+      "review_required": 28,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 2.71,
+      "avg_homogeneity": 4.32,
+      "avg_quality": 3.64
+    },
+    "fleuves_monde": {
+      "total": 30,
+      "review_required": 30,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 2.97,
+      "avg_homogeneity": 4.57,
+      "avg_quality": 3.73
+    },
+    "phrasal_verbs": {
+      "total": 126,
+      "review_required": 126,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 5.0,
+      "avg_homogeneity": 5.0,
+      "avg_quality": 5.0
+    },
+    "compositeurs": {
+      "total": 39,
+      "review_required": 39,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 2.56,
+      "avg_homogeneity": 4.62,
+      "avg_quality": 3.64
+    },
+    "constellations": {
+      "total": 38,
+      "review_required": 38,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 2.74,
+      "avg_homogeneity": 4.76,
+      "avg_quality": 3.84
+    },
+    "grands_scientifiques": {
+      "total": 38,
+      "review_required": 38,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 2.63,
+      "avg_homogeneity": 4.61,
+      "avg_quality": 3.61
+    },
+    "batailles_decisives": {
+      "total": 33,
+      "review_required": 33,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.48,
+      "avg_homogeneity": 4.45,
+      "avg_quality": 3.33
+    },
+    "grandes_explorations": {
+      "total": 25,
+      "review_required": 25,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.04,
+      "avg_homogeneity": 4.64,
+      "avg_quality": 3.44
+    },
+    "revolutions": {
+      "total": 30,
+      "review_required": 30,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.17,
+      "avg_homogeneity": 4.43,
+      "avg_quality": 3.33
+    },
+    "montagnes_monde": {
+      "total": 30,
+      "review_required": 30,
+      "avg_pertinence": 3.0,
+      "avg_coherence": 4.4,
+      "avg_homogeneity": 4.73,
+      "avg_quality": 3.73
+    },
+    "mers_oceans": {
+      "total": 20,
+      "review_required": 20,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.95,
+      "avg_homogeneity": 4.6,
+      "avg_quality": 3.3
+    },
+    "detroits_monde": {
+      "total": 20,
+      "review_required": 20,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.9,
+      "avg_homogeneity": 4.55,
+      "avg_quality": 3.2
+    },
+    "parcs_nationaux": {
+      "total": 30,
+      "review_required": 30,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.17,
+      "avg_homogeneity": 4.6,
+      "avg_quality": 3.77
+    },
+    "architectes_majeurs": {
+      "total": 30,
+      "review_required": 30,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.1,
+      "avg_homogeneity": 4.37,
+      "avg_quality": 3.57
+    },
+    "musees_monde": {
+      "total": 25,
+      "review_required": 25,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.36,
+      "avg_homogeneity": 4.56,
+      "avg_quality": 3.6
+    },
+    "inventions_majeures": {
+      "total": 31,
+      "review_required": 31,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.39,
+      "avg_homogeneity": 4.45,
+      "avg_quality": 3.84
+    },
+    "decouvertes_scientifiques": {
+      "total": 24,
+      "review_required": 24,
+      "avg_pertinence": 2.0,
+      "avg_coherence": 4.17,
+      "avg_homogeneity": 4.33,
+      "avg_quality": 3.33
+    }
+  },
+  "review_required": 2073
+}

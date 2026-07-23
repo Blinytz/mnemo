@@ -1,0 +1,218 @@
+[
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 1,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/1.webp",
+    "full": "full/decouvertes_scientifiques/1.jpg",
+    "source": "wiki-fr",
+    "label": "Héliocentrisme"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 2,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/2.webp",
+    "full": "full/decouvertes_scientifiques/2.webp",
+    "source": "wiki-fr",
+    "label": "Gravitation universelle"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 3,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/3.webp",
+    "full": "full/decouvertes_scientifiques/3.jpg",
+    "source": "wiki-fr",
+    "label": "Oxygène"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 4,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/4.webp",
+    "full": "full/decouvertes_scientifiques/4.png",
+    "source": "wiki-fr",
+    "label": "Tableau périodique"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 5,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/5.webp",
+    "full": "full/decouvertes_scientifiques/5.png",
+    "source": "wiki-fr",
+    "label": "Pénicilline"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 6,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/6.webp",
+    "full": "full/decouvertes_scientifiques/6.png",
+    "source": "wiki-search-fr",
+    "label": "Structure de l’ADN"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 7,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/7.webp",
+    "full": "full/decouvertes_scientifiques/7.png",
+    "source": "wiki-fr",
+    "label": "Lois de Kepler"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 8,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/8.webp",
+    "full": "full/decouvertes_scientifiques/8.png",
+    "source": "wiki-fr",
+    "label": "Circulation sanguine"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 9,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/9.webp",
+    "full": "full/decouvertes_scientifiques/9.png",
+    "source": "wiki-search-fr",
+    "label": "Calcul différentiel et intégral"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 10,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/10.webp",
+    "full": "full/decouvertes_scientifiques/10.jpg",
+    "source": "wiki-search-fr",
+    "label": "Électricité statique et paratonnerre"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 11,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/11.webp",
+    "full": "full/decouvertes_scientifiques/11.png",
+    "source": "wiki-fr",
+    "label": "Thermodynamique"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 12,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/12.webp",
+    "full": "full/decouvertes_scientifiques/12.jpg",
+    "source": "wiki-search-fr",
+    "label": "Ondes électromagnétiques"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 13,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/13.webp",
+    "full": "full/decouvertes_scientifiques/13.jpg",
+    "source": "wiki-fr",
+    "label": "Rayons X"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 14,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/14.webp",
+    "full": "full/decouvertes_scientifiques/14.jpg",
+    "source": "wiki-search-fr",
+    "label": "Relativité restreinte"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 15,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/15.webp",
+    "full": "full/decouvertes_scientifiques/15.jpg",
+    "source": "wiki-fr",
+    "label": "Mécanique quantique"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 16,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/16.webp",
+    "full": "full/decouvertes_scientifiques/16.webp",
+    "source": "wiki-fr",
+    "label": "Fission nucléaire"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 17,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/17.webp",
+    "full": "full/decouvertes_scientifiques/17.png",
+    "source": "wiki-fr",
+    "label": "Tectonique des plaques"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 18,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/18.webp",
+    "full": "full/decouvertes_scientifiques/18.png",
+    "source": "wiki-search-fr",
+    "label": "Big Bang (preuves)"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 19,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/19.webp",
+    "full": "full/decouvertes_scientifiques/19.png",
+    "source": "wiki-fr",
+    "label": "Quarks"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 20,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/20.webp",
+    "full": "full/decouvertes_scientifiques/20.png",
+    "source": "wiki-fr",
+    "label": "Boson de Higgs"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 21,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/21.webp",
+    "full": "full/decouvertes_scientifiques/21.webp",
+    "source": "wiki-fr",
+    "label": "Ondes gravitationnelles"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 22,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/22.webp",
+    "full": "full/decouvertes_scientifiques/22.jpg",
+    "source": "wiki-fr",
+    "label": "Exoplanètes"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 23,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/23.webp",
+    "full": "full/decouvertes_scientifiques/23.jpg",
+    "source": "wiki-search-fr",
+    "label": "Évolution par sélection naturelle"
+  },
+  {
+    "liste": "decouvertes_scientifiques",
+    "ligne": 24,
+    "col": 1,
+    "thumb": "thumbs/decouvertes_scientifiques/24.webp",
+    "full": "full/decouvertes_scientifiques/24.png",
+    "source": "wiki-fr",
+    "label": "Radioactivité"
+  }
+]

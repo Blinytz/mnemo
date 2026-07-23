@@ -1,0 +1,78 @@
+﻿Etat final du build Memo
+Date: 2026-06-18 02:13:40
+
+Compteurs fichiers thumbs:
+chefs_etat                 43
+consoles                   43
+coupes_monde               23
+departements               71
+f1_champions               68
+films                     377
+guerres                    40
+jo_ete                     32
+jo_hiver                   25
+litterature                60
+lunes                      49
+mouvements_peinture        37
+mythologie                 58
+os                         84
+pays                      197
+peintres                   93
+periodes_geologiques       26
+philosophes                44
+rois_france                67
+xixe                       71
+xxe                        88
+
+Verification:
+Extraction des donn├®es depuis le HTMLÔÇª
+
+============================================================
+V├ëRIFICATION FINALE
+============================================================
+  Ô£ô chefs_etat                  43/  43 (100.0%) [disk:43]
+  Ô£ù departements                71/ 101 ( 70.3%) [disk:71]
+  Ô£ô elements                   118/ 118 (100.0%) [element-svg:118]
+  Ô£ô etats_usa                   50/  50 (100.0%) []
+  Ô£ô mythologie                  60/  60 (100.0%) [disk:58]
+  Ô£ù os                          84/ 122 ( 68.9%) [disk:84]
+  Ô£ô pays                       197/ 197 (100.0%) [disk:197]
+  Ô£ô peintres                    93/  94 ( 98.9%) [disk:93]
+  Ô£ô rois_france                 67/  67 (100.0%) [disk:67]
+  Ô£ô coupes_monde                23/  23 (100.0%) [disk:23]
+  ÔÜá xixe                        71/  75 ( 94.7%) [disk:71]
+  ÔÜá xxe                         88/  97 ( 90.7%) [disk:88]
+  Ô£ô litterature                 60/  60 (100.0%) [disk:60]
+  Ô£ô guerres                     40/  40 (100.0%) [disk:40]
+  ÔÜá philosophes                 44/  45 ( 97.8%) [disk:44]
+  ÔÜá mouvements_peinture         37/  41 ( 90.2%) [disk:37]
+  Ô£ô jo_ete                      32/  32 (100.0%) [disk:32]
+  Ô£ô jo_hiver                    25/  25 (100.0%) [disk:25]
+  ÔÜá f1_champions                68/  76 ( 89.5%) [disk:68]
+  Ô£ô consoles                    43/  43 (100.0%) [disk:43]
+  ÔÜá lunes                       49/  56 ( 87.5%) [disk:49]
+  ÔÜá periodes_geologiques        26/  31 ( 83.9%) [disk:26]
+  ÔÜá films                      377/ 390 ( 96.7%) [disk:377]
+
+V├®rification int├®grit├® des fichiersÔÇª
+  Ô£ô Tous les fichiers r├®f├®renc├®s existent
+
+  Poids total : thumbs=22822 Ko, full=110443 Ko ÔåÆ total=130.1 Mo
+  ÔÜá Objectif < 60 Mo d├®pass├®!
+
+Recherche d'URLs externes r├®siduelles dans les donn├®esÔÇª
+  Ô£ô Aucune URL externe dans les cellules de donn├®es
+
+V├®rification coh├®rence des sources sp├®cialesÔÇª
+  mythologie: 0/60 depuis Hades
+  departements: 0/101 cartes Position
+
+============================================================
+R├ëSULTAT GLOBAL : 1766/1886 cellules (93.6%)
+  Manquantes : 120
+  Fichiers cass├®s : 0
+============================================================
+
+Fichier app: C:\Users\flxjr\OneDrive\Bureau\memo-app\memo.html
+Log build: C:\Users\flxjr\OneDrive\Bureau\memo-app\build\build_resume.log
+Log finaliseur: C:\Users\flxjr\OneDrive\Bureau\memo-app\build\finalize_after_build.log

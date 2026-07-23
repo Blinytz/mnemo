@@ -1,0 +1,320 @@
+{
+  "completed": [
+    {
+      "list": "peintres",
+      "row": "5b",
+      "source": "wiki:en.wikipedia.org:Sistine Chapel ceiling",
+      "thumb": "thumbs/peintres/5b.webp",
+      "full": "full/peintres/5b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "10b",
+      "source": "wiki:en.wikipedia.org:The Descent from the Cross (Rubens)",
+      "thumb": "thumbs/peintres/10b.webp",
+      "full": "full/peintres/10b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "21b",
+      "source": "wiki:en.wikipedia.org:Mont Sainte-Victoire (Cezanne)",
+      "thumb": "thumbs/peintres/21b.webp",
+      "full": "full/peintres/21b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "32b",
+      "source": "wiki:en.wikipedia.org:Guernica (Picasso)",
+      "thumb": "thumbs/peintres/32b.webp",
+      "full": "full/peintres/32b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "37b",
+      "source": "wiki:en.wikipedia.org:The Melancholy and Mystery of a Street",
+      "thumb": "thumbs/peintres/37b.webp",
+      "full": "full/peintres/37b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "41b",
+      "source": "wiki:en.wikipedia.org:The Two Fridas",
+      "thumb": "thumbs/peintres/41b.webp",
+      "full": "full/peintres/41b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "42b",
+      "source": "wiki:en.wikipedia.org:Three Studies of Lucian Freud",
+      "thumb": "thumbs/peintres/42b.webp",
+      "full": "full/peintres/42b.webp"
+    },
+    {
+      "list": "peintres",
+      "row": "46b",
+      "source": "wiki:en.wikipedia.org:Untitled (Skull)",
+      "thumb": "thumbs/peintres/46b.webp",
+      "full": "full/peintres/46b.webp"
+    },
+    {
+      "list": "periodes_geologiques",
+      "row": "13",
+      "source": "wiki:en.wikipedia.org:Tonian",
+      "thumb": "thumbs/periodes_geologiques/13.webp",
+      "full": "full/periodes_geologiques/13.webp"
+    },
+    {
+      "list": "periodes_geologiques",
+      "row": "22",
+      "source": "wiki:en.wikipedia.org:Triassic",
+      "thumb": "thumbs/periodes_geologiques/22.webp",
+      "full": "full/periodes_geologiques/22.webp"
+    },
+    {
+      "list": "xixe",
+      "row": "47",
+      "source": "wiki:en.wikipedia.org:On the Origin of Species",
+      "thumb": "thumbs/xixe/47.webp",
+      "full": "full/xixe/47.webp"
+    },
+    {
+      "list": "xixe",
+      "row": "71",
+      "source": "wiki:en.wikipedia.org:Wilhelm Rontgen",
+      "thumb": "thumbs/xixe/71.webp",
+      "full": "full/xixe/71.webp"
+    },
+    {
+      "list": "xxe",
+      "row": "3",
+      "source": "wiki:en.wikipedia.org:Second Boer War",
+      "thumb": "thumbs/xxe/3.webp",
+      "full": "full/xxe/3.webp"
+    },
+    {
+      "list": "xxe",
+      "row": "44",
+      "source": "wiki:en.wikipedia.org:Allied invasion of Sicily",
+      "thumb": "thumbs/xxe/44.webp",
+      "full": "full/xxe/44.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "3",
+      "source": "wiki:en.wikipedia.org:National Convention",
+      "thumb": "thumbs/chefs_etat/3.webp",
+      "full": "full/chefs_etat/3.webp"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "4",
+      "source": "wiki:en.wikipedia.org:French Directory",
+      "thumb": "thumbs/chefs_etat/4.webp",
+      "full": "full/chefs_etat/4.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "25",
+      "source": "wiki:fr.wikipedia.org:Robert Ier de France",
+      "thumb": "thumbs/rois_france/25.webp",
+      "full": "full/rois_france/25.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "26",
+      "source": "wiki:fr.wikipedia.org:Raoul de France",
+      "thumb": "thumbs/rois_france/26.webp",
+      "full": "full/rois_france/26.webp"
+    },
+    {
+      "list": "rois_france",
+      "row": "28",
+      "source": "wiki:fr.wikipedia.org:Lothaire de France",
+      "thumb": "thumbs/rois_france/28.webp",
+      "full": "full/rois_france/28.webp"
+    },
+    {
+      "list": "lunes",
+      "row": "12",
+      "source": "wiki:en.wikipedia.org:Leda (moon)",
+      "thumb": "thumbs/lunes/12.webp",
+      "full": "full/lunes/12.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "13",
+      "source": "wiki:en.wikipedia.org:Himalia (moon)",
+      "thumb": "thumbs/lunes/13.webp",
+      "full": "full/lunes/13.png"
+    },
+    {
+      "list": "lunes",
+      "row": "16",
+      "source": "wiki:en.wikipedia.org:Ananke (moon)",
+      "thumb": "thumbs/lunes/16.webp",
+      "full": "full/lunes/16.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "17",
+      "source": "wiki:en.wikipedia.org:Carme (moon)",
+      "thumb": "thumbs/lunes/17.webp",
+      "full": "full/lunes/17.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "31",
+      "source": "wiki:en.wikipedia.org:Rhea (moon)",
+      "thumb": "thumbs/lunes/31.webp",
+      "full": "full/lunes/31.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "32",
+      "source": "wiki:en.wikipedia.org:Titan (moon)",
+      "thumb": "thumbs/lunes/32.webp",
+      "full": "full/lunes/32.jpg"
+    },
+    {
+      "list": "lunes",
+      "row": "36",
+      "source": "wiki:en.wikipedia.org:Puck (moon)",
+      "thumb": "thumbs/lunes/36.webp",
+      "full": "full/lunes/36.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "list": "peintres",
+      "row": "35b",
+      "requested": "Man at the Crossroads",
+      "error": "page sans image: Man at the Crossroads"
+    },
+    {
+      "list": "peintres",
+      "row": "43b",
+      "requested": "Number 31 (Jackson Pollock)",
+      "error": "page sans image: Number 31 (Jackson Pollock)"
+    },
+    {
+      "list": "peintres",
+      "row": "47b",
+      "requested": "Girl with Balloon",
+      "error": "page sans image: Girl with Balloon"
+    },
+    {
+      "list": "chefs_etat",
+      "row": "16",
+      "requested": "Patrice de MacMahon",
+      "error": "page sans image: Patrice de MacMahon"
+    },
+    {
+      "list": "rois_france",
+      "row": "4",
+      "requested": "Clotaire II",
+      "error": "page sans image: Clotaire II"
+    },
+    {
+      "list": "rois_france",
+      "row": "7",
+      "requested": "Clotaire III",
+      "error": "page sans image: Clotaire III"
+    },
+    {
+      "list": "rois_france",
+      "row": "10",
+      "requested": "Childebert III",
+      "error": "page sans image: Childebert III"
+    },
+    {
+      "list": "rois_france",
+      "row": "21",
+      "requested": "Carloman II",
+      "error": "page sans image: Carloman II"
+    },
+    {
+      "list": "litterature",
+      "row": "56",
+      "requested": "The Hitchhiker's Guide to the Galaxy",
+      "error": "page sans image: The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "list": "lunes",
+      "row": "18",
+      "requested": "Pasiphae (moon)",
+      "error": "page sans image: Pasiphae (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "19",
+      "requested": "Sinope (moon)",
+      "error": "page sans image: Sinope (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "22",
+      "requested": "Prometheus (moon)",
+      "error": "page sans image: Prometheus (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "23",
+      "requested": "Pandora (moon)",
+      "error": "page sans image: Pandora (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "27",
+      "requested": "Telesto (moon)",
+      "error": "page sans image: Telesto (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "28",
+      "requested": "Calypso (moon)",
+      "error": "page sans image: Calypso (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "29",
+      "requested": "Dione (moon)",
+      "error": "page sans image: Dione (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "42",
+      "requested": "Caliban (moon)",
+      "error": "page sans image: Caliban (moon)"
+    },
+    {
+      "list": "lunes",
+      "row": "44",
+      "requested": "Naiad (moon)",
+      "error": "page sans image: Naiad (moon)"
+    },
+    {
+      "list": "films",
+      "row": "15",
+      "requested": "Le Christ marchant sur les eaux",
+      "error": "TMDB sans poster: Le Christ marchant sur les eaux"
+    },
+    {
+      "list": "films",
+      "row": "23",
+      "requested": "La Vie d'un joueur",
+      "error": "TMDB sans poster: La Vie d'un joueur"
+    },
+    {
+      "list": "films",
+      "row": "27",
+      "requested": "Le Vol d'un tableau",
+      "error": "TMDB sans poster: Le Vol d'un tableau"
+    },
+    {
+      "list": "films",
+      "row": "51",
+      "requested": "Feat of Clay",
+      "error": "TMDB sans poster: Feat of Clay"
+    }
+  ]
+}

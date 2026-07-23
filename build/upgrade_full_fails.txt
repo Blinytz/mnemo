@@ -1,0 +1,591 @@
+litterature	1	L'Iliade
+litterature	2	L'Odyssée
+litterature	3	L'Énéide
+litterature	4	Les Métamorphoses
+litterature	5	La Divine Comédie
+litterature	6	Le Décaméron
+litterature	10	Le Roi Lear
+litterature	11	Les Essais
+litterature	15	Le Rouge et le Noir
+litterature	16	La Chartreuse de Parme
+litterature	17	Le Père Goriot
+litterature	19	Crime et Châtiment
+litterature	20	Les Frères Karamazov
+litterature	21	Guerre et Paix
+litterature	22	Anna Karénine
+litterature	23	Germinal
+litterature	24	Les Aventures de Huckleberry Finn
+litterature	25	Moby Dick
+litterature	26	Les Hauts de Hurlevent
+litterature	28	Le Portrait de Dorian Gray
+litterature	29	À la recherche du temps perdu
+litterature	30	Ulysse
+litterature	32	La Montagne magique
+litterature	33	L'Étranger
+litterature	34	La Nausée
+litterature	35	Le Procès
+litterature	36	La Métamorphose
+litterature	38	La Ferme des animaux
+litterature	39	Le Meilleur des mondes
+litterature	40	Fahrenheit 451
+litterature	41	Le Seigneur des anneaux
+litterature	42	L'Attrape-cœurs
+litterature	43	Sur la route
+litterature	44	Cent ans de solitude
+litterature	45	Le Maître et Marguerite
+litterature	47	Le Bruit et la Fureur
+litterature	48	Beloved
+litterature	49	Le Nom de la rose
+litterature	50	Les Raisins de la colère
+litterature	52	Voyage au bout de la nuit
+litterature	53	La Condition humaine
+litterature	55	Fondation
+litterature	56	Le Guide du voyageur galactique
+litterature	57	Harry Potter (série)
+litterature	58	L'Alchimiste
+peintres	3	Léonard de Vinci
+peintres	5	Michel-Ange
+peintres	6	Raphaël
+peintres	7	Titien
+peintres	8	Pieter Bruegel l'Ancien
+peintres	9	Le Caravage
+peintres	10	Pierre Paul Rubens
+peintres	13	Jan Vermeer
+peintres	14	Francisco de Goya
+peintres	29	Vassily Kandinsky
+peintres	47	Banksy
+rois_france	1	Clovis Ier
+rois_france	2	Clotaire Ier
+rois_france	3	Chilpéric Ier
+rois_france	4	Clotaire II
+rois_france	5	Dagobert Ier
+rois_france	7	Clotaire III
+rois_france	8	Thierry III
+rois_france	12	Chilpéric II
+rois_france	13	Thierry IV
+rois_france	14	Childéric III
+rois_france	15	Pépin le Bref
+rois_france	17	Louis Ier le Pieux
+rois_france	18	Charles II le Chauve
+rois_france	19	Louis II le Bègue
+rois_france	20	Louis III
+rois_france	22	Charles III le Gros
+rois_france	23	Eudes Ier
+rois_france	24	Charles III le Simple
+rois_france	25	Robert Ier
+rois_france	26	Raoul
+rois_france	27	Louis IV d'Outremer
+rois_france	28	Lothaire
+rois_france	29	Louis V
+rois_france	30	Hugues Capet
+rois_france	31	Robert II le Pieux
+rois_france	32	Henri Ier
+rois_france	33	Philippe Ier
+rois_france	34	Louis VI le Gros
+rois_france	35	Louis VII le Jeune
+rois_france	36	Philippe II Auguste
+rois_france	37	Louis VIII le Lion
+rois_france	38	Louis IX
+rois_france	39	Philippe III
+rois_france	40	Philippe IV le Bel
+rois_france	41	Louis X le Hutin
+rois_france	42	Jean Ier le Posthume
+rois_france	43	Philippe V le Long
+rois_france	44	Charles IV le Bel
+rois_france	45	Philippe VI de Valois
+rois_france	46	Jean II le Bon
+rois_france	47	Charles V le Sage
+rois_france	48	Charles VI
+rois_france	49	Charles VII
+rois_france	51	Charles VIII
+rois_france	53	François Ier
+rois_france	54	Henri II
+rois_france	55	François II
+rois_france	56	Charles IX
+rois_france	57	Henri III
+rois_france	58	Henri IV
+rois_france	63	Napoléon Ier
+rois_france	65	Charles X
+rois_france	66	Louis-Philippe Ier
+rois_france	67	Napoléon III
+chefs_etat	5	Napoleon Bonaparte
+chefs_etat	6	Napoleon I
+chefs_etat	8	Napoleon I
+chefs_etat	11	Louis-Philippe I
+chefs_etat	13	Louis-Napoléon Bonaparte
+chefs_etat	18	Sadi Carnot
+lunes	1	Moon (moon)
+lunes	2	Phobos (moon) (moon)
+lunes	3	Deimos (moon) (moon)
+lunes	4	Metis (moon) (moon)
+lunes	5	Adrastea (moon) (moon)
+lunes	6	Amalthea (moon) (moon)
+lunes	7	Thebe (moon) (moon)
+lunes	8	Io (moon) (moon)
+lunes	9	Europa (moon) (moon)
+lunes	10	Ganymede (moon) (moon)
+lunes	11	Callisto (moon) (moon)
+lunes	12	Leda (moon) (moon)
+lunes	13	Himalia (moon) (moon)
+lunes	14	Lysithea (moon) (moon)
+lunes	15	Elara (moon) (moon)
+lunes	16	Ananke (moon) (moon)
+lunes	17	Carme (moon) (moon)
+lunes	18	Pasiphae (moon) (moon)
+lunes	19	Sinope (moon) (moon)
+lunes	20	Pan (moon) (moon)
+lunes	21	Atlas (moon) (moon)
+lunes	22	Prometheus (moon) (moon)
+lunes	23	Pandora (moon) (moon)
+lunes	24	Mimas (moon) (moon)
+lunes	25	Enceladus (moon) (moon)
+lunes	26	Tethys (moon) (moon)
+lunes	27	Telesto (moon) (moon)
+lunes	28	Calypso (moon) (moon)
+lunes	29	Dione (moon) (moon)
+lunes	30	Helene (moon) (moon)
+lunes	31	Rhea (moon) (moon)
+lunes	32	Titan (moon) (moon)
+lunes	33	Hyperion (moon) (moon)
+lunes	35	Phoebe (moon) (moon)
+lunes	36	Puck (moon) (moon)
+lunes	37	Miranda (moon) (moon)
+lunes	38	Ariel (moon) (moon)
+lunes	39	Umbriel (moon) (moon)
+lunes	40	Titania (moon) (moon)
+lunes	41	Oberon (moon) (moon)
+lunes	42	Caliban (moon) (moon)
+lunes	43	Sycorax (moon) (moon)
+lunes	44	Naiad (moon) (moon)
+lunes	45	Thalassa (moon) (moon)
+lunes	46	Despina (moon) (moon)
+lunes	47	Galatea (moon) (moon)
+lunes	48	Larissa (moon) (moon)
+lunes	49	Proteus (moon) (moon)
+lunes	50	Triton (moon) (moon)
+lunes	51	Nereid (moon) (moon)
+lunes	52	Charon (moon) (moon)
+lunes	53	Styx (moon) (moon)
+lunes	54	Nix (moon) (moon)
+lunes	55	Kerberos (moon) (moon)
+lunes	56	Hydra (moon) (moon)
+constellations	1	Orion (constellation) (constellation)
+constellations	2	Ursa Major (constellation)
+constellations	3	Ursa Minor (constellation)
+constellations	4	Cassiopeia (constellation) (constellation)
+constellations	5	Cygnus (constellation) (constellation)
+constellations	6	Lyra (constellation)
+constellations	7	Aquila (constellation) (constellation)
+constellations	8	Scorpius (constellation)
+constellations	9	Sagittarius (constellation) (constellation)
+constellations	10	Taurus (constellation) (constellation)
+constellations	11	Gemini (constellation) (constellation)
+constellations	12	Leo (constellation) (constellation)
+constellations	13	Perseus (constellation) (constellation)
+constellations	14	Andromeda (constellation) (constellation)
+constellations	15	Hercules (constellation) (constellation)
+constellations	16	Virgo (constellation) (constellation)
+constellations	17	Libra (constellation) (constellation)
+constellations	18	Aquarius (constellation) (constellation)
+constellations	19	Aries (constellation) (constellation)
+constellations	20	Cancer (constellation) (constellation)
+constellations	21	Capricornus (constellation)
+constellations	22	Pisces (constellation) (constellation)
+constellations	23	Centaurus (constellation)
+constellations	24	Crux (constellation)
+constellations	25	Draco (constellation) (constellation)
+constellations	26	Pegasus (constellation) (constellation)
+constellations	27	Canis Major (constellation)
+constellations	28	Canis Minor (constellation)
+constellations	29	Auriga (constellation) (constellation)
+constellations	30	Boötes (constellation)
+constellations	31	Corona Borealis (constellation)
+constellations	32	Ophiuchus (constellation)
+constellations	33	Hydra (constellation) (constellation)
+constellations	34	Eridanus (constellation) (constellation)
+constellations	35	Corvus (constellation) (constellation)
+constellations	36	Lepus (constellation) (constellation)
+constellations	37	Phoenix (constellation) (constellation)
+constellations	38	Serpens (constellation)
+mers_oceans	14	Sea of Oman
+detroits_monde	1	Strait of Strait of Gibraltar
+detroits_monde	2	Strait of Bosphorus
+detroits_monde	4	Strait of Strait of Hormuz
+detroits_monde	5	Strait of Strait of Malacca
+detroits_monde	6	Strait of Bering Strait
+detroits_monde	7	Strait of Strait of Magellan
+detroits_monde	9	Strait of Strait of Dover
+detroits_monde	10	Strait of Strait of Messina
+detroits_monde	12	Strait of Taiwan Strait
+detroits_monde	13	Strait of Korea Strait
+detroits_monde	14	Strait of Lombok Strait
+detroits_monde	15	Strait of Bass Strait
+detroits_monde	16	Strait of Straits of Florida
+detroits_monde	18	Strait of Mozambique Channel
+detroits_monde	19	Strait of Singapore Strait
+detroits_monde	20	Strait of Tsugaru Strait
+parcs_nationaux	11	Iguazu National Park
+parcs_nationaux	21	Denali National Park
+parcs_nationaux	23	Pyrenees National Park
+parcs_nationaux	24	Pantanal Conservation Area
+parcs_nationaux	29	Wrangell–St. Elias National Park
+architectes_majeurs	12	Charles Garnier
+architectes_majeurs	25	Herzog & de Meuron
+musees_monde	1	Louvre Museum
+musees_monde	6	Uffizi Gallery
+musees_monde	9	Musée d'Orsay
+musees_monde	17	Egyptian Museum (Cairo)
+musees_monde	18	National Museum of Anthropology (Mexico City)
+musees_monde	21	Musée du quai Branly
+mouvements_peinture	2	Ancient Egyptian art
+mouvements_peinture	14	French classicism
+mouvements_peinture	23	Symbolism (arts)
+mouvements_peinture	34	Abstract expressionism
+mouvements_peinture	35	Pop art
+mouvements_peinture	38	Hyperrealism (painting)
+mouvements_peinture	39	Neo-expressionism
+mouvements_peinture	40	Street art
+decouvertes_scientifiques	3	Circulation of blood
+decouvertes_scientifiques	4	Calculus
+decouvertes_scientifiques	5	Newton's law of universal gravitation
+decouvertes_scientifiques	13	Radioactivity
+decouvertes_scientifiques	20	Cosmic microwave background radiation
+batailles_decisives	1	Battle of Battle of Marathon
+batailles_decisives	2	Battle of Battle of Hastings
+batailles_decisives	3	Battle of Battle of Bouvines
+batailles_decisives	4	Battle of Battle of Waterloo
+batailles_decisives	5	Battle of Battle of Verdun
+batailles_decisives	6	Battle of Battle of Stalingrad
+batailles_decisives	7	Battle of Battle of Midway
+batailles_decisives	8	Battle of Battle of Dien Bien Phu
+batailles_decisives	9	Battle of Battle of Gaugamela
+batailles_decisives	10	Battle of Battle of Cannae
+batailles_decisives	11	Battle of Battle of Actium
+batailles_decisives	12	Battle of Battle of the Catalaunian Plains
+batailles_decisives	13	Battle of Battle of Yarmouk
+batailles_decisives	14	Battle of Battle of Tours
+batailles_decisives	15	Battle of Battle of Lepanto
+batailles_decisives	16	Battle of Battle of Rocroi
+batailles_decisives	17	Battle of Battle of Poltava
+batailles_decisives	18	Battle of Battle of Plassey
+batailles_decisives	19	Battle of Siege of Yorktown (1781)
+batailles_decisives	20	Battle of Battle of Valmy
+batailles_decisives	21	Battle of Battle of Austerlitz
+batailles_decisives	22	Battle of Battle of Leipzig
+batailles_decisives	23	Battle of Battle of Tsushima
+batailles_decisives	24	Battle of Battle of the Marne (1914)
+batailles_decisives	25	Battle of Battle of the Somme
+batailles_decisives	26	Battle of Second Battle of El Alamein
+batailles_decisives	27	Battle of Battle of Kursk
+batailles_decisives	28	Battle of Normandy landings
+batailles_decisives	29	Battle of Battle of Berlin (1945)
+batailles_decisives	30	Battle of Battle of Inchon
+batailles_decisives	31	Battle of Yom Kippur War
+batailles_decisives	32	Battle of Falklands War
+batailles_decisives	33	Battle of Gulf War
+mythologie	2	Hera (mythology)
+mythologie	3	Poseidon (mythology)
+mythologie	4	Demeter (mythology)
+mythologie	5	Athena (mythology) (mythology)
+mythologie	6	Apollo (mythology) (mythology)
+mythologie	7	Artemis (mythology)
+mythologie	8	Ares (mythology)
+mythologie	10	Hephaestus (mythology)
+mythologie	11	Hermes (mythology) (mythology)
+mythologie	12	Dionysus (mythology)
+mythologie	13	Hades (mythology)
+mythologie	14	Persephone (mythology)
+mythologie	15	Hestia (mythology)
+mythologie	16	Nyx (mythology)
+mythologie	17	Chaos (cosmogony) (mythology)
+mythologie	18	Cronus (mythology)
+mythologie	19	Hecate (mythology)
+mythologie	20	Thanatos (mythology)
+mythologie	21	Hypnos (mythology)
+mythologie	22	Charon (mythology) (mythology)
+mythologie	23	Eros (mythology)
+mythologie	24	Nike (mythology) (mythology)
+mythologie	25	Prometheus (mythology)
+mythologie	26	Atlas (mythology) (mythology)
+mythologie	27	Zagreus (mythology)
+mythologie	28	Melinoe (mythology)
+mythologie	29	Megaera (mythology)
+mythologie	30	Alecto (mythology)
+mythologie	31	Tisiphone (mythology)
+mythologie	32	Heracles (mythology)
+mythologie	33	Achilles (mythology)
+mythologie	34	Odysseus (mythology)
+mythologie	35	Theseus (mythology)
+mythologie	36	Minotaur (mythology)
+mythologie	37	Orpheus (mythology)
+mythologie	38	Eurydice (mythology) (mythology)
+mythologie	39	Sisyphus (mythology)
+mythologie	40	Perseus (mythology)
+mythologie	41	Medusa (mythology)
+mythologie	42	Icarus (mythology)
+mythologie	43	Daedalus (mythology)
+mythologie	44	Narcissus (mythology) (mythology)
+mythologie	45	Echo (mythology) (mythology)
+mythologie	46	Arachne (mythology)
+mythologie	47	Oedipus (mythology)
+mythologie	48	Pandora (mythology)
+mythologie	49	Eris (mythology) (mythology)
+mythologie	50	Helios (mythology)
+mythologie	51	Selene (mythology)
+mythologie	52	Tyche (mythology)
+mythologie	53	Aeolus (mythology)
+mythologie	55	Medea (mythology)
+mythologie	56	Moros (mythology)
+mythologie	57	Tantalus (mythology)
+mythologie	58	Ixion (mythology)
+mythologie	59	Hyperion (mythology) (mythology)
+philosophes	41	Gilles Deleuze
+inventions_majeures	3	Glasses (vision correction)
+inventions_majeures	24	Stored-program computer
+civilisations	18	Gupta Empire
+civilisations	26	Feudal Japan
+guerres	16	War of the Pacific (1879–84)
+guerres	40	Russo-Ukrainian War
+jo_ete	4	1906 Summer Olympics
+jo_ete	11	1936 Summer Olympics
+jo_ete	12	1948 Summer Olympics
+jo_ete	14	1956 Summer Olympics
+jo_ete	15	1960 Summer Olympics
+jo_ete	17	1968 Summer Olympics
+jo_ete	21	1984 Summer Olympics
+jo_ete	22	1988 Summer Olympics
+jo_ete	23	1992 Summer Olympics
+jo_ete	24	1996 Summer Olympics
+jo_ete	25	2000 Summer Olympics
+jo_ete	26	2004 Summer Olympics
+jo_ete	27	2008 Summer Olympics
+jo_ete	28	2012 Summer Olympics
+jo_ete	29	2016 Summer Olympics
+jo_ete	30	2020 Summer Olympics
+jo_ete	31	2024 Summer Olympics
+jo_hiver	4	1936 Winter Olympics
+jo_hiver	5	1948 Winter Olympics
+jo_hiver	6	1952 Winter Olympics
+jo_hiver	8	1960 Winter Olympics
+jo_hiver	10	1968 Winter Olympics
+jo_hiver	11	1972 Winter Olympics
+jo_hiver	12	1976 Winter Olympics
+jo_hiver	13	1980 Winter Olympics
+jo_hiver	15	1988 Winter Olympics
+jo_hiver	16	1992 Winter Olympics
+jo_hiver	17	1994 Winter Olympics
+jo_hiver	20	2006 Winter Olympics
+jo_hiver	21	2010 Winter Olympics
+jo_hiver	24	2022 Winter Olympics
+coupes_monde	5	1954 FIFA World Cup
+coupes_monde	6	1958 FIFA World Cup
+coupes_monde	7	1962 FIFA World Cup
+coupes_monde	8	1966 FIFA World Cup
+coupes_monde	12	1982 FIFA World Cup
+coupes_monde	14	1990 FIFA World Cup
+coupes_monde	16	1998 FIFA World Cup
+coupes_monde	17	2002 FIFA World Cup
+coupes_monde	18	2006 FIFA World Cup
+coupes_monde	19	2010 FIFA World Cup
+coupes_monde	20	2014 FIFA World Cup
+coupes_monde	21	2018 FIFA World Cup
+coupes_monde	22	2022 FIFA World Cup
+coupes_monde	23	2026 FIFA World Cup
+consoles	12	Sega Master System
+consoles	18	3DO Interactive Multiplayer
+consoles	22	Game Boy Pocket
+consoles	31	Xbox 360
+consoles	43	Xbox Series S
+revolutions	9	Brazilian Independence
+revolutions	10	French Revolution of 1830
+revolutions	15	Xinhai Revolution
+revolutions	22	African independence movements
+revolutions	30	2014 Ukrainian revolution
+f1_champions	9	Mike Hawthorn
+fleuves_monde	1	Nile River
+fleuves_monde	2	Amazon River River
+fleuves_monde	3	Yangtze River River
+fleuves_monde	4	Missouri–Mississippi River System River
+fleuves_monde	5	Yenisei River
+fleuves_monde	6	Yellow River River
+fleuves_monde	7	Ob River River
+fleuves_monde	8	Paraná River River
+fleuves_monde	9	Congo River River
+fleuves_monde	10	Amur River River
+fleuves_monde	11	Lena River River
+fleuves_monde	12	Mekong River
+fleuves_monde	13	Niger River River
+fleuves_monde	14	Mackenzie River River
+fleuves_monde	15	Volga River
+fleuves_monde	16	Zambezi River
+fleuves_monde	17	Orinoco River
+fleuves_monde	18	Euphrates River
+fleuves_monde	19	Tigris River
+fleuves_monde	20	Ganges River
+fleuves_monde	21	Indus River River
+fleuves_monde	22	Murray River River
+fleuves_monde	23	Danube River
+fleuves_monde	24	Saint Lawrence River River
+fleuves_monde	25	Colorado River River
+fleuves_monde	26	Rio Grande River
+fleuves_monde	27	Orange River River
+fleuves_monde	28	Rhine River
+fleuves_monde	29	Senegal River River
+fleuves_monde	30	Irrawaddy River River
+films	1	
+films	2	
+films	3	
+films	4	
+films	5	
+films	22	
+films	25	
+films	76	
+films	79	
+films	81	
+films	91	
+films	92	
+films	97	
+films	98	
+films	99	
+films	100	
+films	104	
+films	109	
+films	115	
+films	124	
+films	127	
+films	128	
+films	133	
+films	134	
+films	136	
+films	139	
+films	142	
+films	148	
+films	151	
+films	152	
+films	154	
+films	155	
+films	160	
+films	163	
+films	166	
+films	167	
+films	173	
+films	174	
+films	175	
+films	178	
+films	179	
+films	180	
+films	184	
+films	187	
+films	188	
+films	189	
+films	190	
+films	193	
+films	194	
+films	195	
+films	196	
+films	197	
+films	199	
+films	201	
+films	202	
+films	205	
+films	206	
+films	208	
+films	211	
+films	214	
+films	215	
+films	217	
+films	218	
+films	219	
+films	220	
+films	222	
+films	223	
+films	224	
+films	229	
+films	232	
+films	234	
+films	236	
+films	238	
+films	239	
+films	241	
+films	242	
+films	244	
+films	247	
+films	248	
+films	252	
+films	253	
+films	254	
+films	256	
+films	257	
+films	263	
+films	265	
+films	268	
+films	270	
+films	272	
+films	274	
+films	275	
+films	277	
+films	279	
+films	280	
+films	282	
+films	286	
+films	288	
+films	289	
+films	290	
+films	292	
+films	294	
+films	295	
+films	298	
+films	299	
+films	300	
+films	304	
+films	307	
+films	308	
+films	310	
+films	311	
+films	312	
+films	313	
+films	314	
+films	316	
+films	317	
+films	319	
+films	320	
+films	321	
+films	322	
+films	323	
+films	325	
+films	328	
+films	330	
+films	331	
+films	334	
+films	336	
+films	337	
+films	338	
+films	340	
+films	343	
+films	346	
+films	347	
+films	349	
+films	351	
+films	352	
+films	353	
+films	355	
+films	356	
+films	358	
+films	359	
+films	360	
+films	361	
+films	363	
+films	364	
+films	365	
+films	367	
+films	370	
+films	373	
+films	374	
+films	375	
+films	376	
+films	379	
+films	382	
+films	385	
+films	386	
+films	388	
+films	389	

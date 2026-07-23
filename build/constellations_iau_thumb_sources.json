@@ -1,0 +1,283 @@
+{
+  "downloaded": 33,
+  "failures": [
+    {
+      "row": 11,
+      "name": "Gémeaux",
+      "latin": "Gemini",
+      "source": "Gemini IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gemini_IAU.svg/1920px-Gemini_IAU.svg.png",
+      "stage": "download",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+    },
+    {
+      "row": 17,
+      "name": "Balance",
+      "latin": "Libra",
+      "source": "Libra IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Libra_IAU.svg/1920px-Libra_IAU.svg.png",
+      "stage": "download",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+    },
+    {
+      "row": 26,
+      "name": "Pégase",
+      "latin": "Pegasus",
+      "source": "Pegasus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pegasus_IAU.svg/1920px-Pegasus_IAU.svg.png",
+      "stage": "download",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+    },
+    {
+      "row": 35,
+      "name": "Corbeau",
+      "latin": "Corvus",
+      "source": "Corvus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Corvus_IAU.svg/1920px-Corvus_IAU.svg.png",
+      "stage": "download",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+    },
+    {
+      "row": 38,
+      "name": "Serpent",
+      "latin": "Serpens",
+      "source": "Serpens IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Serpens_Caput_IAU.svg/1920px-Serpens_Caput_IAU.svg.png",
+      "stage": "download",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+    }
+  ],
+  "results": [
+    {
+      "row": 1,
+      "name": "Orion",
+      "latin": "Orion",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 2,
+      "name": "Grande Ourse",
+      "latin": "Ursa Major",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 3,
+      "name": "Petite Ourse",
+      "latin": "Ursa Minor",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 4,
+      "name": "Cassiopée",
+      "latin": "Cassiopeia",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 5,
+      "name": "Cygne",
+      "latin": "Cygnus",
+      "source": "Cygnus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cygnus_IAU.svg/1920px-Cygnus_IAU.svg.png"
+    },
+    {
+      "row": 6,
+      "name": "Lyre",
+      "latin": "Lyra",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 7,
+      "name": "Aigle",
+      "latin": "Aquila",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 8,
+      "name": "Scorpion",
+      "latin": "Scorpius",
+      "source": "Scorpius IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Scorpius_IAU.svg/1920px-Scorpius_IAU.svg.png"
+    },
+    {
+      "row": 9,
+      "name": "Sagittaire",
+      "latin": "Sagittarius",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 10,
+      "name": "Taureau",
+      "latin": "Taurus",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 12,
+      "name": "Lion",
+      "latin": "Leo",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 13,
+      "name": "Persée",
+      "latin": "Perseus",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 14,
+      "name": "Andromède",
+      "latin": "Andromeda",
+      "source": "Andromeda IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Andromeda_IAU.svg/1920px-Andromeda_IAU.svg.png"
+    },
+    {
+      "row": 15,
+      "name": "Hercule",
+      "latin": "Hercules",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 16,
+      "name": "Vierge",
+      "latin": "Virgo",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 18,
+      "name": "Verseau",
+      "latin": "Aquarius",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 19,
+      "name": "Bélier",
+      "latin": "Aries",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 20,
+      "name": "Cancer",
+      "latin": "Cancer",
+      "source": "Cancer IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cancer_IAU.svg/1920px-Cancer_IAU.svg.png"
+    },
+    {
+      "row": 21,
+      "name": "Capricorne",
+      "latin": "Capricornus",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 22,
+      "name": "Poissons",
+      "latin": "Pisces",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 23,
+      "name": "Centaure",
+      "latin": "Centaurus",
+      "source": "Centaurus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Centaurus_IAU.svg/1920px-Centaurus_IAU.svg.png"
+    },
+    {
+      "row": 24,
+      "name": "Croix du Sud",
+      "latin": "Crux",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 25,
+      "name": "Dragon",
+      "latin": "Draco",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 27,
+      "name": "Grand Chien",
+      "latin": "Canis Major",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 28,
+      "name": "Petit Chien",
+      "latin": "Canis Minor",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 29,
+      "name": "Cocher",
+      "latin": "Auriga",
+      "source": "Auriga IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Auriga_IAU.svg/1920px-Auriga_IAU.svg.png"
+    },
+    {
+      "row": 30,
+      "name": "Bouvier",
+      "latin": "Boötes",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 31,
+      "name": "Couronne boréale",
+      "latin": "Corona Borealis",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 32,
+      "name": "Ophiuchus",
+      "latin": "Ophiuchus",
+      "source": "Ophiuchus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ophiuchus_IAU.svg/1920px-Ophiuchus_IAU.svg.png"
+    },
+    {
+      "row": 33,
+      "name": "Hydre",
+      "latin": "Hydra",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 34,
+      "name": "Éridain",
+      "latin": "Eridanus",
+      "source": "already-present",
+      "url": ""
+    },
+    {
+      "row": 36,
+      "name": "Lièvre",
+      "latin": "Lepus",
+      "source": "Lepus IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lepus_IAU.svg/1920px-Lepus_IAU.svg.png"
+    },
+    {
+      "row": 37,
+      "name": "Phénix",
+      "latin": "Phoenix",
+      "source": "Phoenix IAU.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phoenix_IAU.svg/1920px-Phoenix_IAU.svg.png"
+    }
+  ]
+}
