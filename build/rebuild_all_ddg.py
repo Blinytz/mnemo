@@ -9,7 +9,7 @@ from duckduckgo_search import DDGS
 from PIL import Image
 from io import BytesIO
 
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 FULL = BASE / 'full'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120'}
 SKIP = {'pays', 'departements', 'etats_usa', 'elements', 'periodes_geologiques',

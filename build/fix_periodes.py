@@ -10,7 +10,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational)'}
 URL = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\periodes_geologiques')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\periodes_geologiques')
 
 def get_page(title):
     time.sleep(2)

@@ -3,7 +3,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image
 from io import BytesIO
 
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\inventions_majeures')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\inventions_majeures')
 HEADERS = {'User-Agent': 'memo-app-fix/1.0'}
 URL = 'https://en.wikipedia.org/w/api.php'
 

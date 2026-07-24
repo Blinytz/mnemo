@@ -4,13 +4,13 @@ Utilise piprop=original (pleine résolution Wikipedia) puis redimensionne à 120
 Couvre toutes les listes y compris montagnes, philosophes, xixe, mers, architectes.
 """
 import sys, pathlib, requests, time
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8', line_buffering=True)
 from PIL import Image
 from io import BytesIO
 from lib_img import get_original_url, get_thumb_url
 
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 FULL = BASE / 'full'
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 SKIP = {'pays', 'departements', 'etats_usa', 'elements', 'periodes_geologiques',

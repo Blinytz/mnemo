@@ -1,6 +1,6 @@
 """Derniers échecs découvertes + mouvements."""
 import sys
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from lib_img import get_thumb_url, save_both
 

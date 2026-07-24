@@ -8,7 +8,7 @@ from io import BytesIO
 
 sys.stdout.reconfigure(encoding='utf-8', line_buffering=True)
 
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 FULL = BASE / 'full'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120',

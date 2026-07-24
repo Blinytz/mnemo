@@ -6,12 +6,12 @@ Test qualité full/ : compare 3 variantes pour 5 images représentatives.
 Sortie : full_test/{slug}_A.jpg, _B.jpg, _C.jpg
 """
 import sys, pathlib, requests, time
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image
 from io import BytesIO
 
-BASE    = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE    = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 OUTDIR  = BASE / 'full_test'
 OUTDIR.mkdir(exist_ok=True)
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}

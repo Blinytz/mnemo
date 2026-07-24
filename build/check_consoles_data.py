@@ -3,7 +3,7 @@ import sys, json, re
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Lire les données depuis memo.html
-with open(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\memo.html', encoding='utf-8') as f:
+with open(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\memo.html', encoding='utf-8') as f:
     content = f.read()
 
 # Chercher la liste consoles

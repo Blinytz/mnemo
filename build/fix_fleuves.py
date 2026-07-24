@@ -10,7 +10,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 URL_EN = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\fleuves_monde')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\fleuves_monde')
 
 # (num, fleuve, image_idéale, terme_recherche)
 # Pour chaque fleuve : on cherche une carte du tracé, vue satellite ou carte hydrologique

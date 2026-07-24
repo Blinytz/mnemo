@@ -4,7 +4,7 @@ Mise à jour COMPLÈTE thumbs/ ET full/.
 Image idéale = la plus visuelle et représentative de la découverte.
 """
 import sys
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from lib_img import get_thumb_url, save_both
 

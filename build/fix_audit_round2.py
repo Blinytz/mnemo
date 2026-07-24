@@ -1,10 +1,10 @@
 """Deuxième round : titres alternatifs pour les echecs du round 1."""
 import sys, pathlib
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from lib_img import get_thumb_url, save_both, get_file_url
 
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 
 # ══ LITTÉRATURE (échecs round 1) ══
 LIT2 = [

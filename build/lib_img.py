@@ -8,7 +8,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 URL = 'https://en.wikipedia.org/w/api.php'
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 
 def get_thumb_url(title, size=800):
     """Get thumbnail URL from Wikipedia page title."""

@@ -7,7 +7,7 @@ images identiques mal placées.
 import sys, pathlib, hashlib, json
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE   = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE   = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 THUMBS = BASE / 'thumbs'
 FULL   = BASE / 'full'
 

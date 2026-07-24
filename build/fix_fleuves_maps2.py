@@ -10,7 +10,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 URL = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\fleuves_monde')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\fleuves_monde')
 
 EXCLUDE = ['1561', '1619', '1681', '1697', '1750', '1800', '1850', '1897', '1413',
            'perrot', 'hondius', 'ruscelli', 'viladestes', 'painting', 'album',

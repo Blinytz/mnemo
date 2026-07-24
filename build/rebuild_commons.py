@@ -9,7 +9,7 @@ from io import BytesIO
 
 sys.stdout.reconfigure(encoding='utf-8', line_buffering=True)
 
-BASE  = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE  = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 FULL  = BASE / 'full'
 COMMONS_API = 'https://commons.wikimedia.org/w/api.php'
 HEADERS = {

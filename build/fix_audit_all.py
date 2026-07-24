@@ -3,11 +3,11 @@ Fix complet de toutes les images cassées détectées par l'audit.
 On ne touche PAS : pays (drapeaux), départements (SVG blasons).
 """
 import sys, pathlib
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from lib_img import get_thumb_url, save_both
 
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 
 # ── Supprimer les orphelins inventions_majeures full/32-35 ──
 for n in [32, 33, 34, 35]:

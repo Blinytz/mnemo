@@ -3,7 +3,7 @@ from PIL import Image
 from io import BytesIO
 HEADERS = {'User-Agent': 'MemoApp/1.0'}
 URL = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\lunes')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\lunes')
 
 # La Lune : photo NASA pleine lune — PAS la carte de tarot
 for title in ['Moon', 'Full moon', 'Lunar surface']:

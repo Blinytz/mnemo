@@ -8,7 +8,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 URL = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs')
 
 # (folder, num, label, ideal, search_term)
 # Pour chaque entrée : quelle est L'IMAGE LA PLUS RECONNAISSABLE et PARLANTE ?

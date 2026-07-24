@@ -12,7 +12,7 @@ from io import BytesIO
 
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 URL = 'https://en.wikipedia.org/w/api.php'
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs\fleuves_monde')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs\fleuves_monde')
 
 MAP_KEYWORDS = ['map', 'basin', 'course', 'watershed', 'drainage', 'locator', 'location',
                 'route', 'river_system', 'catchment', 'tributary', 'delta', 'carte']

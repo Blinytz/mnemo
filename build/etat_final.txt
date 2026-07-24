@@ -73,6 +73,6 @@ R├ëSULTAT GLOBAL : 1766/1886 cellules (93.6%)
   Fichiers cass├®s : 0
 ============================================================
 
-Fichier app: C:\Users\flxjr\OneDrive\Bureau\memo-app\memo.html
-Log build: C:\Users\flxjr\OneDrive\Bureau\memo-app\build\build_resume.log
-Log finaliseur: C:\Users\flxjr\OneDrive\Bureau\memo-app\build\finalize_after_build.log
+Fichier app: C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\memo.html
+Log build: C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build\build_resume.log
+Log finaliseur: C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build\finalize_after_build.log

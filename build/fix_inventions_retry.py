@@ -4,7 +4,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image
 from io import BytesIO
 
-THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\thumbs')
+THUMBS = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\thumbs')
 HEADERS = {'User-Agent': 'memo-app-fix/1.0 (educational)'}
 
 def wiki_image(terms, lang='en'):

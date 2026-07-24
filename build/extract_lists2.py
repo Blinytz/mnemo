@@ -1,7 +1,7 @@
 import re, json, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-html = open(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\memo.html', encoding='utf-8').read()
+html = open(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\memo.html', encoding='utf-8').read()
 
 def extract_rows(list_id):
     """Extrait les rows d'une liste depuis le JSON dans memo.html."""

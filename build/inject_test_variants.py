@@ -6,12 +6,12 @@ pour test en conditions réelles dans l'app.
   #23 Renoir         → C : Moulin Galette     1600px q92
 """
 import sys, pathlib, requests, time
-sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Bureau\memo-app\build')
+sys.path.insert(0, r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\build')
 sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image
 from io import BytesIO
 
-BASE    = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE    = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 HEADERS = {'User-Agent': 'MemoApp/1.0 (educational; contact: claude.elk041@passmail.net)'}
 API     = 'https://en.wikipedia.org/w/api.php'
 

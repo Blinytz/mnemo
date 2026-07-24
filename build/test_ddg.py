@@ -7,7 +7,7 @@ from io import BytesIO
 import pathlib, time
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Bureau\memo-app')
+BASE = pathlib.Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
 OUT = BASE / 'build' / 'ddg_test'
 OUT.mkdir(exist_ok=True)
 

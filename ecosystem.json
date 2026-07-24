@@ -4,7 +4,7 @@
   "displayName": "Mémo",
   "description": "Listes de mémorisation et quiz personnels.",
   "lifecycle": "construction",
-  "ownership": { "audience": "single-user", "repositoryVisibility": "private", "repository": "Blinytz/memo-app" },
+  "ownership": { "audience": "single-user", "repositoryVisibility": "private", "repository": "Blinytz/memo" },
   "data": { "storage": ["localStorage", "files"], "exportAvailable": true, "productionMutationAllowed": false },
   "eclats": { "mode": "planned", "ledger": "none", "balanceMigration": "forbidden" },
   "commands": { "install": null, "dev": "node build/serve_memo.js", "test": "npm test", "build": null, "lint": null },

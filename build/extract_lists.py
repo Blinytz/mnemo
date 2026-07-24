@@ -1,7 +1,7 @@
 import re, json, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-html = open(r'C:\Users\flxjr\OneDrive\Bureau\memo-app\memo.html', encoding='utf-8').read()
+html = open(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo\memo.html', encoding='utf-8').read()
 
 # Trouver le bloc APP_DATA ou les listes directement
 targets = ['montagnes_monde','mers_oceans','philosophes','xixe','architectes_majeurs','musiques','religions']
