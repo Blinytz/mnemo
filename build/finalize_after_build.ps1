@@ -60,7 +60,7 @@ $Compteurs = Get-ChildItem ".\thumbs" -Directory -ErrorAction SilentlyContinue |
   }
 
 $Resume = @(
-  "État final du build Memo",
+  "État final du build Mémo",
   ("Date: " + (Get-Date -Format "yyyy-MM-dd HH:mm:ss")),
   "",
   "Compteurs fichiers thumbs:",

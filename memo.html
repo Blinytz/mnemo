@@ -3966,7 +3966,7 @@ try {
   maybeAutoUpdateImagesOnce();
   if (notifEnabled) scheduleNotif();
 } catch (error) {
-  console.error('Initialisation Memo interrompue, reconstruction des listes par défaut.', error);
+  console.error('Initialisation de Mémo interrompue, reconstruction des listes par défaut.', error);
   lists = cloneDefaultLists();
   currentListId = null;
   renderHome();

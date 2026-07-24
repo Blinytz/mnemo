@@ -1,0 +1,8 @@
+{
+  "name": "memo",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node build/audit_current_html.js"
+  }
+}
