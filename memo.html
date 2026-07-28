@@ -2601,6 +2601,9 @@ function runImageAudit() {
    on persiste, puis le rendu redevient 100 % local et instantané. */
 const IMG_AUTO_RESOLVED_SESSION = new Set();
 function autoResolveCurrentListImages() {
+  // Désactivé : les images sont désormais choisies et validées explicitement
+  // dans l'Atelier Mémo. Aucune recherche autonome ne part à l'ouverture.
+  return;
   const l = getList(currentListId);
   if (!l || IMG_AUTO_RESOLVED_SESSION.has(l.id)) return;
   const pending = imgListNeedsResolution(l, false);
@@ -2613,6 +2616,8 @@ function autoResolveCurrentListImages() {
 }
 
 function maybeAutoUpdateImagesOnce() {
+  // Désactivé : la source éditoriale durable est data/atelier/workspace.json.
+  return;
   /* Le démarrage reste léger : la résolution se fait par liste, à l'ouverture. */
 }
 function makeFallbackSvgDataUrl(label='image', icon='□') {
