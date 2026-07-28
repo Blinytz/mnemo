@@ -1,0 +1,546 @@
+{
+  "generatedAt": "2026-07-28T16:54:55.062Z",
+  "sourceLists": 41,
+  "categories": 5,
+  "lists": 41,
+  "entries": 2131,
+  "review": [
+    {
+      "entryId": "entry_301c82ca2e4c643c",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_be8ac1bbd6f08203",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_38310cda035cc07e",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e33551a2065a89ac",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_5e10e000be8f0166",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_90f7040329a95881",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_cc1850ebe82eb228",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_2e111148f173d6ef",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_97da2e929d37c9c5",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_1c57af0caa1688da",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_697057c260ccc1ae",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3c37114a397afd05",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8a3846e29891157b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_7baadd7ff5beb4ba",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_4149d5a447350889",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_65dd87a8e8a3f727",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ad259a931efea899",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_5e8875497f4a1b0c",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_00e9898705f91b48",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e85f64a9cf757ade",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_605ab6d6f5290e30",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_b1788320063133b6",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c216de9093b52457",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_1ff4c470c570572a",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_84ddc9e329c00442",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_7a1c82468c392705",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_89c9af512bc4ddad",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ecec94563232af43",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_112c297f83d95666",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_31b334f610381c90",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d6f8f5488ffa1bff",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e6c7c6b35f9b4225",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e8c899ee9cbfc6bf",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f3139109161165ea",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_748b5f9bcc63956a",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d503a098fab55467",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3b137827cd8170dc",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_6f441d56fbba5404",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_30da01b9d68f116b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_377193a287f06d8b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_a8e0f77a830a097d",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e6cae163a251b225",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3ccf6b03358b3c27",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_fefeb45ea8e49031",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_13d274906c678ee4",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_02044230e86c0e81",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_56ca32c995de5a8b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_bd4a90813919d9f3",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e47c587c8fe72523",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_7089d2e388f9d560",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c873a9c1dffa1161",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d9557a6981fbb2c0",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d726dfd36772e8ae",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_098ae72782fbb85b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e0d5496ecf7d696f",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_b0e9cb1633c2ab41",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_0985819ca9d3a448",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_cdba6566b36ee7f0",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e67e85065122501d",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ec9115dec2a83701",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8c3568b6654cf758",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_b941bca5bac3c5c0",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ba70f03b5566aa79",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f37637ed6690581a",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f17f34d3994e61b9",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_b3a77b4d93805a95",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_02970b7b044cb220",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_6c390390e0cbd08a",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3d91b810ec5d6f4b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c026bdb38366acbe",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_655d76e3e54d7afb",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_44232acdf89366fd",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c03a6567716fddfc",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_a0ca9e90c7ed57a3",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_31d1d77fe881744a",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_81b2a63e34134472",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ef33aba445fcef38",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_5df38246c9afe968",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_83b1dc0b802a9c0b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_0043b881329a413f",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_82bb0747596b9116",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_08055211758edbcd",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_ca77d8034af2c9ff",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8dee1ffa18e9f7b2",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_453f71f0bbe48daf",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_6a16a55c831073bc",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_fa114b38e07b7b70",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8f4320486253edae",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_5df809a0b4d38f91",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_730e8027c32bd1ff",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3aecf92af167393f",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f8ba025cb85a5cbf",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_6bc235c4ce54b795",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_9fcc5e4559550049",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_a7700ccd2ae09029",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_96fe50411e7d8785",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_91bbca6057da7df7",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_273f34b7c9ffd926",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_1344c8eb2ab646c2",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_90fdf1a9aebfa8db",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_66b1088ccc77e42e",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_e22c4dbf5145fdf7",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_12ccd638dfb9b7c7",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_60b98b24b5899e61",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_85c952656c9250c1",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_24c6c2bc452fdea1",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f5d0dafc0a4ca311",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_7a9b5d18233fd6a6",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_55eda4cb2e25b419",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d4935975485b2507",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_2fb1417250a9c32f",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_a838077b3f384335",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_7fd58581440fd875",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_30973cd75f8129be",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_da70ba9a5eb8641b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_0b113846ca9053ae",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3f3870e2e121fdc0",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f5ee8ff21129a017",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8ed37f41e3e2b20b",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_eebc7170a87819ba",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_065f74a926f1785c",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_d18650e136a0bd44",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f664f84936d34bef",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_f395be0d55108b95",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_2221ed36ecbb3e6f",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_6b30035bfdc97663",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_4750fa9b45709c26",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c6796e8f7e10e9fd",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8a5daeafd1eae159",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_8c920a11a3622bc3",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_374f00839b837185",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_3fdaff074919b390",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_43fd87478130be75",
+      "issue": "source_non_locale_ou_embarquee"
+    },
+    {
+      "entryId": "entry_c7873478fe8fd4bc",
+      "issue": "source_non_locale_ou_embarquee"
+    }
+  ],
+  "idempotent": true
+}

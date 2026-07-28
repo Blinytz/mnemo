@@ -23,6 +23,11 @@ full_test/
 # Livrables et espaces de travail générés
 outputs/
 work/
+assets/atelier/
+atelier/exports/
+backups/
+data/atelier/history/
+hosted-atelier/
 
 # Copies conflictuelles créées par OneDrive
 *-DESKTOP-*
