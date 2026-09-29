@@ -1,0 +1,589 @@
+{
+ "plats-francais_pot-au-feu": {
+  "region": "Toute la France",
+  "ingredients": "Bœuf · Poireau · Carotte · Navet",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_b-uf-bourguignon": {
+  "region": "Bourgogne",
+  "ingredients": "Bœuf · Vin rouge · Lardons · Champignons",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_blanquette-de-veau": {
+  "region": "Toute la France",
+  "ingredients": "Veau · Carotte · Crème · Champignons",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_coq-au-vin": {
+  "region": "Bourgogne",
+  "ingredients": "Coq · Vin rouge · Lardons · Champignons",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Origine revendiquée par plusieurs régions (Bourgogne, Auvergne, Alsace au riesling) ; la Bourgogne est la plus citée."
+ },
+ "plats-francais_cassoulet": {
+  "region": "Languedoc (Castelnaudary)",
+  "ingredients": "Haricots blancs · Confit de canard · Saucisse de Toulouse",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Castelnaudary, Carcassonne et Toulouse s'en disputent la paternité ; Castelnaudary est la plus reconnue."
+ },
+ "plats-francais_choucroute-d-alsace": {
+  "region": "Alsace",
+  "ingredients": "Chou fermenté · Saucisses · Lard · Pommes de terre",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_bouillabaisse": {
+  "region": "Provence (Marseille)",
+  "ingredients": "Poissons de roche · Safran · Rouille · Croûtons",
+  "type": "Soupe",
+  "confiance": "sure"
+ },
+ "plats-francais_ratatouille": {
+  "region": "Provence (Nice)",
+  "ingredients": "Aubergine · Courgette · Poivron · Tomate",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_quiche-lorraine": {
+  "region": "Lorraine",
+  "ingredients": "Pâte brisée · Œufs · Crème · Lardons",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_croque-monsieur": {
+  "region": "Paris",
+  "ingredients": "Pain de mie · Jambon · Fromage · Beurre",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_steak-frites": {
+  "region": "Toute la France",
+  "ingredients": "Bœuf · Frites",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Wikidata donne la Belgique ; plat partagé par la France et la Belgique, sans terroir précis."
+ },
+ "plats-francais_gratin-dauphinois": {
+  "region": "Dauphiné",
+  "ingredients": "Pommes de terre · Lait · Crème · Ail",
+  "type": "Plat",
+  "confiance": "sure",
+  "note": "L'extrait Wikipédia fourni est vandalisé (origine « manitobaine », Regina) : l'origine dauphinoise est établie."
+ },
+ "plats-francais_soupe-a-l-oignon": {
+  "region": "Paris (Halles)",
+  "ingredients": "Oignons · Bouillon · Pain · Fromage râpé",
+  "type": "Soupe",
+  "confiance": "a_verifier",
+  "note": "Plat national ; l'association aux Halles de Paris est d'usage mais pas une origine établie. « Toute la France » possible."
+ },
+ "plats-francais_escargots-de-bourgogne": {
+  "region": "Bourgogne",
+  "ingredients": "Escargots · Beurre · Ail · Persil",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_foie-gras": {
+  "region": "Sud-Ouest (Gascogne, Périgord)",
+  "ingredients": "Foie d'oie ou de canard gras",
+  "type": "Entrée",
+  "confiance": "a_verifier",
+  "note": "Pratique du gavage antique (Égypte) ; en France, le Sud-Ouest et l'Alsace sont les terroirs historiques."
+ },
+ "plats-francais_confit-de-canard": {
+  "region": "Sud-Ouest",
+  "ingredients": "Cuisses de canard · Graisse de canard · Sel",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_andouillette": {
+  "region": "Troyes (Champagne)",
+  "ingredients": "Tripes de porc · Oignon · Vin",
+  "type": "Charcuterie",
+  "confiance": "a_verifier",
+  "note": "Plusieurs terroirs (Troyes, Lyon, Cambrai, Jargeau) ; Troyes est la plus connue."
+ },
+ "plats-francais_cuisses-de-grenouille": {
+  "region": "Dombes",
+  "ingredients": "Cuisses de grenouille · Persillade · Beurre",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Consommées dans de nombreuses régions ; la Dombes et les Vosges sont les terroirs les plus cités."
+ },
+ "plats-francais_aligot": {
+  "region": "Aubrac",
+  "ingredients": "Pommes de terre · Tome fraîche · Ail · Crème",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_tartiflette": {
+  "region": "Savoie (Haute-Savoie)",
+  "ingredients": "Pommes de terre · Reblochon · Lardons · Oignons",
+  "type": "Plat",
+  "confiance": "sure",
+  "note": "Recette inventée dans les années 1980 pour promouvoir le reblochon."
+ },
+ "plats-francais_fondue-savoyarde": {
+  "region": "Savoie",
+  "ingredients": "Fromages (comté, beaufort) · Vin blanc · Pain",
+  "type": "Plat",
+  "confiance": "sure",
+  "note": "Variante française de la fondue suisse."
+ },
+ "plats-francais_crepe": {
+  "region": "Bretagne",
+  "ingredients": "Farine de froment · Œufs · Lait",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_galette-de-sarrasin": {
+  "region": "Bretagne",
+  "ingredients": "Farine de sarrasin · Œuf · Jambon · Fromage",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_baguette-pain": {
+  "region": "Paris",
+  "ingredients": "Farine · Eau · Levure · Sel",
+  "type": "Pain",
+  "confiance": "sure"
+ },
+ "plats-francais_croissant-viennoiserie": {
+  "region": "Paris",
+  "ingredients": "Pâte levée feuilletée · Beurre",
+  "type": "Viennoiserie",
+  "confiance": "a_verifier",
+  "note": "Inspiré du kipferl autrichien ; la recette feuilletée est française (Paris, XIXe siècle)."
+ },
+ "plats-francais_pain-au-chocolat": {
+  "region": "Toute la France",
+  "ingredients": "Pâte levée feuilletée · Beurre · Barres de chocolat",
+  "type": "Viennoiserie",
+  "confiance": "a_verifier",
+  "note": "Nommé « chocolatine » dans le Sud-Ouest ; pas de terroir d'origine établi."
+ },
+ "plats-francais_macaron": {
+  "region": "Paris",
+  "ingredients": "Poudre d'amande · Blancs d'œufs · Sucre glace · Ganache",
+  "type": "Pâtisserie",
+  "confiance": "a_verifier",
+  "note": "Macarons régionaux anciens (Nancy, Amiens, Saint-Émilion) ; le macaron fourré moderne est parisien (Ladurée)."
+ },
+ "plats-francais_eclair-patisserie": {
+  "region": "Lyon",
+  "ingredients": "Pâte à choux · Crème pâtissière · Fondant",
+  "type": "Pâtisserie",
+  "confiance": "a_verifier",
+  "note": "Origine souvent attribuée à Lyon vers 1850, sans certitude ; « Toute la France » possible."
+ },
+ "plats-francais_mille-feuille": {
+  "region": "Toute la France",
+  "ingredients": "Pâte feuilletée · Crème pâtissière · Fondant",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_paris-brest": {
+  "region": "Maisons-Laffitte (Île-de-France)",
+  "ingredients": "Pâte à choux · Crème mousseline pralinée · Amandes",
+  "type": "Pâtisserie",
+  "confiance": "sure",
+  "note": "Créé en 1910 en hommage à la course cycliste Paris-Brest-Paris."
+ },
+ "plats-francais_tarte-tatin": {
+  "region": "Sologne (Lamotte-Beuvron)",
+  "ingredients": "Pommes · Caramel · Beurre · Pâte",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_creme-brulee": {
+  "region": "Toute la France",
+  "ingredients": "Jaunes d'œufs · Crème · Sucre · Vanille",
+  "type": "Dessert",
+  "confiance": "a_verifier",
+  "note": "Origine disputée avec la crema catalana et le burnt cream anglais."
+ },
+ "plats-francais_profiterole": {
+  "region": "Toute la France",
+  "ingredients": "Choux · Glace vanille · Sauce chocolat",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_clafoutis": {
+  "region": "Limousin",
+  "ingredients": "Cerises · Œufs · Farine · Lait",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_madeleine-patisserie": {
+  "region": "Lorraine (Commercy)",
+  "ingredients": "Farine · Œufs · Beurre · Sucre",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_cannele": {
+  "region": "Bordeaux",
+  "ingredients": "Rhum · Vanille · Lait · Œufs",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_baba-au-rhum": {
+  "region": "Lorraine",
+  "ingredients": "Pâte levée · Sirop au rhum · Crème",
+  "type": "Pâtisserie",
+  "confiance": "a_verifier",
+  "note": "Attribué au roi Stanislas en Lorraine, popularisé à Paris (Stohrer) ; le baba est aussi emblématique de Naples."
+ },
+ "plats-francais_salade-nicoise": {
+  "region": "Nice",
+  "ingredients": "Tomates · Œufs durs · Anchois · Olives noires",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_rillettes": {
+  "region": "Touraine et Maine (Tours, Le Mans)",
+  "ingredients": "Porc · Graisse",
+  "type": "Charcuterie",
+  "confiance": "sure"
+ },
+ "plats-francais_pate-en-croute": {
+  "region": "Toute la France",
+  "ingredients": "Farce de viande · Pâte · Gelée",
+  "type": "Charcuterie",
+  "confiance": "a_verifier",
+  "note": "Nombreuses variantes régionales (Lyon, Champagne, Lorraine) ; pas de terroir unique."
+ },
+ "plats-francais_cervelle-de-canut": {
+  "region": "Lyon",
+  "ingredients": "Fromage blanc · Échalote · Ciboulette · Ail",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_piperade": {
+  "region": "Pays basque",
+  "ingredients": "Poivrons · Tomates · Oignons · Piment d'Espelette",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_garbure": {
+  "region": "Gascogne (Béarn, Bigorre)",
+  "ingredients": "Chou · Confit de canard · Haricots · Pommes de terre",
+  "type": "Soupe",
+  "confiance": "sure"
+ },
+ "plats-francais_brandade-de-morue": {
+  "region": "Nîmes",
+  "ingredients": "Morue · Huile d'olive · Ail · Lait",
+  "type": "Plat",
+  "confiance": "sure",
+  "note": "Spécialité de Nîmes mais originaire d'Alès selon Wikipédia."
+ },
+ "plats-francais_bouchee-a-la-reine": {
+  "region": "Toute la France",
+  "ingredients": "Pâte feuilletée · Ris de veau · Champignons · Sauce blanche",
+  "type": "Entrée",
+  "confiance": "a_verifier",
+  "note": "Attribuée à la reine Marie Leszczynska (Versailles) ; très ancrée en Alsace (« vol-au-vent »)."
+ },
+ "plats-francais_ufs-en-meurette": {
+  "region": "Bourgogne",
+  "ingredients": "Œufs pochés · Vin rouge · Lardons · Croûtons",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_sole-meuniere": {
+  "region": "Toute la France",
+  "ingredients": "Sole · Farine · Beurre · Citron",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_steak-tartare": {
+  "region": "Toute la France",
+  "ingredients": "Bœuf cru haché · Jaune d'œuf · Câpres · Oignon",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_hachis-parmentier": {
+  "region": "Paris",
+  "ingredients": "Viande de bœuf hachée · Purée de pommes de terre",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "L'extrait le dit parisien ; c'est surtout un plat national sans terroir marqué."
+ },
+ "plats-francais_souffle": {
+  "region": "Toute la France",
+  "ingredients": "Blancs d'œufs · Béchamel · Fromage",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Peut être salé ou sucré ; type « Plat » retenu pour la version au fromage."
+ },
+ "plats-francais_galette-des-rois": {
+  "region": "Nord de la France (Paris)",
+  "ingredients": "Pâte feuilletée · Frangipane · Fève",
+  "type": "Pâtisserie",
+  "confiance": "a_verifier",
+  "note": "Galette feuilletée au nord, gâteau des rois en brioche au sud ; tradition d'origine antique."
+ },
+ "plats-francais_buche-de-noel": {
+  "region": "Toute la France",
+  "ingredients": "Biscuit roulé · Crème au beurre · Chocolat",
+  "type": "Dessert",
+  "confiance": "a_verifier",
+  "note": "Paris et Lyon revendiquent l'invention au XIXe siècle."
+ },
+ "plats-francais_kouign-amann": {
+  "region": "Bretagne (Douarnenez)",
+  "ingredients": "Pâte à pain · Beurre · Sucre",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_far-breton": {
+  "region": "Bretagne",
+  "ingredients": "Œufs · Farine · Lait · Pruneaux",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_tarte-flambee": {
+  "region": "Alsace",
+  "ingredients": "Pâte à pain · Crème · Oignons · Lardons",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_socca": {
+  "region": "Nice",
+  "ingredients": "Farine de pois chiche · Huile d'olive",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_pissaladiere": {
+  "region": "Nice",
+  "ingredients": "Pâte à pain · Oignons · Anchois · Olives noires",
+  "type": "Entrée",
+  "confiance": "sure"
+ },
+ "plats-francais_pieds-paquets": {
+  "region": "Provence (Marseille)",
+  "ingredients": "Pieds de mouton · Tripes · Vin blanc · Tomate",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_poule-au-pot": {
+  "region": "Béarn",
+  "ingredients": "Poule · Farce · Légumes · Bouillon",
+  "type": "Plat",
+  "confiance": "sure",
+  "note": "Associée au roi Henri IV, originaire du Béarn."
+ },
+ "plats-francais_quenelle": {
+  "region": "Lyon",
+  "ingredients": "Brochet · Farine · Œufs · Sauce Nantua",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_tete-de-veau": {
+  "region": "Toute la France",
+  "ingredients": "Tête de veau · Sauce gribiche · Légumes",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Consommée dans plusieurs pays d'Europe ; Wikidata donne les Pays-Bas, sans terroir français précis."
+ },
+ "plats-francais_petit-sale": {
+  "region": "Auvergne (Le Puy)",
+  "ingredients": "Porc salé · Lentilles vertes · Carottes",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Plat national ; l'association aux lentilles du Puy est d'usage, pas une origine établie."
+ },
+ "plats-francais_magret": {
+  "region": "Gers (Gascogne)",
+  "ingredients": "Filet de canard gras",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_canard-a-l-orange": {
+  "region": "Toute la France",
+  "ingredients": "Canard · Orange · Sauce bigarade · Grand Marnier",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Origine discutée (légende de Catherine de Médicis, cuisine médiévale) ; pas de terroir français établi."
+ },
+ "plats-francais_tripes-a-la-mode-de-caen": {
+  "region": "Normandie (Caen)",
+  "ingredients": "Tripes de bœuf · Pied de bœuf · Cidre · Calvados",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_moules-frites": {
+  "region": "Belgique et Nord",
+  "ingredients": "Moules · Frites · Vin blanc · Échalote",
+  "type": "Plat",
+  "confiance": "a_verifier",
+  "note": "Spécialité belge partagée avec le Nord de la France."
+ },
+ "plats-francais_jambon-beurre": {
+  "region": "Paris",
+  "ingredients": "Baguette · Jambon · Beurre",
+  "type": "Sandwich",
+  "confiance": "sure"
+ },
+ "plats-francais_tapenade": {
+  "region": "Provence (Marseille)",
+  "ingredients": "Olives · Câpres · Anchois · Huile d'olive",
+  "type": "Condiment",
+  "confiance": "sure"
+ },
+ "plats-francais_aioli": {
+  "region": "Provence",
+  "ingredients": "Ail · Huile d'olive",
+  "type": "Sauce",
+  "confiance": "sure"
+ },
+ "plats-francais_soupe-au-pistou": {
+  "region": "Provence",
+  "ingredients": "Légumes d'été · Haricots · Basilic · Ail",
+  "type": "Soupe",
+  "confiance": "sure"
+ },
+ "plats-francais_baeckeoffe": {
+  "region": "Alsace",
+  "ingredients": "Pommes de terre · Viandes marinées · Vin blanc",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_kig-ha-farz": {
+  "region": "Bretagne (pays de Léon)",
+  "ingredients": "Porc et bœuf · Far au sarrasin · Légumes",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_daube-provencale": {
+  "region": "Provence",
+  "ingredients": "Bœuf · Vin rouge · Olives · Orange",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_pan-bagnat": {
+  "region": "Nice",
+  "ingredients": "Pain · Thon · Anchois · Tomate",
+  "type": "Sandwich",
+  "confiance": "sure"
+ },
+ "plats-francais_farcis": {
+  "region": "Nice",
+  "ingredients": "Tomate, courgette, aubergine · Farce de viande",
+  "type": "Plat",
+  "confiance": "sure"
+ },
+ "plats-francais_gateau-basque": {
+  "region": "Pays basque",
+  "ingredients": "Pâte sablée · Crème pâtissière · Cerises noires",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_kougelhopf": {
+  "region": "Alsace",
+  "ingredients": "Pâte briochée · Raisins secs · Amandes",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_saint-honore-patisserie": {
+  "region": "Paris",
+  "ingredients": "Choux · Crème chiboust · Chantilly · Caramel",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_opera-patisserie": {
+  "region": "Paris",
+  "ingredients": "Biscuit Joconde · Ganache · Crème au beurre café",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_tarte-tropezienne": {
+  "region": "Saint-Tropez",
+  "ingredients": "Brioche · Sucre · Crème pâtissière · Crème au beurre",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_tarte-au-citron": {
+  "region": "Toute la France",
+  "ingredients": "Pâte sablée · Crème au citron · Meringue",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_mousse-au-chocolat": {
+  "region": "Toute la France",
+  "ingredients": "Chocolat · Blancs d'œufs",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_ile-flottante": {
+  "region": "Toute la France",
+  "ingredients": "Blancs d'œufs · Crème anglaise · Caramel",
+  "type": "Dessert",
+  "confiance": "a_verifier",
+  "note": "L'extrait Wikipédia fourni porte sur l'île géographique, pas sur le dessert ; fiche rédigée sans source."
+ },
+ "plats-francais_creme-caramel": {
+  "region": "Toute la France",
+  "ingredients": "Œufs · Lait · Sucre · Caramel",
+  "type": "Dessert",
+  "confiance": "sure"
+ },
+ "plats-francais_poire-belle-helene": {
+  "region": "Paris",
+  "ingredients": "Poires pochées · Glace vanille · Chocolat chaud",
+  "type": "Dessert",
+  "confiance": "sure",
+  "note": "Créée vers 1864, en référence à l'opérette La Belle Hélène d'Offenbach."
+ },
+ "plats-francais_crepe-suzette": {
+  "region": "Paris",
+  "ingredients": "Crêpe · Beurre · Orange · Grand Marnier",
+  "type": "Dessert",
+  "confiance": "a_verifier",
+  "note": "Invention revendiquée à Monte-Carlo (Café de Paris) et à Paris ; origine disputée."
+ },
+ "plats-francais_chouquette": {
+  "region": "Paris",
+  "ingredients": "Pâte à choux · Sucre perlé",
+  "type": "Viennoiserie",
+  "confiance": "a_verifier",
+  "note": "Pas de terroir établi ; très associée aux boulangeries parisiennes. « Toute la France » possible."
+ },
+ "plats-francais_brioche": {
+  "region": "Normandie",
+  "ingredients": "Farine · Beurre · Œufs · Levure",
+  "type": "Viennoiserie",
+  "confiance": "a_verifier",
+  "note": "La tradition cite la Normandie (beurre normand) ; plusieurs brioches régionales (Vendée, Saint-Genix)."
+ },
+ "plats-francais_pain-d-epices": {
+  "region": "Dijon (Bourgogne)",
+  "ingredients": "Miel · Farine de seigle · Épices",
+  "type": "Pâtisserie",
+  "confiance": "a_verifier",
+  "note": "Terroirs concurrents : Dijon, Reims, Alsace ; Dijon est la plus citée."
+ },
+ "plats-francais_religieuse-patisserie": {
+  "region": "Paris",
+  "ingredients": "Choux · Crème pâtissière · Fondant",
+  "type": "Pâtisserie",
+  "confiance": "sure"
+ },
+ "plats-francais_calisson": {
+  "region": "Provence (Aix-en-Provence)",
+  "ingredients": "Melon confit · Amandes · Glace royale",
+  "type": "Confiserie",
+  "confiance": "sure"
+ },
+ "plats-francais_nougat-de-montelimar": {
+  "region": "Drôme (Montélimar)",
+  "ingredients": "Amandes · Miel de lavande · Blancs d'œufs",
+  "type": "Confiserie",
+  "confiance": "sure"
+ }
+}

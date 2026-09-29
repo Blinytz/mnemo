@@ -1,0 +1,987 @@
+{
+ "tableaux-celebres_la-joconde": {
+  "peintre": "Léonard de Vinci",
+  "date": "1503-1519",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Haute Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-cene-leonard-de-vinci": {
+  "peintre": "Léonard de Vinci",
+  "date": "1495-1498",
+  "lieu": "Couvent Santa Maria delle Grazie (réfectoire), Milan",
+  "mouvement": "Haute Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-naissance-de-venus-botticelli": {
+  "peintre": "Sandro Botticelli",
+  "date": "vers 1484-1485",
+  "lieu": "Galerie des Offices, Florence",
+  "mouvement": "Première Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-jugement-dernier-michel-ange": {
+  "peintre": "Michel-Ange",
+  "date": "1536-1541",
+  "lieu": "Chapelle Sixtine, Vatican",
+  "mouvement": "Haute Renaissance · maniérisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-creation-d-adam-michel-ange": {
+  "peintre": "Michel-Ange",
+  "date": "vers 1508-1512",
+  "lieu": "Chapelle Sixtine, Vatican",
+  "mouvement": "Haute Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-epoux-arnolfini": {
+  "peintre": "Jan van Eyck",
+  "date": "1434",
+  "lieu": "National Gallery, Londres",
+  "mouvement": "Primitifs flamands",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-jardin-des-delices": {
+  "peintre": "Jérôme Bosch",
+  "date": "vers 1490-1510",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Primitifs flamands",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-ronde-de-nuit": {
+  "peintre": "Rembrandt",
+  "date": "1642",
+  "lieu": "Rijksmuseum, Amsterdam",
+  "mouvement": "Siècle d'or néerlandais · baroque",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-jeune-fille-a-la-perle": {
+  "peintre": "Johannes Vermeer",
+  "date": "vers 1665",
+  "lieu": "Mauritshuis, La Haye",
+  "mouvement": "Siècle d'or néerlandais",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-menines": {
+  "peintre": "Diego Vélasquez",
+  "date": "1656",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Baroque · Siècle d'or espagnol",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-liberte-guidant-le-peuple": {
+  "peintre": "Eugène Delacroix",
+  "date": "1830",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-radeau-de-la-meduse": {
+  "peintre": "Théodore Géricault",
+  "date": "1818-1819",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-grande-vague-de-kanagawa": {
+  "peintre": "Hokusai",
+  "date": "vers 1830-1831",
+  "lieu": "Nombreux tirages (Metropolitan Museum, British Museum, BnF, musée Guimet…)",
+  "mouvement": "Ukiyo-e",
+  "confiance": "a_verifier",
+  "note": "Estampe, pas un tableau : des dizaines de tirages conservés, aucun lieu unique."
+ },
+ "tableaux-celebres_impression-soleil-levant": {
+  "peintre": "Claude Monet",
+  "date": "1872",
+  "lieu": "Musée Marmottan Monet, Paris",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-dejeuner-sur-l-herbe": {
+  "peintre": "Édouard Manet",
+  "date": "1863",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme · pré-impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_olympia-manet": {
+  "peintre": "Édouard Manet",
+  "date": "1863",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme · pré-impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_bal-du-moulin-de-la-galette-renoir": {
+  "peintre": "Auguste Renoir",
+  "date": "1876",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-nuit-etoilee-1889": {
+  "peintre": "Vincent van Gogh",
+  "date": "1889",
+  "lieu": "MoMA, New York",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-tournesols": {
+  "peintre": "Vincent van Gogh",
+  "date": "1888-1889",
+  "lieu": "National Gallery, Londres (et autres versions)",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "a_verifier",
+  "note": "Série de sept vases d'Arles : Londres, Amsterdam (musée Van Gogh), Munich, Philadelphie, Tokyo (Sompo), collection privée ; une détruite en 1945."
+ },
+ "tableaux-celebres_le-cri": {
+  "peintre": "Edvard Munch",
+  "date": "1893",
+  "lieu": "Musée national, Oslo",
+  "mouvement": "Expressionnisme",
+  "confiance": "a_verifier",
+  "note": "Plusieurs versions : peinture de 1893 au Musée national d'Oslo (ex-Galerie nationale), autres au Musée Munch, pastel de 1895 en collection privée."
+ },
+ "tableaux-celebres_la-chambre-de-van-gogh-a-arles": {
+  "peintre": "Vincent van Gogh",
+  "date": "1888",
+  "lieu": "Musée Van Gogh, Amsterdam",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "a_verifier",
+  "note": "Trois versions : Amsterdam (1888), Art Institute of Chicago et musée d'Orsay (1889)."
+ },
+ "tableaux-celebres_un-dimanche-apres-midi-a-l-ile-de-la-grande-jatte": {
+  "peintre": "Georges Seurat",
+  "date": "1884-1886",
+  "lieu": "Art Institute of Chicago, Chicago",
+  "mouvement": "Néo-impressionnisme (pointillisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-demoiselles-d-avignon": {
+  "peintre": "Pablo Picasso",
+  "date": "1907",
+  "lieu": "MoMA, New York",
+  "mouvement": "Proto-cubisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_guernica-picasso": {
+  "peintre": "Pablo Picasso",
+  "date": "1937",
+  "lieu": "Musée Reina Sofía, Madrid",
+  "mouvement": "Cubisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-persistance-de-la-memoire": {
+  "peintre": "Salvador Dalí",
+  "date": "1931",
+  "lieu": "MoMA, New York",
+  "mouvement": "Surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-fils-de-l-homme-magritte": {
+  "peintre": "René Magritte",
+  "date": "1964",
+  "lieu": "Collection privée",
+  "mouvement": "Surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_composition-viii": {
+  "peintre": "Vassily Kandinsky",
+  "date": "1923",
+  "lieu": "Musée Solomon R. Guggenheim, New York",
+  "mouvement": "Abstraction",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_american-gothic-wood": {
+  "peintre": "Grant Wood",
+  "date": "1930",
+  "lieu": "Art Institute of Chicago, Chicago",
+  "mouvement": "Régionalisme américain",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_nighthawks": {
+  "peintre": "Edward Hopper",
+  "date": "1942",
+  "lieu": "Art Institute of Chicago, Chicago",
+  "mouvement": "Réalisme américain",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_campbell-s-soup-cans": {
+  "peintre": "Andy Warhol",
+  "date": "1962",
+  "lieu": "MoMA, New York",
+  "mouvement": "Pop art",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_number-1-1950-lavender-mist": {
+  "peintre": "Jackson Pollock",
+  "date": "1950",
+  "lieu": "National Gallery of Art, Washington",
+  "mouvement": "Expressionnisme abstrait",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-nympheas": {
+  "peintre": "Claude Monet",
+  "date": "vers 1897-1926",
+  "lieu": "Musée de l'Orangerie, Paris (et nombreux musées)",
+  "mouvement": "Impressionnisme",
+  "confiance": "a_verifier",
+  "note": "Série d'environ 250 toiles dispersées ; les grands panneaux sont à l'Orangerie, d'autres à Marmottan et dans le monde entier."
+ },
+ "tableaux-celebres_le-baiser-klimt": {
+  "peintre": "Gustav Klimt",
+  "date": "1907-1908",
+  "lieu": "Palais du Belvédère, Vienne",
+  "mouvement": "Sécession viennoise · Art nouveau",
+  "confiance": "a_verifier",
+  "note": "Date discutée : 1907-1908 d'usage, 1908-1909 selon l'extrait Wikipédia."
+ },
+ "tableaux-celebres_composition-avec-jaune-bleu-et-rouge": {
+  "peintre": "Piet Mondrian",
+  "date": "1937-1942",
+  "lieu": "Tate Modern, Londres",
+  "mouvement": "Néoplasticisme (De Stijl)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_guitare-et-compotier-paris": {
+  "peintre": "Georges Braque",
+  "date": "1919",
+  "lieu": "Centre Pompidou, Paris",
+  "mouvement": "Cubisme",
+  "confiance": "a_verifier",
+  "note": "Braque a peint plusieurs natures mortes à guitare et compotier ; vérifier que l'image est bien Le Guéridon noir du Centre Pompidou."
+ },
+ "tableaux-celebres_autoportrait-a-l-oreille-bandee-et-a-la-pipe": {
+  "peintre": "Vincent van Gogh",
+  "date": "1889",
+  "lieu": "Collection privée",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "a_verifier",
+  "note": "Deux autoportraits de janvier 1889 : avec pipe (collection privée) et sans pipe (Courtauld, Londres) ; vérifier que l'image correspond."
+ },
+ "tableaux-celebres_la-chute-d-icare": {
+  "peintre": "D'après Pieter Brueghel l'Ancien",
+  "date": "vers 1560",
+  "lieu": "Musées royaux des Beaux-Arts de Belgique, Bruxelles",
+  "mouvement": "Renaissance flamande",
+  "confiance": "a_verifier",
+  "note": "Original perdu : deux copies à Bruxelles (Musées royaux et musée van Buuren) ; attribution débattue."
+ },
+ "tableaux-celebres_la-tour-de-babel-brueghel": {
+  "peintre": "Pieter Brueghel l'Ancien",
+  "date": "vers 1563",
+  "lieu": "Kunsthistorisches Museum, Vienne",
+  "mouvement": "Renaissance flamande",
+  "confiance": "a_verifier",
+  "note": "Deux versions : la « Grande » à Vienne (1563), la « Petite » au musée Boijmans Van Beuningen, Rotterdam."
+ },
+ "tableaux-celebres_le-triomphe-de-la-mort-brueghel": {
+  "peintre": "Pieter Brueghel l'Ancien",
+  "date": "vers 1562",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Renaissance flamande",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_venus-d-urbin": {
+  "peintre": "Titien",
+  "date": "1538",
+  "lieu": "Galerie des Offices, Florence",
+  "mouvement": "Renaissance vénitienne",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-ecole-d-athenes": {
+  "peintre": "Raphaël",
+  "date": "1509-1511",
+  "lieu": "Chambre de la Signature, musées du Vatican, Vatican",
+  "mouvement": "Haute Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-vocation-de-saint-matthieu": {
+  "peintre": "Le Caravage",
+  "date": "1599-1600",
+  "lieu": "Église Saint-Louis-des-Français, Rome",
+  "mouvement": "Baroque (caravagisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_judith-decapitant-holopherne-gentileschi-naples": {
+  "peintre": "Artemisia Gentileschi",
+  "date": "1612-1613",
+  "lieu": "Musée de Capodimonte, Naples",
+  "mouvement": "Baroque (caravagisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_autoportrait-rembrandt-vienne": {
+  "peintre": "Rembrandt",
+  "date": "1652",
+  "lieu": "Kunsthistorisches Museum, Vienne",
+  "mouvement": "Siècle d'or néerlandais · baroque",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-laitiere": {
+  "peintre": "Johannes Vermeer",
+  "date": "vers 1658",
+  "lieu": "Rijksmuseum, Amsterdam",
+  "mouvement": "Siècle d'or néerlandais",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_vue-de-delft": {
+  "peintre": "Johannes Vermeer",
+  "date": "vers 1660-1661",
+  "lieu": "Mauritshuis, La Haye",
+  "mouvement": "Siècle d'or néerlandais",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_saturne-devorant-un-de-ses-fils": {
+  "peintre": "Francisco de Goya",
+  "date": "1819-1823",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_el-tres-de-mayo-de-1808-en-madrid": {
+  "peintre": "Francisco de Goya",
+  "date": "1814",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-origine-du-monde": {
+  "peintre": "Gustave Courbet",
+  "date": "1866",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-deux-fridas": {
+  "peintre": "Frida Kahlo",
+  "date": "1939",
+  "lieu": "Musée d'Art moderne, Mexico",
+  "mouvement": "Art moderne mexicain · proche du surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-colonne-brisee-kahlo": {
+  "peintre": "Frida Kahlo",
+  "date": "1944",
+  "lieu": "Musée Dolores Olmedo, Mexico",
+  "mouvement": "Art moderne mexicain · proche du surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_composition-vii": {
+  "peintre": "Vassily Kandinsky",
+  "date": "1913",
+  "lieu": "Galerie Tretiakov, Moscou",
+  "mouvement": "Abstraction (Der Blaue Reiter)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_broadway-boogie-woogie": {
+  "peintre": "Piet Mondrian",
+  "date": "1942-1943",
+  "lieu": "MoMA, New York",
+  "mouvement": "Néoplasticisme (De Stijl)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-petite-fille-au-ballon": {
+  "peintre": "Banksy",
+  "date": "2002",
+  "lieu": "Œuvre murale disparue (Londres) ; versions en collection privée",
+  "mouvement": "Street art",
+  "confiance": "a_verifier",
+  "note": "Pas un tableau : pochoir mural de 2002, décliné en tirages ; la version déchiquetée de 2018 (Love is in the Bin) est en collection privée."
+ },
+ "tableaux-celebres_les-hasards-heureux-de-l-escarpolette": {
+  "peintre": "Jean-Honoré Fragonard",
+  "date": "1767-1769",
+  "lieu": "Wallace Collection, Londres",
+  "mouvement": "Rococo",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-agneau-mystique": {
+  "peintre": "Hubert et Jan van Eyck",
+  "date": "1432",
+  "lieu": "Cathédrale Saint-Bavon, Gand",
+  "mouvement": "Primitifs flamands",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-printemps-botticelli": {
+  "peintre": "Sandro Botticelli",
+  "date": "vers 1478-1482",
+  "lieu": "Galerie des Offices, Florence",
+  "mouvement": "Première Renaissance",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-dame-a-l-hermine": {
+  "peintre": "Léonard de Vinci",
+  "date": "vers 1489-1490",
+  "lieu": "Musée Czartoryski (Musée national), Cracovie",
+  "mouvement": "Haute Renaissance",
+  "confiance": "a_verifier",
+  "note": "Musée Czartoryski rouvert fin 2023 après travaux, rattaché au Musée national de Cracovie : vérifier l'intitulé."
+ },
+ "tableaux-celebres_la-vierge-aux-rochers": {
+  "peintre": "Léonard de Vinci",
+  "date": "1483-1486",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Haute Renaissance",
+  "confiance": "a_verifier",
+  "note": "Deux versions : Louvre (1483-1486) et National Gallery de Londres (vers 1495-1508)."
+ },
+ "tableaux-celebres_melencolia-i": {
+  "peintre": "Albrecht Dürer",
+  "date": "1514",
+  "lieu": "Nombreux tirages (British Museum, Metropolitan Museum, BnF…)",
+  "mouvement": "Renaissance allemande",
+  "confiance": "a_verifier",
+  "note": "Gravure sur cuivre, pas un tableau : de nombreux tirages conservés, aucun lieu unique."
+ },
+ "tableaux-celebres_les-ambassadeurs": {
+  "peintre": "Hans Holbein le Jeune",
+  "date": "1533",
+  "lieu": "National Gallery, Londres",
+  "mouvement": "Renaissance du Nord",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-tempete-giorgione": {
+  "peintre": "Giorgione",
+  "date": "vers 1506-1508",
+  "lieu": "Gallerie dell'Accademia, Venise",
+  "mouvement": "Renaissance vénitienne",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-noces-de-cana-veronese": {
+  "peintre": "Paul Véronèse",
+  "date": "1562-1563",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Renaissance vénitienne",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-christ-mort": {
+  "peintre": "Hans Holbein le Jeune",
+  "date": "1521-1522",
+  "lieu": "Kunstmuseum, Bâle",
+  "mouvement": "Renaissance du Nord",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-lecon-d-anatomie-du-docteur-tulp": {
+  "peintre": "Rembrandt",
+  "date": "1632",
+  "lieu": "Mauritshuis, La Haye",
+  "mouvement": "Siècle d'or néerlandais · baroque",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_venus-au-miroir": {
+  "peintre": "Titien",
+  "date": "vers 1555",
+  "lieu": "National Gallery of Art, Washington",
+  "mouvement": "Renaissance vénitienne",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-reddition-de-breda": {
+  "peintre": "Diego Vélasquez",
+  "date": "1634-1635",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Baroque · Siècle d'or espagnol",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-tricheur-a-l-as-de-carreau": {
+  "peintre": "Georges de La Tour",
+  "date": "vers 1636-1638",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Baroque (caravagisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-descente-de-croix-rubens-anvers": {
+  "peintre": "Pierre Paul Rubens",
+  "date": "1612-1614",
+  "lieu": "Cathédrale Notre-Dame, Anvers",
+  "mouvement": "Baroque flamand",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-trois-graces-rubens": {
+  "peintre": "Pierre Paul Rubens",
+  "date": "vers 1630-1635",
+  "lieu": "Musée du Prado, Madrid",
+  "mouvement": "Baroque flamand",
+  "confiance": "a_verifier",
+  "note": "Date discutée : 1630-1635 selon le Prado, 1639 selon l'extrait Wikipédia."
+ },
+ "tableaux-celebres_l-enlevement-des-sabines-poussin": {
+  "peintre": "Nicolas Poussin",
+  "date": "1634-1638",
+  "lieu": "Metropolitan Museum, New York · Musée du Louvre, Paris",
+  "mouvement": "Classicisme",
+  "confiance": "a_verifier",
+  "note": "Deux versions : Met de New York (1634-1635) et Louvre (1637-1638) ; vérifier laquelle est illustrée."
+ },
+ "tableaux-celebres_le-serment-des-horaces": {
+  "peintre": "Jacques-Louis David",
+  "date": "1784-1785",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Néoclassicisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_marat-assassine": {
+  "peintre": "Jacques-Louis David",
+  "date": "1793",
+  "lieu": "Musées royaux des Beaux-Arts de Belgique, Bruxelles",
+  "mouvement": "Néoclassicisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-sacre-de-napoleon": {
+  "peintre": "Jacques-Louis David",
+  "date": "1805-1807",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Néoclassicisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-grande-odalisque": {
+  "peintre": "Jean-Auguste-Dominique Ingres",
+  "date": "1814",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Néoclassicisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-bain-turc-ingres": {
+  "peintre": "Jean-Auguste-Dominique Ingres",
+  "date": "1862",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Néoclassicisme · orientalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-voyageur-contemplant-une-mer-de-nuages": {
+  "peintre": "Caspar David Friedrich",
+  "date": "vers 1818",
+  "lieu": "Kunsthalle, Hambourg",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-cauchemar-fussli-detroit": {
+  "peintre": "Johann Heinrich Füssli",
+  "date": "1781",
+  "lieu": "Detroit Institute of Arts, Detroit",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_washington-crossing-the-delaware": {
+  "peintre": "Emanuel Leutze",
+  "date": "1851",
+  "lieu": "Metropolitan Museum, New York",
+  "mouvement": "Romantisme (école de Düsseldorf)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-angelus": {
+  "peintre": "Jean-François Millet",
+  "date": "1857-1859",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_des-glaneuses": {
+  "peintre": "Jean-François Millet",
+  "date": "1857",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_un-enterrement-a-ornans": {
+  "peintre": "Gustave Courbet",
+  "date": "1849-1850",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_arrangement-en-gris-et-noir-n-1": {
+  "peintre": "James Abbott McNeill Whistler",
+  "date": "1871",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Esthétisme (tonalisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_raboteurs-de-parquet": {
+  "peintre": "Gustave Caillebotte",
+  "date": "1875",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Réalisme · impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-dejeuner-des-canotiers": {
+  "peintre": "Auguste Renoir",
+  "date": "1880-1881",
+  "lieu": "Phillips Collection, Washington",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_un-bar-aux-folies-bergere": {
+  "peintre": "Édouard Manet",
+  "date": "1882",
+  "lieu": "Courtauld Gallery, Londres",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-classe-de-danse-degas-paris": {
+  "peintre": "Edgar Degas",
+  "date": "1873-1876",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-absinthe": {
+  "peintre": "Edgar Degas",
+  "date": "1875-1876",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-joueurs-de-cartes-cezanne": {
+  "peintre": "Paul Cézanne",
+  "date": "vers 1890-1895",
+  "lieu": "Musée d'Orsay, Paris (et autres versions)",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "a_verifier",
+  "note": "Série de cinq tableaux : Barnes Foundation, Metropolitan Museum, Orsay, Courtauld, collection privée (Qatar) ; vérifier laquelle est illustrée."
+ },
+ "tableaux-celebres_montagne-sainte-victoire-cezanne": {
+  "peintre": "Paul Cézanne",
+  "date": "1882-1906",
+  "lieu": "Nombreux musées (Orsay, Philadelphie, Princeton…)",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "a_verifier",
+  "note": "Près de 80 œuvres sur ce motif ; lieu à préciser selon la version illustrée (Wikidata : Princeton)."
+ },
+ "tableaux-celebres_les-mangeurs-de-pommes-de-terre": {
+  "peintre": "Vincent van Gogh",
+  "date": "1885",
+  "lieu": "Musée Van Gogh, Amsterdam",
+  "mouvement": "Réalisme (période hollandaise)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-cafe-de-nuit": {
+  "peintre": "Vincent van Gogh",
+  "date": "1888",
+  "lieu": "Yale University Art Gallery, New Haven",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_d-ou-venons-nous-que-sommes-nous-ou-allons-nous": {
+  "peintre": "Paul Gauguin",
+  "date": "1897-1898",
+  "lieu": "Musée des Beaux-Arts, Boston",
+  "mouvement": "Postimpressionnisme (synthétisme)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-danse-i": {
+  "peintre": "Henri Matisse",
+  "date": "1909",
+  "lieu": "MoMA, New York",
+  "mouvement": "Fauvisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_carre-noir-sur-fond-blanc": {
+  "peintre": "Kasimir Malevitch",
+  "date": "1915",
+  "lieu": "Galerie Tretiakov, Moscou",
+  "mouvement": "Suprématisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_nu-descendant-un-escalier-n-2": {
+  "peintre": "Marcel Duchamp",
+  "date": "1912",
+  "lieu": "Philadelphia Museum of Art, Philadelphie",
+  "mouvement": "Cubisme · futurisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-trahison-des-images": {
+  "peintre": "René Magritte",
+  "date": "1928-1929",
+  "lieu": "LACMA, Los Angeles",
+  "mouvement": "Surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_golconde-magritte": {
+  "peintre": "René Magritte",
+  "date": "1953",
+  "lieu": "Menil Collection, Houston",
+  "mouvement": "Surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-femme-qui-pleure-picasso": {
+  "peintre": "Pablo Picasso",
+  "date": "1937",
+  "lieu": "Tate Modern, Londres",
+  "mouvement": "Cubisme",
+  "confiance": "a_verifier",
+  "note": "Wikidata indique Tate Liverpool (collection de la Tate, lieu d'accrochage variable) ; Picasso en a peint d'autres versions."
+ },
+ "tableaux-celebres_trois-musiciens-picasso": {
+  "peintre": "Pablo Picasso",
+  "date": "1921",
+  "lieu": "MoMA, New York · Philadelphia Museum of Art",
+  "mouvement": "Cubisme synthétique",
+  "confiance": "a_verifier",
+  "note": "Deux versions : MoMA de New York et musée de Philadelphie ; vérifier laquelle est illustrée."
+ },
+ "tableaux-celebres_le-reve-picasso": {
+  "peintre": "Pablo Picasso",
+  "date": "1932",
+  "lieu": "Collection privée",
+  "mouvement": "Surréalisme · période Marie-Thérèse",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_diptyque-marilyn": {
+  "peintre": "Andy Warhol",
+  "date": "1962",
+  "lieu": "Tate Modern, Londres",
+  "mouvement": "Pop art",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_whaam": {
+  "peintre": "Roy Lichtenstein",
+  "date": "1963",
+  "lieu": "Tate Modern, Londres",
+  "mouvement": "Pop art",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_drowning-girl": {
+  "peintre": "Roy Lichtenstein",
+  "date": "1963",
+  "lieu": "MoMA, New York",
+  "mouvement": "Pop art",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_mark-rothko": {
+  "peintre": "Mark Rothko",
+  "date": "1953",
+  "lieu": "MOCA, Los Angeles",
+  "mouvement": "Expressionnisme abstrait (Color Field)",
+  "confiance": "a_verifier",
+  "note": "Aucune donnée Wikidata : la carte pointe vers l'article sur Rothko ; date et lieu de mémoire."
+ },
+ "tableaux-celebres_autoportrait-au-collier-d-epines-et-colibri": {
+  "peintre": "Frida Kahlo",
+  "date": "1940",
+  "lieu": "Harry Ransom Center, Austin",
+  "mouvement": "Art moderne mexicain · proche du surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_a-bigger-splash": {
+  "peintre": "David Hockney",
+  "date": "1967",
+  "lieu": "Tate Britain, Londres",
+  "mouvement": "Pop art",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-nef-des-fous-bosch": {
+  "peintre": "Jérôme Bosch",
+  "date": "vers 1500",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Primitifs flamands",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-enterrement-du-comte-d-orgaz": {
+  "peintre": "Le Greco",
+  "date": "1586-1588",
+  "lieu": "Église Santo Tomé, Tolède",
+  "mouvement": "Maniérisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_et-in-arcadia-ego-poussin": {
+  "peintre": "Nicolas Poussin",
+  "date": "1638-1640",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Classicisme",
+  "confiance": "a_verifier",
+  "note": "Deux versions : Louvre (1638-1640) et Chatsworth House (vers 1627-1628) ; vérifier laquelle est illustrée."
+ },
+ "tableaux-celebres_le-pelerinage-a-l-ile-de-cythere": {
+  "peintre": "Antoine Watteau",
+  "date": "1717",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Rococo",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-retour-du-fils-prodigue-rembrandt": {
+  "peintre": "Rembrandt",
+  "date": "vers 1668",
+  "lieu": "Musée de l'Ermitage, Saint-Pétersbourg",
+  "mouvement": "Siècle d'or néerlandais · baroque",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_pluie-vapeur-et-vitesse": {
+  "peintre": "William Turner",
+  "date": "1844",
+  "lieu": "National Gallery, Londres",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-charrette-de-foin": {
+  "peintre": "John Constable",
+  "date": "1821",
+  "lieu": "National Gallery, Londres",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_ophelie-millais": {
+  "peintre": "John Everett Millais",
+  "date": "1851-1852",
+  "lieu": "Tate Britain, Londres",
+  "mouvement": "Préraphaélisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_au-moulin-rouge": {
+  "peintre": "Henri de Toulouse-Lautrec",
+  "date": "1892-1895",
+  "lieu": "Art Institute of Chicago, Chicago",
+  "mouvement": "Postimpressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-berceau": {
+  "peintre": "Berthe Morisot",
+  "date": "1872",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Impressionnisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-mort-de-sardanapale": {
+  "peintre": "Eugène Delacroix",
+  "date": "1827",
+  "lieu": "Musée du Louvre, Paris",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-bateliers-de-la-volga-repine": {
+  "peintre": "Ilia Répine",
+  "date": "1870-1873",
+  "lieu": "Musée russe, Saint-Pétersbourg",
+  "mouvement": "Réalisme (Ambulants)",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-neuvieme-vague": {
+  "peintre": "Ivan Aïvazovski",
+  "date": "1850",
+  "lieu": "Musée russe, Saint-Pétersbourg",
+  "mouvement": "Romantisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-ile-des-morts-bocklin": {
+  "peintre": "Arnold Böcklin",
+  "date": "1880-1886",
+  "lieu": "Kunstmuseum, Bâle (et autres versions)",
+  "mouvement": "Symbolisme",
+  "confiance": "a_verifier",
+  "note": "Cinq versions : Bâle, Metropolitan Museum, Alte Nationalgalerie de Berlin, Leipzig ; une détruite en 1945."
+ },
+ "tableaux-celebres_madame-x-sargent": {
+  "peintre": "John Singer Sargent",
+  "date": "1884",
+  "lieu": "Metropolitan Museum, New York",
+  "mouvement": "Réalisme · portrait mondain",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_moi-et-le-village": {
+  "peintre": "Marc Chagall",
+  "date": "1911",
+  "lieu": "MoMA, New York",
+  "mouvement": "École de Paris · cubisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_le-carnaval-d-arlequin": {
+  "peintre": "Joan Miró",
+  "date": "1924-1925",
+  "lieu": "Buffalo AKG Art Museum (ex-Albright-Knox), Buffalo",
+  "mouvement": "Surréalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_portrait-d-adele-bloch-bauer-i": {
+  "peintre": "Gustav Klimt",
+  "date": "1903-1907",
+  "lieu": "Neue Galerie, New York",
+  "mouvement": "Sécession viennoise · Art nouveau",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_christina-s-world": {
+  "peintre": "Andrew Wyeth",
+  "date": "1948",
+  "lieu": "MoMA, New York",
+  "mouvement": "Réalisme américain",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-empire-des-lumieres": {
+  "peintre": "René Magritte",
+  "date": "1949-1964",
+  "lieu": "Plusieurs musées (MoMA, Guggenheim, Peggy Guggenheim Venise, Bruxelles…)",
+  "mouvement": "Surréalisme",
+  "confiance": "a_verifier",
+  "note": "Série d'une vingtaine de versions ; lieu à préciser selon la version illustrée."
+ },
+ "tableaux-celebres_anthropometrie-de-l-epoque-bleue": {
+  "peintre": "Yves Klein",
+  "date": "1960",
+  "lieu": "Centre Pompidou, Paris",
+  "mouvement": "Nouveau réalisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_the-lady-of-shalott-waterhouse": {
+  "peintre": "John William Waterhouse",
+  "date": "1888",
+  "lieu": "Tate Britain, Londres",
+  "mouvement": "Préraphaélisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_l-enfant-bleu-gainsborough": {
+  "peintre": "Thomas Gainsborough",
+  "date": "vers 1770",
+  "lieu": "Huntington Library, San Marino (Californie)",
+  "mouvement": "Rococo · portrait anglais",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_vertumne-arcimboldo": {
+  "peintre": "Giuseppe Arcimboldo",
+  "date": "1590-1591",
+  "lieu": "Château de Skokloster, Suède",
+  "mouvement": "Maniérisme",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_vue-du-grand-canal-canaletto": {
+  "peintre": "Canaletto",
+  "date": "vers 1720-1730",
+  "lieu": "Galerie des Offices, Florence",
+  "mouvement": "Védutisme vénitien",
+  "confiance": "a_verifier",
+  "note": "Canaletto a peint des dizaines de vues du Grand Canal ; date et version à vérifier selon l'image."
+ },
+ "tableaux-celebres_la-bataille-de-san-romano": {
+  "peintre": "Paolo Uccello",
+  "date": "vers 1438-1456",
+  "lieu": "National Gallery, Londres · Offices, Florence · Louvre, Paris",
+  "mouvement": "Première Renaissance",
+  "confiance": "a_verifier",
+  "note": "Trois panneaux dispersés entre Londres, Florence et Paris ; datation discutée."
+ },
+ "tableaux-celebres_la-liseuse-fragonard": {
+  "peintre": "Jean-Honoré Fragonard",
+  "date": "vers 1770",
+  "lieu": "National Gallery of Art, Washington",
+  "mouvement": "Rococo",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_a-l-abri-du-besoin": {
+  "peintre": "Norman Rockwell",
+  "date": "1943",
+  "lieu": "Musée Norman Rockwell, Stockbridge",
+  "mouvement": "Illustration · réalisme américain",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_les-maries-de-la-tour-eiffel-chagall": {
+  "peintre": "Marc Chagall",
+  "date": "1938-1939",
+  "lieu": "Centre Pompidou, Paris",
+  "mouvement": "École de Paris",
+  "confiance": "sure"
+ },
+ "tableaux-celebres_la-naissance-de-venus-bouguereau": {
+  "peintre": "William Bouguereau",
+  "date": "1879",
+  "lieu": "Musée d'Orsay, Paris",
+  "mouvement": "Académisme",
+  "confiance": "sure"
+ }
+}

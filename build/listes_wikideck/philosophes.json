@@ -1,0 +1,742 @@
+{
+ "philosophes_aristote": {
+  "dates": "384-322 av. J.-C.",
+  "courant": "Péripatétisme",
+  "concepts": "Syllogisme · Juste milieu · Quatre causes",
+  "oeuvres": "Éthique à Nicomaque · Métaphysique",
+  "confiance": "sure"
+ },
+ "philosophes_rene-descartes": {
+  "dates": "1596-1650",
+  "courant": "Rationalisme",
+  "concepts": "Cogito · Doute méthodique · Dualisme âme-corps",
+  "oeuvres": "Discours de la méthode · Méditations métaphysiques",
+  "confiance": "sure"
+ },
+ "philosophes_karl-marx": {
+  "dates": "1818-1883",
+  "courant": "Marxisme",
+  "concepts": "Lutte des classes · Plus-value · Matérialisme historique",
+  "oeuvres": "Le Capital · Manifeste du parti communiste",
+  "confiance": "sure"
+ },
+ "philosophes_hypatie": {
+  "dates": "vers 355-415",
+  "courant": "Néoplatonisme",
+  "concepts": "Mathématiques et astronomie · École d'Alexandrie · Martyre de la philosophie",
+  "oeuvres": "",
+  "confiance": "a_verifier",
+  "note": "Aucun écrit conservé ; date de naissance incertaine (entre 355 et 370 selon l'extrait, 360 selon Wikidata)."
+ },
+ "philosophes_socrate": {
+  "dates": "vers 470-399 av. J.-C.",
+  "courant": "Philosophie socratique",
+  "concepts": "Maïeutique · Ironie socratique · Connais-toi toi-même",
+  "oeuvres": "",
+  "confiance": "sure",
+  "note": "N'a rien écrit : sa pensée est connue par Platon et Xénophon."
+ },
+ "philosophes_platon": {
+  "dates": "vers 428-348 av. J.-C.",
+  "courant": "Platonisme",
+  "concepts": "Théorie des Idées · Allégorie de la caverne · Philosophe-roi",
+  "oeuvres": "La République · Le Banquet",
+  "confiance": "sure"
+ },
+ "philosophes_heraclite": {
+  "dates": "vers 544-480 av. J.-C.",
+  "courant": "Présocratiques",
+  "concepts": "Tout s'écoule (panta rhei) · Unité des contraires · Logos",
+  "oeuvres": "",
+  "confiance": "a_verifier",
+  "note": "Seuls des fragments subsistent ; dates très incertaines (Wikidata : 535-470, l'extrait dit seulement « vers 500 »)."
+ },
+ "philosophes_parmenide": {
+  "dates": "vers 515-450 av. J.-C.",
+  "courant": "École éléate",
+  "concepts": "L'être est, le non-être n'est pas · Voie de la vérité · Unité et immobilité de l'être",
+  "oeuvres": "De la nature (poème)",
+  "confiance": "a_verifier",
+  "note": "Dates approximatives (Wikidata donne 470 pour la mort) ; le poème n'est connu que par fragments."
+ },
+ "philosophes_democrite": {
+  "dates": "vers 460-370 av. J.-C.",
+  "courant": "Atomisme",
+  "concepts": "Atomes et vide · Matérialisme · Nécessité",
+  "oeuvres": "",
+  "confiance": "sure",
+  "note": "Œuvre perdue, connue par fragments et témoignages."
+ },
+ "philosophes_epicure": {
+  "dates": "341-270 av. J.-C.",
+  "courant": "Épicurisme",
+  "concepts": "Ataraxie · Tetrapharmakon · Désirs naturels et nécessaires",
+  "oeuvres": "Lettre à Ménécée · Lettre à Hérodote",
+  "confiance": "sure"
+ },
+ "philosophes_diogene-de-sinope": {
+  "dates": "vers 413-323 av. J.-C.",
+  "courant": "Cynisme",
+  "concepts": "Tonneau · Je cherche un homme · Cosmopolitisme",
+  "oeuvres": "",
+  "confiance": "sure",
+  "note": "Aucun écrit conservé ; connu par anecdotes (Diogène Laërce)."
+ },
+ "philosophes_zenon-de-kition": {
+  "dates": "vers 335-263 av. J.-C.",
+  "courant": "Stoïcisme",
+  "concepts": "Fondation du Portique · Vivre en accord avec la nature · Logos",
+  "oeuvres": "",
+  "confiance": "sure",
+  "note": "Fondateur du stoïcisme ; ses écrits (dont une République) sont perdus."
+ },
+ "philosophes_plotin": {
+  "dates": "205-270",
+  "courant": "Néoplatonisme",
+  "concepts": "L'Un · Émanation · Hypostases",
+  "oeuvres": "Ennéades",
+  "confiance": "sure"
+ },
+ "philosophes_epictete": {
+  "dates": "vers 50-130",
+  "courant": "Stoïcisme",
+  "concepts": "Ce qui dépend de nous · Usage des représentations · Liberté intérieure",
+  "oeuvres": "Manuel · Entretiens",
+  "confiance": "a_verifier",
+  "note": "N'a rien écrit lui-même : Manuel et Entretiens sont rédigés par son disciple Arrien ; date de mort incertaine (125-138)."
+ },
+ "philosophes_lao-tseu": {
+  "dates": "VIe siècle av. J.-C.",
+  "courant": "Taoïsme",
+  "concepts": "Tao · Wu wei (non-agir) · Yin et yang",
+  "oeuvres": "Tao-tö-king",
+  "confiance": "a_verifier",
+  "note": "Personnage semi-légendaire, historicité et dates discutées."
+ },
+ "philosophes_tchouang-tseu": {
+  "dates": "vers 369-286 av. J.-C.",
+  "courant": "Taoïsme",
+  "concepts": "Rêve du papillon · Relativité des points de vue · Wu wei",
+  "oeuvres": "Zhuangzi",
+  "confiance": "sure"
+ },
+ "philosophes_mencius": {
+  "dates": "vers 372-289 av. J.-C.",
+  "courant": "Confucianisme",
+  "concepts": "Bonté innée de la nature humaine · Gouvernement par l'humanité · Mandat du Ciel",
+  "oeuvres": "Mencius (Mengzi)",
+  "confiance": "sure"
+ },
+ "philosophes_nagarjuna": {
+  "dates": "vers 150-250",
+  "courant": "Bouddhisme Madhyamaka",
+  "concepts": "Vacuité (shunyata) · Voie du milieu · Deux vérités",
+  "oeuvres": "Stances du milieu par excellence",
+  "confiance": "a_verifier",
+  "note": "Dates très approximatives ; titre français de l'œuvre variable (Mūlamadhyamakakārikā)."
+ },
+ "philosophes_adi-shankara": {
+  "dates": "vers 788-820",
+  "courant": "Advaita Vedanta",
+  "concepts": "Non-dualité · Brahman · Maya",
+  "oeuvres": "Commentaire des Brahma-sutras",
+  "confiance": "a_verifier",
+  "note": "Dates traditionnelles, discutées par les historiens."
+ },
+ "philosophes_augustin-d-hippone": {
+  "dates": "354-430",
+  "courant": "Patristique",
+  "concepts": "Grâce · Péché originel · Cité de Dieu",
+  "oeuvres": "Confessions · La Cité de Dieu",
+  "confiance": "sure"
+ },
+ "philosophes_thomas-d-aquin": {
+  "dates": "1225-1274",
+  "courant": "Scolastique",
+  "concepts": "Cinq voies · Accord de la foi et de la raison · Loi naturelle",
+  "oeuvres": "Somme théologique · Somme contre les Gentils",
+  "confiance": "sure"
+ },
+ "philosophes_moise-maimonide": {
+  "dates": "1138-1204",
+  "courant": "Philosophie juive médiévale",
+  "concepts": "Conciliation de la Torah et d'Aristote · Théologie négative · Treize principes de foi",
+  "oeuvres": "Guide des égarés · Mishné Torah",
+  "confiance": "sure"
+ },
+ "philosophes_al-ghazali": {
+  "dates": "1058-1111",
+  "courant": "Asharisme · Soufisme",
+  "concepts": "Critique des philosophes · Occasionnalisme · Soufisme",
+  "oeuvres": "L'Incohérence des philosophes · Revivification des sciences religieuses",
+  "confiance": "sure"
+ },
+ "philosophes_ibn-khaldoun": {
+  "dates": "1332-1406",
+  "courant": "Philosophie de l'histoire",
+  "concepts": "Asabiyya (esprit de corps) · Cycles des dynasties · Sociologie avant la lettre",
+  "oeuvres": "Al-Muqaddima (Discours sur l'histoire universelle)",
+  "confiance": "sure"
+ },
+ "philosophes_guillaume-d-ockham": {
+  "dates": "vers 1285-1347",
+  "courant": "Nominalisme",
+  "concepts": "Rasoir d'Ockham · Nominalisme · Séparation foi et raison",
+  "oeuvres": "Somme de logique",
+  "confiance": "sure"
+ },
+ "philosophes_nicolas-machiavel": {
+  "dates": "1469-1527",
+  "courant": "Réalisme politique",
+  "concepts": "Virtù · Fortune · Raison d'État",
+  "oeuvres": "Le Prince · Discours sur la première décade de Tite-Live",
+  "confiance": "sure"
+ },
+ "philosophes_thomas-hobbes": {
+  "dates": "1588-1679",
+  "courant": "Contractualisme",
+  "concepts": "État de nature · Guerre de tous contre tous · L'homme est un loup pour l'homme",
+  "oeuvres": "Léviathan",
+  "confiance": "sure"
+ },
+ "philosophes_baruch-spinoza": {
+  "dates": "1632-1677",
+  "courant": "Rationalisme",
+  "concepts": "Deus sive Natura · Conatus · Béatitude",
+  "oeuvres": "Éthique · Traité théologico-politique",
+  "confiance": "sure"
+ },
+ "philosophes_john-locke": {
+  "dates": "1632-1704",
+  "courant": "Empirisme",
+  "concepts": "Table rase · Droits naturels · Tolérance",
+  "oeuvres": "Essai sur l'entendement humain · Traité du gouvernement civil",
+  "confiance": "sure"
+ },
+ "philosophes_david-hume": {
+  "dates": "1711-1776",
+  "courant": "Empirisme",
+  "concepts": "Scepticisme · Causalité et habitude · Problème de l'induction",
+  "oeuvres": "Traité de la nature humaine · Enquête sur l'entendement humain",
+  "confiance": "sure"
+ },
+ "philosophes_montesquieu": {
+  "dates": "1689-1755",
+  "courant": "Lumières",
+  "concepts": "Séparation des pouvoirs · Théorie des climats · Esprit des lois",
+  "oeuvres": "De l'esprit des lois · Lettres persanes",
+  "confiance": "sure"
+ },
+ "philosophes_emmanuel-kant": {
+  "dates": "1724-1804",
+  "courant": "Criticisme",
+  "concepts": "Impératif catégorique · Révolution copernicienne · Chose en soi",
+  "oeuvres": "Critique de la raison pure · Critique de la raison pratique",
+  "confiance": "sure"
+ },
+ "philosophes_john-stuart-mill": {
+  "dates": "1806-1873",
+  "courant": "Utilitarisme",
+  "concepts": "Principe de non-nuisance · Utilitarisme · Liberté d'expression",
+  "oeuvres": "De la liberté · L'Utilitarisme",
+  "confiance": "sure"
+ },
+ "philosophes_mary-wollstonecraft": {
+  "dates": "1759-1797",
+  "courant": "Féminisme",
+  "concepts": "Droits des femmes · Éducation des filles · Égalité des sexes",
+  "oeuvres": "Défense des droits de la femme",
+  "confiance": "sure"
+ },
+ "philosophes_elisabeth-de-boheme-1618-1680": {
+  "dates": "1618-1680",
+  "courant": "Cartésianisme",
+  "concepts": "Union de l'âme et du corps · Objection à Descartes · Gouvernement des passions",
+  "oeuvres": "Correspondance avec Descartes",
+  "confiance": "a_verifier",
+  "note": "Pas d'œuvre publiée : sa pensée tient dans sa correspondance avec Descartes (qui lui dédie Les Passions de l'âme)."
+ },
+ "philosophes_anne-conway": {
+  "dates": "1631-1679",
+  "courant": "Platonisme de Cambridge",
+  "concepts": "Monisme vitaliste · Critique du dualisme cartésien · Monades",
+  "oeuvres": "Principes de la philosophie la plus ancienne et la plus moderne",
+  "confiance": "a_verifier",
+  "note": "Philosophe peu connue ; titre français de son traité posthume à confirmer."
+ },
+ "philosophes_georg-wilhelm-friedrich-hegel": {
+  "dates": "1770-1831",
+  "courant": "Idéalisme allemand",
+  "concepts": "Dialectique · Esprit absolu · Dialectique du maître et de l'esclave",
+  "oeuvres": "Phénoménologie de l'esprit · Principes de la philosophie du droit",
+  "confiance": "sure"
+ },
+ "philosophes_arthur-schopenhauer": {
+  "dates": "1788-1860",
+  "courant": "Pessimisme",
+  "concepts": "Vouloir-vivre · Pessimisme · Pitié",
+  "oeuvres": "Le Monde comme volonté et comme représentation",
+  "confiance": "sure"
+ },
+ "philosophes_s-ren-kierkegaard": {
+  "dates": "1813-1855",
+  "courant": "Existentialisme chrétien",
+  "concepts": "Angoisse · Trois stades de l'existence · Saut de la foi",
+  "oeuvres": "Ou bien... ou bien · Le Concept d'angoisse",
+  "confiance": "sure"
+ },
+ "philosophes_friedrich-nietzsche": {
+  "dates": "1844-1900",
+  "courant": "Philosophie du soupçon",
+  "concepts": "Mort de Dieu · Surhomme · Éternel retour",
+  "oeuvres": "Ainsi parlait Zarathoustra · Par-delà bien et mal",
+  "confiance": "sure"
+ },
+ "philosophes_henri-bergson": {
+  "dates": "1859-1941",
+  "courant": "Spiritualisme",
+  "concepts": "Durée · Élan vital · Intuition",
+  "oeuvres": "L'Évolution créatrice · Essai sur les données immédiates de la conscience",
+  "confiance": "sure"
+ },
+ "philosophes_edmund-husserl": {
+  "dates": "1859-1938",
+  "courant": "Phénoménologie",
+  "concepts": "Intentionnalité · Épochè · Retour aux choses mêmes",
+  "oeuvres": "Recherches logiques · Méditations cartésiennes",
+  "confiance": "sure"
+ },
+ "philosophes_bertrand-russell": {
+  "dates": "1872-1970",
+  "courant": "Philosophie analytique",
+  "concepts": "Paradoxe de Russell · Logicisme · Théorie des descriptions",
+  "oeuvres": "Principia Mathematica · Problèmes de philosophie",
+  "confiance": "sure"
+ },
+ "philosophes_ludwig-wittgenstein": {
+  "dates": "1889-1951",
+  "courant": "Philosophie analytique",
+  "concepts": "Jeux de langage · Théorie picturale du sens · Ce dont on ne peut parler, il faut le taire",
+  "oeuvres": "Tractatus logico-philosophicus · Recherches philosophiques",
+  "confiance": "sure"
+ },
+ "philosophes_martin-heidegger": {
+  "dates": "1889-1976",
+  "courant": "Phénoménologie",
+  "concepts": "Dasein · Être-pour-la-mort · Oubli de l'être",
+  "oeuvres": "Être et Temps",
+  "confiance": "sure"
+ },
+ "philosophes_karl-popper": {
+  "dates": "1902-1994",
+  "courant": "Rationalisme critique",
+  "concepts": "Réfutabilité · Société ouverte · Critique de l'historicisme",
+  "oeuvres": "La Logique de la découverte scientifique · La Société ouverte et ses ennemis",
+  "confiance": "sure"
+ },
+ "philosophes_hannah-arendt": {
+  "dates": "1906-1975",
+  "courant": "Philosophie politique",
+  "concepts": "Banalité du mal · Totalitarisme · Vita activa",
+  "oeuvres": "Les Origines du totalitarisme · Condition de l'homme moderne",
+  "confiance": "sure"
+ },
+ "philosophes_maurice-merleau-ponty": {
+  "dates": "1908-1961",
+  "courant": "Phénoménologie",
+  "concepts": "Corps propre · Perception · Chair",
+  "oeuvres": "Phénoménologie de la perception · Le Visible et l'Invisible",
+  "confiance": "sure"
+ },
+ "philosophes_simone-weil": {
+  "dates": "1909-1943",
+  "courant": "Mystique chrétienne",
+  "concepts": "Enracinement · Attention · Malheur",
+  "oeuvres": "L'Enracinement · La Pesanteur et la Grâce",
+  "confiance": "sure"
+ },
+ "philosophes_g-e-m-anscombe": {
+  "dates": "1919-2001",
+  "courant": "Philosophie analytique",
+  "concepts": "Intention · Éthique des vertus · Critique du conséquentialisme",
+  "oeuvres": "L'Intention · La Philosophie morale moderne",
+  "confiance": "a_verifier",
+  "note": "Titres français à confirmer (Intention, 1957 ; Modern Moral Philosophy, 1958, article qui forge le mot « conséquentialisme »)."
+ },
+ "philosophes_philippa-foot": {
+  "dates": "1920-2010",
+  "courant": "Éthique des vertus",
+  "concepts": "Dilemme du tramway · Éthique des vertus · Bien naturel",
+  "oeuvres": "Le Bien naturel",
+  "confiance": "a_verifier",
+  "note": "Titre français de Natural Goodness (2001) à confirmer."
+ },
+ "philosophes_michel-foucault": {
+  "dates": "1926-1984",
+  "courant": "Post-structuralisme",
+  "concepts": "Biopouvoir · Société disciplinaire · Archéologie du savoir",
+  "oeuvres": "Surveiller et punir · Histoire de la folie à l'âge classique",
+  "confiance": "sure"
+ },
+ "philosophes_jacques-derrida": {
+  "dates": "1930-2004",
+  "courant": "Déconstruction",
+  "concepts": "Déconstruction · Différance · Logocentrisme",
+  "oeuvres": "De la grammatologie · L'Écriture et la différence",
+  "confiance": "sure"
+ },
+ "philosophes_gilles-deleuze": {
+  "dates": "1925-1995",
+  "courant": "Post-structuralisme",
+  "concepts": "Rhizome · Déterritorialisation · Différence et répétition",
+  "oeuvres": "L'Anti-Œdipe · Mille Plateaux",
+  "confiance": "sure",
+  "note": "Les deux œuvres citées sont écrites avec Félix Guattari."
+ },
+ "philosophes_jurgen-habermas": {
+  "dates": "1929-2026",
+  "courant": "École de Francfort",
+  "concepts": "Agir communicationnel · Espace public · Éthique de la discussion",
+  "oeuvres": "Théorie de l'agir communicationnel · L'Espace public",
+  "confiance": "a_verifier",
+  "note": "Décès (14 mars 2026) donné par Wikidata et l'extrait Wikipédia, postérieur à mes connaissances sûres : à confirmer."
+ },
+ "philosophes_john-rawls-philosophe": {
+  "dates": "1921-2002",
+  "courant": "Libéralisme politique",
+  "concepts": "Voile d'ignorance · Justice comme équité · Principe de différence",
+  "oeuvres": "Théorie de la justice",
+  "confiance": "sure"
+ },
+ "philosophes_martha-nussbaum": {
+  "dates": "née en 1947",
+  "courant": "Approche par les capabilités",
+  "concepts": "Capabilités · Fragilité du bien · Émotions",
+  "oeuvres": "La Fragilité du bien · Capabilités",
+  "confiance": "a_verifier",
+  "note": "Titres français à confirmer (The Fragility of Goodness ; Creating Capabilities)."
+ },
+ "philosophes_judith-butler": {
+  "dates": "née en 1956",
+  "courant": "Théorie queer",
+  "concepts": "Performativité du genre · Déconstruction du genre · Vies précaires",
+  "oeuvres": "Trouble dans le genre · Ces corps qui comptent",
+  "confiance": "sure"
+ },
+ "philosophes_donna-haraway": {
+  "dates": "née en 1944",
+  "courant": "Féminisme",
+  "concepts": "Cyborg · Savoirs situés · Espèces compagnes",
+  "oeuvres": "Manifeste cyborg · Vivre avec le trouble",
+  "confiance": "sure"
+ },
+ "philosophes_thales": {
+  "dates": "vers 625-547 av. J.-C.",
+  "courant": "École milésienne",
+  "concepts": "L'eau principe de toutes choses · Théorème de Thalès · Prédiction d'une éclipse",
+  "oeuvres": "",
+  "confiance": "a_verifier",
+  "note": "N'a laissé aucun écrit ; dates très variables selon les sources."
+ },
+ "philosophes_anaximandre": {
+  "dates": "vers 610-546 av. J.-C.",
+  "courant": "École milésienne",
+  "concepts": "Apeiron (illimité) · Origine des êtres vivants · Cosmologie",
+  "oeuvres": "",
+  "confiance": "a_verifier",
+  "note": "Son traité De la nature est perdu (un seul fragment) ; dates approximatives."
+ },
+ "philosophes_protagoras": {
+  "dates": "vers 490-420 av. J.-C.",
+  "courant": "Sophistique",
+  "concepts": "L'homme est la mesure de toutes choses · Relativisme · Agnosticisme",
+  "oeuvres": "",
+  "confiance": "sure",
+  "note": "Œuvres perdues, connues par Platon (dialogue Protagoras) et fragments."
+ },
+ "philosophes_boece": {
+  "dates": "vers 480-524",
+  "courant": "Néoplatonisme chrétien",
+  "concepts": "Roue de la Fortune · Prescience divine et libre arbitre · Universaux",
+  "oeuvres": "Consolation de la philosophie",
+  "confiance": "sure"
+ },
+ "philosophes_pierre-abelard": {
+  "dates": "1079-1142",
+  "courant": "Scolastique",
+  "concepts": "Querelle des universaux · Conceptualisme · Amours avec Héloïse",
+  "oeuvres": "Sic et non · Histoire de mes malheurs",
+  "confiance": "sure"
+ },
+ "philosophes_anselme-de-cantorbery": {
+  "dates": "1033-1109",
+  "courant": "Scolastique",
+  "concepts": "Preuve ontologique · La foi cherchant l'intelligence",
+  "oeuvres": "Proslogion · Monologion",
+  "confiance": "sure"
+ },
+ "philosophes_al-farabi": {
+  "dates": "vers 872-950",
+  "courant": "Falsafa",
+  "concepts": "Second maître · Cité vertueuse · Théorie de l'intellect",
+  "oeuvres": "Idées des habitants de la cité vertueuse",
+  "confiance": "a_verifier",
+  "note": "Dates approximatives (870-872 / 950-951) ; titre français usuel variable."
+ },
+ "philosophes_nicolas-malebranche": {
+  "dates": "1638-1715",
+  "courant": "Cartésianisme",
+  "concepts": "Occasionnalisme · Vision en Dieu",
+  "oeuvres": "De la recherche de la vérité · Entretiens sur la métaphysique",
+  "confiance": "sure"
+ },
+ "philosophes_george-berkeley": {
+  "dates": "1685-1753",
+  "courant": "Immatérialisme",
+  "concepts": "Être, c'est être perçu · Immatérialisme · Critique des idées abstraites",
+  "oeuvres": "Traité des principes de la connaissance humaine · Trois dialogues entre Hylas et Philonous",
+  "confiance": "sure"
+ },
+ "philosophes_nicolas-de-condorcet": {
+  "dates": "1743-1794",
+  "courant": "Lumières",
+  "concepts": "Progrès de l'esprit humain · Paradoxe de Condorcet · Instruction publique",
+  "oeuvres": "Esquisse d'un tableau historique des progrès de l'esprit humain",
+  "confiance": "sure"
+ },
+ "philosophes_jeremy-bentham": {
+  "dates": "1748-1832",
+  "courant": "Utilitarisme",
+  "concepts": "Principe d'utilité · Calcul des plaisirs · Panoptique",
+  "oeuvres": "Introduction aux principes de morale et de législation",
+  "confiance": "sure"
+ },
+ "philosophes_johann-gottlieb-fichte": {
+  "dates": "1762-1814",
+  "courant": "Idéalisme allemand",
+  "concepts": "Moi et non-moi · Doctrine de la science · Nation",
+  "oeuvres": "Doctrine de la science · Discours à la nation allemande",
+  "confiance": "sure"
+ },
+ "philosophes_friedrich-wilhelm-joseph-von-schelling": {
+  "dates": "1775-1854",
+  "courant": "Idéalisme allemand",
+  "concepts": "Philosophie de la nature · Philosophie de l'identité · Liberté humaine",
+  "oeuvres": "Système de l'idéalisme transcendantal · Recherches sur l'essence de la liberté humaine",
+  "confiance": "sure"
+ },
+ "philosophes_friedrich-engels": {
+  "dates": "1820-1895",
+  "courant": "Marxisme",
+  "concepts": "Matérialisme dialectique · Lutte des classes · Socialisme scientifique",
+  "oeuvres": "Manifeste du parti communiste · L'Origine de la famille, de la propriété privée et de l'État",
+  "confiance": "sure",
+  "note": "Le Manifeste est coécrit avec Marx."
+ },
+ "philosophes_pierre-joseph-proudhon": {
+  "dates": "1809-1865",
+  "courant": "Anarchisme",
+  "concepts": "La propriété, c'est le vol · Mutuellisme · Fédéralisme",
+  "oeuvres": "Qu'est-ce que la propriété ? · Système des contradictions économiques",
+  "confiance": "sure"
+ },
+ "philosophes_mikhail-bakounine": {
+  "dates": "1814-1876",
+  "courant": "Anarchisme",
+  "concepts": "Anarchisme collectiviste · Critique de l'État · Liberté",
+  "oeuvres": "Dieu et l'État · Étatisme et anarchie",
+  "confiance": "sure"
+ },
+ "philosophes_alexis-de-tocqueville": {
+  "dates": "1805-1859",
+  "courant": "Libéralisme",
+  "concepts": "Égalité des conditions · Tyrannie de la majorité · Despotisme doux",
+  "oeuvres": "De la démocratie en Amérique · L'Ancien Régime et la Révolution",
+  "confiance": "sure"
+ },
+ "philosophes_auguste-comte": {
+  "dates": "1798-1857",
+  "courant": "Positivisme",
+  "concepts": "Loi des trois états · Positivisme · Sociologie",
+  "oeuvres": "Cours de philosophie positive · Système de politique positive",
+  "confiance": "sure"
+ },
+ "philosophes_william-james": {
+  "dates": "1842-1910",
+  "courant": "Pragmatisme",
+  "concepts": "Pragmatisme · Courant de conscience · Volonté de croire",
+  "oeuvres": "Principes de psychologie · Le Pragmatisme",
+  "confiance": "sure"
+ },
+ "philosophes_john-dewey": {
+  "dates": "1859-1952",
+  "courant": "Pragmatisme",
+  "concepts": "Instrumentalisme · Éducation nouvelle · Démocratie",
+  "oeuvres": "Démocratie et éducation · Logique : la théorie de l'enquête",
+  "confiance": "sure"
+ },
+ "philosophes_gottlob-frege": {
+  "dates": "1848-1925",
+  "courant": "Philosophie analytique",
+  "concepts": "Sens et dénotation · Logicisme · Calcul des prédicats",
+  "oeuvres": "Idéographie · Les Fondements de l'arithmétique",
+  "confiance": "sure"
+ },
+ "philosophes_willard-van-orman-quine": {
+  "dates": "1908-2000",
+  "courant": "Philosophie analytique",
+  "concepts": "Holisme · Indétermination de la traduction · Naturalisation de l'épistémologie",
+  "oeuvres": "Les Deux Dogmes de l'empirisme · Le Mot et la Chose",
+  "confiance": "sure"
+ },
+ "philosophes_daniel-dennett": {
+  "dates": "1942-2024",
+  "courant": "Philosophie de l'esprit",
+  "concepts": "Posture intentionnelle · Théâtre cartésien · Darwinisme universel",
+  "oeuvres": "La Conscience expliquée · Darwin est-il dangereux ?",
+  "confiance": "sure"
+ },
+ "philosophes_peter-singer": {
+  "dates": "né en 1946",
+  "courant": "Utilitarisme",
+  "concepts": "Antispécisme · Altruisme efficace · Éthique pratique",
+  "oeuvres": "La Libération animale · Questions d'éthique pratique",
+  "confiance": "sure"
+ },
+ "philosophes_alain-philosophe": {
+  "dates": "1868-1951",
+  "courant": "Humanisme rationaliste",
+  "concepts": "Propos · Bonheur comme volonté · Pacifisme",
+  "oeuvres": "Propos sur le bonheur · Mars ou la Guerre jugée",
+  "confiance": "a_verifier",
+  "note": "Courant difficile à nommer (philosophie réflexive, rationalisme républicain) : à ajuster."
+ },
+ "philosophes_gaston-bachelard": {
+  "dates": "1884-1962",
+  "courant": "Épistémologie",
+  "concepts": "Obstacle épistémologique · Rupture épistémologique · Rêverie",
+  "oeuvres": "La Formation de l'esprit scientifique · La Psychanalyse du feu",
+  "confiance": "sure"
+ },
+ "philosophes_emmanuel-levinas": {
+  "dates": "1906-1995",
+  "courant": "Phénoménologie",
+  "concepts": "Visage · Altérité · Éthique comme philosophie première",
+  "oeuvres": "Totalité et Infini · Autrement qu'être ou au-delà de l'essence",
+  "confiance": "sure"
+ },
+ "philosophes_paul-ric-ur": {
+  "dates": "1913-2005",
+  "courant": "Herméneutique",
+  "concepts": "Identité narrative · Herméneutique du soi · Mémoire et oubli",
+  "oeuvres": "Soi-même comme un autre · Temps et récit",
+  "confiance": "sure"
+ },
+ "philosophes_roland-barthes": {
+  "dates": "1915-1980",
+  "courant": "Structuralisme",
+  "concepts": "Sémiologie · Mort de l'auteur · Studium et punctum",
+  "oeuvres": "Mythologies · Fragments d'un discours amoureux",
+  "confiance": "sure"
+ },
+ "philosophes_walter-benjamin": {
+  "dates": "1892-1940",
+  "courant": "École de Francfort",
+  "concepts": "Aura · Reproductibilité technique · Flâneur",
+  "oeuvres": "L'Œuvre d'art à l'époque de sa reproductibilité technique · Sur le concept d'histoire",
+  "confiance": "sure"
+ },
+ "philosophes_theodor-w-adorno": {
+  "dates": "1903-1969",
+  "courant": "École de Francfort",
+  "concepts": "Théorie critique · Industrie culturelle · Dialectique négative",
+  "oeuvres": "La Dialectique de la raison · Minima Moralia",
+  "confiance": "sure",
+  "note": "La Dialectique de la raison est coécrite avec Horkheimer."
+ },
+ "philosophes_herbert-marcuse": {
+  "dates": "1898-1979",
+  "courant": "École de Francfort",
+  "concepts": "Homme unidimensionnel · Désublimation répressive · Grand Refus",
+  "oeuvres": "L'Homme unidimensionnel · Éros et civilisation",
+  "confiance": "sure"
+ },
+ "philosophes_antonio-gramsci": {
+  "dates": "1891-1937",
+  "courant": "Marxisme",
+  "concepts": "Hégémonie culturelle · Intellectuel organique · Bloc historique",
+  "oeuvres": "Cahiers de prison",
+  "confiance": "sure"
+ },
+ "philosophes_mozi": {
+  "dates": "vers 470-391 av. J.-C.",
+  "courant": "Mohisme",
+  "concepts": "Amour universel · Condamnation de la guerre offensive · Méritocratie",
+  "oeuvres": "Mozi",
+  "confiance": "a_verifier",
+  "note": "Dates incertaines selon les sources ; le livre Mozi est une compilation de son école."
+ },
+ "philosophes_xun-zi": {
+  "dates": "vers 310-235 av. J.-C.",
+  "courant": "Confucianisme",
+  "concepts": "Nature humaine mauvaise · Rites · Éducation",
+  "oeuvres": "Xunzi",
+  "confiance": "a_verifier",
+  "note": "Dates approximatives (Wikidata : 313-230)."
+ },
+ "philosophes_wang-yangming": {
+  "dates": "1472-1529",
+  "courant": "Néo-confucianisme",
+  "concepts": "Unité de la connaissance et de l'action · Connaissance innée du bien (liangzhi) · École de l'esprit",
+  "oeuvres": "Instructions pour la pratique (Chuanxi lu)",
+  "confiance": "a_verifier",
+  "note": "Titre français usuel de l'œuvre à confirmer."
+ },
+ "philosophes_zhu-xi": {
+  "dates": "1130-1200",
+  "courant": "Néo-confucianisme",
+  "concepts": "Li et qi · Investigation des choses · Canon des Quatre Livres",
+  "oeuvres": "Commentaires des Quatre Livres",
+  "confiance": "a_verifier",
+  "note": "Titre français de l'œuvre à confirmer."
+ },
+ "philosophes_dogen": {
+  "dates": "1200-1253",
+  "courant": "Bouddhisme zen Sōtō",
+  "concepts": "Zazen (shikantaza) · Être-temps (uji) · Nature de Bouddha",
+  "oeuvres": "Shōbōgenzō",
+  "confiance": "sure"
+ },
+ "philosophes_vishnugupta-chanakya": {
+  "dates": "vers 350-275 av. J.-C.",
+  "courant": "Réalisme politique",
+  "concepts": "Art de gouverner · Conseiller de Chandragupta Maurya · Raison d'État",
+  "oeuvres": "Arthashastra",
+  "confiance": "a_verifier",
+  "note": "Dates approximatives et attribution de l'Arthashastra discutée."
+ },
+ "philosophes_jiddu-krishnamurti": {
+  "dates": "1895-1986",
+  "courant": "Spiritualité indépendante",
+  "concepts": "La vérité est un pays sans chemin · Se libérer du connu · Rejet des gourous",
+  "oeuvres": "La Première et Dernière Liberté · Se libérer du connu",
+  "confiance": "a_verifier",
+  "note": "Ni école ni courant précis (issu de la théosophie qu'il a quittée) ; courant à ajuster."
+ },
+ "philosophes_zera-yacob": {
+  "dates": "1599-1692",
+  "courant": "Rationalisme éthiopien",
+  "concepts": "Lumière de la raison · Critique des religions établies · Égalité des humains",
+  "oeuvres": "Hatata",
+  "confiance": "a_verifier",
+  "note": "Existence et authenticité du Hatata fortement contestées (l'extrait le signale)."
+ },
+ "philosophes_cheikh-anta-diop": {
+  "dates": "1923-1986",
+  "courant": "Afrocentrisme",
+  "concepts": "Antériorité des civilisations nègres · Égypte ancienne africaine · Unité culturelle de l'Afrique",
+  "oeuvres": "Nations nègres et culture · L'Unité culturelle de l'Afrique noire",
+  "confiance": "a_verifier",
+  "note": "Historien et anthropologue plus que philosophe ; thèses débattues."
+ }
+}
