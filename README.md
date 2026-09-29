@@ -10,9 +10,14 @@ Application web personnelle de mémorisation organisée en listes thématiques.
 - `thumbs/` : miniatures utilisées dans les listes ;
 - `build/` : scripts de génération et de contrôle.
 
-Les images haute définition du dossier `full/` sont conservées localement et ne
-font pas encore partie du dépôt Git, afin d'éviter une archive de plusieurs
-gigaoctets. Leur stratégie de stockage sera décidée séparément.
+Adresse officielle : <https://blinytz.github.io/memo/>, publiée par
+`.github/workflows/deploy-pages.yml` à chaque envoi sur `main`. L'Atelier en
+ligne est à <https://blinytz.github.io/memo/atelier.html>.
+
+Les images haute définition de `full/` (et les originaux de `originaux/`) qui
+sont utilisées par l'application sont versionnées ; les deux dossiers restent
+ignorés par Git pour ne pas embarquer les brouillons locaux (ajout avec
+`git add -f`).
 
 ## Lancement local
 

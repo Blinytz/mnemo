@@ -14,8 +14,11 @@ distantes.
 - Manifest : `manifest.json`.
 - Service worker : `sw.js`.
 - Miniatures utilisées par l'application : `thumbs/`.
-- Images haute définition : `full/` (conservées localement et exclues de Git pour
-  le moment).
+- Images haute définition : `full/` (seuls les fichiers utilisés sont versionnés,
+  ajoutés avec `git add -f` ; le dossier reste ignoré).
+- Adresse officielle : <https://blinytz.github.io/memo/> (publication
+  automatique à chaque envoi sur `main`). `memo-web` n'est plus qu'une
+  redirection.
 - Scripts de construction et de contrôle : `build/`.
 - Données éditoriales complémentaires : `data/`.
 
@@ -43,7 +46,8 @@ Après une modification fonctionnelle :
 
 - Ne jamais enregistrer de clé API, mot de passe, jeton ou fichier `.env` dans Git.
 - Ne pas versionner `.claude/settings.local.json`.
-- Ne pas ajouter `build/.cache.pkl`, `full/`, les journaux ou les livrables générés.
+- Ne pas ajouter `build/.cache.pkl`, les brouillons de `full/`, les journaux ou
+  les livrables générés.
 - Ne jamais publier ou pousser vers GitHub sans accord explicite du propriétaire.
 - Une seule IA modifie ce dossier à la fois.
 - Avant de modifier, lire l'état Git et préserver les changements existants.
