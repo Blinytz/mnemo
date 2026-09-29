@@ -1,0 +1,356 @@
+{
+ "conquete-spatiale_spoutnik-1": {
+  "date": "4 octobre 1957",
+  "pays": "URSS",
+  "fait": "Premier satellite artificiel",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_apollo-8": {
+  "date": "21 décembre 1968",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier vol habité en orbite autour de la Lune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_apollo-11": {
+  "date": "20 juillet 1969",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premiers pas sur la Lune (Armstrong et Aldrin)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_apollo-13": {
+  "date": "11 avril 1970",
+  "pays": "États-Unis (NASA)",
+  "fait": "Alunissage annulé après l'explosion d'un réservoir d'oxygène, équipage sauvé",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_programme-vostok": {
+  "date": "1961-1963",
+  "pays": "URSS",
+  "fait": "Premier homme dans l'espace (Gagarine) puis première femme (Terechkova)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_saturn-v": {
+  "date": "9 novembre 1967",
+  "pays": "États-Unis (NASA)",
+  "fait": "Lanceur géant qui a envoyé les astronautes d'Apollo vers la Lune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_navette-spatiale-americaine": {
+  "date": "1981-2011",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier véhicule spatial habité réutilisable",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_station-spatiale-internationale": {
+  "date": "20 novembre 1998",
+  "pays": "International (NASA · Roscosmos · ESA · JAXA · ASC)",
+  "fait": "Plus grande station spatiale, occupée en permanence depuis novembre 2000",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_mir-station-spatiale": {
+  "date": "19 février 1986",
+  "pays": "URSS puis Russie",
+  "fait": "Première station spatiale modulaire, en orbite jusqu'en 2001",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_skylab": {
+  "date": "14 mai 1973",
+  "pays": "États-Unis (NASA)",
+  "fait": "Première station spatiale américaine",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_soyouz-vehicule-spatial": {
+  "date": "23 avril 1967",
+  "pays": "URSS puis Russie",
+  "fait": "Vaisseau habité en service depuis le plus longtemps",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_hubble-telescope-spatial": {
+  "date": "24 avril 1990",
+  "pays": "États-Unis (NASA) avec l'Europe (ESA)",
+  "fait": "Télescope spatial réparé en orbite par cinq missions de la navette",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_james-webb-telescope-spatial": {
+  "date": "25 décembre 2021",
+  "pays": "États-Unis (NASA) avec l'ESA et l'ASC",
+  "fait": "Plus grand télescope spatial, observant en infrarouge depuis le point L2",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_voyager-1": {
+  "date": "5 septembre 1977",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier engin humain entré dans l'espace interstellaire (2012)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_voyager-2": {
+  "date": "20 août 1977",
+  "pays": "États-Unis (NASA)",
+  "fait": "Seule sonde à avoir survolé Uranus et Neptune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_pioneer-10": {
+  "date": "3 mars 1972",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier survol de Jupiter (1973)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_cassini-huygens": {
+  "date": "15 octobre 1997",
+  "pays": "États-Unis (NASA) avec l'Europe (ESA) et l'Italie (ASI)",
+  "fait": "Premier orbiteur de Saturne et premier atterrissage sur Titan (2005)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_new-horizons": {
+  "date": "19 janvier 2006",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier survol de Pluton (14 juillet 2015)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_curiosity-astromobile": {
+  "date": "6 août 2012",
+  "pays": "États-Unis (NASA)",
+  "fait": "Astromobile à énergie nucléaire posée dans le cratère Gale sur Mars",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_exploration-de-mars-par-perseverance": {
+  "date": "18 février 2021",
+  "pays": "États-Unis (NASA)",
+  "fait": "Astromobile qui prélève des échantillons martiens dans le cratère Jezero",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_spirit-rover": {
+  "date": "4 janvier 2004",
+  "pays": "États-Unis (NASA)",
+  "fait": "Astromobile martienne active plus de six ans au lieu de trois mois prévus",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_rosetta-sonde-spatiale": {
+  "date": "2 mars 2004",
+  "pays": "Europe (ESA)",
+  "fait": "Premier orbiteur d'une comète et premier atterrissage sur un noyau cométaire (Philae, 2014)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_parker-sonde-spatiale": {
+  "date": "12 août 2018",
+  "pays": "États-Unis (NASA)",
+  "fait": "Engin le plus proche du Soleil et objet humain le plus rapide",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_ariane-5": {
+  "date": "1996-2023",
+  "pays": "Europe (ESA)",
+  "fait": "Lanceur lourd européen qui a mis en orbite le télescope James-Webb",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_falcon-9": {
+  "date": "4 juin 2010",
+  "pays": "États-Unis (SpaceX)",
+  "fait": "Premier lanceur orbital dont le premier étage se pose pour être réutilisé (2015)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_spacex": {
+  "date": "2002",
+  "pays": "États-Unis (entreprise privée)",
+  "fait": "Première entreprise privée à envoyer des astronautes vers l'ISS (2020)",
+  "confiance": "sure",
+  "note": "Carte d'entreprise et non de mission : la date est celle de la fondation par Elon Musk."
+ },
+ "conquete-spatiale_national-aeronautics-and-space-administration": {
+  "date": "29 juillet 1958",
+  "pays": "États-Unis",
+  "fait": "Agence spatiale américaine, maître d'oeuvre du programme Apollo",
+  "confiance": "tranchee",
+  "note": "Date de création usuelle retenue : promulgation du National Aeronautics and Space Act (29 juillet 1958) · l'agence n'entre en activité que le 1er octobre 1958."
+ },
+ "conquete-spatiale_agence-spatiale-europeenne": {
+  "date": "30 mai 1975",
+  "pays": "Europe",
+  "fait": "Agence spatiale intergouvernementale européenne, siège à Paris",
+  "confiance": "sure",
+  "note": "Carte d'agence : la date est la signature de sa convention constitutive."
+ },
+ "conquete-spatiale_cosmodrome-de-baikonour": {
+  "date": "2 juin 1955",
+  "pays": "Kazakhstan (loué par la Russie)",
+  "fait": "Premier et plus grand cosmodrome, départ de Spoutnik et de Gagarine",
+  "confiance": "sure",
+  "note": "Carte de lieu : la date est celle de la fondation du site."
+ },
+ "conquete-spatiale_cap-canaveral": {
+  "date": "24 juillet 1950",
+  "pays": "États-Unis",
+  "fait": "Principal site de lancement américain, voisin du Centre spatial Kennedy",
+  "confiance": "tranchee",
+  "note": "Premier lancement depuis le cap retenu : fusée Bumper 8, le 24 juillet 1950."
+ },
+ "conquete-spatiale_chang-e-4": {
+  "date": "3 janvier 2019",
+  "pays": "Chine (CNSA)",
+  "fait": "Premier atterrissage sur la face cachée de la Lune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_programme-mercury": {
+  "date": "1958-1963",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier Américain dans l'espace (Shepard, 1961) et premier en orbite (Glenn, 1962)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_programme-gemini": {
+  "date": "1964-1966",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premiers rendez-vous en orbite et premières sorties extravéhiculaires américaines",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_apollo-17": {
+  "date": "7 décembre 1972",
+  "pays": "États-Unis (NASA)",
+  "fait": "Dernière mission habitée à se poser sur la Lune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_programme-artemis": {
+  "date": "16 novembre 2022",
+  "pays": "États-Unis (NASA)",
+  "fait": "Programme de retour d'astronautes sur la Lune, ouvert par le vol inhabité Artemis I",
+  "confiance": "tranchee",
+  "note": "Première mission marquante retenue : lancement d'Artemis I, vol inhabité autour de la Lune · les vols habités suivants ne sont pas cités."
+ },
+ "conquete-spatiale_luna-9": {
+  "date": "3 février 1966",
+  "pays": "URSS",
+  "fait": "Premier atterrissage en douceur sur la Lune",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_lunokhod-1": {
+  "date": "17 novembre 1970",
+  "pays": "URSS",
+  "fait": "Premier véhicule téléguidé à rouler sur un autre astre",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_programme-venera": {
+  "date": "1961-1983",
+  "pays": "URSS",
+  "fait": "Premier atterrissage sur une autre planète (Venera 7 sur Vénus, 1970)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_viking-1": {
+  "date": "20 juillet 1976",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier atterrisseur américain sur Mars, premières images depuis le sol martien",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_mars-pathfinder": {
+  "date": "4 juillet 1997",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier rover sur Mars (Sojourner)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_opportunity": {
+  "date": "25 janvier 2004",
+  "pays": "États-Unis (NASA)",
+  "fait": "Astromobile martienne active près de 15 ans, jusqu'en 2018",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_ingenuity-helicoptere": {
+  "date": "19 avril 2021",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier vol motorisé et contrôlé sur une autre planète",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_galileo-sonde-spatiale": {
+  "date": "18 octobre 1989",
+  "pays": "États-Unis (NASA)",
+  "fait": "Premier orbiteur de Jupiter (1995)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_juno-sonde-spatiale": {
+  "date": "5 août 2011",
+  "pays": "États-Unis (NASA)",
+  "fait": "Sonde en orbite polaire autour de Jupiter depuis 2016",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_hayabusa-sonde-spatiale": {
+  "date": "9 mai 2003",
+  "pays": "Japon (JAXA)",
+  "fait": "Premier retour sur Terre d'échantillons d'un astéroïde (Itokawa, 2010)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_gaia-satellite": {
+  "date": "19 décembre 2013",
+  "pays": "Europe (ESA)",
+  "fait": "Carte en trois dimensions de plus d'un milliard d'étoiles",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_kepler-telescope-spatial": {
+  "date": "7 mars 2009",
+  "pays": "États-Unis (NASA)",
+  "fait": "Découverte de milliers d'exoplanètes par la méthode des transits",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_saliout-1": {
+  "date": "19 avril 1971",
+  "pays": "URSS",
+  "fait": "Première station spatiale",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_ok-1-01": {
+  "date": "15 novembre 1988",
+  "pays": "URSS",
+  "fait": "Unique vol de la navette soviétique, automatique et sans équipage",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_apollo-soyouz": {
+  "date": "15 juillet 1975",
+  "pays": "États-Unis (NASA) et URSS",
+  "fait": "Premier amarrage entre vaisseaux américain et soviétique",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_accident-de-la-navette-spatiale-challenger": {
+  "date": "28 janvier 1986",
+  "pays": "États-Unis (NASA)",
+  "fait": "Désintégration 73 secondes après le décollage, sept astronautes tués",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_accident-de-la-navette-spatiale-columbia": {
+  "date": "1er février 2003",
+  "pays": "États-Unis (NASA)",
+  "fait": "Désintégration lors de la rentrée atmosphérique, sept astronautes tués",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_v2-missile": {
+  "date": "3 octobre 1942",
+  "pays": "Allemagne nazie",
+  "fait": "Premier missile balistique et premier objet humain à atteindre l'espace (1944)",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_station-spatiale-chinoise": {
+  "date": "29 avril 2021",
+  "pays": "Chine (CMSA)",
+  "fait": "Station spatiale chinoise permanente, achevée en 2022",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_chandrayaan-3": {
+  "date": "23 août 2023",
+  "pays": "Inde (ISRO)",
+  "fait": "Premier atterrissage près du pôle Sud lunaire",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_starship-fusee": {
+  "date": "20 avril 2023",
+  "pays": "États-Unis (SpaceX)",
+  "fait": "Plus grand et plus puissant lanceur jamais construit, conçu entièrement réutilisable",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_spacex-dragon-2": {
+  "date": "30 mai 2020",
+  "pays": "États-Unis (SpaceX)",
+  "fait": "Premier vaisseau privé à transporter des astronautes vers l'ISS",
+  "confiance": "sure"
+ },
+ "conquete-spatiale_ariane-6": {
+  "date": "9 juillet 2024",
+  "pays": "Europe (ESA)",
+  "fait": "Premier vol du lanceur européen successeur d'Ariane 5",
+  "confiance": "sure"
+ }
+}

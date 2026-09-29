@@ -1,0 +1,631 @@
+{
+ "cuisines-du-monde_pizza": {
+  "pays": "Italie",
+  "ingredients": "Pâte à pain · Tomate · Mozzarella · Huile d'olive",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_sushi": {
+  "pays": "Japon",
+  "ingredients": "Riz vinaigré · Poisson cru · Algue nori",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_ramen": {
+  "pays": "Japon",
+  "ingredients": "Nouilles de blé · Bouillon · Porc",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_paella": {
+  "pays": "Espagne",
+  "ingredients": "Riz · Safran · Poulet · Lapin",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_couscous": {
+  "pays": "Maghreb",
+  "ingredients": "Semoule de blé · Légumes · Viande",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_taco": {
+  "pays": "Mexique",
+  "ingredients": "Tortilla de maïs · Viande · Oignon · Coriandre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_ceviche": {
+  "pays": "Pérou",
+  "ingredients": "Poisson cru · Citron vert · Oignon rouge · Piment",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_falafel": {
+  "pays": "Égypte",
+  "ingredients": "Pois chiches · Fèves · Persil · Cumin",
+  "confiance": "tranchee",
+  "note": "Égypte retenue : origine la plus citée (ta'miyya aux fèves), même si le Levant le revendique."
+ },
+ "cuisines-du-monde_houmous": {
+  "pays": "Liban · Syrie",
+  "ingredients": "Pois chiches · Tahini · Citron · Ail",
+  "confiance": "tranchee",
+  "note": "Origine levantine partagée : Liban · Syrie, les deux pays que l'usage associe au plat."
+ },
+ "cuisines-du-monde_kebab": {
+  "pays": "Turquie",
+  "ingredients": "Viande d'agneau · Oignon · Épices",
+  "confiance": "tranchee",
+  "note": "Turquie retenue : pays que l'usage associe au kebab, malgré des racines persanes."
+ },
+ "cuisines-du-monde_tajine": {
+  "pays": "Maroc",
+  "ingredients": "Viande · Légumes · Fruits secs · Épices",
+  "confiance": "tranchee",
+  "note": "Maroc retenu : pays que l'usage associe au plat, répandu dans tout le Maghreb."
+ },
+ "cuisines-du-monde_pho": {
+  "pays": "Vietnam",
+  "ingredients": "Nouilles de riz · Bouillon de bœuf · Herbes fraîches",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_phat-thai": {
+  "pays": "Thaïlande",
+  "ingredients": "Nouilles de riz · Crevettes · Œuf · Cacahuètes",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_dimsum": {
+  "pays": "Chine",
+  "ingredients": "Pâte de riz ou de blé · Crevettes · Porc",
+  "confiance": "tranchee",
+  "note": "Pratique cantonaise de petites bouchées : Chine retenue, ingrédients indicatifs."
+ },
+ "cuisines-du-monde_canard-laque-de-pekin": {
+  "pays": "Chine",
+  "ingredients": "Canard · Crêpes fines · Ciboule · Concombre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_bibimbap": {
+  "pays": "Corée",
+  "ingredients": "Riz · Légumes · Bœuf · Œuf",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_kimchi": {
+  "pays": "Corée",
+  "ingredients": "Chou chinois · Piment · Ail · Gingembre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tempura": {
+  "pays": "Japon",
+  "ingredients": "Crevettes · Légumes · Pâte à frire",
+  "confiance": "tranchee",
+  "note": "Japon retenu : plat japonais, la technique de friture ayant été apportée par les Portugais."
+ },
+ "cuisines-du-monde_sashimi": {
+  "pays": "Japon",
+  "ingredients": "Poisson cru · Sauce soja · Wasabi",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_risotto": {
+  "pays": "Italie",
+  "ingredients": "Riz · Bouillon · Parmesan · Beurre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_lasagnes": {
+  "pays": "Italie",
+  "ingredients": "Pâtes en feuilles · Sauce bolognaise · Béchamel · Parmesan",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_gnocchi": {
+  "pays": "Italie",
+  "ingredients": "Pomme de terre · Farine · Œuf",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_osso-buco": {
+  "pays": "Italie",
+  "ingredients": "Jarret de veau · Vin blanc · Bouillon · Gremolata",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tiramisu": {
+  "pays": "Italie",
+  "ingredients": "Mascarpone · Biscuits à la cuillère · Café · Cacao",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_creme-glacee": {
+  "pays": "Italie",
+  "ingredients": "Lait ou crème · Sucre · Jaunes d'œufs",
+  "confiance": "tranchee",
+  "note": "Italie retenue pour la glace moderne (gelato), origine ancienne non établie."
+ },
+ "cuisines-du-monde_fish-and-chips": {
+  "pays": "Royaume-Uni",
+  "ingredients": "Cabillaud · Pâte à frire · Frites",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_hamburger": {
+  "pays": "États-Unis",
+  "ingredients": "Pain rond · Steak haché · Salade · Tomate",
+  "confiance": "tranchee",
+  "note": "États-Unis retenus : le sandwich y est né, le steak de Hambourg n'en est que l'ancêtre."
+ },
+ "cuisines-du-monde_hot-dog": {
+  "pays": "États-Unis",
+  "ingredients": "Pain allongé · Saucisse · Moutarde",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_barbecue": {
+  "pays": "États-Unis",
+  "ingredients": "Viande · Braise de charbon de bois · Sauce barbecue",
+  "confiance": "tranchee",
+  "note": "Mode de cuisson, pas un plat : États-Unis retenus, pays qu'on lui associe le plus."
+ },
+ "cuisines-du-monde_chili-con-carne": {
+  "pays": "États-Unis (Texas)",
+  "ingredients": "Bœuf haché · Haricots rouges · Piment · Tomate",
+  "confiance": "tranchee",
+  "note": "Plat tex-mex né au Texas : États-Unis (Texas) plutôt que Mexique."
+ },
+ "cuisines-du-monde_guacamole": {
+  "pays": "Mexique",
+  "ingredients": "Avocat · Citron vert · Oignon · Piment",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_burrito": {
+  "pays": "Mexique",
+  "ingredients": "Tortilla de blé · Haricots · Viande · Riz",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_empanada": {
+  "pays": "Argentine",
+  "ingredients": "Pâte · Viande hachée · Oignon",
+  "confiance": "tranchee",
+  "note": "Origine galicienne, mais l'Argentine est le pays que l'usage associe le plus au plat."
+ },
+ "cuisines-du-monde_feijoada": {
+  "pays": "Brésil",
+  "ingredients": "Haricots noirs · Porc · Saucisse fumée",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_asado": {
+  "pays": "Argentine",
+  "ingredients": "Bœuf · Chorizo · Boudin · Sel",
+  "confiance": "tranchee",
+  "note": "Pratique de grillade partagée : Argentine retenue, pays qu'on lui associe le plus."
+ },
+ "cuisines-du-monde_arepa": {
+  "pays": "Venezuela · Colombie",
+  "ingredients": "Farine de maïs précuite · Eau · Sel",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_moussaka": {
+  "pays": "Grèce",
+  "ingredients": "Aubergine · Viande hachée · Béchamel · Tomate",
+  "confiance": "tranchee",
+  "note": "Grèce retenue : la version à la béchamel, la plus connue, est grecque."
+ },
+ "cuisines-du-monde_souvlaki": {
+  "pays": "Grèce",
+  "ingredients": "Porc · Pain pita · Tzatziki · Oignon",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tzatziki": {
+  "pays": "Grèce",
+  "ingredients": "Yaourt · Concombre · Ail · Huile d'olive",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_baklava": {
+  "pays": "Turquie",
+  "ingredients": "Pâte filo · Pistaches · Sirop de sucre · Beurre",
+  "confiance": "tranchee",
+  "note": "Turquie retenue : pâtisserie d'origine ottomane que l'usage associe à la Turquie."
+ },
+ "cuisines-du-monde_chachlyk": {
+  "pays": "Russie",
+  "ingredients": "Porc ou agneau · Oignon · Vinaigre",
+  "confiance": "tranchee",
+  "note": "Russie retenue : le nom et le plat sont d'usage russe, malgré des racines caucasiennes."
+ },
+ "cuisines-du-monde_bortsch": {
+  "pays": "Ukraine",
+  "ingredients": "Betterave · Chou · Bouillon · Crème aigre",
+  "confiance": "tranchee",
+  "note": "Ukraine retenue : inscription UNESCO de 2022, malgré les revendications russes et polonaises."
+ },
+ "cuisines-du-monde_pierogi": {
+  "pays": "Pologne",
+  "ingredients": "Pâte · Pomme de terre · Fromage blanc · Oignon",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_goulasch": {
+  "pays": "Hongrie",
+  "ingredients": "Bœuf · Paprika · Oignon · Pomme de terre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_escalope-a-la-viennoise": {
+  "pays": "Autriche",
+  "ingredients": "Veau · Chapelure · Œuf · Farine",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_bretzel": {
+  "pays": "Allemagne",
+  "ingredients": "Farine de blé · Bain de soude · Gros sel",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_poutine-plat": {
+  "pays": "Canada",
+  "ingredients": "Frites · Fromage en grains · Sauce brune",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_injera": {
+  "pays": "Éthiopie",
+  "ingredients": "Farine de teff · Eau · Levain",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_bunny-chow": {
+  "pays": "Afrique du Sud",
+  "ingredients": "Pain blanc évidé · Curry",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_biryani": {
+  "pays": "Inde",
+  "ingredients": "Riz basmati · Viande · Épices · Safran",
+  "confiance": "tranchee",
+  "note": "Inde retenue : pays que l'usage associe au plat, d'origine moghole."
+ },
+ "cuisines-du-monde_naan": {
+  "pays": "Inde",
+  "ingredients": "Farine de blé · Yaourt · Levure",
+  "confiance": "tranchee",
+  "note": "Inde retenue : pays que l'usage associe à ce pain d'Asie du Sud et centrale."
+ },
+ "cuisines-du-monde_samoussa": {
+  "pays": "Inde",
+  "ingredients": "Pâte de blé · Pomme de terre · Petits pois · Épices",
+  "confiance": "tranchee",
+  "note": "Inde retenue : pays que l'usage associe au samoussa, venu d'Asie centrale."
+ },
+ "cuisines-du-monde_tandoori": {
+  "pays": "Inde",
+  "ingredients": "Poulet · Yaourt · Épices",
+  "confiance": "tranchee",
+  "note": "Mode de cuisson au tandoor : Inde retenue, le poulet tandoori venant du Pendjab."
+ },
+ "cuisines-du-monde_nasi-goreng": {
+  "pays": "Indonésie",
+  "ingredients": "Riz · Sauce soja sucrée · Œuf · Échalote",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_sate": {
+  "pays": "Indonésie",
+  "ingredients": "Viande en brochette · Sauce cacahuète · Épices",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_laksa": {
+  "pays": "Malaisie · Singapour",
+  "ingredients": "Nouilles de riz · Lait de coco · Crevettes · Pâte de curry",
+  "confiance": "tranchee",
+  "note": "Plat peranakan réellement partagé : Malaisie · Singapour conservés."
+ },
+ "cuisines-du-monde_mole-poblano": {
+  "pays": "Mexique",
+  "ingredients": "Piments séchés · Chocolat · Épices · Dinde",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_congee": {
+  "pays": "Chine",
+  "ingredients": "Riz · Eau",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_mochi": {
+  "pays": "Japon",
+  "ingredients": "Riz gluant · Eau",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_okonomiyaki": {
+  "pays": "Japon",
+  "ingredients": "Chou · Farine · Œuf · Porc",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_baozi": {
+  "pays": "Chine",
+  "ingredients": "Pâte levée de blé · Porc haché · Ciboule",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_wonton": {
+  "pays": "Chine",
+  "ingredients": "Pâte de blé · Porc haché · Crevettes",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_katsudon": {
+  "pays": "Japon",
+  "ingredients": "Riz · Porc pané · Œuf · Oignon",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_pates-a-la-carbonara": {
+  "pays": "Italie",
+  "ingredients": "Spaghetti · Guanciale · Œuf · Pecorino",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_panettone": {
+  "pays": "Italie",
+  "ingredients": "Pâte briochée · Raisins secs · Fruits confits · Zestes d'agrumes",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tapas-gastronomie": {
+  "pays": "Espagne",
+  "ingredients": "Charcuterie · Fromage · Olives",
+  "confiance": "tranchee",
+  "note": "Pratique d'amuse-gueules sans recette fixe : Espagne retenue, ingrédients indicatifs."
+ },
+ "cuisines-du-monde_gaspacho": {
+  "pays": "Espagne",
+  "ingredients": "Tomate · Concombre · Poivron · Huile d'olive",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tortilla-de-patatas": {
+  "pays": "Espagne",
+  "ingredients": "Pomme de terre · Œuf · Oignon · Huile d'olive",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_churro": {
+  "pays": "Espagne",
+  "ingredients": "Farine · Eau · Sucre · Huile de friture",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_pastel-de-nata": {
+  "pays": "Portugal",
+  "ingredients": "Pâte feuilletée · Jaunes d'œufs · Lait · Sucre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_strudel": {
+  "pays": "Autriche",
+  "ingredients": "Pâte étirée · Pommes · Raisins secs · Cannelle",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_sachertorte": {
+  "pays": "Autriche",
+  "ingredients": "Chocolat · Confiture d'abricot · Œufs · Beurre",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_foret-noire-gateau": {
+  "pays": "Allemagne",
+  "ingredients": "Génoise au chocolat · Cerises · Crème chantilly · Kirsch",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_haggis": {
+  "pays": "Écosse",
+  "ingredients": "Panse de brebis · Abats de mouton · Flocons d'avoine · Oignon",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_scone-gateau": {
+  "pays": "Écosse",
+  "ingredients": "Farine · Beurre · Lait · Levure chimique",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_petit-dejeuner-anglais": {
+  "pays": "Royaume-Uni",
+  "ingredients": "Œufs · Bacon · Saucisses · Haricots à la tomate",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_kottbullar": {
+  "pays": "Suède",
+  "ingredients": "Viande hachée · Oignon · Chapelure · Confiture d'airelles",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_gravlax": {
+  "pays": "Suède",
+  "ingredients": "Saumon · Sel · Sucre · Aneth",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_blini": {
+  "pays": "Russie",
+  "ingredients": "Farine de sarrasin · Lait · Œufs",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_pelmeni": {
+  "pays": "Russie",
+  "ingredients": "Pâte · Viande hachée · Oignon",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_khatchapouri": {
+  "pays": "Géorgie",
+  "ingredients": "Pâte levée · Fromage · Œuf",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_chawarma": {
+  "pays": "Liban · Syrie",
+  "ingredients": "Viande marinée · Pain pita · Tahini · Crudités",
+  "confiance": "tranchee",
+  "note": "Plat levantin dérivé du döner ottoman : Liban · Syrie, comme houmous et taboulé."
+ },
+ "cuisines-du-monde_taboule": {
+  "pays": "Liban · Syrie",
+  "ingredients": "Persil · Boulghour · Tomate · Menthe",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_chakchouka": {
+  "pays": "Tunisie",
+  "ingredients": "Tomate · Poivron · Œuf · Oignon",
+  "confiance": "tranchee",
+  "note": "Plat maghrébin que l'usage attribue le plus souvent à la Tunisie."
+ },
+ "cuisines-du-monde_pastilla": {
+  "pays": "Maroc",
+  "ingredients": "Feuilles de brick · Pigeon ou poulet · Amandes · Cannelle",
+  "confiance": "tranchee",
+  "note": "Maroc retenu : plat emblématique de Fès, présent aussi en Algérie."
+ },
+ "cuisines-du-monde_riz-wolof": {
+  "pays": "Sénégal",
+  "ingredients": "Riz · Tomate · Oignon · Piment",
+  "confiance": "tranchee",
+  "note": "Sénégal retenu : plat né chez les Wolofs, repris au Nigeria et au Ghana (jollof)."
+ },
+ "cuisines-du-monde_foufou": {
+  "pays": "Ghana",
+  "ingredients": "Manioc · Igname · Banane plantain",
+  "confiance": "tranchee",
+  "note": "Ghana retenu : pays que l'usage associe le plus à cette pâte d'Afrique de l'Ouest."
+ },
+ "cuisines-du-monde_thieboudiene": {
+  "pays": "Sénégal",
+  "ingredients": "Riz · Poisson · Tomate · Légumes",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_mafe": {
+  "pays": "Mali · Sénégal",
+  "ingredients": "Pâte d'arachide · Viande · Tomate · Riz",
+  "confiance": "tranchee",
+  "note": "Les deux pays sont cités : le mafé est d'origine malienne et très associé au Sénégal."
+ },
+ "cuisines-du-monde_curry": {
+  "pays": "Inde",
+  "ingredients": "Mélange d'épices · Curcuma · Viande ou légumes",
+  "confiance": "tranchee",
+  "note": "Terme générique pour des plats épicés : Inde retenue, pays qu'on lui associe le plus."
+ },
+ "cuisines-du-monde_dal": {
+  "pays": "Inde",
+  "ingredients": "Lentilles · Curcuma · Ghee",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_dosa": {
+  "pays": "Inde",
+  "ingredients": "Riz · Lentilles noires · Eau",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_plov": {
+  "pays": "Ouzbékistan",
+  "ingredients": "Riz · Agneau · Carotte · Oignon",
+  "confiance": "tranchee",
+  "note": "Ouzbékistan retenu : plat national, commun à toute l'Asie centrale."
+ },
+ "cuisines-du-monde_momo-plat-traditionnel": {
+  "pays": "Népal",
+  "ingredients": "Pâte de farine · Viande hachée · Oignon",
+  "confiance": "tranchee",
+  "note": "Népal retenu : ravioli d'origine tibétaine, le Tibet n'étant pas un État."
+ },
+ "cuisines-du-monde_jiaozi": {
+  "pays": "Chine",
+  "ingredients": "Pâte de blé · Porc haché · Chou chinois",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_fondue-chinoise": {
+  "pays": "Chine",
+  "ingredients": "Bouillon · Viande émincée · Légumes",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_mapo-doufu": {
+  "pays": "Chine",
+  "ingredients": "Tofu · Porc haché · Pâte de fèves pimentée · Poivre du Sichuan",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_banh-mi": {
+  "pays": "Vietnam",
+  "ingredients": "Baguette · Porc · Pâté · Légumes marinés",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_nem-ran": {
+  "pays": "Vietnam",
+  "ingredients": "Galette de riz · Porc haché · Vermicelles · Champignons noirs",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_tom-yum": {
+  "pays": "Thaïlande",
+  "ingredients": "Crevettes · Citronnelle · Galanga · Feuilles de combava",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_rendang": {
+  "pays": "Indonésie",
+  "ingredients": "Bœuf · Lait de coco · Épices",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_adobo-philippin": {
+  "pays": "Philippines",
+  "ingredients": "Poulet ou porc · Vinaigre · Sauce soja · Ail",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_bulgogi": {
+  "pays": "Corée",
+  "ingredients": "Bœuf · Sauce soja · Sucre · Ail",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_onigiri": {
+  "pays": "Japon",
+  "ingredients": "Riz · Algue nori · Garniture",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_soupe-miso": {
+  "pays": "Japon",
+  "ingredients": "Dashi · Miso · Tofu · Algue wakame",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_poke-plat": {
+  "pays": "États-Unis (Hawaï)",
+  "ingredients": "Poisson cru · Sauce soja · Huile de sésame · Oignon",
+  "confiance": "tranchee",
+  "note": "Spécialité hawaïenne : États-Unis (Hawaï)."
+ },
+ "cuisines-du-monde_tamal": {
+  "pays": "Mexique",
+  "ingredients": "Pâte de maïs · Feuille de maïs · Viande",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_enchilada": {
+  "pays": "Mexique",
+  "ingredients": "Tortilla de maïs · Sauce au piment · Viande ou fromage",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_brigadeiro": {
+  "pays": "Brésil",
+  "ingredients": "Lait concentré sucré · Cacao · Beurre · Vermicelles de chocolat",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_confiture-de-lait": {
+  "pays": "Argentine",
+  "ingredients": "Lait · Sucre",
+  "confiance": "tranchee",
+  "note": "Argentine retenue : pays que l'usage associe au dulce de leche, revendiqué aussi par l'Uruguay."
+ },
+ "cuisines-du-monde_gateau-au-fromage": {
+  "pays": "États-Unis",
+  "ingredients": "Fromage frais · Biscuits · Sucre · Œufs",
+  "confiance": "tranchee",
+  "note": "Carte « Cheesecake » : États-Unis retenus (New York), malgré des origines antiques."
+ },
+ "cuisines-du-monde_tarte-aux-pommes": {
+  "pays": "France",
+  "ingredients": "Pâte brisée ou feuilletée · Pommes · Sucre · Beurre",
+  "confiance": "tranchee",
+  "note": "Aucune origine nationale établie : France retenue pour la tarte aux pommes à la française."
+ },
+ "cuisines-du-monde_brownie": {
+  "pays": "États-Unis",
+  "ingredients": "Chocolat · Beurre · Sucre · Œufs",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_pancake": {
+  "pays": "États-Unis",
+  "ingredients": "Farine · Lait · Œufs · Levure chimique",
+  "confiance": "tranchee",
+  "note": "États-Unis retenus : pays que l'usage associe au pancake."
+ },
+ "cuisines-du-monde_donut": {
+  "pays": "États-Unis",
+  "ingredients": "Pâte levée · Sucre · Huile de friture",
+  "confiance": "sure"
+ },
+ "cuisines-du-monde_bagel": {
+  "pays": "Pologne",
+  "ingredients": "Farine de blé · Levure · Eau · Malt",
+  "confiance": "tranchee",
+  "note": "Pologne retenue : né chez les Juifs de Cracovie, popularisé ensuite à New York."
+ },
+ "cuisines-du-monde_macaroni-au-fromage": {
+  "pays": "États-Unis",
+  "ingredients": "Macaronis · Cheddar · Lait · Beurre",
+  "confiance": "tranchee",
+  "note": "États-Unis retenus : emblème américain, malgré des recettes anglaises plus anciennes."
+ },
+ "cuisines-du-monde_pavlova-dessert": {
+  "pays": "Australie · Nouvelle-Zélande",
+  "ingredients": "Meringue · Crème chantilly · Fruits frais",
+  "confiance": "tranchee",
+  "note": "Paternité réellement disputée : Australie · Nouvelle-Zélande conservés."
+ }
+}

@@ -1,0 +1,498 @@
+{
+ "monnaies-du-monde_euro": {
+  "pays": "Zone euro (21 pays)",
+  "symbole": "€ (EUR)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-americain": {
+  "pays": "États-Unis",
+  "symbole": "$ (USD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_livre-sterling": {
+  "pays": "Royaume-Uni",
+  "symbole": "£ (GBP)",
+  "sousunite": "100 pence",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_yen": {
+  "pays": "Japon",
+  "symbole": "¥ (JPY)",
+  "sousunite": "100 sen (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_yuan": {
+  "pays": "Chine",
+  "symbole": "¥ (CNY)",
+  "sousunite": "10 jiao · 100 fen",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_franc-suisse": {
+  "pays": "Suisse et Liechtenstein",
+  "symbole": "Fr. (CHF)",
+  "sousunite": "100 centimes (Rappen)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-canadien": {
+  "pays": "Canada",
+  "symbole": "$ (CAD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_real-bresilien": {
+  "pays": "Brésil",
+  "symbole": "R$ (BRL)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_peso-mexicain": {
+  "pays": "Mexique",
+  "symbole": "$ (MXN)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_peso-argentin": {
+  "pays": "Argentine",
+  "symbole": "$ (ARS)",
+  "sousunite": "100 centavos (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Subdivision légale conservée, marquée hors d'usage comme pour les autres pesos."
+ },
+ "monnaies-du-monde_peso-chilien": {
+  "pays": "Chili",
+  "symbole": "$ (CLP)",
+  "sousunite": "100 centavos (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_peso-colombien": {
+  "pays": "Colombie",
+  "symbole": "$ (COP)",
+  "sousunite": "100 centavos (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_sol-monnaie-du-perou": {
+  "pays": "Pérou",
+  "symbole": "S/ (PEN)",
+  "sousunite": "100 céntimos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_boliviano": {
+  "pays": "Bolivie",
+  "symbole": "Bs (BOB)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_guarani-monnaie": {
+  "pays": "Paraguay",
+  "symbole": "₲ (PYG)",
+  "sousunite": "100 céntimos (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_quetzal-monnaie": {
+  "pays": "Guatemala",
+  "symbole": "Q (GTQ)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_balboa-monnaie": {
+  "pays": "Panama (à parité avec le dollar américain, qui y circule)",
+  "symbole": "B/. (PAB)",
+  "sousunite": "100 centésimos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_couronne-suedoise": {
+  "pays": "Suède",
+  "symbole": "kr (SEK)",
+  "sousunite": "100 öre (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_couronne-norvegienne": {
+  "pays": "Norvège",
+  "symbole": "kr (NOK)",
+  "sousunite": "100 øre (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_couronne-danoise": {
+  "pays": "Danemark · Groenland · îles Féroé",
+  "symbole": "kr (DKK)",
+  "sousunite": "100 øre",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_z-oty": {
+  "pays": "Pologne",
+  "symbole": "zł (PLN)",
+  "sousunite": "100 groszy",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_forint": {
+  "pays": "Hongrie",
+  "symbole": "Ft (HUF)",
+  "sousunite": "100 fillér (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_couronne-tcheque": {
+  "pays": "Tchéquie",
+  "symbole": "Kč (CZK)",
+  "sousunite": "100 haléřů (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_leu-roumain": {
+  "pays": "Roumanie",
+  "symbole": "lei (RON)",
+  "sousunite": "100 bani",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_hryvnia": {
+  "pays": "Ukraine",
+  "symbole": "₴ (UAH)",
+  "sousunite": "100 kopiyok",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_rouble-russe": {
+  "pays": "Russie",
+  "symbole": "₽ (RUB)",
+  "sousunite": "100 kopecks",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_livre-turque": {
+  "pays": "Turquie",
+  "symbole": "₺ (TRY)",
+  "sousunite": "100 kuruş",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_rand-monnaie": {
+  "pays": "Afrique du Sud (circule aussi au Lesotho, en Eswatini et en Namibie)",
+  "symbole": "R (ZAR)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_naira": {
+  "pays": "Nigeria",
+  "symbole": "₦ (NGN)",
+  "sousunite": "100 kobo",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_cedi": {
+  "pays": "Ghana",
+  "symbole": "₵ (GHS)",
+  "sousunite": "100 pesewas",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_shilling-kenyan": {
+  "pays": "Kenya",
+  "symbole": "KSh (KES)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_birr": {
+  "pays": "Éthiopie",
+  "symbole": "Br (ETB)",
+  "sousunite": "100 santim",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dirham-marocain": {
+  "pays": "Maroc",
+  "symbole": "DH (MAD)",
+  "sousunite": "100 centimes (santimat)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-algerien": {
+  "pays": "Algérie",
+  "symbole": "DA (DZD)",
+  "sousunite": "100 centimes (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-tunisien": {
+  "pays": "Tunisie",
+  "symbole": "DT (TND)",
+  "sousunite": "1 000 millimes",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_livre-egyptienne": {
+  "pays": "Égypte",
+  "symbole": "£E (EGP)",
+  "sousunite": "100 piastres",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_franc-cfa": {
+  "pays": "Afrique de l'Ouest (8 pays de l'UEMOA) · Afrique centrale (6 pays de la CEMAC)",
+  "symbole": "FCFA (XOF · XAF)",
+  "sousunite": "100 centimes (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Valeurs gardées : deux monnaies XOF et XAF sous un même nom, centimes théoriques ; l'eco n'est pas en circulation."
+ },
+ "monnaies-du-monde_kwacha-zambien": {
+  "pays": "Zambie",
+  "symbole": "K (ZMW)",
+  "sousunite": "100 ngwee",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-namibien": {
+  "pays": "Namibie",
+  "symbole": "N$ (NAD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_ariary": {
+  "pays": "Madagascar",
+  "symbole": "Ar (MGA)",
+  "sousunite": "5 iraimbilanja",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_riyal-saoudien": {
+  "pays": "Arabie saoudite",
+  "symbole": "SR (SAR)",
+  "sousunite": "100 halalas",
+  "confiance": "tranchee",
+  "note": "Abréviation latine usuelle retenue, plus lisible en quiz que l'écriture arabe ou le symbole officiel de 2025."
+ },
+ "monnaies-du-monde_dirham-des-emirats-arabes-unis": {
+  "pays": "Émirats arabes unis",
+  "symbole": "Dh (AED)",
+  "sousunite": "100 fils",
+  "confiance": "tranchee",
+  "note": "Abréviation latine usuelle retenue, plus lisible en quiz que l'écriture arabe ou le symbole officiel de 2025."
+ },
+ "monnaies-du-monde_riyal-qatarien": {
+  "pays": "Qatar",
+  "symbole": "ر.ق (QAR)",
+  "sousunite": "100 dirhams",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-koweitien": {
+  "pays": "Koweït",
+  "symbole": "د.ك (KWD)",
+  "sousunite": "1 000 fils",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-jordanien": {
+  "pays": "Jordanie",
+  "symbole": "JD (JOD)",
+  "sousunite": "10 dirhams · 100 piastres (qirsh) · 1 000 fils",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-irakien": {
+  "pays": "Irak",
+  "symbole": "ع.د (IQD)",
+  "sousunite": "1 000 fils (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_rial-iranien": {
+  "pays": "Iran",
+  "symbole": "﷼ (IRR)",
+  "sousunite": "100 dinars (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Rial (IRR) gardé : la redénomination en toman est votée mais sa mise en circulation n'est pas établie."
+ },
+ "monnaies-du-monde_shekel": {
+  "pays": "Israël",
+  "symbole": "₪ (ILS)",
+  "sousunite": "100 agorot",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_roupie-indienne": {
+  "pays": "Inde",
+  "symbole": "₹ (INR)",
+  "sousunite": "100 paise",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_roupie-pakistanaise": {
+  "pays": "Pakistan",
+  "symbole": "₨ (PKR)",
+  "sousunite": "100 paisa (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_taka": {
+  "pays": "Bangladesh",
+  "symbole": "৳ (BDT)",
+  "sousunite": "100 poisha",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_won-sud-coreen-depuis-1962": {
+  "pays": "Corée du Sud",
+  "symbole": "₩ (KRW)",
+  "sousunite": "100 jeon (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_nouveau-dollar-de-taiwan": {
+  "pays": "Taïwan",
+  "symbole": "NT$ (TWD)",
+  "sousunite": "10 jiao · 100 fen (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Subdivision légale conservée, marquée hors d'usage faute de pièces en circulation."
+ },
+ "monnaies-du-monde_dollar-de-hong-kong": {
+  "pays": "Hong Kong",
+  "symbole": "HK$ (HKD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-de-singapour": {
+  "pays": "Singapour",
+  "symbole": "S$ (SGD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_baht": {
+  "pays": "Thaïlande",
+  "symbole": "฿ (THB)",
+  "sousunite": "100 satang",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dong-monnaie": {
+  "pays": "Viêt Nam",
+  "symbole": "₫ (VND)",
+  "sousunite": "10 hào · 100 xu (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_ringgit": {
+  "pays": "Malaisie",
+  "symbole": "RM (MYR)",
+  "sousunite": "100 sen",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_roupie-indonesienne": {
+  "pays": "Indonésie",
+  "symbole": "Rp (IDR)",
+  "sousunite": "100 sen (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_peso-philippin": {
+  "pays": "Philippines",
+  "symbole": "₱ (PHP)",
+  "sousunite": "100 centavos (sentimo)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_kyat": {
+  "pays": "Birmanie (Myanmar)",
+  "symbole": "K (MMK)",
+  "sousunite": "100 pyas (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_tugrik": {
+  "pays": "Mongolie",
+  "symbole": "₮ (MNT)",
+  "sousunite": "100 möngö (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_tenge-kazakh": {
+  "pays": "Kazakhstan",
+  "symbole": "₸ (KZT)",
+  "sousunite": "100 tiyn (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-australien": {
+  "pays": "Australie",
+  "symbole": "$ (AUD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-neo-zelandais": {
+  "pays": "Nouvelle-Zélande",
+  "symbole": "$ (NZD)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_franc-pacifique": {
+  "pays": "Polynésie française · Nouvelle-Calédonie · Wallis-et-Futuna",
+  "symbole": "F (XPF)",
+  "sousunite": "100 centimes (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Centimes théoriques comme pour le franc CFA ; aucune pièce ni décimale ISO en usage."
+ },
+ "monnaies-du-monde_couronne-islandaise": {
+  "pays": "Islande",
+  "symbole": "kr (ISK)",
+  "sousunite": "100 aurar (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_lev-bulgare": {
+  "pays": "Bulgarie (jusqu'en 2026)",
+  "symbole": "лв (BGN)",
+  "sousunite": "100 stotinki",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_peso-uruguayen": {
+  "pays": "Uruguay",
+  "symbole": "$ (UYU)",
+  "sousunite": "100 centésimos (plus en usage)",
+  "confiance": "tranchee",
+  "note": "Formulation gardée : subdivision légale, pièces en centésimos retirées."
+ },
+ "monnaies-du-monde_peso-cubain": {
+  "pays": "Cuba",
+  "symbole": "$ (CUP)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_gourde-monnaie": {
+  "pays": "Haïti",
+  "symbole": "G (HTG)",
+  "sousunite": "100 centimes",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_roupie-srilankaise": {
+  "pays": "Sri Lanka",
+  "symbole": "Rs (LKR)",
+  "sousunite": "100 cents",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_roupie-nepalaise": {
+  "pays": "Népal",
+  "symbole": "Rs (NPR)",
+  "sousunite": "100 paisa",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_livre-libanaise": {
+  "pays": "Liban",
+  "symbole": "ل.ل (LBP)",
+  "sousunite": "100 piastres (plus en usage)",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dinar-bahreini": {
+  "pays": "Bahreïn",
+  "symbole": "BD (BHD)",
+  "sousunite": "1 000 fils",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_rial-omanais": {
+  "pays": "Oman",
+  "symbole": "ر.ع. (OMR)",
+  "sousunite": "1 000 baisas",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_won-nord-coreen": {
+  "pays": "Corée du Nord",
+  "symbole": "₩ (KPW)",
+  "sousunite": "100 chon",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_dollar-du-zimbabwe": {
+  "pays": "Zimbabwe (1980 à 2009)",
+  "symbole": "Z$ (ZWD)",
+  "sousunite": "100 cents",
+  "confiance": "tranchee",
+  "note": "Première version (1980 à 2009, ZWD), la plus connue, celle de l'hyperinflation."
+ },
+ "monnaies-du-monde_kwanza-monnaie": {
+  "pays": "Angola",
+  "symbole": "Kz (AOA)",
+  "sousunite": "100 cêntimos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_metical": {
+  "pays": "Mozambique",
+  "symbole": "MT (MZN)",
+  "sousunite": "100 centavos",
+  "confiance": "sure"
+ },
+ "monnaies-du-monde_bitcoin": {
+  "pays": "Monde (cryptomonnaie sans État émetteur)",
+  "symbole": "₿ (BTC)",
+  "sousunite": "100 millions de satoshis",
+  "confiance": "sure",
+  "note": "Cryptomonnaie et non monnaie nationale : BTC est un code d'usage, pas un code ISO 4217 ; elle a eu cours légal au Salvador de 2021 à 2025."
+ }
+}

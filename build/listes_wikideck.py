@@ -114,6 +114,29 @@ LISTES = {
                                  ordre=('altitude', 'altitude'), categorie='geographie',
                                  colonnes=[('Sommet', None), ('Altitude', 'altitude'), ('Massif', 'massif'),
                                            ('Pays', 'pays'), ('Type', 'type')]),
+    # Lot 5
+    'langues-du-monde': dict(id='langues', nom='Langues du monde', icone='🗣️', ordre='famille',
+                             categorie='langues-vocabulaire',
+                             colonnes=[('Langue', None), ('Famille', 'famille'), ('Pays principaux', 'pays'),
+                                       ('Écriture', 'ecriture')]),
+    'monnaies-du-monde': dict(id='monnaies', nom='Monnaies du monde', icone='💱', ordre='pays',
+                              categorie='geographie',
+                              colonnes=[('Monnaie', None), ('Pays', 'pays'), ('Symbole', 'symbole'),
+                                        ('Subdivision', 'sousunite')]),
+    'cuisines-du-monde': dict(id='plats_monde', nom='Plats du monde', icone='🍜', ordre='pays',
+                              categorie='gastronomie',
+                              colonnes=[('Plat', None), ('Pays', 'pays'), ('Ingrédients', 'ingredients')]),
+    'cepages': dict(id='cepages', nom='Cépages', icone='🍇', ordre='couleur', categorie='gastronomie',
+                    colonnes=[('Cépage', None), ('Couleur', 'couleur'), ('Région viticole', 'region'),
+                              ('Vin emblématique', 'vin')]),
+    'figures-religieuses': dict(id='figures_religieuses', nom='Figures religieuses', icone='🕊️',
+                                ordre=('chrono', 'epoque'), categorie='histoire',
+                                colonnes=[('Nom', None), ('Religion', 'religion'), ('Époque', 'epoque'),
+                                          ('Rôle', 'role')]),
+    'conquete-spatiale': dict(id='conquete_spatiale', nom='Conquête spatiale', icone='🚀', ordre=('chrono', 'date'),
+                              categorie='sciences-nature',
+                              colonnes=[('Mission ou engin', None), ('Date', 'date'), ('Pays ou agence', 'pays'),
+                                        ('Fait marquant', 'fait')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -150,7 +173,14 @@ def annee(texte):
     if not m:
         return 99999
     a = int(m.group(1))
-    return -a if avant else a
+    a = -a if avant else a
+    # le premier mois cite departage les evenements d'une meme annee
+    mois = re.search(MOIS, texte)
+    if mois:
+        rang = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août',
+                'septembre', 'octobre', 'novembre', 'décembre'].index(mois.group(0))
+        a += (rang + 1) / 13
+    return a
 
 
 def nombre(texte):

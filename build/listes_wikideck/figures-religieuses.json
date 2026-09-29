@@ -1,0 +1,453 @@
+{
+ "figures-religieuses_jesus-de-nazareth": {
+  "religion": "Christianisme",
+  "epoque": "vers 6 av. J.-C.-vers 30",
+  "role": "Figure centrale et fondateur du christianisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_siddhartha-gautama": {
+  "religion": "Bouddhisme",
+  "epoque": "VIe-Ve siècle av. J.-C. (dates débattues)",
+  "role": "Fondateur du bouddhisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_mahomet": {
+  "religion": "Islam",
+  "epoque": "vers 570-632",
+  "role": "Prophète de l'islam",
+  "confiance": "sure"
+ },
+ "figures-religieuses_moise": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "XIIIe siècle av. J.-C. (selon la tradition)",
+  "role": "Prophète qui reçoit la Loi au Sinaï",
+  "confiance": "sure"
+ },
+ "figures-religieuses_abraham": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "IIe millénaire av. J.-C. (selon la tradition)",
+  "role": "Patriarche des religions abrahamiques",
+  "confiance": "sure",
+  "tri": "-1800"
+ },
+ "figures-religieuses_zoroastre": {
+  "religion": "Zoroastrisme",
+  "epoque": "IIe-Ier millénaire av. J.-C. (datation très débattue)",
+  "role": "Prophète et fondateur du zoroastrisme",
+  "confiance": "sure",
+  "tri": "-1200"
+ },
+ "figures-religieuses_mahavira": {
+  "religion": "Jaïnisme",
+  "epoque": "VIe-Ve siècle av. J.-C.",
+  "role": "24e et dernier tirthankara du jaïnisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_guru-nanak": {
+  "religion": "Sikhisme",
+  "epoque": "1469-1539",
+  "role": "Fondateur du sikhisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_baha-u-llah": {
+  "religion": "Foi bahá'íe",
+  "epoque": "1817-1892",
+  "role": "Fondateur de la foi bahá'íe",
+  "confiance": "sure"
+ },
+ "figures-religieuses_joseph-smith": {
+  "religion": "Mormonisme (mouvement des saints des derniers jours)",
+  "epoque": "1805-1844",
+  "role": "Fondateur du mormonisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_mani-prophete": {
+  "religion": "Manichéisme",
+  "epoque": "216-vers 276",
+  "role": "Fondateur du manichéisme",
+  "confiance": "tranchee",
+  "note": "Mort placée en 274 ou 277 selon les sources ; datation médiane précédée de « vers »."
+ },
+ "figures-religieuses_baal-shem-tov": {
+  "religion": "Judaïsme (hassidisme)",
+  "epoque": "1698-1760",
+  "role": "Fondateur du hassidisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_paul-de-tarse": {
+  "religion": "Christianisme",
+  "epoque": "début du Ier siècle-vers 64-67",
+  "role": "Apôtre des nations, auteur d'épîtres du Nouveau Testament",
+  "confiance": "sure"
+ },
+ "figures-religieuses_pierre-apotre": {
+  "religion": "Christianisme",
+  "epoque": "début du Ier siècle-vers 64-67",
+  "role": "Chef des apôtres, premier pape selon la tradition catholique",
+  "confiance": "sure"
+ },
+ "figures-religieuses_marie-mere-de-jesus": {
+  "religion": "Christianisme",
+  "epoque": "fin du Ier siècle av. J.-C.-Ier siècle",
+  "role": "Mère de Jésus",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jean-le-baptiste": {
+  "religion": "Christianisme",
+  "epoque": "fin du Ier siècle av. J.-C.-vers 30",
+  "role": "Prophète qui baptise Jésus dans le Jourdain",
+  "confiance": "sure"
+ },
+ "figures-religieuses_marie-madeleine": {
+  "religion": "Christianisme",
+  "epoque": "Ier siècle",
+  "role": "Disciple de Jésus, premier témoin de la Résurrection selon les Évangiles",
+  "confiance": "sure"
+ },
+ "figures-religieuses_francois-d-assise": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1181 ou 1182-1226",
+  "role": "Fondateur de l'ordre des Frères mineurs (franciscains)",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jeanne-d-arc": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "vers 1412-1431",
+  "role": "Héroïne de la guerre de Cent Ans, sainte catholique",
+  "confiance": "sure"
+ },
+ "figures-religieuses_martin-luther": {
+  "religion": "Protestantisme (luthéranisme)",
+  "epoque": "1483-1546",
+  "role": "Réformateur protestant",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jean-calvin": {
+  "religion": "Protestantisme (calvinisme)",
+  "epoque": "1509-1564",
+  "role": "Réformateur protestant",
+  "confiance": "sure"
+ },
+ "figures-religieuses_ignace-de-loyola": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1491-1556",
+  "role": "Fondateur de la Compagnie de Jésus (jésuites)",
+  "confiance": "sure"
+ },
+ "figures-religieuses_therese-d-avila": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1515-1582",
+  "role": "Mystique réformatrice du Carmel, docteure de l'Église",
+  "confiance": "sure"
+ },
+ "figures-religieuses_hildegarde-de-bingen": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1098-1179",
+  "role": "Abbesse bénédictine et mystique, docteure de l'Église",
+  "confiance": "sure"
+ },
+ "figures-religieuses_mere-teresa": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1910-1997",
+  "role": "Religieuse fondatrice des Missionnaires de la Charité",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jean-paul-ii": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1920-2005",
+  "role": "Pape de 1978 à 2005",
+  "confiance": "sure"
+ },
+ "figures-religieuses_benoit-de-nursie": {
+  "religion": "Christianisme",
+  "epoque": "vers 480-vers 547",
+  "role": "Père du monachisme occidental, auteur de la Règle bénédictine",
+  "confiance": "sure"
+ },
+ "figures-religieuses_bernard-de-clairvaux": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1090-1153",
+  "role": "Abbé de Clairvaux, figure de l'ordre cistercien",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jerome-savonarole": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1452-1498",
+  "role": "Prédicateur dominicain de Florence",
+  "confiance": "sure"
+ },
+ "figures-religieuses_gregoire-ier": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "vers 540-604",
+  "role": "Pape de 590 à 604, docteur de l'Église",
+  "confiance": "sure"
+ },
+ "figures-religieuses_cyrille-et-methode": {
+  "religion": "Christianisme",
+  "epoque": "IXe siècle (Méthode vers 815-885 · Cyrille vers 826-869)",
+  "role": "Frères évangélisateurs des Slaves",
+  "confiance": "sure"
+ },
+ "figures-religieuses_genevieve-de-paris": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "vers 420-entre 502 et 512",
+  "role": "Sainte patronne de Paris",
+  "confiance": "sure"
+ },
+ "figures-religieuses_nicolas-de-myre": {
+  "religion": "Christianisme",
+  "epoque": "vers 270-vers 345",
+  "role": "Évêque de Myre, saint patron des enfants",
+  "confiance": "sure"
+ },
+ "figures-religieuses_patrick-d-irlande": {
+  "religion": "Christianisme",
+  "epoque": "Ve siècle (vers 385-vers 461 selon la tradition)",
+  "role": "Évangélisateur et saint patron de l'Irlande",
+  "confiance": "sure"
+ },
+ "figures-religieuses_ali-ibn-abi-talib": {
+  "religion": "Islam",
+  "epoque": "vers 600-661",
+  "role": "Quatrième calife, premier imam du chiisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_abou-bakr-as-siddiq": {
+  "religion": "Islam",
+  "epoque": "vers 573-634",
+  "role": "Premier calife de l'islam",
+  "confiance": "sure"
+ },
+ "figures-religieuses_fatima-zahra": {
+  "religion": "Islam",
+  "epoque": "vers 605 ou 615-632",
+  "role": "Fille de Mahomet, épouse d'Ali",
+  "confiance": "sure"
+ },
+ "figures-religieuses_ibn-arabi": {
+  "religion": "Islam (soufisme)",
+  "epoque": "1165-1240",
+  "role": "Maître et philosophe soufi andalou",
+  "confiance": "sure"
+ },
+ "figures-religieuses_aicha": {
+  "religion": "Islam",
+  "epoque": "vers 614-678",
+  "role": "Épouse de Mahomet, fille d'Abou Bakr",
+  "confiance": "sure"
+ },
+ "figures-religieuses_rabia-al-adawiyya": {
+  "religion": "Islam (soufisme)",
+  "epoque": "vers 713/717-801",
+  "role": "Mystique et poétesse soufie de Bassora",
+  "confiance": "sure"
+ },
+ "figures-religieuses_bodhidharma": {
+  "religion": "Bouddhisme (chan/zen)",
+  "epoque": "Ve-VIe siècle (selon la tradition)",
+  "role": "Fondateur légendaire du bouddhisme chan (zen)",
+  "confiance": "sure"
+ },
+ "figures-religieuses_tenzin-gyatso": {
+  "religion": "Bouddhisme tibétain",
+  "epoque": "né en 1935",
+  "role": "14e dalaï-lama",
+  "confiance": "sure"
+ },
+ "figures-religieuses_milarepa": {
+  "religion": "Bouddhisme tibétain",
+  "epoque": "vers 1040-vers 1123 (selon la tradition)",
+  "role": "Yogi et poète, grand saint du bouddhisme tibétain",
+  "confiance": "tranchee",
+  "note": "Fiche consacrée au yogi tibétain et non à la pièce homonyme ; datation traditionnelle usuelle retenue."
+ },
+ "figures-religieuses_padmasambhava": {
+  "religion": "Bouddhisme tibétain",
+  "epoque": "VIIIe siècle",
+  "role": "Introducteur du bouddhisme au Tibet (Guru Rinpoché)",
+  "confiance": "sure"
+ },
+ "figures-religieuses_nichiren": {
+  "religion": "Bouddhisme (école Nichiren)",
+  "epoque": "1222-1282",
+  "role": "Moine fondateur du bouddhisme de Nichiren",
+  "confiance": "sure"
+ },
+ "figures-religieuses_kukai": {
+  "religion": "Bouddhisme (Shingon)",
+  "epoque": "774-835",
+  "role": "Moine fondateur de l'école Shingon au Japon",
+  "confiance": "sure"
+ },
+ "figures-religieuses_ramakrishna": {
+  "religion": "Hindouisme",
+  "epoque": "1836-1886",
+  "role": "Mystique et maître spirituel bengali",
+  "confiance": "sure"
+ },
+ "figures-religieuses_vivekananda": {
+  "religion": "Hindouisme",
+  "epoque": "1863-1902",
+  "role": "Disciple de Ramakrishna, fondateur de la Mission Ramakrishna",
+  "confiance": "sure"
+ },
+ "figures-religieuses_noe-patriarche": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "XXIVe siècle av. J.-C. (selon la chronologie biblique traditionnelle)",
+  "role": "Patriarche du Déluge, bâtisseur de l'arche",
+  "confiance": "tranchee",
+  "note": "Époque sans date exploitable pour le tri ; siècle tiré de la chronologie biblique traditionnelle (Déluge vers 2350 av. J.-C.)."
+ },
+ "figures-religieuses_david-roi-d-israel": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "XIe-Xe siècle av. J.-C. (selon la tradition)",
+  "role": "Roi d'Israël, auteur des Psaumes selon la tradition",
+  "confiance": "sure"
+ },
+ "figures-religieuses_salomon-roi-d-israel": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "Xe siècle av. J.-C. (selon la tradition)",
+  "role": "Roi d'Israël, bâtisseur du Temple de Jérusalem",
+  "confiance": "sure"
+ },
+ "figures-religieuses_elie": {
+  "religion": "Judaïsme · Christianisme · Islam",
+  "epoque": "IXe siècle av. J.-C. (selon la tradition)",
+  "role": "Prophète d'Israël",
+  "confiance": "sure"
+ },
+ "figures-religieuses_joseph-nouveau-testament": {
+  "religion": "Christianisme",
+  "epoque": "Ier siècle av. J.-C.-Ier siècle",
+  "role": "Époux de Marie, père nourricier de Jésus",
+  "confiance": "sure"
+ },
+ "figures-religieuses_jean-apotre": {
+  "religion": "Christianisme",
+  "epoque": "Ier siècle",
+  "role": "Apôtre, auteur du quatrième Évangile selon la tradition",
+  "confiance": "sure"
+ },
+ "figures-religieuses_judas-iscariote": {
+  "religion": "Christianisme",
+  "epoque": "Ier siècle",
+  "role": "Apôtre qui trahit Jésus selon les Évangiles",
+  "confiance": "sure"
+ },
+ "figures-religieuses_therese-de-lisieux": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1873-1897",
+  "role": "Carmélite, docteure de l'Église",
+  "confiance": "sure"
+ },
+ "figures-religieuses_bernadette-soubirous": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1844-1879",
+  "role": "Voyante des apparitions de Lourdes",
+  "confiance": "sure"
+ },
+ "figures-religieuses_vincent-de-paul": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1581-1660",
+  "role": "Prêtre fondateur des Lazaristes et des Filles de la Charité",
+  "confiance": "sure"
+ },
+ "figures-religieuses_martin-de-tours": {
+  "religion": "Christianisme",
+  "epoque": "316 ou 317-397",
+  "role": "Évêque de Tours, évangélisateur de la Gaule",
+  "confiance": "sure"
+ },
+ "figures-religieuses_georges-de-lydda": {
+  "religion": "Christianisme",
+  "epoque": "vers 275/280-303 (selon la tradition)",
+  "role": "Martyr et saint patron, vainqueur du dragon selon la légende",
+  "confiance": "sure"
+ },
+ "figures-religieuses_valentin-de-terni": {
+  "religion": "Christianisme",
+  "epoque": "IIIe siècle (selon la tradition)",
+  "role": "Martyr, saint patron des amoureux",
+  "confiance": "sure"
+ },
+ "figures-religieuses_john-wesley": {
+  "religion": "Protestantisme (méthodisme)",
+  "epoque": "1703-1791",
+  "role": "Fondateur du méthodisme",
+  "confiance": "sure"
+ },
+ "figures-religieuses_al-hussein-ibn-ali": {
+  "religion": "Islam (chiisme)",
+  "epoque": "625 ou 626-680",
+  "role": "Troisième imam chiite, martyr de Karbala",
+  "confiance": "sure"
+ },
+ "figures-religieuses_khadija-bint-khuwaylid": {
+  "religion": "Islam",
+  "epoque": "vers 555-619",
+  "role": "Première épouse de Mahomet",
+  "confiance": "sure"
+ },
+ "figures-religieuses_omar-ibn-al-khattab": {
+  "religion": "Islam",
+  "epoque": "vers 584-644",
+  "role": "Deuxième calife de l'islam",
+  "confiance": "sure"
+ },
+ "figures-religieuses_bilal-ibn-rabah": {
+  "religion": "Islam",
+  "epoque": "vers 580-640",
+  "role": "Premier muezzin de l'islam",
+  "confiance": "sure"
+ },
+ "figures-religieuses_rabbi-akiva": {
+  "religion": "Judaïsme",
+  "epoque": "vers 50-135",
+  "role": "Maître de la Mishna, martyr sous Hadrien",
+  "confiance": "sure"
+ },
+ "figures-religieuses_rachi": {
+  "religion": "Judaïsme",
+  "epoque": "1040-1105",
+  "role": "Commentateur de la Bible et du Talmud",
+  "confiance": "sure"
+ },
+ "figures-religieuses_kabir": {
+  "religion": "Hindouisme (bhakti), vénéré aussi par les sikhs",
+  "epoque": "vers 1440-vers 1518",
+  "role": "Poète mystique et réformateur religieux indien",
+  "confiance": "tranchee",
+  "note": "Dates très incertaines ; datation usuelle retenue."
+ },
+ "figures-religieuses_guru-gobind-singh": {
+  "religion": "Sikhisme",
+  "epoque": "1666-1708",
+  "role": "Dixième et dernier gourou humain, fondateur du Khalsa",
+  "confiance": "sure"
+ },
+ "figures-religieuses_shinran": {
+  "religion": "Bouddhisme (Jōdo-Shinshū)",
+  "epoque": "1173-1263",
+  "role": "Fondateur de l'école Jōdo-Shinshū (Terre pure)",
+  "confiance": "tranchee",
+  "note": "Mort en janvier 1263 du calendrier grégorien (1262 au calendrier japonais)."
+ },
+ "figures-religieuses_bab-chef-religieux": {
+  "religion": "Babisme (précurseur de la foi bahá'íe)",
+  "epoque": "1819-1850",
+  "role": "Fondateur du babisme, précurseur de Bahá'u'lláh",
+  "confiance": "sure"
+ },
+ "figures-religieuses_oscar-romero": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1917-1980",
+  "role": "Archevêque de San Salvador assassiné, saint",
+  "confiance": "sure"
+ },
+ "figures-religieuses_abbe-pierre": {
+  "religion": "Christianisme (catholicisme)",
+  "epoque": "1912-2007",
+  "role": "Prêtre fondateur d'Emmaüs",
+  "confiance": "sure"
+ }
+}

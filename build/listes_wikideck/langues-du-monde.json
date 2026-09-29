@@ -1,0 +1,558 @@
+{
+ "langues-du-monde_latin": {
+  "famille": "Indo-européenne (italique)",
+  "pays": "Langue morte (Rome antique)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_grec-ancien": {
+  "famille": "Indo-européenne (hellénique)",
+  "pays": "Langue morte (Grèce antique)",
+  "ecriture": "Alphabet grec",
+  "confiance": "sure"
+ },
+ "langues-du-monde_sanskrit": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Langue classique (Inde ancienne)",
+  "ecriture": "Devanagari",
+  "confiance": "sure"
+ },
+ "langues-du-monde_hebreu": {
+  "famille": "Afro-asiatique (sémitique)",
+  "pays": "Israël",
+  "ecriture": "Alphabet hébreu",
+  "confiance": "sure"
+ },
+ "langues-du-monde_arabe": {
+  "famille": "Afro-asiatique (sémitique)",
+  "pays": "Égypte · Algérie · Arabie saoudite",
+  "ecriture": "Abjad arabe",
+  "confiance": "sure"
+ },
+ "langues-du-monde_langues-chinoises": {
+  "famille": "Sino-tibétaine (sinitique)",
+  "pays": "Chine · Taïwan · Singapour",
+  "ecriture": "Sinogrammes",
+  "confiance": "sure"
+ },
+ "langues-du-monde_mandarin-standard": {
+  "famille": "Sino-tibétaine (sinitique)",
+  "pays": "Chine · Taïwan · Singapour",
+  "ecriture": "Sinogrammes (simplifiés et traditionnels)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_japonais": {
+  "famille": "Japonique",
+  "pays": "Japon",
+  "ecriture": "Hiragana · Katakana · Kanjis",
+  "confiance": "sure"
+ },
+ "langues-du-monde_coreen": {
+  "famille": "Coréanique (souvent présentée comme isolat)",
+  "pays": "Corée du Sud · Corée du Nord",
+  "ecriture": "Hangeul",
+  "confiance": "sure"
+ },
+ "langues-du-monde_hindi": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Inde",
+  "ecriture": "Devanagari",
+  "confiance": "sure"
+ },
+ "langues-du-monde_bengali": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Bangladesh · Inde",
+  "ecriture": "Alphasyllabaire bengali",
+  "confiance": "sure"
+ },
+ "langues-du-monde_ourdou": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Pakistan · Inde",
+  "ecriture": "Abjad arabe (style nastaliq)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_persan": {
+  "famille": "Indo-européenne (iranienne)",
+  "pays": "Iran · Afghanistan · Tadjikistan",
+  "ecriture": "Abjad arabe (alphabet persan)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_turc": {
+  "famille": "Turque (oghouze)",
+  "pays": "Turquie · Chypre",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_russe": {
+  "famille": "Indo-européenne (slave orientale)",
+  "pays": "Russie · Biélorussie · Kazakhstan",
+  "ecriture": "Cyrillique",
+  "confiance": "sure"
+ },
+ "langues-du-monde_polonais": {
+  "famille": "Indo-européenne (slave occidentale)",
+  "pays": "Pologne",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_allemand": {
+  "famille": "Indo-européenne (germanique occidentale)",
+  "pays": "Allemagne · Autriche · Suisse",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_anglais": {
+  "famille": "Indo-européenne (germanique occidentale)",
+  "pays": "États-Unis · Royaume-Uni · Canada",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_francais": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "France · Canada · Belgique",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_espagnol": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "Mexique · Espagne · Colombie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_portugais": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "Brésil · Portugal · Angola",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_italien": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "Italie · Suisse · Saint-Marin",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_neerlandais": {
+  "famille": "Indo-européenne (germanique occidentale)",
+  "pays": "Pays-Bas · Belgique · Suriname",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_suedois": {
+  "famille": "Indo-européenne (germanique septentrionale)",
+  "pays": "Suède · Finlande",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_finnois": {
+  "famille": "Ouralienne (fennique)",
+  "pays": "Finlande",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_hongrois": {
+  "famille": "Ouralienne (ougrienne)",
+  "pays": "Hongrie · Roumanie · Slovaquie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_basque": {
+  "famille": "Isolat",
+  "pays": "Espagne · France",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_breton": {
+  "famille": "Indo-européenne (celtique brittonique)",
+  "pays": "France (Bretagne)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_gallois": {
+  "famille": "Indo-européenne (celtique brittonique)",
+  "pays": "Royaume-Uni (pays de Galles)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_irlandais": {
+  "famille": "Indo-européenne (celtique goïdélique)",
+  "pays": "Irlande · Royaume-Uni (Irlande du Nord)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_islandais": {
+  "famille": "Indo-européenne (germanique septentrionale)",
+  "pays": "Islande",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_swahili": {
+  "famille": "Niger-congolaise (bantoue)",
+  "pays": "Tanzanie · Kenya · Ouganda",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_yoruba-langue": {
+  "famille": "Niger-congolaise (yoruboïde)",
+  "pays": "Nigeria · Bénin · Togo",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_zoulou": {
+  "famille": "Niger-congolaise (bantoue, nguni)",
+  "pays": "Afrique du Sud",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_amharique": {
+  "famille": "Afro-asiatique (sémitique)",
+  "pays": "Éthiopie",
+  "ecriture": "Alphasyllabaire guèze",
+  "confiance": "sure"
+ },
+ "langues-du-monde_haoussa": {
+  "famille": "Afro-asiatique (tchadique)",
+  "pays": "Nigeria · Niger",
+  "ecriture": "Alphabet latin · Ajami (arabe)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_quechua": {
+  "famille": "Quechua (famille propre)",
+  "pays": "Pérou · Bolivie · Équateur",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_guarani-langue": {
+  "famille": "Tupi (tupi-guarani)",
+  "pays": "Paraguay · Bolivie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_nahuatl": {
+  "famille": "Uto-aztèque",
+  "pays": "Mexique",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_langues-maories": {
+  "famille": "Austronésienne (polynésienne)",
+  "pays": "Nouvelle-Zélande · Îles Cook",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_hawaien": {
+  "famille": "Austronésienne (polynésienne)",
+  "pays": "États-Unis (Hawaï)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_esperanto": {
+  "famille": "Langue construite",
+  "pays": "Aucun pays attitré (langue internationale)",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_ecriture-cuneiforme": {
+  "famille": "Système d'écriture",
+  "pays": "Mésopotamie antique",
+  "ecriture": "Logo-syllabaire",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : civilisation d'origine (Sumer, Basse Mésopotamie) et type logo-syllabaire."
+ },
+ "langues-du-monde_ecriture-hieroglyphique-egyptienne": {
+  "famille": "Système d'écriture",
+  "pays": "Égypte antique",
+  "ecriture": "Logogrammes et phonogrammes",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : signes-mots et signes-sons consonantiques, d'où ce type plutôt que syllabaire."
+ },
+ "langues-du-monde_tamoul": {
+  "famille": "Dravidienne",
+  "pays": "Inde · Sri Lanka · Singapour",
+  "ecriture": "Alphasyllabaire tamoul",
+  "confiance": "sure"
+ },
+ "langues-du-monde_vietnamien": {
+  "famille": "Austroasiatique (viet-muong)",
+  "pays": "Viêt Nam",
+  "ecriture": "Alphabet latin (quốc ngữ)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_thai": {
+  "famille": "Kra-dai (taï)",
+  "pays": "Thaïlande",
+  "ecriture": "Alphasyllabaire thaï",
+  "confiance": "sure"
+ },
+ "langues-du-monde_arameen": {
+  "famille": "Afro-asiatique (sémitique)",
+  "pays": "Proche-Orient antique · Syrie · Irak",
+  "ecriture": "Alphabet araméen · Syriaque",
+  "confiance": "tranchee",
+  "note": "Valeurs conservées : langue de l'Antiquité qui survit en néo-araméen en Syrie et en Irak."
+ },
+ "langues-du-monde_copte": {
+  "famille": "Afro-asiatique (égyptienne)",
+  "pays": "Langue liturgique (Égypte, Église copte)",
+  "ecriture": "Alphabet copte",
+  "confiance": "sure"
+ },
+ "langues-du-monde_gotique": {
+  "famille": "Indo-européenne (germanique orientale)",
+  "pays": "Langue morte (Goths, Antiquité tardive)",
+  "ecriture": "Alphabet gotique",
+  "confiance": "sure"
+ },
+ "langues-du-monde_sumerien": {
+  "famille": "Isolat",
+  "pays": "Langue morte (Mésopotamie antique)",
+  "ecriture": "Cunéiforme",
+  "confiance": "sure"
+ },
+ "langues-du-monde_catalan": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "Espagne · Andorre · France",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_occitan": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "France · Italie · Espagne",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_grec-moderne": {
+  "famille": "Indo-européenne (hellénique)",
+  "pays": "Grèce · Chypre",
+  "ecriture": "Alphabet grec",
+  "confiance": "sure"
+ },
+ "langues-du-monde_ukrainien": {
+  "famille": "Indo-européenne (slave orientale)",
+  "pays": "Ukraine",
+  "ecriture": "Cyrillique",
+  "confiance": "sure"
+ },
+ "langues-du-monde_roumain": {
+  "famille": "Indo-européenne (romane)",
+  "pays": "Roumanie · Moldavie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_tcheque": {
+  "famille": "Indo-européenne (slave occidentale)",
+  "pays": "Tchéquie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_serbo-croate": {
+  "famille": "Indo-européenne (slave méridionale)",
+  "pays": "Serbie · Croatie · Bosnie-Herzégovine",
+  "ecriture": "Alphabet latin · Cyrillique",
+  "confiance": "sure"
+ },
+ "langues-du-monde_albanais": {
+  "famille": "Indo-européenne (albanaise, branche isolée)",
+  "pays": "Albanie · Kosovo · Macédoine du Nord",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_yiddish": {
+  "famille": "Indo-européenne (germanique occidentale)",
+  "pays": "Israël · États-Unis (diaspora)",
+  "ecriture": "Alphabet hébreu",
+  "confiance": "tranchee",
+  "note": "Langue de diaspora : plus grandes communautés locutrices, sans statut officiel."
+ },
+ "langues-du-monde_romani": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Roumanie · Bulgarie · Hongrie (diaspora)",
+  "ecriture": "Alphabet latin · Cyrillique",
+  "confiance": "tranchee",
+  "note": "Langue de diaspora : pays d'Europe centrale et balkanique aux plus fortes communautés roms."
+ },
+ "langues-du-monde_wolof-langue": {
+  "famille": "Niger-congolaise (atlantique)",
+  "pays": "Sénégal · Gambie · Mauritanie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_afrikaans": {
+  "famille": "Indo-européenne (germanique occidentale)",
+  "pays": "Afrique du Sud · Namibie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_malgache": {
+  "famille": "Austronésienne (malayo-polynésienne)",
+  "pays": "Madagascar",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_langues-berberes": {
+  "famille": "Afro-asiatique (berbère)",
+  "pays": "Maroc · Algérie · Niger",
+  "ecriture": "Tifinagh · Alphabet latin · Abjad arabe",
+  "confiance": "tranchee",
+  "note": "Groupe de langues : Niger retenu pour le touareg, troisième foyer par le nombre de locuteurs."
+ },
+ "langues-du-monde_lingala": {
+  "famille": "Niger-congolaise (bantoue)",
+  "pays": "RD Congo · Congo",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_armenien": {
+  "famille": "Indo-européenne (arménienne, branche isolée)",
+  "pays": "Arménie",
+  "ecriture": "Alphabet arménien",
+  "confiance": "sure"
+ },
+ "langues-du-monde_georgien": {
+  "famille": "Kartvélienne",
+  "pays": "Géorgie",
+  "ecriture": "Alphabet géorgien",
+  "confiance": "sure"
+ },
+ "langues-du-monde_kurde": {
+  "famille": "Indo-européenne (iranienne)",
+  "pays": "Turquie · Irak · Iran",
+  "ecriture": "Alphabet latin · Abjad arabe",
+  "confiance": "sure"
+ },
+ "langues-du-monde_pachto": {
+  "famille": "Indo-européenne (iranienne)",
+  "pays": "Afghanistan · Pakistan",
+  "ecriture": "Abjad arabe (alphabet pachto)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_tibetain": {
+  "famille": "Sino-tibétaine (tibéto-birmane)",
+  "pays": "Chine (Tibet) · Inde · Népal",
+  "ecriture": "Alphasyllabaire tibétain",
+  "confiance": "sure"
+ },
+ "langues-du-monde_mongol": {
+  "famille": "Mongole",
+  "pays": "Mongolie · Chine (Mongolie-Intérieure)",
+  "ecriture": "Cyrillique · Écriture mongole traditionnelle",
+  "confiance": "sure"
+ },
+ "langues-du-monde_pendjabi": {
+  "famille": "Indo-européenne (indo-aryenne)",
+  "pays": "Pakistan · Inde",
+  "ecriture": "Gurmukhi · Shahmukhi (arabe)",
+  "confiance": "sure"
+ },
+ "langues-du-monde_telougou": {
+  "famille": "Dravidienne",
+  "pays": "Inde",
+  "ecriture": "Alphasyllabaire télougou",
+  "confiance": "sure"
+ },
+ "langues-du-monde_tagalog": {
+  "famille": "Austronésienne (malayo-polynésienne)",
+  "pays": "Philippines",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_indonesien": {
+  "famille": "Austronésienne (malayo-polynésienne)",
+  "pays": "Indonésie",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_khmer": {
+  "famille": "Austroasiatique (môn-khmer)",
+  "pays": "Cambodge",
+  "ecriture": "Alphasyllabaire khmer",
+  "confiance": "sure"
+ },
+ "langues-du-monde_creole-haitien": {
+  "famille": "Créole à base lexicale française",
+  "pays": "Haïti",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_inuktitut": {
+  "famille": "Eskimo-aléoute (inuit)",
+  "pays": "Canada (Nunavut · Nunavik)",
+  "ecriture": "Syllabaire inuktitut · Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_navajo-langue": {
+  "famille": "Na-dené (athapascane)",
+  "pays": "États-Unis",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_cherokee-langue": {
+  "famille": "Iroquoienne",
+  "pays": "États-Unis",
+  "ecriture": "Syllabaire cherokee",
+  "confiance": "sure"
+ },
+ "langues-du-monde_maya-yucateque": {
+  "famille": "Maya (yucatèque)",
+  "pays": "Mexique · Belize",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_aymara": {
+  "famille": "Aymara (famille jaqi)",
+  "pays": "Bolivie · Pérou · Chili",
+  "ecriture": "Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_akkadien": {
+  "famille": "Afro-asiatique (sémitique)",
+  "pays": "Langue morte (Mésopotamie antique)",
+  "ecriture": "Cunéiforme",
+  "confiance": "sure"
+ },
+ "langues-du-monde_hittite-langue": {
+  "famille": "Indo-européenne (anatolienne)",
+  "pays": "Langue morte (Anatolie antique)",
+  "ecriture": "Cunéiforme",
+  "confiance": "sure"
+ },
+ "langues-du-monde_etrusque": {
+  "famille": "Isolat (tyrsénienne)",
+  "pays": "Langue morte (Étrurie antique, Italie)",
+  "ecriture": "Alphabet étrusque",
+  "confiance": "sure"
+ },
+ "langues-du-monde_vieux-norrois": {
+  "famille": "Indo-européenne (germanique septentrionale)",
+  "pays": "Langue morte (Scandinavie médiévale)",
+  "ecriture": "Runes · Alphabet latin",
+  "confiance": "sure"
+ },
+ "langues-du-monde_lineaire-b": {
+  "famille": "Système d'écriture",
+  "pays": "Grèce mycénienne",
+  "ecriture": "Syllabaire",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : syllabaire notant le grec mycénien, Crète incluse dans la Grèce mycénienne."
+ },
+ "langues-du-monde_ecriture-maya": {
+  "famille": "Système d'écriture",
+  "pays": "Mésoamérique précolombienne (Mayas)",
+  "ecriture": "Logo-syllabaire",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : glyphes mayas, type logo-syllabaire reconnu depuis le déchiffrement."
+ },
+ "langues-du-monde_rune": {
+  "famille": "Système d'écriture",
+  "pays": "Europe germanique ancienne et Scandinavie médiévale",
+  "ecriture": "Alphabet",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : alphabet runique (futhark), du IIe siècle au Moyen Âge scandinave."
+ },
+ "langues-du-monde_alphabet-phenicien": {
+  "famille": "Système d'écriture",
+  "pays": "Phénicie antique (actuel Liban)",
+  "ecriture": "Abjad",
+  "confiance": "tranchee",
+  "note": "Écriture et non langue : abjad de 22 consonnes, ancêtre des alphabets grec et latin."
+ }
+}

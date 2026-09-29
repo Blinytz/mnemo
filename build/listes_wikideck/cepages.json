@@ -1,0 +1,459 @@
+{
+ "cepages_cabernet-sauvignon": {
+  "couleur": "Rouge",
+  "region": "Bordeaux",
+  "vin": "Pauillac",
+  "confiance": "sure"
+ },
+ "cepages_merlot": {
+  "couleur": "Rouge",
+  "region": "Bordeaux",
+  "vin": "Pomerol",
+  "confiance": "sure"
+ },
+ "cepages_pinot-noir-cepage": {
+  "couleur": "Rouge",
+  "region": "Bourgogne",
+  "vin": "Gevrey-Chambertin",
+  "confiance": "sure"
+ },
+ "cepages_syrah": {
+  "couleur": "Rouge",
+  "region": "Vallée du Rhône",
+  "vin": "Hermitage",
+  "confiance": "sure"
+ },
+ "cepages_grenache": {
+  "couleur": "Rouge",
+  "region": "Vallée du Rhône",
+  "vin": "Châteauneuf-du-Pape",
+  "confiance": "sure"
+ },
+ "cepages_tempranillo": {
+  "couleur": "Rouge",
+  "region": "Rioja (Espagne) · Ribera del Duero (Espagne)",
+  "vin": "Rioja",
+  "confiance": "sure"
+ },
+ "cepages_sangiovese": {
+  "couleur": "Rouge",
+  "region": "Toscane (Italie)",
+  "vin": "Chianti",
+  "confiance": "sure"
+ },
+ "cepages_nebbiolo": {
+  "couleur": "Rouge",
+  "region": "Piémont (Italie)",
+  "vin": "Barolo",
+  "confiance": "sure"
+ },
+ "cepages_malbec": {
+  "couleur": "Rouge",
+  "region": "Cahors · Mendoza (Argentine)",
+  "vin": "Cahors",
+  "confiance": "sure"
+ },
+ "cepages_zinfandel": {
+  "couleur": "Rouge",
+  "region": "Californie (États-Unis) · Pouilles (Italie)",
+  "vin": "Primitivo di Manduria",
+  "confiance": "sure"
+ },
+ "cepages_gamay": {
+  "couleur": "Rouge",
+  "region": "Beaujolais",
+  "vin": "Beaujolais nouveau",
+  "confiance": "sure"
+ },
+ "cepages_carignan-n": {
+  "couleur": "Rouge",
+  "region": "Languedoc-Roussillon",
+  "vin": "Corbières",
+  "confiance": "sure"
+ },
+ "cepages_mourvedre": {
+  "couleur": "Rouge",
+  "region": "Provence · Jumilla (Espagne)",
+  "vin": "Bandol",
+  "confiance": "sure"
+ },
+ "cepages_cabernet-franc": {
+  "couleur": "Rouge",
+  "region": "Val de Loire · Bordeaux",
+  "vin": "Chinon",
+  "confiance": "sure"
+ },
+ "cepages_carmenere": {
+  "couleur": "Rouge",
+  "region": "Chili",
+  "vin": "Carménère du Chili",
+  "confiance": "tranchee",
+  "note": "Vin de cépage chilien retenu plutôt qu'une vallée : le carménère est l'emblème du Chili, sans appellation phare."
+ },
+ "cepages_pinotage": {
+  "couleur": "Rouge",
+  "region": "Stellenbosch (Afrique du Sud)",
+  "vin": "Pinotage d'Afrique du Sud",
+  "confiance": "tranchee",
+  "note": "Vin de cépage sud-africain retenu ; Stellenbosch gardé comme région, pas comme vin."
+ },
+ "cepages_barbera": {
+  "couleur": "Rouge",
+  "region": "Piémont (Italie)",
+  "vin": "Barbera d'Asti",
+  "confiance": "sure"
+ },
+ "cepages_tannat": {
+  "couleur": "Rouge",
+  "region": "Sud-Ouest · Uruguay",
+  "vin": "Madiran",
+  "confiance": "sure"
+ },
+ "cepages_cinsault": {
+  "couleur": "Rouge",
+  "region": "Provence · Languedoc",
+  "vin": "Côtes de Provence rosé",
+  "confiance": "tranchee",
+  "note": "Le cinsault est d'abord associé aux rosés provençaux ; Tavel écarté, le grenache y domine."
+ },
+ "cepages_petit-verdot": {
+  "couleur": "Rouge",
+  "region": "Bordeaux",
+  "vin": "Médoc",
+  "confiance": "tranchee",
+  "note": "Médoc conservé : cépage d'assemblage minoritaire, c'est là qu'il est le plus connu."
+ },
+ "cepages_montepulciano-cepage": {
+  "couleur": "Rouge",
+  "region": "Abruzzes (Italie)",
+  "vin": "Montepulciano d'Abruzzo",
+  "confiance": "sure"
+ },
+ "cepages_nero-d-avola": {
+  "couleur": "Rouge",
+  "region": "Sicile (Italie)",
+  "vin": "Cerasuolo di Vittoria",
+  "confiance": "sure"
+ },
+ "cepages_touriga-nacional": {
+  "couleur": "Rouge",
+  "region": "Douro (Portugal) · Dão (Portugal)",
+  "vin": "Porto",
+  "confiance": "sure"
+ },
+ "cepages_aglianico": {
+  "couleur": "Rouge",
+  "region": "Campanie (Italie) · Basilicate (Italie)",
+  "vin": "Taurasi",
+  "confiance": "sure"
+ },
+ "cepages_dolcetto": {
+  "couleur": "Rouge",
+  "region": "Piémont (Italie)",
+  "vin": "Dolcetto d'Alba",
+  "confiance": "sure"
+ },
+ "cepages_blaufrankisch": {
+  "couleur": "Rouge",
+  "region": "Burgenland (Autriche)",
+  "vin": "Mittelburgenland",
+  "confiance": "sure"
+ },
+ "cepages_poulsard": {
+  "couleur": "Rouge",
+  "region": "Jura",
+  "vin": "Arbois",
+  "confiance": "sure"
+ },
+ "cepages_trousseau": {
+  "couleur": "Rouge",
+  "region": "Jura",
+  "vin": "Arbois",
+  "confiance": "sure"
+ },
+ "cepages_negrette": {
+  "couleur": "Rouge",
+  "region": "Sud-Ouest",
+  "vin": "Fronton",
+  "confiance": "sure"
+ },
+ "cepages_meunier-cepage": {
+  "couleur": "Rouge",
+  "region": "Champagne",
+  "vin": "Champagne",
+  "confiance": "sure"
+ },
+ "cepages_mondeuse-noire": {
+  "couleur": "Rouge",
+  "region": "Savoie · Bugey",
+  "vin": "Vin de Savoie Arbin",
+  "confiance": "sure"
+ },
+ "cepages_saperavi": {
+  "couleur": "Rouge",
+  "region": "Kakhétie (Géorgie)",
+  "vin": "Mukuzani",
+  "confiance": "sure"
+ },
+ "cepages_chardonnay-cepage": {
+  "couleur": "Blanc",
+  "region": "Bourgogne · Champagne",
+  "vin": "Chablis",
+  "confiance": "sure"
+ },
+ "cepages_sauvignon": {
+  "couleur": "Blanc",
+  "region": "Val de Loire · Bordeaux",
+  "vin": "Sancerre",
+  "confiance": "sure"
+ },
+ "cepages_riesling-cepage": {
+  "couleur": "Blanc",
+  "region": "Alsace · Moselle (Allemagne)",
+  "vin": "Alsace grand cru",
+  "confiance": "sure"
+ },
+ "cepages_chenin": {
+  "couleur": "Blanc",
+  "region": "Val de Loire",
+  "vin": "Vouvray",
+  "confiance": "sure"
+ },
+ "cepages_viognier": {
+  "couleur": "Blanc",
+  "region": "Vallée du Rhône",
+  "vin": "Condrieu",
+  "confiance": "sure"
+ },
+ "cepages_semillon": {
+  "couleur": "Blanc",
+  "region": "Bordeaux",
+  "vin": "Sauternes",
+  "confiance": "sure"
+ },
+ "cepages_gewurztraminer-cepage": {
+  "couleur": "Blanc",
+  "region": "Alsace",
+  "vin": "Alsace grand cru",
+  "confiance": "sure"
+ },
+ "cepages_muscat-blanc-a-petits-grains": {
+  "couleur": "Blanc",
+  "region": "Vallée du Rhône · Languedoc-Roussillon",
+  "vin": "Muscat de Beaumes-de-Venise",
+  "confiance": "sure"
+ },
+ "cepages_pinot-gris-cepage": {
+  "couleur": "Gris",
+  "region": "Alsace · Vénétie (Italie)",
+  "vin": "Alsace grand cru",
+  "confiance": "sure"
+ },
+ "cepages_gruner-veltliner": {
+  "couleur": "Blanc",
+  "region": "Basse-Autriche (Autriche)",
+  "vin": "Wachau",
+  "confiance": "sure"
+ },
+ "cepages_alvarinho": {
+  "couleur": "Blanc",
+  "region": "Galice (Espagne) · Minho (Portugal)",
+  "vin": "Rías Baixas",
+  "confiance": "sure"
+ },
+ "cepages_marsanne-cepage": {
+  "couleur": "Blanc",
+  "region": "Vallée du Rhône",
+  "vin": "Hermitage blanc",
+  "confiance": "sure"
+ },
+ "cepages_roussanne": {
+  "couleur": "Blanc",
+  "region": "Vallée du Rhône · Savoie",
+  "vin": "Châteauneuf-du-Pape blanc",
+  "confiance": "sure"
+ },
+ "cepages_melon-cepage": {
+  "couleur": "Blanc",
+  "region": "Val de Loire (Pays nantais)",
+  "vin": "Muscadet",
+  "confiance": "sure"
+ },
+ "cepages_aligote": {
+  "couleur": "Blanc",
+  "region": "Bourgogne",
+  "vin": "Bourgogne aligoté",
+  "confiance": "sure"
+ },
+ "cepages_savagnin": {
+  "couleur": "Blanc",
+  "region": "Jura",
+  "vin": "Château-Chalon (vin jaune)",
+  "confiance": "sure"
+ },
+ "cepages_vermentino": {
+  "couleur": "Blanc",
+  "region": "Sardaigne (Italie) · Corse",
+  "vin": "Vermentino di Gallura",
+  "confiance": "sure"
+ },
+ "cepages_trebbiano": {
+  "couleur": "Blanc",
+  "region": "Charentes · Italie centrale",
+  "vin": "Cognac",
+  "confiance": "sure"
+ },
+ "cepages_palomino-cepage": {
+  "couleur": "Blanc",
+  "region": "Jerez (Espagne)",
+  "vin": "Xérès",
+  "confiance": "sure"
+ },
+ "cepages_furmint": {
+  "couleur": "Blanc",
+  "region": "Tokaj (Hongrie)",
+  "vin": "Tokaji aszú",
+  "confiance": "sure"
+ },
+ "cepages_pedro-ximenez": {
+  "couleur": "Blanc",
+  "region": "Jerez (Espagne) · Montilla-Moriles (Espagne)",
+  "vin": "Xérès Pedro Ximénez",
+  "confiance": "sure"
+ },
+ "cepages_picpoul": {
+  "couleur": "Blanc",
+  "region": "Languedoc",
+  "vin": "Picpoul de Pinet",
+  "confiance": "sure"
+ },
+ "cepages_mauzac-cepage": {
+  "couleur": "Blanc",
+  "region": "Limoux · Gaillac",
+  "vin": "Blanquette de Limoux",
+  "confiance": "sure"
+ },
+ "cepages_colombar-cepage": {
+  "couleur": "Blanc",
+  "region": "Gascogne · Charentes",
+  "vin": "Côtes de Gascogne",
+  "confiance": "sure"
+ },
+ "cepages_petit-manseng": {
+  "couleur": "Blanc",
+  "region": "Sud-Ouest (Béarn)",
+  "vin": "Jurançon",
+  "confiance": "sure"
+ },
+ "cepages_gros-manseng": {
+  "couleur": "Blanc",
+  "region": "Sud-Ouest (Béarn · Gascogne)",
+  "vin": "Jurançon sec",
+  "confiance": "sure"
+ },
+ "cepages_clairette-cepage": {
+  "couleur": "Blanc",
+  "region": "Vallée du Rhône · Languedoc",
+  "vin": "Clairette de Die",
+  "confiance": "tranchee",
+  "note": "Clairette de Die conservée : appellation la plus attendue, qui porte le nom du cépage, même si la version tradition est surtout au muscat."
+ },
+ "cepages_sylvaner-cepage": {
+  "couleur": "Blanc",
+  "region": "Alsace · Franconie (Allemagne)",
+  "vin": "Alsace grand cru Zotzenberg",
+  "confiance": "sure"
+ },
+ "cepages_chasselas-cepage": {
+  "couleur": "Blanc",
+  "region": "Valais (Suisse) · Vaud (Suisse)",
+  "vin": "Fendant",
+  "confiance": "sure"
+ },
+ "cepages_jacquere": {
+  "couleur": "Blanc",
+  "region": "Savoie",
+  "vin": "Apremont",
+  "confiance": "sure"
+ },
+ "cepages_folle-blanche": {
+  "couleur": "Blanc",
+  "region": "Pays nantais · Gascogne",
+  "vin": "Gros-plant du Pays nantais",
+  "confiance": "sure"
+ },
+ "cepages_assyrtiko": {
+  "couleur": "Blanc",
+  "region": "Santorin (Grèce)",
+  "vin": "Santorin",
+  "confiance": "sure"
+ },
+ "cepages_pinot-blanc": {
+  "couleur": "Blanc",
+  "region": "Alsace",
+  "vin": "Crémant d'Alsace",
+  "confiance": "sure"
+ },
+ "cepages_altesse-cepage": {
+  "couleur": "Blanc",
+  "region": "Savoie · Bugey",
+  "vin": "Roussette de Savoie",
+  "confiance": "sure"
+ },
+ "cepages_fer-servadou": {
+  "couleur": "Rouge",
+  "region": "Sud-Ouest (Aveyron)",
+  "vin": "Marcillac",
+  "confiance": "sure"
+ },
+ "cepages_glera": {
+  "couleur": "Blanc",
+  "region": "Vénétie (Italie) · Frioul (Italie)",
+  "vin": "Prosecco",
+  "confiance": "tranchee",
+  "note": "Prosecco conservé, valeurs justes ; seul le lien Wikipédia de la carte (fleuve islandais) est faux."
+ },
+ "cepages_corvina-veronese": {
+  "couleur": "Rouge",
+  "region": "Vénétie (Italie)",
+  "vin": "Amarone della Valpolicella",
+  "confiance": "sure"
+ },
+ "cepages_lambrusco": {
+  "couleur": "Rouge",
+  "region": "Émilie-Romagne (Italie)",
+  "vin": "Lambrusco di Sorbara",
+  "confiance": "tranchee",
+  "note": "Rouge et Lambrusco di Sorbara conservés : forme la plus répandue et variété de lambrusco la plus réputée."
+ },
+ "cepages_verdejo": {
+  "couleur": "Blanc",
+  "region": "Rueda (Espagne)",
+  "vin": "Rueda",
+  "confiance": "sure"
+ },
+ "cepages_macabeu": {
+  "couleur": "Blanc",
+  "region": "Penedès (Espagne) · Roussillon",
+  "vin": "Cava",
+  "confiance": "sure"
+ },
+ "cepages_mencia": {
+  "couleur": "Rouge",
+  "region": "Bierzo (Espagne)",
+  "vin": "Bierzo",
+  "confiance": "sure"
+ },
+ "cepages_muller-thurgau": {
+  "couleur": "Blanc",
+  "region": "Hesse rhénane (Allemagne)",
+  "vin": "Liebfraumilch",
+  "confiance": "sure"
+ },
+ "cepages_rkatsiteli": {
+  "couleur": "Blanc",
+  "region": "Kakhétie (Géorgie)",
+  "vin": "Tsinandali",
+  "confiance": "sure"
+ }
+}
