@@ -1,13 +1,129 @@
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Atelier Mémo</title><link rel="stylesheet" href="style.css"></head><body>
-<header><button id="mobile-menu" aria-label="Ouvrir les listes">☰</button><h1>Atelier <span>Mémo</span></h1><input id="search" type="search" placeholder="Rechercher…"><button id="undo">↶</button><button id="redo">↷</button><button id="save" class="primary">Enregistrer</button><output id="status">Chargement…</output></header>
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Atelier Mémo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="entete">
+  <div class="titre">🖼️ Atelier <span>Mémo</span></div>
+  <nav id="onglets">
+    <button data-vue="grille" class="actif">Grille</button>
+    <button data-vue="tableau">Tableau</button>
+    <button data-vue="reprise">Reprise WikiDeck</button>
+    <button data-vue="notes">Notes <span id="nb-notes"></span></button>
+    <button data-vue="entretien">⚙</button>
+  </nav>
+  <button class="btn" id="btn-annuler" title="Annuler">↶</button>
+  <button class="btn" id="btn-refaire" title="Refaire">↷</button>
+  <button class="btn btn-primaire" id="btn-enregistrer">💾 Enregistrer</button>
+  <output id="etat">Chargement…</output>
+</header>
+
+<div id="barre-filtres" class="barre-filtres">
+  <select id="f-liste"><option value="">Toutes les listes</option></select>
+  <select id="f-statut">
+    <option value="">Tous les statuts</option>
+    <option value="sans">🚫 sans image</option>
+    <option value="a_verifier">⚠ à vérifier</option>
+    <option value="validee">✓ validée</option>
+    <option value="importee">⬇ importée</option>
+    <option value="verrouillee">🔒 verrouillée</option>
+  </select>
+  <input type="search" id="f-texte" placeholder="🔍 nom d'entrée…">
+  <label class="bascule"><input type="checkbox" id="f-hors-app"> masquer les listes hors application</label>
+</div>
+
 <main>
-  <aside><div class="aside-head"><b>Catégories et listes</b><button id="close-nav">×</button><button id="add-category">＋</button></div><nav id="nav"></nav><div class="aside-actions"><button id="add-list">Nouvelle liste</button><button id="notes-view">Notes</button><button id="import-wiki">Importer WikiDeck</button></div></aside>
-  <section class="table-pane"><div class="toolbar"><b id="list-title">Liste</b><span id="metrics"></span><button id="add-row">＋ Ligne</button><button id="duplicate-row">Dupliquer</button><button id="trash-row">Corbeille</button><button id="renumber">Renuméroter</button><button id="bulk-note">Note</button></div><div class="table-scroll"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div></section>
-  <section class="detail"><div id="empty">Sélectionnez une entrée.</div><form id="form" hidden><div class="detail-head"><b>Fiche complète</b><button type="button" id="close-detail">×</button></div><label>Identifiant<input id="f-id" readonly></label><label>Numéro<input id="f-number"></label><label>Nom / réponse<input id="f-name"></label><label>Titre<input id="f-title"></label><label>Sous-titre<input id="f-subtitle"></label><label>Description<textarea id="f-description"></textarea></label><label>Texte complémentaire<textarea id="f-extra"></textarea></label><label>Lien Wikipédia<div class="inline"><input id="f-wiki" type="url"><a id="open-wiki" target="_blank">Ouvrir</a></div></label><label>Statut image<select id="f-status"></select></label><label class="check"><input id="f-locked" type="checkbox"> Image verrouillée</label><div id="dynamic-fields"></div><button type="button" id="edit-image">Modifier l’image</button></form></section>
+  <section id="vue-grille" class="vue visible"><p class="doux">Chargement…</p></section>
+
+  <section id="vue-tableau" class="vue">
+    <div class="barre-outils">
+      <b id="tableau-titre">Liste</b>
+      <span id="tableau-metriques" class="doux"></span>
+      <button class="btn" id="btn-ligne">＋ Ligne</button>
+      <button class="btn" id="btn-dupliquer">Dupliquer</button>
+      <button class="btn" id="btn-corbeille">Corbeille</button>
+      <button class="btn" id="btn-renumeroter">Renuméroter</button>
+    </div>
+    <div class="tableau-defile"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div>
+  </section>
+
+  <section id="vue-reprise" class="vue"></section>
+  <section id="vue-notes" class="vue"></section>
+  <section id="vue-entretien" class="vue"></section>
 </main>
-<dialog id="image-dialog"><div class="dialog-head"><b>Image — cadre WikiDeck 800 × 600</b><button data-close>×</button></div><div class="image-layout"><div><div id="image-frame"><div id="image-empty">Aucune image chargée</div><img id="image-source" alt=""></div><div class="image-tools"><button id="img-file">Importer</button><input id="img-input" type="file" accept="image/*" hidden><button id="img-fill">Remplir le cadre</button><button id="img-contain">Image entière</button><button id="img-center">Recentrer</button><button id="img-minus" aria-label="Dézoomer">−</button><button id="img-plus" aria-label="Zoomer">＋</button><button id="img-undo">Annuler</button><button id="img-copy">Copier</button><button id="img-download">Télécharger</button></div><output id="image-info"></output></div><div><small>Miniature dérivée en direct</small><canvas id="image-preview" width="213" height="160"></canvas></div></div><p class="image-help">L’original reste intact tant que vous ne cliquez pas sur « Enregistrer l’image ». Glissez pour déplacer, utilisez la molette pour zoomer ou pincez sur écran tactile.</p><button id="img-save" class="primary">Enregistrer l’image</button></dialog>
-<dialog id="notes-dialog"><div class="dialog-head"><b>Notes éditoriales</b><button data-close>×</button></div><div id="notes-list"></div><textarea id="note-text" placeholder="Nouvelle note…"></textarea><div class="inline"><select id="note-status"><option value="todo">À faire</option><option value="doing">En cours</option><option value="done">Terminée</option></select><select id="note-priority"><option>normale</option><option>haute</option><option>basse</option></select><button id="note-add">Ajouter aux cibles sélectionnées</button></div></dialog>
-<dialog id="diff-dialog"><div class="dialog-head"><b>Aperçu des modifications</b><button data-close>×</button></div><div id="diff-content"></div><button id="diff-apply" class="primary">Confirmer</button></dialog>
-<dialog id="import-dialog"><div class="dialog-head"><b>Importer depuis WikiDeck</b><button data-close>×</button></div><input id="manifest-input" type="file" accept=".json"><p>Chargez le <code>manifest.json</code> exporté. L’analyse est toujours sans écriture.</p><div id="import-report"></div><button id="import-apply" class="primary" hidden>Appliquer les correspondances certaines et probables</button></dialog>
-<script type="module" src="app.js"></script></body></html>
+
+<!-- ---------- éditeur ---------- -->
+<div id="editeur" class="editeur" hidden>
+  <div class="editeur-entete">
+    <button class="btn btn-discret" id="ed-fermer">✕ Fermer</button>
+    <div class="ed-titre">
+      <b id="ed-nom"></b>
+      <small id="ed-infos"></small>
+    </div>
+    <button class="btn btn-primaire" id="ed-enregistrer">💾 Enregistrer l'image</button>
+  </div>
+
+  <div class="editeur-scene">
+    <div class="ed-cadre-conteneur" id="ed-conteneur">
+      <div id="ed-vide">Aucune image — colle une URL, une image (Ctrl+V) ou choisis un fichier.</div>
+      <img id="ed-image" alt="" draggable="false">
+      <div class="ed-cadre"></div>
+    </div>
+  </div>
+
+  <div class="editeur-outils">
+    <div class="ed-zoom">
+      <button class="btn" id="ed-moins">−</button>
+      <button class="btn" id="ed-plus">+</button>
+      <button class="btn btn-discret" id="ed-reset">↺ remplir le cadre</button>
+      <button class="btn btn-discret" id="ed-contenir" hidden>⤢ image entière</button>
+      <button class="btn btn-discret" id="ed-annuler">↶ annuler</button>
+      <label class="ed-borne" title="Décoche pour les images qui ne peuvent pas remplir un cadre 4:3 sans être amputées, comme les logos">
+        <input type="checkbox" id="ed-f-borne" checked>
+        Interdire le dézoom hors cadre
+      </label>
+    </div>
+    <div class="ed-apercu">
+      <span>Miniature de Mémo <small>400 × 300</small></span>
+      <canvas id="ed-canvas-apercu" width="400" height="300"></canvas>
+    </div>
+    <div class="ed-actions">
+      <button class="btn" id="ed-remplacer">🔄 Remplacer l'image…</button>
+      <button class="btn" id="ed-note">📝 Note…</button>
+      <output id="ed-mesures" class="doux"></output>
+    </div>
+  </div>
+  <p class="ed-aide">Glisse la photo pour la positionner · molette ou pincement
+  pour zoomer · le cadre = ce que Mémo affichera. La miniature est découpée dans
+  le même cadrage : les deux ne peuvent pas diverger.</p>
+
+  <div class="ed-fiche">
+    <h4>Fiche de l'entrée</h4>
+    <div class="ed-grille-champs">
+      <label>Numéro <input id="ed-f-numero"></label>
+      <label>Nom / réponse <input id="ed-f-nom"></label>
+      <label>Titre <input id="ed-f-titre"></label>
+      <label>Sous-titre <input id="ed-f-soustitre"></label>
+    </div>
+    <label>Lien Wikipédia
+      <span class="rangee"><input id="ed-f-wiki" type="url"><a class="btn btn-discret" id="ed-f-wiki-ouvrir" target="_blank" rel="noreferrer">Ouvrir</a></span></label>
+    <label>Description <textarea id="ed-f-description"></textarea></label>
+    <div class="ed-grille-champs">
+      <label>Statut de l'image <select id="ed-f-statut"></select></label>
+      <label class="case"><input id="ed-f-verrou" type="checkbox"> Image verrouillée</label>
+    </div>
+    <div id="ed-champs-liste"></div>
+  </div>
+  <input type="file" id="ed-fichier" accept="image/*" hidden>
+</div>
+
+<div id="modale" class="modale" hidden><div class="modale-boite" id="modale-boite"></div></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

@@ -19,6 +19,7 @@ build/.cache.pkl
 # Images haute définition conservées séparément pour le moment
 full/
 full_test/
+originaux/
 
 # Livrables et espaces de travail générés
 outputs/

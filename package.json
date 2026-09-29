@@ -5,8 +5,7 @@
   "scripts": {
     "atelier:migrate": "node atelier/migrate.mjs",
     "atelier:repair-images": "node atelier/repair-legacy-images.mjs",
-    "atelier:export-f1": "node atelier/wikideck-export.mjs pilotes-f1-champions-du-monde",
-    "atelier": "node atelier/server.cjs",
+    "atelier": "node atelier/server.mjs",
     "test": "node --test atelier/tests/*.test.mjs && node build/audit_current_html.js"
   }
 }

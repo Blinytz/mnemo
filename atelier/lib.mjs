@@ -1,9 +1,12 @@
 import crypto from 'node:crypto';
 
+// La grande image reprend le format de WikiDeck ; la miniature garde celui de
+// Mémo (400 × 300), sinon chaque enregistrement dégraderait l'application.
+// Les deux sont toujours découpées dans le même cadrage.
 export const IMAGE_FORMAT = Object.freeze({
   ratio: 4 / 3,
   full: Object.freeze([800, 600]),
-  thumb: Object.freeze([213, 160]),
+  thumb: Object.freeze([400, 300]),
 });
 
 export const IMAGE_STATUSES = Object.freeze([
@@ -40,6 +43,12 @@ export function normalizeName(value = '') {
   return slug(value).replace(/-/g, ' ');
 }
 
+// L'ancien matchWikideckCard() a été retiré : il rapprochait les cartes par lien
+// Wikipédia et par nom d'entrée, or aucune entrée de Mémo n'a de lien Wikipédia
+// et plusieurs listes portaient le mauvais champ comme nom — il ne trouvait
+// donc rien. L'appariement vit désormais dans wikideck-bridge.mjs, borné à un
+// couple liste ↔ collection et fondé sur la colonne-sujet déclarée par memo.html.
+
 export function validateWorkspace(data) {
   const errors = [];
   if (!data || data.schemaVersion !== 1) errors.push('schemaVersion doit valoir 1');
@@ -67,21 +76,6 @@ export function validateWorkspace(data) {
     if (entry.image?.thumbSource) errors.push(`source miniature interdite pour ${entry.id}`);
   }
   return errors;
-}
-
-export function matchWikideckCard(card, entries) {
-  const wiki = canonicalWikipedia(card.lienWikipedia);
-  const byWiki = wiki ? entries.filter(e => canonicalWikipedia(e.wikipedia) === wiki) : [];
-  if (byWiki.length === 1) return { kind: 'certain', reason: 'wikipedia', entry: byWiki[0] };
-  const byId = entries.filter(e => e.externalIds?.wikideck === card.id);
-  if (byId.length === 1) return { kind: 'certain', reason: 'identifiant', entry: byId[0] };
-  const cardSlug = slug(card.id?.split('_').slice(1).join('_') || card.nom);
-  const bySlug = entries.filter(e => slug(e.slug || e.name) === cardSlug);
-  if (bySlug.length === 1) return { kind: 'certain', reason: 'slug', entry: bySlug[0] };
-  const byName = entries.filter(e => normalizeName(e.name) === normalizeName(card.nom));
-  if (byName.length === 1) return { kind: 'probable', reason: 'nom', entry: byName[0] };
-  if (byName.length > 1) return { kind: 'ambiguous', reason: 'nom', entries: byName };
-  return { kind: 'wikideck_only', reason: 'aucune correspondance' };
 }
 
 export function previewBulk(entries, operation) {
