@@ -1,0 +1,576 @@
+{
+ "empires-et-civilisations_empire-romain": {
+  "periode": "27 av. J.-C.-476",
+  "capitale": "Rome · Constantinople",
+  "aire": "Bassin méditerranéen",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-byzantin": {
+  "periode": "395-1453",
+  "capitale": "Constantinople",
+  "aire": "Méditerranée orientale · Anatolie · Balkans",
+  "confiance": "tranchee",
+  "note": "395 retenu (partage de l'Empire), borne la plus courante des manuels."
+ },
+ "empires-et-civilisations_empire-ottoman": {
+  "periode": "1299-1922",
+  "capitale": "Constantinople (Istanbul)",
+  "aire": "Anatolie · Balkans · Proche-Orient · Afrique du Nord",
+  "confiance": "tranchee",
+  "note": "Capitale de 1453 à 1922, la réponse attendue ; Bursa et Edirne omises."
+ },
+ "empires-et-civilisations_achemenides": {
+  "periode": "vers 550-330 av. J.-C.",
+  "capitale": "Persépolis · Suse",
+  "aire": "Iran · Proche-Orient · Égypte · Asie centrale",
+  "confiance": "tranchee",
+  "note": "Persépolis et Suse, les deux capitales les plus citées parmi plusieurs."
+ },
+ "empires-et-civilisations_empire-parthe": {
+  "periode": "247 av. J.-C.-224",
+  "capitale": "Ctésiphon · Hécatompylos",
+  "aire": "Iran · Mésopotamie",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_sassanides": {
+  "periode": "224-651",
+  "capitale": "Ctésiphon",
+  "aire": "Iran · Mésopotamie · Caucase",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-mongol": {
+  "periode": "1206-1368",
+  "capitale": "Karakorum · Khanbaliq (Pékin)",
+  "aire": "Asie · Europe orientale",
+  "confiance": "tranchee",
+  "note": "Fin en 1368 (chute des Yuan), borne de l'article ; Khanbaliq justifiée par la période Yuan."
+ },
+ "empires-et-civilisations_empire-moghol": {
+  "periode": "1526-1857",
+  "capitale": "Agra · Delhi",
+  "aire": "Sous-continent indien",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-maurya": {
+  "periode": "vers 321-185 av. J.-C.",
+  "capitale": "Pataliputra",
+  "aire": "Sous-continent indien",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-gupta": {
+  "periode": "vers 320-550",
+  "capitale": "Pataliputra",
+  "aire": "Nord de l'Inde",
+  "confiance": "tranchee",
+  "note": "Bornes usuelles vers 320-550 (avènement de Chandragupta Ier au déclin)."
+ },
+ "empires-et-civilisations_empire-azteque": {
+  "periode": "1428-1521",
+  "capitale": "Tenochtitlan",
+  "aire": "Mésoamérique (centre du Mexique)",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-inca": {
+  "periode": "1438-1533",
+  "capitale": "Cuzco",
+  "aire": "Andes (Pérou · Bolivie · Équateur · Chili)",
+  "confiance": "tranchee",
+  "note": "Fin en 1533 (mort d'Atahualpa), borne la plus attendue ; Vilcabamba écartée."
+ },
+ "empires-et-civilisations_civilisation-maya": {
+  "periode": "vers 2000 av. J.-C.-1697",
+  "capitale": "Aucune (cités-États : Tikal · Chichén Itzá)",
+  "aire": "Mésoamérique (Yucatán · Guatemala)",
+  "confiance": "tranchee",
+  "note": "Bornes larges conservées (préclassique à Tayasal) ; deux cités phares citées."
+ },
+ "empires-et-civilisations_ancien-empire": {
+  "periode": "vers 2700-2200 av. J.-C.",
+  "capitale": "Memphis",
+  "aire": "Égypte (vallée du Nil)",
+  "confiance": "sure",
+  "nom": "Ancien Empire égyptien"
+ },
+ "empires-et-civilisations_moyen-empire": {
+  "periode": "vers 2050-1780 av. J.-C.",
+  "capitale": "Thèbes · Itjtaouy",
+  "aire": "Égypte · Basse Nubie",
+  "confiance": "tranchee",
+  "note": "Chronologie moyenne vers 2050-1780 av. J.-C. conservée."
+ },
+ "empires-et-civilisations_nouvel-empire": {
+  "periode": "vers 1550-1069 av. J.-C.",
+  "capitale": "Thèbes · Memphis",
+  "aire": "Égypte · Nubie · Levant",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_assyrie": {
+  "periode": "911-609 av. J.-C.",
+  "capitale": "Ninive · Assur",
+  "aire": "Mésopotamie · Proche-Orient",
+  "confiance": "tranchee",
+  "note": "Empire néo-assyrien retenu, sens attendu d'« Assyrie » comme empire."
+ },
+ "empires-et-civilisations_empire-neo-babylonien": {
+  "periode": "626-539 av. J.-C.",
+  "capitale": "Babylone",
+  "aire": "Mésopotamie · Levant",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_hittites": {
+  "periode": "vers 1650-1180 av. J.-C.",
+  "capitale": "Hattusa",
+  "aire": "Anatolie · nord de la Syrie",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_royaume-de-koush": {
+  "periode": "vers 1070 av. J.-C.-350",
+  "capitale": "Napata · Méroé",
+  "aire": "Nubie (vallée du Nil soudanaise)",
+  "confiance": "tranchee",
+  "note": "Koush napatéen et méroïtique retenu (vers 1070 av. J.-C. à 350), Kerma exclu."
+ },
+ "empires-et-civilisations_empire-du-mali": {
+  "periode": "vers 1235-1600",
+  "capitale": "Niani",
+  "aire": "Afrique de l'Ouest (Sahel · boucle du Niger)",
+  "confiance": "tranchee",
+  "note": "Vers 1235 (Soundiata) à 1600, Niani comme capitale traditionnelle."
+ },
+ "empires-et-civilisations_empire-songhai": {
+  "periode": "1464-1591",
+  "capitale": "Gao",
+  "aire": "Afrique de l'Ouest (boucle du Niger)",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-du-ghana": {
+  "periode": "vers 300-1240",
+  "capitale": "Koumbi Saleh",
+  "aire": "Afrique de l'Ouest (Sahel)",
+  "confiance": "tranchee",
+  "note": "Bornes larges vers 300-1240 (prise par Soundiata) conservées."
+ },
+ "empires-et-civilisations_royaume-zoulou": {
+  "periode": "1816-1897",
+  "capitale": "kwaBulawayo · Ulundi",
+  "aire": "Afrique australe (actuel KwaZulu-Natal)",
+  "confiance": "tranchee",
+  "note": "Fin en 1897 (annexion au Natal), bornes de l'article ; 1879 écarté."
+ },
+ "empires-et-civilisations_royaume-d-aksoum": {
+  "periode": "vers 100-940",
+  "capitale": "Aksoum",
+  "aire": "Corne de l'Afrique (Éthiopie · Érythrée) · sud de l'Arabie",
+  "confiance": "tranchee",
+  "note": "Vers 100-940, bornes approximatives usuelles."
+ },
+ "empires-et-civilisations_empire-khmer": {
+  "periode": "802-1431",
+  "capitale": "Angkor",
+  "aire": "Asie du Sud-Est continentale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-britannique": {
+  "periode": "1583-1997",
+  "capitale": "Londres",
+  "aire": "Monde (Amériques · Afrique · Asie · Océanie)",
+  "confiance": "tranchee",
+  "note": "De Terre-Neuve (1583) à Hong Kong (1997) ; « vers » retiré, les deux dates sont précises."
+ },
+ "empires-et-civilisations_empire-espagnol": {
+  "periode": "1492-1976",
+  "capitale": "Madrid",
+  "aire": "Amériques · Philippines · Europe · Afrique",
+  "confiance": "tranchee",
+  "note": "Madrid, capitale dès 1561 et réponse attendue ; fin en 1976 (Sahara occidental) conservée."
+ },
+ "empires-et-civilisations_empire-colonial-portugais": {
+  "periode": "1415-1999",
+  "capitale": "Lisbonne · Rio de Janeiro",
+  "aire": "Afrique · Brésil · Asie",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-colonial-francais": {
+  "periode": "1534-1980",
+  "capitale": "Paris",
+  "aire": "Amérique du Nord · Afrique · Asie · Océanie",
+  "confiance": "tranchee",
+  "note": "Les deux empires coloniaux réunis, de Cartier (1534) au Vanuatu (1980)."
+ },
+ "empires-et-civilisations_empire-russe": {
+  "periode": "1721-1917",
+  "capitale": "Saint-Pétersbourg · Moscou",
+  "aire": "Europe de l'Est · Asie du Nord · Caucase · Asie centrale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_saint-empire-romain-germanique": {
+  "periode": "962-1806",
+  "capitale": "Aix-la-Chapelle (couronnements) · Vienne",
+  "aire": "Europe centrale",
+  "confiance": "tranchee",
+  "note": "Pas de capitale officielle : ville du couronnement et siège des Habsbourg."
+ },
+ "empires-et-civilisations_autriche-hongrie": {
+  "periode": "1867-1918",
+  "capitale": "Vienne · Budapest",
+  "aire": "Europe centrale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_sumer": {
+  "periode": "vers 3500-2000 av. J.-C.",
+  "capitale": "Aucune (cités-États : Ur · Uruk)",
+  "aire": "Basse Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Bornes conventionnelles conservées ; Ur et Uruk comme cités phares."
+ },
+ "empires-et-civilisations_empire-d-akkad": {
+  "periode": "vers 2334-2154 av. J.-C.",
+  "capitale": "Akkad (Agadé)",
+  "aire": "Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Chronologie moyenne vers 2334-2154 av. J.-C., la plus citée."
+ },
+ "empires-et-civilisations_medes": {
+  "periode": "vers 678-550 av. J.-C.",
+  "capitale": "Ecbatane",
+  "aire": "Iran occidental · Anatolie orientale",
+  "confiance": "tranchee",
+  "note": "Dates traditionnelles d'Hérodote conservées, Ecbatane capitale."
+ },
+ "empires-et-civilisations_civilisation-de-la-vallee-de-l-indus": {
+  "periode": "vers 2600-1900 av. J.-C.",
+  "capitale": "Aucune (cités : Harappa · Mohenjo-daro)",
+  "aire": "Vallée de l'Indus (Pakistan · nord-ouest de l'Inde)",
+  "confiance": "tranchee",
+  "note": "Phase mature vers 2600-1900 av. J.-C., bornes usuelles."
+ },
+ "empires-et-civilisations_carthage": {
+  "periode": "814-146 av. J.-C.",
+  "capitale": "Carthage",
+  "aire": "Afrique du Nord · Méditerranée occidentale",
+  "confiance": "tranchee",
+  "note": "Carthage punique, de la fondation traditionnelle à la destruction de 146."
+ },
+ "empires-et-civilisations_civilisation-minoenne": {
+  "periode": "vers 2700-1200 av. J.-C.",
+  "capitale": "Aucune (palais, dont Cnossos)",
+  "aire": "Crète · mer Égée",
+  "confiance": "tranchee",
+  "note": "Bornes larges vers 2700-1200 av. J.-C. conservées."
+ },
+ "empires-et-civilisations_civilisation-mycenienne": {
+  "periode": "vers 1650-1100 av. J.-C.",
+  "capitale": "Aucune (royaumes : Mycènes · Pylos)",
+  "aire": "Grèce continentale · mer Égée",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_bilan-du-regne-d-alexandre-le-grand": {
+  "periode": "336-323 av. J.-C.",
+  "capitale": "Pella · Babylone",
+  "aire": "Grèce · Égypte · Proche-Orient · Asie centrale",
+  "confiance": "tranchee",
+  "note": "Règne de 336 à 323 ; Pella puis Babylone dans l'ordre chronologique."
+ },
+ "empires-et-civilisations_seleucides": {
+  "periode": "312-63 av. J.-C.",
+  "capitale": "Antioche · Séleucie du Tigre",
+  "aire": "Proche-Orient · Mésopotamie · Iran",
+  "confiance": "tranchee",
+  "note": "Début en 312 (ère séleucide), borne des manuels ; Antioche, capitale la plus associée."
+ },
+ "empires-et-civilisations_republique-romaine": {
+  "periode": "509-27 av. J.-C.",
+  "capitale": "Rome",
+  "aire": "Italie · Bassin méditerranéen",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-carolingien": {
+  "periode": "800-888",
+  "capitale": "Aix-la-Chapelle",
+  "aire": "Europe occidentale et centrale",
+  "confiance": "tranchee",
+  "note": "800-888, du sacre à la déposition de Charles le Gros, bornes de l'article."
+ },
+ "empires-et-civilisations_rus-de-kiev": {
+  "periode": "vers 882-1240",
+  "capitale": "Kiev · Novgorod",
+  "aire": "Europe de l'Est",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-allemand": {
+  "periode": "1871-1918",
+  "capitale": "Berlin",
+  "aire": "Europe centrale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-colonial-neerlandais": {
+  "periode": "1603-1975",
+  "capitale": "Amsterdam · La Haye",
+  "aire": "Indes orientales · Caraïbes · Guyane · Afrique australe",
+  "confiance": "tranchee",
+  "note": "Amsterdam, capitale constitutionnelle, et La Haye, siège du pouvoir."
+ },
+ "empires-et-civilisations_union-des-republiques-socialistes-sovietiques": {
+  "periode": "1922-1991",
+  "capitale": "Moscou",
+  "aire": "Europe de l'Est · Asie du Nord · Asie centrale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_califat-de-cordoue": {
+  "periode": "929-1031",
+  "capitale": "Cordoue",
+  "aire": "Péninsule Ibérique · Maghreb occidental",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_almoravides": {
+  "periode": "vers 1040-1147",
+  "capitale": "Marrakech",
+  "aire": "Maghreb · al-Andalus · Sahara occidental",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_almohades": {
+  "periode": "1121-1269",
+  "capitale": "Marrakech · Séville",
+  "aire": "Maghreb · al-Andalus",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_dynastie-des-sefevides": {
+  "periode": "1501-1736",
+  "capitale": "Tabriz · Ispahan",
+  "aire": "Iran · Caucase",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-timouride": {
+  "periode": "1370-1507",
+  "capitale": "Samarcande · Hérat",
+  "aire": "Asie centrale · Iran · Afghanistan",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_sultanat-de-delhi": {
+  "periode": "1206-1526",
+  "capitale": "Delhi",
+  "aire": "Nord et centre de l'Inde",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-du-japon": {
+  "periode": "1868-1947",
+  "capitale": "Tokyo",
+  "aire": "Japon · Asie orientale · Pacifique",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_dynastie-chola": {
+  "periode": "848-1279",
+  "capitale": "Thanjavur · Gangaikonda Cholapuram",
+  "aire": "Inde du Sud · Sri Lanka · Asie du Sud-Est",
+  "confiance": "tranchee",
+  "note": "Période impériale 848-1279, celle qu'on attend pour un empire."
+ },
+ "empires-et-civilisations_empire-ethiopien": {
+  "periode": "1270-1974",
+  "capitale": "Gondar · Addis-Abeba",
+  "aire": "Corne de l'Afrique",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-ashanti": {
+  "periode": "1701-1901",
+  "capitale": "Kumasi",
+  "aire": "Afrique de l'Ouest (actuel Ghana)",
+  "confiance": "tranchee",
+  "note": "1701-1901, bornes usuelles (Osei Tutu à l'annexion britannique)."
+ },
+ "empires-et-civilisations_royaume-du-benin": {
+  "periode": "vers 1180-1897",
+  "capitale": "Bénin (actuelle Benin City)",
+  "aire": "Afrique de l'Ouest (sud du Nigeria)",
+  "confiance": "tranchee",
+  "note": "Vers 1180-1897, fin par l'expédition britannique."
+ },
+ "empires-et-civilisations_royaume-du-kanem-bornou": {
+  "periode": "vers 700-1893",
+  "capitale": "Njimi · Birni Ngazargamu",
+  "aire": "Bassin du lac Tchad",
+  "confiance": "tranchee",
+  "note": "Vers 700-1893 (conquête de Rabah), bornes usuelles."
+ },
+ "empires-et-civilisations_olmeques": {
+  "periode": "vers 1500-400 av. J.-C.",
+  "capitale": "Aucune (centres : San Lorenzo · La Venta)",
+  "aire": "Mésoamérique (golfe du Mexique)",
+  "confiance": "tranchee",
+  "note": "Vers 1500-400 av. J.-C., bornes usuelles ; deux centres majeurs cités."
+ },
+ "empires-et-civilisations_moche-culture": {
+  "periode": "vers 100-700",
+  "capitale": "Aucune (centre : Huacas de Moche)",
+  "aire": "Côte nord du Pérou",
+  "confiance": "tranchee",
+  "note": "Vers 100-700, bornes usuelles ; Huacas de Moche comme centre."
+ },
+ "empires-et-civilisations_nazca-civilisation": {
+  "periode": "vers 200 av. J.-C.-700",
+  "capitale": "Aucune (centre cérémoniel : Cahuachi)",
+  "aire": "Côte sud du Pérou",
+  "confiance": "tranchee",
+  "note": "Vers 200 av. J.-C.-700, bornes usuelles ; Cahuachi comme centre."
+ },
+ "empires-et-civilisations_etrusques": {
+  "periode": "vers 800-264 av. J.-C.",
+  "capitale": "Aucune (dodécapole de cités)",
+  "aire": "Italie centrale (Étrurie)",
+  "confiance": "tranchee",
+  "note": "Apogée retenue, jusqu'à la prise de Volsinies par Rome en 264 av. J.-C."
+ },
+ "empires-et-civilisations_pheniciens": {
+  "periode": "vers 1200-332 av. J.-C.",
+  "capitale": "Aucune (cités : Tyr · Sidon)",
+  "aire": "Levant · Méditerranée",
+  "confiance": "tranchee",
+  "note": "Vers 1200-332 av. J.-C., jusqu'à la prise de Tyr ; Tyr et Sidon comme cités phares."
+ },
+ "empires-et-civilisations_celtes": {
+  "periode": "vers 800-52 av. J.-C.",
+  "capitale": "Aucune (peuples sans État unifié)",
+  "aire": "Europe occidentale et centrale",
+  "confiance": "tranchee",
+  "note": "De Hallstatt à Alésia (52 av. J.-C.) ; fin chiffrée plutôt qu'un siècle ambigu."
+ },
+ "empires-et-civilisations_vikings": {
+  "periode": "793-1066",
+  "capitale": "Aucune (royaumes scandinaves)",
+  "aire": "Scandinavie · Europe du Nord · Atlantique Nord",
+  "confiance": "sure",
+  "note": "Peuple et non empire : dates de l'âge des Vikings (Lindisfarne à Stamford Bridge)."
+ },
+ "empires-et-civilisations_scythes": {
+  "periode": "vers 700-200 av. J.-C.",
+  "capitale": "Aucune (nomades)",
+  "aire": "Steppe eurasienne (Ukraine · Asie centrale)",
+  "confiance": "tranchee",
+  "note": "Apogée vers 700-200 av. J.-C., peuples nomades sans capitale."
+ },
+ "empires-et-civilisations_huns": {
+  "periode": "vers 370-469",
+  "capitale": "Aucune (camp royal en Pannonie)",
+  "aire": "Steppe eurasienne · Europe centrale",
+  "confiance": "tranchee",
+  "note": "Empire hunnique vers 370-469 ; camp royal en Pannonie."
+ },
+ "empires-et-civilisations_xiongnu": {
+  "periode": "vers 209 av. J.-C.-93",
+  "capitale": "Aucune fixe (Longcheng)",
+  "aire": "Mongolie · steppes d'Asie orientale",
+  "confiance": "tranchee",
+  "note": "De Modu (209 av. J.-C.) à la défaite des Xiongnu du Nord (93)."
+ },
+ "empires-et-civilisations_royaume-du-kongo": {
+  "periode": "vers 1390-1914",
+  "capitale": "Mbanza Kongo (São Salvador)",
+  "aire": "Afrique centrale (Angola · Congo · RDC)",
+  "confiance": "tranchee",
+  "note": "Vers 1390-1914, bornes de l'article (fin de l'autonomie)."
+ },
+ "empires-et-civilisations_empire-d-oyo": {
+  "periode": "vers 1300-1836",
+  "capitale": "Oyo-Ile",
+  "aire": "Afrique de l'Ouest (Nigeria · Bénin)",
+  "confiance": "tranchee",
+  "note": "Fin en 1836 (abandon d'Oyo-Ile) ; capitale historique seule retenue."
+ },
+ "empires-et-civilisations_cahokia": {
+  "periode": "vers 1050-1350",
+  "capitale": "Cahokia (cité)",
+  "aire": "Vallée du Mississippi (Illinois)",
+  "confiance": "tranchee",
+  "note": "Apogée de la cité vers 1050-1350."
+ },
+ "empires-et-civilisations_empire-kouchan": {
+  "periode": "vers 30-375",
+  "capitale": "Purushapura (Peshawar) · Mathura",
+  "aire": "Asie centrale · Afghanistan · nord de l'Inde",
+  "confiance": "tranchee",
+  "note": "Vers 30-375, bornes usuelles ; Purushapura et Mathura capitales principales."
+ },
+ "empires-et-civilisations_empire-du-monomotapa": {
+  "periode": "vers 1450-1629",
+  "capitale": "Zvongombe · Grand Zimbabwe (tradition)",
+  "aire": "Afrique australe (Zimbabwe · Mozambique)",
+  "confiance": "tranchee",
+  "note": "1450-1629 (vassalité portugaise) ; Grand Zimbabwe gardé comme réponse traditionnelle."
+ },
+ "empires-et-civilisations_republique-de-venise": {
+  "periode": "697-1797",
+  "capitale": "Venise",
+  "aire": "Adriatique · Méditerranée orientale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_hanse": {
+  "periode": "vers 1160-1669",
+  "capitale": "Lübeck",
+  "aire": "Mer du Nord · mer Baltique",
+  "confiance": "tranchee",
+  "note": "Ligue marchande de vers 1160 à la dernière diète (1669) ; Lübeck, ville phare."
+ },
+ "empires-et-civilisations_republique-des-deux-nations": {
+  "periode": "1569-1795",
+  "capitale": "Cracovie · Varsovie",
+  "aire": "Europe centrale et orientale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_empire-suedois": {
+  "periode": "1611-1721",
+  "capitale": "Stockholm",
+  "aire": "Scandinavie · Finlande · pays baltes",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_premier-empire-bulgare": {
+  "periode": "681-1018",
+  "capitale": "Pliska · Preslav",
+  "aire": "Balkans",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_royaume-de-vijayanagara": {
+  "periode": "1336-1646",
+  "capitale": "Vijayanagara (Hampi)",
+  "aire": "Inde du Sud (Deccan)",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_majapahit": {
+  "periode": "1293-vers 1527",
+  "capitale": "Trowulan",
+  "aire": "Java · archipel indonésien",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_sriwijaya": {
+  "periode": "vers 650-1377",
+  "capitale": "Palembang",
+  "aire": "Sumatra · détroit de Malacca",
+  "confiance": "tranchee",
+  "note": "Vers 650-1377, bornes usuelles ; Palembang comme centre."
+ },
+ "empires-et-civilisations_empire-marathe": {
+  "periode": "1674-1818",
+  "capitale": "Raigad · Pune",
+  "aire": "Inde centrale et occidentale",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_dynastie-qadjar": {
+  "periode": "1789-1925",
+  "capitale": "Téhéran",
+  "aire": "Iran · Caucase",
+  "confiance": "tranchee",
+  "note": "1789-1925, bornes de l'article."
+ },
+ "empires-et-civilisations_empire-du-bresil": {
+  "periode": "1822-1889",
+  "capitale": "Rio de Janeiro",
+  "aire": "Brésil (Amérique du Sud)",
+  "confiance": "sure"
+ },
+ "empires-et-civilisations_tolteques": {
+  "periode": "vers 900-1168",
+  "capitale": "Tula (Tollan)",
+  "aire": "Mésoamérique (centre du Mexique)",
+  "confiance": "tranchee",
+  "note": "Vers 900-1168, chute traditionnelle de Tula."
+ }
+}

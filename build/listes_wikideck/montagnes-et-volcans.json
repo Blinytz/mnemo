@@ -1,0 +1,437 @@
+{
+ "montagnes-et-volcans_everest": {
+  "altitude": "8 849 m",
+  "massif": "Himalaya",
+  "pays": "Népal · Chine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_k2": {
+  "altitude": "8 611 m",
+  "massif": "Karakoram",
+  "pays": "Pakistan · Chine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-blanc": {
+  "altitude": "4 806 m",
+  "massif": "Alpes",
+  "pays": "France · Italie",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "4 806 m retenu : valeur de l'article, arrondi des mesures récentes (4 805,59 m en 2021)."
+ },
+ "montagnes-et-volcans_cervin": {
+  "altitude": "4 478 m",
+  "massif": "Alpes",
+  "pays": "Suisse · Italie",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_kilimandjaro": {
+  "altitude": "5 895 m",
+  "massif": "Rift est-africain",
+  "pays": "Tanzanie",
+  "type": "Volcan endormi",
+  "confiance": "tranchee",
+  "note": "5 895 m retenu : valeur usuelle du pic Uhuru, la plus attendue dans un quiz."
+ },
+ "montagnes-et-volcans_mont-mckinley": {
+  "altitude": "6 190 m",
+  "massif": "Chaîne d'Alaska",
+  "pays": "États-Unis",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_aconcagua": {
+  "altitude": "6 962 m",
+  "massif": "Andes",
+  "pays": "Argentine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-fuji": {
+  "altitude": "3 776 m",
+  "massif": "Isolé",
+  "pays": "Japon",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_vesuve": {
+  "altitude": "1 281 m",
+  "massif": "Arc volcanique campanien",
+  "pays": "Italie",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_etna": {
+  "altitude": "3 403 m",
+  "massif": "Isolé",
+  "pays": "Italie",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "3 403 m retenu : altitude donnée par l'article, malgré les variations dues aux éruptions."
+ },
+ "montagnes-et-volcans_stromboli": {
+  "altitude": "924 m",
+  "massif": "Îles Éoliennes",
+  "pays": "Italie",
+  "type": "Volcan actif",
+  "confiance": "sure",
+  "note": "La carte désigne l'île entière ; l'altitude est celle du sommet du volcan."
+ },
+ "montagnes-et-volcans_krakatoa": {
+  "altitude": "813 m",
+  "massif": "Arc de la Sonde",
+  "pays": "Indonésie",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "Sommet retenu : le Rakata (813 m), point culminant actuel de l'archipel."
+ },
+ "montagnes-et-volcans_mauna-kea": {
+  "altitude": "4 207 m",
+  "massif": "Archipel d'Hawaï",
+  "pays": "États-Unis",
+  "type": "Volcan endormi",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mauna-loa": {
+  "altitude": "4 169 m",
+  "massif": "Archipel d'Hawaï",
+  "pays": "États-Unis",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_popocatepetl": {
+  "altitude": "5 426 m",
+  "massif": "Axe volcanique transmexicain",
+  "pays": "Mexique",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_eyjafjallajokull": {
+  "altitude": "1 651 m",
+  "massif": "Dorsale médio-atlantique",
+  "pays": "Islande",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "1 651 m retenu : altitude actuelle du sommet volcanique sous la calotte."
+ },
+ "montagnes-et-volcans_mont-saint-helens": {
+  "altitude": "2 549 m",
+  "massif": "Cordillère des Cascades",
+  "pays": "États-Unis",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_piton-de-la-fournaise": {
+  "altitude": "2 621 m",
+  "massif": "Point chaud de La Réunion",
+  "pays": "France",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-ararat": {
+  "altitude": "5 137 m",
+  "massif": "Plateau arménien",
+  "pays": "Turquie",
+  "type": "Volcan endormi",
+  "confiance": "tranchee",
+  "note": "5 137 m retenu : altitude de l'article et des mesures récentes."
+ },
+ "montagnes-et-volcans_mont-olympe": {
+  "altitude": "2 918 m",
+  "massif": "Massif de l'Olympe",
+  "pays": "Grèce",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-kailash": {
+  "altitude": "6 638 m",
+  "massif": "Transhimalaya",
+  "pays": "Chine",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "6 638 m retenu : valeur la plus courante dans les sources francophones."
+ },
+ "montagnes-et-volcans_annapurna": {
+  "altitude": "8 091 m",
+  "massif": "Himalaya",
+  "pays": "Népal",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_nanga-parbat": {
+  "altitude": "8 125 m",
+  "massif": "Himalaya",
+  "pays": "Pakistan",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_elbrouz": {
+  "altitude": "5 642 m",
+  "massif": "Caucase",
+  "pays": "Russie",
+  "type": "Volcan endormi",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_montagne-de-la-table": {
+  "altitude": "1 085 m",
+  "massif": "Péninsule du Cap",
+  "pays": "Afrique du Sud",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "1 085 m retenu : altitude usuelle de Maclear's Beacon."
+ },
+ "montagnes-et-volcans_uluru-ayers-rock": {
+  "altitude": "863 m",
+  "massif": "Isolé · 348 m au-dessus de la plaine",
+  "pays": "Australie",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "Altitude du sommet (863 m) conservée ; la hauteur relative de 348 m, la plus citée, est rappelée dans le massif."
+ },
+ "montagnes-et-volcans_caldeira-de-yellowstone": {
+  "altitude": "2 400 m",
+  "massif": "Plateau de Yellowstone",
+  "pays": "États-Unis",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "2 400 m retenu : altitude moyenne du plateau, la caldeira n'ayant pas de sommet consacré."
+ },
+ "montagnes-et-volcans_mont-erebus": {
+  "altitude": "3 794 m",
+  "massif": "Île de Ross",
+  "pays": "Antarctique (aucun pays)",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "Pays : Antarctique (aucun pays), la revendication néo-zélandaise étant gelée par le traité."
+ },
+ "montagnes-et-volcans_pinatubo": {
+  "altitude": "1 486 m",
+  "massif": "Monts Zambales",
+  "pays": "Philippines",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "1 486 m retenu : altitude usuelle depuis l'éruption de 1991."
+ },
+ "montagnes-et-volcans_teide": {
+  "altitude": "3 715 m",
+  "massif": "Îles Canaries",
+  "pays": "Espagne",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_cotopaxi": {
+  "altitude": "5 897 m",
+  "massif": "Andes",
+  "pays": "Équateur",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_sinai": {
+  "altitude": "2 285 m",
+  "massif": "Massif du Sinaï",
+  "pays": "Égypte",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "Sommet retenu : le mont Sinaï (djebel Moussa, 2 285 m), celui que le nom évoque."
+ },
+ "montagnes-et-volcans_fitz-roy": {
+  "altitude": "3 405 m",
+  "massif": "Andes",
+  "pays": "Argentine · Chili",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "3 405 m retenu : altitude traditionnelle, la plus citée, plutôt que la mesure GPS de 2012."
+ },
+ "montagnes-et-volcans_cerro-torre": {
+  "altitude": "3 128 m",
+  "massif": "Andes",
+  "pays": "Argentine · Chili",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "3 128 m retenu : valeur la plus courante malgré le champignon de glace."
+ },
+ "montagnes-et-volcans_kangchenjunga": {
+  "altitude": "8 586 m",
+  "massif": "Himalaya",
+  "pays": "Népal · Inde",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_lhotse": {
+  "altitude": "8 516 m",
+  "massif": "Himalaya",
+  "pays": "Népal · Chine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_makalu": {
+  "altitude": "8 485 m",
+  "massif": "Himalaya",
+  "pays": "Népal · Chine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_cho-oyu": {
+  "altitude": "8 188 m",
+  "massif": "Himalaya",
+  "pays": "Népal · Chine",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_dhaulagiri": {
+  "altitude": "8 167 m",
+  "massif": "Himalaya",
+  "pays": "Népal",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_massif-vinson": {
+  "altitude": "4 892 m",
+  "massif": "Monts Ellsworth",
+  "pays": "Antarctique (aucun pays)",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "Pays : Antarctique (aucun pays), la revendication chilienne étant gelée par le traité."
+ },
+ "montagnes-et-volcans_puncak-jaya": {
+  "altitude": "4 884 m",
+  "massif": "Monts Maoke",
+  "pays": "Indonésie",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-kosciuszko": {
+  "altitude": "2 228 m",
+  "massif": "Alpes australiennes",
+  "pays": "Australie",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_eiger": {
+  "altitude": "3 967 m",
+  "massif": "Alpes",
+  "pays": "Suisse",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-rose": {
+  "altitude": "4 634 m",
+  "massif": "Alpes",
+  "pays": "Suisse · Italie",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-ventoux": {
+  "altitude": "1 910 m",
+  "massif": "Monts de Vaucluse",
+  "pays": "France",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_puy-de-dome": {
+  "altitude": "1 465 m",
+  "massif": "Chaîne des Puys",
+  "pays": "France",
+  "type": "Volcan endormi",
+  "confiance": "tranchee",
+  "note": "Volcan endormi retenu : les volcanologues tiennent la chaîne des Puys pour endormie, non éteinte."
+ },
+ "montagnes-et-volcans_montagne-pelee": {
+  "altitude": "1 397 m",
+  "massif": "Arc des Petites Antilles",
+  "pays": "France",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_nyiragongo": {
+  "altitude": "3 470 m",
+  "massif": "Monts Virunga",
+  "pays": "République démocratique du Congo",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_tambora": {
+  "altitude": "2 850 m",
+  "massif": "Arc de la Sonde",
+  "pays": "Indonésie",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_merapi": {
+  "altitude": "2 930 m",
+  "massif": "Arc de la Sonde",
+  "pays": "Indonésie",
+  "type": "Volcan actif",
+  "confiance": "tranchee",
+  "note": "2 930 m retenu : altitude approximative depuis l'éruption de 2010."
+ },
+ "montagnes-et-volcans_hekla": {
+  "altitude": "1 488 m",
+  "massif": "Islande",
+  "pays": "Islande",
+  "type": "Volcan actif",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_chimborazo-volcan": {
+  "altitude": "6 263 m",
+  "massif": "Andes",
+  "pays": "Équateur",
+  "type": "Volcan endormi",
+  "confiance": "tranchee",
+  "note": "Volcan endormi retenu : sans éruption depuis environ 1 500 ans, mais non tenu pour éteint."
+ },
+ "montagnes-et-volcans_huascaran": {
+  "altitude": "6 768 m",
+  "massif": "Andes",
+  "pays": "Pérou",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-roraima": {
+  "altitude": "2 810 m",
+  "massif": "Plateau des Guyanes",
+  "pays": "Venezuela · Brésil · Guyana",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-du-pain-de-sucre": {
+  "altitude": "396 m",
+  "massif": "Isolé",
+  "pays": "Brésil",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_el-capitan": {
+  "altitude": "2 307 m",
+  "massif": "Sierra Nevada",
+  "pays": "États-Unis",
+  "type": "Montagne",
+  "confiance": "tranchee",
+  "note": "Altitude du sommet (2 307 m) retenue ; la paroi de 900 m est une hauteur relative."
+ },
+ "montagnes-et-volcans_mont-damavand": {
+  "altitude": "5 610 m",
+  "massif": "Elbourz",
+  "pays": "Iran",
+  "type": "Volcan endormi",
+  "confiance": "tranchee",
+  "note": "5 610 m retenu : valeur la plus courante ; volcan endormi car dit semi-actif."
+ },
+ "montagnes-et-volcans_djebel-toubkal": {
+  "altitude": "4 167 m",
+  "massif": "Atlas",
+  "pays": "Maroc",
+  "type": "Montagne",
+  "confiance": "sure"
+ },
+ "montagnes-et-volcans_mont-kenya": {
+  "altitude": "5 199 m",
+  "massif": "Rift est-africain",
+  "pays": "Kenya",
+  "type": "Volcan éteint",
+  "confiance": "sure"
+ }
+}

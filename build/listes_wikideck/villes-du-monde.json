@@ -1,0 +1,496 @@
+{
+ "villes-du-monde_londres": {
+  "pays": "Royaume-Uni",
+  "repere": "Big Ben · Tower Bridge",
+  "confiance": "sure"
+ },
+ "villes-du-monde_new-york": {
+  "pays": "États-Unis",
+  "repere": "Big Apple · Statue de la Liberté",
+  "confiance": "sure"
+ },
+ "villes-du-monde_tokyo": {
+  "pays": "Japon",
+  "repere": "Carrefour de Shibuya · Tokyo Skytree",
+  "confiance": "sure"
+ },
+ "villes-du-monde_rome": {
+  "pays": "Italie",
+  "repere": "La Ville éternelle · Colisée",
+  "confiance": "sure"
+ },
+ "villes-du-monde_le-caire": {
+  "pays": "Égypte",
+  "repere": "La ville aux mille minarets · Citadelle de Saladin",
+  "confiance": "sure"
+ },
+ "villes-du-monde_istanbul": {
+  "pays": "Turquie",
+  "repere": "Sainte-Sophie · Mosquée Bleue",
+  "confiance": "sure"
+ },
+ "villes-du-monde_pekin": {
+  "pays": "Chine",
+  "repere": "Cité interdite · Place Tian'anmen",
+  "confiance": "sure"
+ },
+ "villes-du-monde_moscou": {
+  "pays": "Russie",
+  "repere": "Kremlin · Place Rouge",
+  "confiance": "sure"
+ },
+ "villes-du-monde_berlin": {
+  "pays": "Allemagne",
+  "repere": "Porte de Brandebourg · Mur de Berlin",
+  "confiance": "sure"
+ },
+ "villes-du-monde_venise": {
+  "pays": "Italie",
+  "repere": "La Sérénissime · Pont du Rialto",
+  "confiance": "sure"
+ },
+ "villes-du-monde_barcelone": {
+  "pays": "Espagne",
+  "repere": "Sagrada Família",
+  "confiance": "sure"
+ },
+ "villes-du-monde_athenes": {
+  "pays": "Grèce",
+  "repere": "Acropole · Parthénon",
+  "confiance": "sure"
+ },
+ "villes-du-monde_jerusalem": {
+  "pays": "Israël et Palestine (statut contesté)",
+  "repere": "Mur des Lamentations · Dôme du Rocher",
+  "confiance": "tranchee",
+  "note": "Pays formulé de façon neutre : Jérusalem-Est est revendiquée par la Palestine et l'annexion israélienne n'est pas reconnue par la plupart des États."
+ },
+ "villes-du-monde_bombay": {
+  "pays": "Inde",
+  "repere": "Porte de l'Inde · Bollywood",
+  "confiance": "sure"
+ },
+ "villes-du-monde_rio-de-janeiro": {
+  "pays": "Brésil",
+  "repere": "Cidade Maravilhosa · Christ Rédempteur",
+  "confiance": "sure"
+ },
+ "villes-du-monde_buenos-aires": {
+  "pays": "Argentine",
+  "repere": "Le Paris de l'Amérique du Sud · Obélisque",
+  "confiance": "sure"
+ },
+ "villes-du-monde_mexico": {
+  "pays": "Mexique",
+  "repere": "Zócalo · Palais des Beaux-Arts",
+  "confiance": "sure"
+ },
+ "villes-du-monde_marrakech": {
+  "pays": "Maroc",
+  "repere": "La Ville rouge · Place Jemaa el-Fna",
+  "confiance": "sure"
+ },
+ "villes-du-monde_le-cap": {
+  "pays": "Afrique du Sud",
+  "repere": "Montagne de la Table · Robben Island",
+  "confiance": "sure"
+ },
+ "villes-du-monde_sydney": {
+  "pays": "Australie",
+  "repere": "Opéra de Sydney · Harbour Bridge",
+  "confiance": "sure"
+ },
+ "villes-du-monde_san-francisco": {
+  "pays": "États-Unis",
+  "repere": "Golden Gate Bridge · Alcatraz",
+  "confiance": "sure"
+ },
+ "villes-du-monde_la-havane": {
+  "pays": "Cuba",
+  "repere": "Malecón · El Capitolio",
+  "confiance": "sure"
+ },
+ "villes-du-monde_saint-petersbourg": {
+  "pays": "Russie",
+  "repere": "Musée de l'Ermitage · Perspective Nevski",
+  "confiance": "sure"
+ },
+ "villes-du-monde_vienne-autriche": {
+  "pays": "Autriche",
+  "repere": "Château de Schönbrunn · Cathédrale Saint-Étienne",
+  "confiance": "sure"
+ },
+ "villes-du-monde_amsterdam": {
+  "pays": "Pays-Bas",
+  "repere": "Rijksmuseum · Maison d'Anne Frank",
+  "confiance": "sure"
+ },
+ "villes-du-monde_prague": {
+  "pays": "Tchéquie",
+  "repere": "Pont Charles · Horloge astronomique",
+  "confiance": "sure"
+ },
+ "villes-du-monde_lisbonne": {
+  "pays": "Portugal",
+  "repere": "Tour de Belém",
+  "confiance": "sure"
+ },
+ "villes-du-monde_dubai-ville": {
+  "pays": "Émirats arabes unis",
+  "repere": "Burj Khalifa · Palm Jumeirah",
+  "confiance": "sure"
+ },
+ "villes-du-monde_singapour": {
+  "pays": "Singapour",
+  "repere": "Marina Bay Sands · Merlion",
+  "confiance": "sure"
+ },
+ "villes-du-monde_bangkok": {
+  "pays": "Thaïlande",
+  "repere": "Grand Palais · Wat Arun",
+  "confiance": "sure"
+ },
+ "villes-du-monde_seoul": {
+  "pays": "Corée du Sud",
+  "repere": "Palais Gyeongbokgung · N Seoul Tower",
+  "confiance": "sure"
+ },
+ "villes-du-monde_shanghai": {
+  "pays": "Chine",
+  "repere": "Le Bund · Tour Perle de l'Orient",
+  "confiance": "sure"
+ },
+ "villes-du-monde_kyoto": {
+  "pays": "Japon",
+  "repere": "Pavillon d'or · Fushimi Inari-taisha",
+  "confiance": "sure"
+ },
+ "villes-du-monde_delhi": {
+  "pays": "Inde",
+  "repere": "Fort Rouge · Qutb Minar",
+  "confiance": "sure"
+ },
+ "villes-du-monde_katmandou": {
+  "pays": "Népal",
+  "repere": "Place Durbar · Stupa de Bodnath",
+  "confiance": "sure"
+ },
+ "villes-du-monde_tombouctou": {
+  "pays": "Mali",
+  "repere": "La cité des 333 saints · Mosquée de Djingareyber",
+  "confiance": "sure"
+ },
+ "villes-du-monde_lagos": {
+  "pays": "Nigeria",
+  "repere": "Ancienne capitale du Nigeria · Nollywood",
+  "confiance": "tranchee",
+  "note": "Faute de monument canonique, retenu le statut d'ancienne capitale (jusqu'en 1991) et Nollywood, centré sur Lagos ; Eko Atlantic, chantier peu connu, écarté."
+ },
+ "villes-du-monde_nairobi": {
+  "pays": "Kenya",
+  "repere": "La ville verte au soleil · Parc national de Nairobi",
+  "confiance": "sure"
+ },
+ "villes-du-monde_addis-abeba": {
+  "pays": "Éthiopie",
+  "repere": "Siège de l'Union africaine",
+  "confiance": "sure"
+ },
+ "villes-du-monde_damas": {
+  "pays": "Syrie",
+  "repere": "Mosquée des Omeyyades",
+  "confiance": "sure"
+ },
+ "villes-du-monde_bagdad": {
+  "pays": "Irak",
+  "repere": "Capitale des Abbassides · Ville des Mille et Une Nuits",
+  "confiance": "tranchee",
+  "note": "Remplacé la Cité ronde disparue par deux repères attendus en quiz et toujours vrais : capitale abbasside et cadre des Mille et Une Nuits."
+ },
+ "villes-du-monde_samarcande": {
+  "pays": "Ouzbékistan",
+  "repere": "Place du Registan",
+  "confiance": "sure"
+ },
+ "villes-du-monde_ispahan": {
+  "pays": "Iran",
+  "repere": "La moitié du monde · Place Naqsh-e Jahan",
+  "confiance": "sure"
+ },
+ "villes-du-monde_cuzco": {
+  "pays": "Pérou",
+  "repere": "Capitale de l'Empire inca · Sacsayhuamán",
+  "confiance": "sure"
+ },
+ "villes-du-monde_vancouver": {
+  "pays": "Canada",
+  "repere": "Stanley Park",
+  "confiance": "sure"
+ },
+ "villes-du-monde_chicago": {
+  "pays": "États-Unis",
+  "repere": "The Windy City · Willis Tower",
+  "confiance": "sure"
+ },
+ "villes-du-monde_la-nouvelle-orleans": {
+  "pays": "États-Unis",
+  "repere": "The Big Easy · Quartier français",
+  "confiance": "sure"
+ },
+ "villes-du-monde_reykjavik": {
+  "pays": "Islande",
+  "repere": "Hallgrímskirkja",
+  "confiance": "sure"
+ },
+ "villes-du-monde_oslo": {
+  "pays": "Norvège",
+  "repere": "Opéra d'Oslo · Parc Vigeland",
+  "confiance": "sure"
+ },
+ "villes-du-monde_paris": {
+  "pays": "France",
+  "repere": "La Ville lumière · Tour Eiffel",
+  "confiance": "sure"
+ },
+ "villes-du-monde_los-angeles": {
+  "pays": "États-Unis",
+  "repere": "La Cité des anges · Hollywood",
+  "confiance": "sure"
+ },
+ "villes-du-monde_washington-district-de-columbia": {
+  "pays": "États-Unis",
+  "repere": "Maison-Blanche · Capitole",
+  "confiance": "sure"
+ },
+ "villes-du-monde_boston": {
+  "pays": "États-Unis",
+  "repere": "Beantown · Freedom Trail",
+  "confiance": "sure"
+ },
+ "villes-du-monde_montreal": {
+  "pays": "Canada",
+  "repere": "Mont Royal · Basilique Notre-Dame",
+  "confiance": "sure"
+ },
+ "villes-du-monde_quebec-ville": {
+  "pays": "Canada",
+  "repere": "La Vieille Capitale · Château Frontenac",
+  "confiance": "sure"
+ },
+ "villes-du-monde_toronto": {
+  "pays": "Canada",
+  "repere": "Tour CN",
+  "confiance": "sure"
+ },
+ "villes-du-monde_sao-paulo": {
+  "pays": "Brésil",
+  "repere": "Avenida Paulista",
+  "confiance": "sure"
+ },
+ "villes-du-monde_brasilia": {
+  "pays": "Brésil",
+  "repere": "Congrès national · Cathédrale de Brasilia",
+  "confiance": "sure"
+ },
+ "villes-du-monde_lima": {
+  "pays": "Pérou",
+  "repere": "La Cité des Rois · Plaza Mayor",
+  "confiance": "sure"
+ },
+ "villes-du-monde_bogota": {
+  "pays": "Colombie",
+  "repere": "L'Athènes de l'Amérique du Sud · Musée de l'Or",
+  "confiance": "sure"
+ },
+ "villes-du-monde_madrid": {
+  "pays": "Espagne",
+  "repere": "Musée du Prado · Puerta del Sol",
+  "confiance": "sure"
+ },
+ "villes-du-monde_seville": {
+  "pays": "Espagne",
+  "repere": "Giralda · Alcázar",
+  "confiance": "sure"
+ },
+ "villes-du-monde_florence": {
+  "pays": "Italie",
+  "repere": "Berceau de la Renaissance · Ponte Vecchio",
+  "confiance": "sure"
+ },
+ "villes-du-monde_milan": {
+  "pays": "Italie",
+  "repere": "Duomo · La Scala",
+  "confiance": "sure"
+ },
+ "villes-du-monde_naples": {
+  "pays": "Italie",
+  "repere": "Vésuve · Berceau de la pizza",
+  "confiance": "tranchee",
+  "note": "Le Vésuve est gardé : c'est le repère attendu, même s'il se trouve juste hors de la commune."
+ },
+ "villes-du-monde_bruxelles": {
+  "pays": "Belgique",
+  "repere": "Manneken-Pis · Atomium",
+  "confiance": "sure"
+ },
+ "villes-du-monde_edimbourg": {
+  "pays": "Royaume-Uni",
+  "repere": "L'Athènes du Nord · Château d'Édimbourg",
+  "confiance": "sure"
+ },
+ "villes-du-monde_dublin": {
+  "pays": "Irlande",
+  "repere": "Trinity College · Temple Bar",
+  "confiance": "sure"
+ },
+ "villes-du-monde_copenhague": {
+  "pays": "Danemark",
+  "repere": "La Petite Sirène · Nyhavn",
+  "confiance": "sure"
+ },
+ "villes-du-monde_stockholm": {
+  "pays": "Suède",
+  "repere": "Gamla stan · Musée Vasa",
+  "confiance": "sure"
+ },
+ "villes-du-monde_varsovie": {
+  "pays": "Pologne",
+  "repere": "Palais de la Culture et de la Science · Vieille ville",
+  "confiance": "sure"
+ },
+ "villes-du-monde_cracovie": {
+  "pays": "Pologne",
+  "repere": "Château du Wawel · Rynek Główny",
+  "confiance": "sure"
+ },
+ "villes-du-monde_budapest": {
+  "pays": "Hongrie",
+  "repere": "La Perle du Danube · Parlement",
+  "confiance": "sure"
+ },
+ "villes-du-monde_kiev": {
+  "pays": "Ukraine",
+  "repere": "Laure des Grottes · Cathédrale Sainte-Sophie",
+  "confiance": "sure"
+ },
+ "villes-du-monde_marseille": {
+  "pays": "France",
+  "repere": "La Cité phocéenne · Notre-Dame-de-la-Garde",
+  "confiance": "sure"
+ },
+ "villes-du-monde_lyon": {
+  "pays": "France",
+  "repere": "Capitale des Gaules · Basilique de Fourvière",
+  "confiance": "sure"
+ },
+ "villes-du-monde_strasbourg": {
+  "pays": "France",
+  "repere": "Cathédrale Notre-Dame · Parlement européen",
+  "confiance": "sure"
+ },
+ "villes-du-monde_bordeaux": {
+  "pays": "France",
+  "repere": "Port de la Lune · Place de la Bourse",
+  "confiance": "sure"
+ },
+ "villes-du-monde_alexandrie": {
+  "pays": "Égypte",
+  "repere": "Phare d'Alexandrie · Bibliotheca Alexandrina",
+  "confiance": "sure"
+ },
+ "villes-du-monde_fes": {
+  "pays": "Maroc",
+  "repere": "Médina de Fès el-Bali · Université Al Quaraouiyine",
+  "confiance": "sure"
+ },
+ "villes-du-monde_alger": {
+  "pays": "Algérie",
+  "repere": "Alger la Blanche · Casbah",
+  "confiance": "sure"
+ },
+ "villes-du-monde_tunis": {
+  "pays": "Tunisie",
+  "repere": "Médina de Tunis · Mosquée Zitouna",
+  "confiance": "sure"
+ },
+ "villes-du-monde_dakar": {
+  "pays": "Sénégal",
+  "repere": "Monument de la Renaissance africaine · Île de Gorée",
+  "confiance": "sure"
+ },
+ "villes-du-monde_kinshasa": {
+  "pays": "République démocratique du Congo",
+  "repere": "Kin la Belle",
+  "confiance": "sure"
+ },
+ "villes-du-monde_johannesbourg": {
+  "pays": "Afrique du Sud",
+  "repere": "Egoli (la cité de l'or) · Soweto",
+  "confiance": "sure"
+ },
+ "villes-du-monde_la-mecque": {
+  "pays": "Arabie saoudite",
+  "repere": "Kaaba · Masjid al-Haram",
+  "confiance": "sure"
+ },
+ "villes-du-monde_teheran": {
+  "pays": "Iran",
+  "repere": "Tour Azadi · Tour Milad",
+  "confiance": "sure"
+ },
+ "villes-du-monde_benares": {
+  "pays": "Inde",
+  "repere": "La Ville sainte · Ghâts du Gange",
+  "confiance": "sure"
+ },
+ "villes-du-monde_calcutta": {
+  "pays": "Inde",
+  "repere": "La Cité de la joie · Victoria Memorial",
+  "confiance": "sure"
+ },
+ "villes-du-monde_jaipur": {
+  "pays": "Inde",
+  "repere": "La Ville rose · Hawa Mahal",
+  "confiance": "sure"
+ },
+ "villes-du-monde_hanoi": {
+  "pays": "Viêt Nam",
+  "repere": "Lac Hoan Kiem · Mausolée de Hô Chi Minh",
+  "confiance": "sure"
+ },
+ "villes-du-monde_jakarta": {
+  "pays": "Indonésie",
+  "repere": "Monas (Monument national)",
+  "confiance": "sure"
+ },
+ "villes-du-monde_hong-kong": {
+  "pays": "Chine",
+  "repere": "Le Port parfumé · Victoria Peak",
+  "confiance": "sure"
+ },
+ "villes-du-monde_osaka": {
+  "pays": "Japon",
+  "repere": "Château d'Osaka",
+  "confiance": "sure"
+ },
+ "villes-du-monde_lhassa": {
+  "pays": "Chine",
+  "repere": "Palais du Potala",
+  "confiance": "sure"
+ },
+ "villes-du-monde_melbourne": {
+  "pays": "Australie",
+  "repere": "Royal Exhibition Building · Federation Square",
+  "confiance": "sure"
+ },
+ "villes-du-monde_honolulu": {
+  "pays": "États-Unis",
+  "repere": "Plage de Waikiki · Pearl Harbor",
+  "confiance": "sure"
+ },
+ "villes-du-monde_toulouse": {
+  "pays": "France",
+  "repere": "La Ville rose · Capitole",
+  "confiance": "sure"
+ }
+}

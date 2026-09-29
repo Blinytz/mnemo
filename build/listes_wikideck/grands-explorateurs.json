@@ -1,0 +1,435 @@
+{
+ "grands-explorateurs_christophe-colomb": {
+  "nationalite": "Génois (au service de l'Espagne)",
+  "date": "1492",
+  "exploration": "Découverte de l'Amérique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_vasco-de-gama": {
+  "nationalite": "Portugais",
+  "date": "1497-1499",
+  "exploration": "Première route maritime vers l'Inde par le cap de Bonne-Espérance",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_fernand-de-magellan": {
+  "nationalite": "Portugais (au service de l'Espagne)",
+  "date": "1519-1522",
+  "exploration": "Premier tour du monde (achevé par Elcano après sa mort)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_marco-polo": {
+  "nationalite": "Vénitien",
+  "date": "1271-1295",
+  "exploration": "Voyage en Chine à la cour de Kubilai Khan",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_james-cook": {
+  "nationalite": "Britannique",
+  "date": "1768-1779",
+  "exploration": "Exploration du Pacifique (Nouvelle-Zélande, est de l'Australie, Hawaï)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_amerigo-vespucci": {
+  "nationalite": "Florentin (au service de l'Espagne puis du Portugal)",
+  "date": "1499-1502",
+  "exploration": "A donné son nom à l'Amérique",
+  "confiance": "tranchee",
+  "note": "Retenu 1499-1502, les deux voyages attestés ; le voyage de 1497 est jugé apocryphe."
+ },
+ "grands-explorateurs_jacques-cartier": {
+  "nationalite": "Français",
+  "date": "1534",
+  "exploration": "Exploration du golfe et du fleuve Saint-Laurent (Canada)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_samuel-de-champlain": {
+  "nationalite": "Français",
+  "date": "1608",
+  "exploration": "Fondation de Québec",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_hernan-cortes": {
+  "nationalite": "Espagnol",
+  "date": "1519-1521",
+  "exploration": "Conquête de l'Empire aztèque",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_francisco-pizarro": {
+  "nationalite": "Espagnol",
+  "date": "1532-1533",
+  "exploration": "Conquête de l'Empire inca",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_vasco-nunez-de-balboa": {
+  "nationalite": "Espagnol",
+  "date": "1513",
+  "exploration": "Premier Européen à voir l'océan Pacifique depuis l'Amérique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_juan-ponce-de-leon": {
+  "nationalite": "Espagnol",
+  "date": "1513",
+  "exploration": "Découverte de la Floride",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_zheng-he": {
+  "nationalite": "Chinois",
+  "date": "1405-1433",
+  "exploration": "Sept expéditions maritimes des Ming jusqu'en Afrique de l'Est",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_ibn-battuta": {
+  "nationalite": "Marocain",
+  "date": "1325-1354",
+  "exploration": "Voyages à travers le monde musulman jusqu'en Chine",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_david-livingstone": {
+  "nationalite": "Écossais",
+  "date": "1855",
+  "exploration": "Découverte des chutes Victoria sur le Zambèze",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_henry-morton-stanley": {
+  "nationalite": "Gallois (naturalisé américain)",
+  "date": "1871",
+  "exploration": "Retrouve Livingstone à Ujiji",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_meriwether-lewis": {
+  "nationalite": "Américain",
+  "date": "1804-1806",
+  "exploration": "Expédition Lewis et Clark jusqu'au Pacifique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_william-clark": {
+  "nationalite": "Américain",
+  "date": "1804-1806",
+  "exploration": "Expédition Lewis et Clark jusqu'au Pacifique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_alexander-von-humboldt": {
+  "nationalite": "Prussien",
+  "date": "1799-1804",
+  "exploration": "Exploration scientifique de l'Amérique tropicale",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_francis-drake": {
+  "nationalite": "Anglais",
+  "date": "1577-1580",
+  "exploration": "Deuxième tour du monde, premier achevé par son capitaine",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_willem-barentsz": {
+  "nationalite": "Néerlandais",
+  "date": "1594-1597",
+  "exploration": "Recherche du passage du Nord-Est, hivernage en Nouvelle-Zemble",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_henry-hudson": {
+  "nationalite": "Anglais",
+  "date": "1609-1611",
+  "exploration": "Exploration du fleuve et de la baie d'Hudson",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_jean-cabot": {
+  "nationalite": "Vénitien (au service de l'Angleterre)",
+  "date": "1497",
+  "exploration": "Atteint Terre-Neuve",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_bartolomeu-dias": {
+  "nationalite": "Portugais",
+  "date": "1487-1488",
+  "exploration": "Premier à franchir le cap de Bonne-Espérance",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_pedro-alvares-cabral": {
+  "nationalite": "Portugais",
+  "date": "1500",
+  "exploration": "Découverte du Brésil",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_jean-francois-de-la-perouse": {
+  "nationalite": "Français",
+  "date": "1785-1788",
+  "exploration": "Expédition autour du monde disparue à Vanikoro",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_vitus-bering": {
+  "nationalite": "Danois (au service de la Russie)",
+  "date": "1728-1741",
+  "exploration": "Exploration du détroit entre l'Asie et l'Amérique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_sacagawea": {
+  "nationalite": "Amérindienne (Shoshone)",
+  "date": "1804-1806",
+  "exploration": "Guide et interprète de l'expédition Lewis et Clark",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_mungo-park": {
+  "nationalite": "Écossais",
+  "date": "1795-1797",
+  "exploration": "Exploration du fleuve Niger",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_richard-francis-burton": {
+  "nationalite": "Britannique",
+  "date": "1857-1858",
+  "exploration": "Découverte du lac Tanganyika (avec Speke)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_john-hanning-speke": {
+  "nationalite": "Britannique",
+  "date": "1858",
+  "exploration": "Découverte du lac Victoria, source du Nil",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_james-bruce-explorateur": {
+  "nationalite": "Écossais",
+  "date": "1770",
+  "exploration": "Atteint la source du Nil Bleu en Éthiopie",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_gertrude-bell": {
+  "nationalite": "Britannique",
+  "date": "1913-1914",
+  "exploration": "Traversée du désert d'Arabie jusqu'à Haïl",
+  "confiance": "tranchee",
+  "note": "Retenu le voyage à Haïl (1913-1914), sa grande exploration ; son rôle en Irak est politique, pas exploratoire."
+ },
+ "grands-explorateurs_freya-stark": {
+  "nationalite": "Britannique",
+  "date": "1930-1935",
+  "exploration": "Exploration de la vallée des Assassins (Perse) et de l'Hadramaout (Arabie)",
+  "confiance": "tranchee",
+  "note": "Retenu 1930-1935 : vallée des Assassins (1930-1932) puis Hadramaout (1935), ses deux voyages fondateurs."
+ },
+ "grands-explorateurs_nellie-bly": {
+  "nationalite": "Américaine",
+  "date": "1889-1890",
+  "exploration": "Tour du monde en 72 jours",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_ida-pfeiffer": {
+  "nationalite": "Autrichienne",
+  "date": "1846-1855",
+  "exploration": "Deux tours du monde en voyageant seule",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_xuanzang": {
+  "nationalite": "Chinois",
+  "date": "629-645",
+  "exploration": "Pèlerinage en Inde à la recherche des textes bouddhiques",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_leif-erikson": {
+  "nationalite": "Islandais",
+  "date": "Vers 1000",
+  "exploration": "Premier Européen en Amérique (Vinland)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_pytheas": {
+  "nationalite": "Grec de Marseille",
+  "date": "Vers 325 av. J.-C.",
+  "exploration": "Voyage vers les mers du Nord et l'île de Thulé",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_hannon-le-navigateur": {
+  "nationalite": "Carthaginois",
+  "date": "Vers 500 av. J.-C.",
+  "exploration": "Exploration de la côte atlantique de l'Afrique",
+  "confiance": "tranchee",
+  "note": "Retenu « vers 500 av. J.-C. », datation usuelle du Périple d'Hannon."
+ },
+ "grands-explorateurs_erik-le-rouge": {
+  "nationalite": "Norvégien (installé en Islande)",
+  "date": "Vers 982-985",
+  "exploration": "Découverte et colonisation du Groenland",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_ibn-fadlan": {
+  "nationalite": "Arabe (de Bagdad)",
+  "date": "921-922",
+  "exploration": "Ambassade chez les Bulgares de la Volga, récit sur les Rus",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_juan-sebastian-elcano": {
+  "nationalite": "Espagnol (Basque)",
+  "date": "1519-1522",
+  "exploration": "Achève le premier tour du monde",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_giovanni-da-verrazzano": {
+  "nationalite": "Florentin (au service de la France)",
+  "date": "1524",
+  "exploration": "Exploration de la côte atlantique nord-américaine et de la baie de New York",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_diogo-cao": {
+  "nationalite": "Portugais",
+  "date": "1482-1486",
+  "exploration": "Découverte de l'embouchure du Congo",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_francisco-de-orellana": {
+  "nationalite": "Espagnol",
+  "date": "1541-1542",
+  "exploration": "Première descente de l'Amazone",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_alvar-nunez-cabeza-de-vaca": {
+  "nationalite": "Espagnol",
+  "date": "1528-1536",
+  "exploration": "Traversée à pied du sud de l'Amérique du Nord après un naufrage",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_abel-tasman": {
+  "nationalite": "Néerlandais",
+  "date": "1642-1643",
+  "exploration": "Découverte de la Tasmanie et de la Nouvelle-Zélande",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_willem-janszoon": {
+  "nationalite": "Néerlandais",
+  "date": "1606",
+  "exploration": "Premier Européen à voir l'Australie",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_louis-antoine-de-bougainville": {
+  "nationalite": "Français",
+  "date": "1766-1769",
+  "exploration": "Premier tour du monde français",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_jeanne-barret": {
+  "nationalite": "Française",
+  "date": "1766-1769",
+  "exploration": "Première femme à faire le tour du monde",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_jules-dumont-d-urville": {
+  "nationalite": "Français",
+  "date": "1840",
+  "exploration": "Découverte de la terre Adélie en Antarctique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_rene-caillie": {
+  "nationalite": "Français",
+  "date": "1828",
+  "exploration": "Premier Européen revenu vivant de Tombouctou",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_heinrich-barth": {
+  "nationalite": "Allemand (expédition britannique)",
+  "date": "1850-1855",
+  "exploration": "Exploration du Sahara et de l'Afrique de l'Ouest jusqu'à Tombouctou",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_pierre-savorgnan-de-brazza": {
+  "nationalite": "Italien naturalisé français",
+  "date": "1875-1880",
+  "exploration": "Exploration de l'Ogooué et du Congo, fondation de Brazzaville",
+  "confiance": "tranchee",
+  "note": "Retenu 1875-1880 : Ogooué puis poste fondé en 1880, qui deviendra Brazzaville."
+ },
+ "grands-explorateurs_alexandra-david-neel": {
+  "nationalite": "Française",
+  "date": "1924",
+  "exploration": "Première Européenne à entrer à Lhassa",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_isabelle-eberhardt": {
+  "nationalite": "Suisse (naturalisée française)",
+  "date": "1897-1904",
+  "exploration": "Voyages dans le Sahara algérien",
+  "confiance": "tranchee",
+  "note": "Retenu 1897-1904, de son arrivée en Algérie à sa mort à Aïn Sefra."
+ },
+ "grands-explorateurs_ella-maillart": {
+  "nationalite": "Suisse",
+  "date": "1935",
+  "exploration": "Traversée de la Chine jusqu'en Inde avec Peter Fleming",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_percy-fawcett": {
+  "nationalite": "Britannique",
+  "date": "1925",
+  "exploration": "Disparition en Amazonie en cherchant la cité perdue de Z",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_hiram-bingham-iii": {
+  "nationalite": "Américain",
+  "date": "1911",
+  "exploration": "Découverte du Machu Picchu",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_howard-carter": {
+  "nationalite": "Britannique",
+  "date": "1922",
+  "exploration": "Découverte du tombeau de Toutânkhamon",
+  "confiance": "sure",
+  "note": "Archéologue et égyptologue plutôt qu'explorateur au sens strict."
+ },
+ "grands-explorateurs_rene-robert-cavelier-de-la-salle": {
+  "nationalite": "Français",
+  "date": "1682",
+  "exploration": "Descente du Mississippi jusqu'au golfe du Mexique, prise de possession de la Louisiane",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_hernando-de-soto-conquistador": {
+  "nationalite": "Espagnol",
+  "date": "1539-1542",
+  "exploration": "Exploration du sud-est des États-Unis, découverte du Mississippi",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_francisco-vasquez-de-coronado": {
+  "nationalite": "Espagnol",
+  "date": "1540-1542",
+  "exploration": "Recherche des sept cités de Cibola dans le sud-ouest des États-Unis",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_jacques-marquette": {
+  "nationalite": "Français",
+  "date": "1673",
+  "exploration": "Exploration du Mississippi avec Louis Jolliet",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_louis-jolliet": {
+  "nationalite": "Canadien (Nouvelle-France)",
+  "date": "1673",
+  "exploration": "Exploration du Mississippi avec Jacques Marquette",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_alexander-mackenzie-explorateur": {
+  "nationalite": "Écossais",
+  "date": "1793",
+  "exploration": "Première traversée de l'Amérique du Nord jusqu'au Pacifique",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_nikolai-prjevalski": {
+  "nationalite": "Russe",
+  "date": "1870-1885",
+  "exploration": "Exploration de l'Asie centrale (cheval de Przewalski)",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_sven-hedin": {
+  "nationalite": "Suédois",
+  "date": "1893-1908",
+  "exploration": "Exploration de l'Asie centrale et du Tibet",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_adolf-erik-nordenskiold": {
+  "nationalite": "Finlandais (naturalisé suédois)",
+  "date": "1878-1880",
+  "exploration": "Premier franchissement du passage du Nord-Est",
+  "confiance": "sure"
+ },
+ "grands-explorateurs_mary-kingsley": {
+  "nationalite": "Britannique",
+  "date": "1893-1895",
+  "exploration": "Exploration de l'Afrique de l'Ouest (Gabon)",
+  "confiance": "sure"
+ }
+}

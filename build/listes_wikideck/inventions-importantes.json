@@ -1,0 +1,1084 @@
+{
+ "inventions-importantes_roue": {
+  "inventeur": "Inconnu",
+  "date": "vers 3500 av. J.-C.",
+  "pays": "Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Foyer mésopotamien retenu, réponse usuelle des quiz, malgré des indices contemporains en Europe centrale."
+ },
+ "inventions-importantes_ecriture": {
+  "inventeur": "Sumériens",
+  "date": "vers 3300 av. J.-C.",
+  "pays": "Mésopotamie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_agriculture": {
+  "inventeur": "Inconnu",
+  "date": "vers 9000 av. J.-C.",
+  "pays": "Croissant fertile",
+  "confiance": "tranchee",
+  "note": "Croissant fertile et IXe millénaire retenus, foyer le plus ancien et le plus cité parmi plusieurs foyers indépendants."
+ },
+ "inventions-importantes_boussole": {
+  "inventeur": "Chinois",
+  "date": "XIe siècle",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_poudre-noire": {
+  "inventeur": "Chinois",
+  "date": "IXe siècle",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_papier": {
+  "inventeur": "Cai Lun (disputé)",
+  "date": "105",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_imprimerie": {
+  "inventeur": "Gutenberg",
+  "date": "vers 1450",
+  "pays": "Allemagne",
+  "confiance": "sure"
+ },
+ "inventions-importantes_lunette-astronomique": {
+  "inventeur": "Galilée (disputé)",
+  "date": "1609",
+  "pays": "Italie",
+  "confiance": "tranchee",
+  "note": "Galilée retenu car c'est lui qu'on attend pour la lunette astronomique ; Lipperhey (1608) reste la lunette d'approche."
+ },
+ "inventions-importantes_microscope": {
+  "inventeur": "Zacharias Janssen (disputé)",
+  "date": "vers 1590",
+  "pays": "Pays-Bas",
+  "confiance": "tranchee",
+  "note": "Janssen retenu, attribution la plus courante malgré des témoignages tardifs ; Van Leeuwenhoek le perfectionne ensuite."
+ },
+ "inventions-importantes_machine-a-vapeur": {
+  "inventeur": "James Watt (disputé)",
+  "date": "1769",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Watt retenu, réponse la plus attendue ; Papin et Newcomen le précèdent, d'où le « disputé »."
+ },
+ "inventions-importantes_paratonnerre": {
+  "inventeur": "Benjamin Franklin",
+  "date": "1752",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_pile-electrique": {
+  "inventeur": "Alessandro Volta",
+  "date": "1800",
+  "pays": "Italie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_telegraphie-electrique": {
+  "inventeur": "Samuel Morse (disputé)",
+  "date": "1837",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Morse et 1837 (brevet) retenus ; Cooke et Wheatstone brevettent la même année en Angleterre."
+ },
+ "inventions-importantes_photographie": {
+  "inventeur": "Nicéphore Niépce",
+  "date": "1826",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Niépce et 1826, date usuelle du Point de vue du Gras ; Daguerre ne rend un procédé public qu'en 1839."
+ },
+ "inventions-importantes_telephone": {
+  "inventeur": "Graham Bell (disputé)",
+  "date": "1876",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_lampe-a-incandescence": {
+  "inventeur": "Thomas Edison (disputé)",
+  "date": "1879",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_phonographe": {
+  "inventeur": "Thomas Edison",
+  "date": "1877",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_dynamo": {
+  "inventeur": "Zénobe Gramme (disputé)",
+  "date": "1869",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Gramme retenu, réponse usuelle ; machine mise au point à Paris en 1869, d'où la France comme pays."
+ },
+ "inventions-importantes_automobile": {
+  "inventeur": "Karl Benz",
+  "date": "1886",
+  "pays": "Allemagne",
+  "confiance": "sure"
+ },
+ "inventions-importantes_moteur-a-combustion-interne": {
+  "inventeur": "Étienne Lenoir (disputé)",
+  "date": "1860",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Lenoir (1860) retenu comme premier moteur à combustion interne fonctionnel ; Otto (1876) pour le quatre temps."
+ },
+ "inventions-importantes_pneumatique-vehicule": {
+  "inventeur": "John Boyd Dunlop (disputé)",
+  "date": "1888",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_velo": {
+  "inventeur": "Karl Drais (disputé)",
+  "date": "1817",
+  "pays": "Allemagne",
+  "confiance": "tranchee",
+  "note": "Drais et sa draisienne (1817) retenus comme ancêtre usuel de la bicyclette ; pédales et chaîne viennent plus tard."
+ },
+ "inventions-importantes_avion": {
+  "inventeur": "Frères Wright (disputé)",
+  "date": "1903",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_radiocommunication": {
+  "inventeur": "Guglielmo Marconi (disputé)",
+  "date": "1895",
+  "pays": "Italie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_cinema": {
+  "inventeur": "Frères Lumière",
+  "date": "1895",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_television": {
+  "inventeur": "John Logie Baird (disputé)",
+  "date": "1926",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_refrigerateur": {
+  "inventeur": "Carl von Linde (disputé)",
+  "date": "1876",
+  "pays": "Allemagne",
+  "confiance": "tranchee",
+  "note": "Linde retenu pour la machine frigorifique à compression de 1876 ; Perkins et Carré le précèdent."
+ },
+ "inventions-importantes_lave-linge": {
+  "inventeur": "Alva J. Fisher (disputé)",
+  "date": "1908",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Fisher retenu pour le premier lave-linge électrique (1908), attribution usuelle mais contestée."
+ },
+ "inventions-importantes_aspirateur": {
+  "inventeur": "Hubert Cecil Booth",
+  "date": "1901",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_radar": {
+  "inventeur": "Robert Watson-Watt (disputé)",
+  "date": "1935",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_laser": {
+  "inventeur": "Theodore Maiman",
+  "date": "1960",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_transistor": {
+  "inventeur": "Bardeen, Brattain et Shockley",
+  "date": "1947",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_circuit-integre": {
+  "inventeur": "Jack Kilby",
+  "date": "1958",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ordinateur-personnel": {
+  "inventeur": "François Gernelle (disputé)",
+  "date": "1973",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Micral N de Gernelle (1973) retenu, premier micro-ordinateur reconnu ; Altair et Apple viennent après."
+ },
+ "inventions-importantes_internet": {
+  "inventeur": "Vint Cerf et Bob Kahn",
+  "date": "1974",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Cerf et Kahn retenus, dits pères d'Internet, avec la date de TCP/IP (1974) ; ARPANET date de 1969."
+ },
+ "inventions-importantes_world-wide-web": {
+  "inventeur": "Tim Berners-Lee",
+  "date": "1989",
+  "pays": "Suisse",
+  "confiance": "sure"
+ },
+ "inventions-importantes_smartphone": {
+  "inventeur": "IBM",
+  "date": "1994",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "IBM Simon (1994) retenu comme premier smartphone ; l'iPhone (2007) n'en est pas l'invention."
+ },
+ "inventions-importantes_global-positioning-system": {
+  "inventeur": "Département de la Défense des États-Unis",
+  "date": "1973",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Programme du Département de la Défense lancé en 1973 retenu comme date d'invention du GPS."
+ },
+ "inventions-importantes_vaccin": {
+  "inventeur": "Edward Jenner",
+  "date": "1796",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_penicilline": {
+  "inventeur": "Alexander Fleming",
+  "date": "1928",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_anesthesie": {
+  "inventeur": "William Morton (disputé)",
+  "date": "1846",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_radiographie": {
+  "inventeur": "Wilhelm Röntgen",
+  "date": "1895",
+  "pays": "Allemagne",
+  "confiance": "sure"
+ },
+ "inventions-importantes_imagerie-par-resonance-magnetique": {
+  "inventeur": "Lauterbur et Mansfield (disputé)",
+  "date": "1973",
+  "pays": "États-Unis · Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Lauterbur et Mansfield, Nobel 2003, retenus avec 1973 ; Damadian conteste."
+ },
+ "inventions-importantes_stimulateur-cardiaque": {
+  "inventeur": "Rune Elmqvist et Åke Senning",
+  "date": "1958",
+  "pays": "Suède",
+  "confiance": "tranchee",
+  "note": "Premier stimulateur implanté (Suède, 1958) retenu ; Greatbatch et Hopps sont d'autres jalons."
+ },
+ "inventions-importantes_carte-a-puce": {
+  "inventeur": "Roland Moreno (disputé)",
+  "date": "1974",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_code-barres": {
+  "inventeur": "Woodland et Silver",
+  "date": "1952",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Woodland et Silver retenus avec la date de délivrance du brevet (1952)."
+ },
+ "inventions-importantes_fermeture-eclair": {
+  "inventeur": "Gideon Sundback (disputé)",
+  "date": "1913",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Sundback et sa version moderne de 1913 retenus ; Judson (1893) en est le précurseur."
+ },
+ "inventions-importantes_velcro": {
+  "inventeur": "George de Mestral",
+  "date": "1951",
+  "pays": "Suisse",
+  "confiance": "tranchee",
+  "note": "De Mestral et le dépôt de brevet de 1951 retenus pour l'invention, la carte décrivant l'entreprise."
+ },
+ "inventions-importantes_stylo-a-bille": {
+  "inventeur": "László Biró",
+  "date": "1938",
+  "pays": "Hongrie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_machine-a-ecrire": {
+  "inventeur": "Christopher Latham Sholes (disputé)",
+  "date": "1868",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_calculatrice": {
+  "inventeur": "Blaise Pascal (disputé)",
+  "date": "1642",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_four-a-micro-ondes": {
+  "inventeur": "Percy Spencer",
+  "date": "1945",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_climatisation": {
+  "inventeur": "Willis Carrier",
+  "date": "1902",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ascenseur": {
+  "inventeur": "Elisha Otis",
+  "date": "1852",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Otis et l'ascenseur de sécurité (1852) retenus ; la démonstration publique date de 1854."
+ },
+ "inventions-importantes_beton-arme": {
+  "inventeur": "Joseph Monier (disputé)",
+  "date": "1867",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_gratte-ciel": {
+  "inventeur": "William Le Baron Jenney",
+  "date": "1885",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_pont-suspendu": {
+  "inventeur": "James Finley (disputé)",
+  "date": "1801",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Finley retenu pour le premier pont suspendu moderne (1801) ; les ponts de cordes sont antiques."
+ },
+ "inventions-importantes_fusee-astronautique": {
+  "inventeur": "Robert Goddard (disputé)",
+  "date": "1926",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Goddard et la première fusée à ergols liquides (1926) retenus pour la fusée astronautique."
+ },
+ "inventions-importantes_satellite-artificiel": {
+  "inventeur": "Sergueï Korolev",
+  "date": "1957",
+  "pays": "URSS",
+  "confiance": "sure"
+ },
+ "inventions-importantes_navette-spatiale": {
+  "inventeur": "NASA",
+  "date": "1981",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_turbine": {
+  "inventeur": "Benoît Fourneyron (disputé)",
+  "date": "1827",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Fourneyron et sa turbine hydraulique (1827) retenus ; Parsons (vapeur, 1884) est l'autre réponse fréquente."
+ },
+ "inventions-importantes_capteur-solaire-photovoltaique": {
+  "inventeur": "Chapin, Fuller et Pearson",
+  "date": "1954",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_eolienne": {
+  "inventeur": "James Blyth (disputé)",
+  "date": "1887",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Blyth (1887) retenu pour la première éolienne électrique ; Brush et la Cour suivent de près."
+ },
+ "inventions-importantes_accumulateur-lithium-ion": {
+  "inventeur": "Akira Yoshino (disputé)",
+  "date": "1985",
+  "pays": "Japon",
+  "confiance": "tranchee",
+  "note": "Yoshino et son prototype de 1985 retenus ; le Nobel 2019 est partagé avec Goodenough et Whittingham."
+ },
+ "inventions-importantes_intelligence-artificielle": {
+  "inventeur": "John McCarthy (disputé)",
+  "date": "1956",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "McCarthy et Dartmouth (1956), naissance officielle du terme, retenus ; Turing est l'autre réponse."
+ },
+ "inventions-importantes_impression-3d": {
+  "inventeur": "Charles Hull (disputé)",
+  "date": "1984",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Hull et son brevet de 1984 retenus ; le brevet français de Le Méhauté le précède de peu."
+ },
+ "inventions-importantes_domestication-du-feu": {
+  "inventeur": "Inconnu",
+  "date": "vers 400 000 av. J.-C.",
+  "pays": "Afrique · Eurasie",
+  "confiance": "tranchee",
+  "note": "Date usuelle de 400 000 ans retenue pour une maîtrise attestée ; indices plus anciens discutés."
+ },
+ "inventions-importantes_industrie-lithique": {
+  "inventeur": "Inconnu",
+  "date": "il y a 3,3 millions d'années",
+  "pays": "Afrique de l'Est",
+  "confiance": "tranchee",
+  "note": "Outils de Lomekwi (3,3 millions d'années) retenus, datation actuelle la plus ancienne."
+ },
+ "inventions-importantes_poterie": {
+  "inventeur": "Inconnu",
+  "date": "vers 18 000 av. J.-C.",
+  "pays": "Chine",
+  "confiance": "tranchee",
+  "note": "Récipients de Xianrendong (Chine) retenus, plus anciennes poteries utilitaires connues."
+ },
+ "inventions-importantes_arc-architecture": {
+  "inventeur": "Inconnu",
+  "date": "Paléolithique supérieur",
+  "pays": "Inconnu",
+  "confiance": "tranchee",
+  "note": "Fiche pour l'arme annoncée par la carte : période préhistorique retenue, les plus anciens indices étant discutés.",
+  "tri": "-20000"
+ },
+ "inventions-importantes_age-du-bronze": {
+  "inventeur": "Inconnu",
+  "date": "vers 3300 av. J.-C.",
+  "pays": "Proche-Orient",
+  "confiance": "tranchee",
+  "note": "Début de la métallurgie du bronze au Proche-Orient vers 3300 av. J.-C. retenu."
+ },
+ "inventions-importantes_verre": {
+  "inventeur": "Inconnu",
+  "date": "vers 2500 av. J.-C.",
+  "pays": "Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Premières perles de verre mésopotamiennes (vers 2500 av. J.-C.) retenues ; la légende phénicienne est écartée."
+ },
+ "inventions-importantes_monnaie": {
+  "inventeur": "Lydiens",
+  "date": "vers 600 av. J.-C.",
+  "pays": "Lydie (Anatolie)",
+  "confiance": "tranchee",
+  "note": "Premières pièces frappées en Lydie retenues, réponse classique des quiz."
+ },
+ "inventions-importantes_charrue": {
+  "inventeur": "Inconnu",
+  "date": "vers 4000 av. J.-C.",
+  "pays": "Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Araire mésopotamien retenu comme origine de la charrue ; la charrue à versoir est plus tardive."
+ },
+ "inventions-importantes_voile-navire": {
+  "inventeur": "Inconnu",
+  "date": "vers 3500 av. J.-C.",
+  "pays": "Égypte",
+  "confiance": "tranchee",
+  "note": "Voiles égyptiennes vers 3500 av. J.-C., les mieux attestées, retenues."
+ },
+ "inventions-importantes_aqueduc": {
+  "inventeur": "Romains",
+  "date": "312 av. J.-C.",
+  "pays": "Italie",
+  "confiance": "tranchee",
+  "note": "Aqua Appia (312 av. J.-C.), aqueduc romain de référence, retenue ; des ouvrages assyriens sont plus anciens."
+ },
+ "inventions-importantes_acier": {
+  "inventeur": "Inconnu",
+  "date": "vers 1800 av. J.-C.",
+  "pays": "Anatolie",
+  "confiance": "tranchee",
+  "note": "Plus anciens aciers connus (Anatolie, vers 1800 av. J.-C.) retenus ; Bessemer relève de l'acier industriel."
+ },
+ "inventions-importantes_horloge-mecanique": {
+  "inventeur": "Inconnu",
+  "date": "fin du XIIIe siècle",
+  "pays": "Europe",
+  "confiance": "tranchee",
+  "note": "Horloge à échappement apparue en Europe à la fin du XIIIe siècle, sans inventeur connu."
+ },
+ "inventions-importantes_lunettes": {
+  "inventeur": "Inconnu",
+  "date": "vers 1285",
+  "pays": "Italie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_moulin-a-eau": {
+  "inventeur": "Inconnu",
+  "date": "IIIe siècle av. J.-C.",
+  "pays": "Grèce",
+  "confiance": "tranchee",
+  "note": "Monde grec et IIIe siècle av. J.-C. retenus, première description connue (Philon de Byzance)."
+ },
+ "inventions-importantes_etrier-equitation": {
+  "inventeur": "Inconnu",
+  "date": "IVe siècle",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_gouvernail-d-etambot": {
+  "inventeur": "Inconnu",
+  "date": "Ier siècle",
+  "pays": "Chine",
+  "confiance": "tranchee",
+  "note": "Origine chinoise sous les Han retenue ; l'Europe ne l'adopte que vers 1180."
+ },
+ "inventions-importantes_thermometre": {
+  "inventeur": "Galilée (disputé)",
+  "date": "vers 1593",
+  "pays": "Italie",
+  "confiance": "tranchee",
+  "note": "Galilée et son thermoscope retenus, réponse usuelle ; Santorio et Fahrenheit le perfectionnent."
+ },
+ "inventions-importantes_barometre": {
+  "inventeur": "Evangelista Torricelli",
+  "date": "1643",
+  "pays": "Italie",
+  "confiance": "sure"
+ },
+ "inventions-importantes_sextant": {
+  "inventeur": "John Bird",
+  "date": "1757",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_machine-a-coudre": {
+  "inventeur": "Barthélemy Thimonnier",
+  "date": "1830",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_conserve": {
+  "inventeur": "Nicolas Appert",
+  "date": "1795",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Appert et le début de ses essais (1795) retenus ; il publie son procédé en 1810."
+ },
+ "inventions-importantes_pasteurisation": {
+  "inventeur": "Louis Pasteur",
+  "date": "1865",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_locomotive-a-vapeur": {
+  "inventeur": "Richard Trevithick",
+  "date": "1804",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_chemin-de-fer": {
+  "inventeur": "George Stephenson",
+  "date": "1825",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Stephenson et la ligne Stockton-Darlington (1825), première ligne publique à vapeur, retenus."
+ },
+ "inventions-importantes_bateau-a-vapeur": {
+  "inventeur": "Jouffroy d'Abbans (disputé)",
+  "date": "1783",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_sous-marin": {
+  "inventeur": "Cornelis Drebbel",
+  "date": "1620",
+  "pays": "Angleterre",
+  "confiance": "tranchee",
+  "note": "Drebbel (vers 1620, Londres) retenu pour le premier sous-marin navigable connu."
+ },
+ "inventions-importantes_helicoptere": {
+  "inventeur": "Paul Cornu (disputé)",
+  "date": "1907",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_turboreacteur": {
+  "inventeur": "Frank Whittle (disputé)",
+  "date": "1930",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_montgolfiere": {
+  "inventeur": "Frères Montgolfier",
+  "date": "1783",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_parachute": {
+  "inventeur": "Louis-Sébastien Lenormand (disputé)",
+  "date": "1783",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_dynamite": {
+  "inventeur": "Alfred Nobel",
+  "date": "1866",
+  "pays": "Suède",
+  "confiance": "tranchee",
+  "note": "Nobel et 1866 retenus ; Suède gardée comme pays, réponse attendue, bien que l'usine fût près de Hambourg."
+ },
+ "inventions-importantes_bakelite": {
+  "inventeur": "Leo Baekeland",
+  "date": "1907",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_nylon": {
+  "inventeur": "Wallace Carothers",
+  "date": "1935",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_vulcanisation": {
+  "inventeur": "Charles Goodyear",
+  "date": "1839",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_procede-haber": {
+  "inventeur": "Fritz Haber et Carl Bosch",
+  "date": "1909",
+  "pays": "Allemagne",
+  "confiance": "sure"
+ },
+ "inventions-importantes_production-de-l-aluminium-par-electrolyse": {
+  "inventeur": "Hall et Héroult",
+  "date": "1886",
+  "pays": "États-Unis · France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_reacteur-nucleaire": {
+  "inventeur": "Enrico Fermi",
+  "date": "1942",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_bombe-a": {
+  "inventeur": "Projet Manhattan",
+  "date": "1945",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_reseau-electrique": {
+  "inventeur": "Thomas Edison",
+  "date": "1882",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Centrale de Pearl Street d'Edison (1882) retenue, référence usuelle."
+ },
+ "inventions-importantes_antibiotique": {
+  "inventeur": "Alexander Fleming",
+  "date": "1928",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Fleming et la pénicilline (1928) retenus, réponse attendue malgré le doublon avec la carte Pénicilline."
+ },
+ "inventions-importantes_contraception": {
+  "inventeur": "Gregory Pincus (disputé)",
+  "date": "1956",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Pilule de Pincus retenue pour la contraception orale, datée de sa mise au point (1956) plutôt que de l'autorisation de 1960."
+ },
+ "inventions-importantes_echographie": {
+  "inventeur": "Ian Donald (disputé)",
+  "date": "1958",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Ian Donald et l'échographie obstétricale (1958) retenus ; Dussik l'a tentée dès 1942."
+ },
+ "inventions-importantes_tomodensitometrie": {
+  "inventeur": "Godfrey Hounsfield",
+  "date": "1971",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Hounsfield et le premier examen sur patient (1971) retenus ; l'annonce publique date de 1972."
+ },
+ "inventions-importantes_defibrillateur-automatise-externe": {
+  "inventeur": "Claude Beck (disputé)",
+  "date": "1947",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Carte « Défibrillateur » : Beck et la première défibrillation humaine (1947) retenus."
+ },
+ "inventions-importantes_transfusion-sanguine": {
+  "inventeur": "James Blundell (disputé)",
+  "date": "1818",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Blundell et la première transfusion entre humains (1818) retenus ; Denis (1667) utilisait du sang animal."
+ },
+ "inventions-importantes_vaccin-a-arn": {
+  "inventeur": "Katalin Karikó et Drew Weissman",
+  "date": "2005",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Karikó et Weissman, Nobel 2023, retenus avec leur découverte de 2005."
+ },
+ "inventions-importantes_crispr": {
+  "inventeur": "Emmanuelle Charpentier et Jennifer Doudna",
+  "date": "2012",
+  "pays": "Suède · États-Unis",
+  "confiance": "tranchee",
+  "note": "Charpentier et Doudna (2012, Nobel 2020) retenues ; Zhang dispute les brevets."
+ },
+ "inventions-importantes_processeur": {
+  "inventeur": "Intel (Faggin, Hoff et Mazor)",
+  "date": "1971",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_disque-dur": {
+  "inventeur": "IBM",
+  "date": "1956",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_memoire-flash": {
+  "inventeur": "Fujio Masuoka",
+  "date": "1980",
+  "pays": "Japon",
+  "confiance": "tranchee",
+  "note": "Masuoka et la date d'invention (1980) retenus ; la présentation publique date de 1984."
+ },
+ "inventions-importantes_souris-informatique": {
+  "inventeur": "Douglas Engelbart",
+  "date": "1963",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Engelbart et le prototype de 1963 retenus ; la démonstration publique date de 1968."
+ },
+ "inventions-importantes_ecran-tactile": {
+  "inventeur": "E. A. Johnson",
+  "date": "1965",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Johnson et l'écran capacitif (1965) retenus, première description connue."
+ },
+ "inventions-importantes_fibre-optique-noire": {
+  "inventeur": "Charles Kao",
+  "date": "1966",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Fiche pour la fibre optique annoncée par la carte : Kao (1966, Nobel 2009) retenu."
+ },
+ "inventions-importantes_wi-fi": {
+  "inventeur": "IEEE (norme 802.11)",
+  "date": "1997",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Pas d'inventeur unique : norme IEEE 802.11 (1997) retenue."
+ },
+ "inventions-importantes_courrier-electronique": {
+  "inventeur": "Ray Tomlinson",
+  "date": "1971",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_moteur-de-recherche": {
+  "inventeur": "Alan Emtage",
+  "date": "1990",
+  "pays": "Canada",
+  "confiance": "sure"
+ },
+ "inventions-importantes_blockchain": {
+  "inventeur": "Satoshi Nakamoto (disputé)",
+  "date": "2008",
+  "pays": "Inconnu",
+  "confiance": "tranchee",
+  "note": "Nakamoto et le livre blanc du Bitcoin (2008) retenus ; Haber et Stornetta en posent les bases en 1991."
+ },
+ "inventions-importantes_chasse-d-eau": {
+  "inventeur": "John Harington",
+  "date": "1596",
+  "pays": "Angleterre",
+  "confiance": "sure"
+ },
+ "inventions-importantes_egout": {
+  "inventeur": "Inconnu",
+  "date": "vers 2500 av. J.-C.",
+  "pays": "Vallée de l'Indus",
+  "confiance": "tranchee",
+  "note": "Réseau de Mohenjo-daro (vers 2500 av. J.-C.) retenu, premier réseau d'égouts organisé connu."
+ },
+ "inventions-importantes_savon": {
+  "inventeur": "Babyloniens",
+  "date": "vers 2800 av. J.-C.",
+  "pays": "Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Recette babylonienne sur tablette (vers 2800 av. J.-C.) retenue."
+ },
+ "inventions-importantes_allumette": {
+  "inventeur": "John Walker",
+  "date": "1826",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_lave-vaisselle": {
+  "inventeur": "Josephine Cochrane",
+  "date": "1886",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_zero": {
+  "inventeur": "Brahmagupta (disputé)",
+  "date": "628",
+  "pays": "Inde",
+  "confiance": "sure"
+ },
+ "inventions-importantes_alphabet": {
+  "inventeur": "Phéniciens",
+  "date": "vers 1050 av. J.-C.",
+  "pays": "Phénicie",
+  "confiance": "tranchee",
+  "note": "Alphabet phénicien retenu, réponse attendue ; le proto-sinaïtique est plus ancien."
+ },
+ "inventions-importantes_calendrier": {
+  "inventeur": "Égyptiens",
+  "date": "vers 3000 av. J.-C.",
+  "pays": "Égypte",
+  "confiance": "tranchee",
+  "note": "Calendrier égyptien de 365 jours retenu, réponse la plus courante."
+ },
+ "inventions-importantes_conteneur": {
+  "inventeur": "Malcom McLean",
+  "date": "1956",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ligne-de-montage": {
+  "inventeur": "Henry Ford",
+  "date": "1913",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ecluse": {
+  "inventeur": "Qiao Weiyue",
+  "date": "984",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_antisepsie": {
+  "inventeur": "Joseph Lister (disputé)",
+  "date": "1867",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_braille": {
+  "inventeur": "Louis Braille",
+  "date": "1829",
+  "pays": "France",
+  "confiance": "tranchee",
+  "note": "Date de publication du système (1829) retenue."
+ },
+ "inventions-importantes_code-morse-international": {
+  "inventeur": "Samuel Morse",
+  "date": "1838",
+  "pays": "États-Unis",
+  "confiance": "tranchee",
+  "note": "Morse et la première version du code (1838) retenus ; Vail y a contribué."
+ },
+ "inventions-importantes_roulement-mecanique": {
+  "inventeur": "Philip Vaughan",
+  "date": "1794",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Vaughan et le premier brevet de roulement à billes (1794) retenus."
+ },
+ "inventions-importantes_monnaie-fiduciaire": {
+  "inventeur": "Chinois (dynastie Song)",
+  "date": "XIe siècle",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ordinateur": {
+  "inventeur": "Konrad Zuse (disputé)",
+  "date": "1941",
+  "pays": "Allemagne",
+  "confiance": "tranchee",
+  "note": "Z3 de Zuse (1941), premier ordinateur programmable opérationnel, retenu ; l'ENIAC est l'autre réponse."
+ },
+ "inventions-importantes_machine-electrique": {
+  "inventeur": "Michael Faraday (disputé)",
+  "date": "1821",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Carte « Moteur électrique » : Faraday et la rotation électromagnétique (1821) retenus."
+ },
+ "inventions-importantes_acide-acetylsalicylique": {
+  "inventeur": "Felix Hoffmann (disputé)",
+  "date": "1897",
+  "pays": "Allemagne",
+  "confiance": "sure"
+ },
+ "inventions-importantes_stethoscope": {
+  "inventeur": "René Laennec",
+  "date": "1816",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_diode-electroluminescente": {
+  "inventeur": "Nick Holonyak (disputé)",
+  "date": "1962",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_metro": {
+  "inventeur": "Charles Pearson",
+  "date": "1863",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_ballon-dirigeable": {
+  "inventeur": "Henri Giffard",
+  "date": "1852",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_scaphandre-autonome": {
+  "inventeur": "Cousteau et Gagnan (disputé)",
+  "date": "1943",
+  "pays": "France",
+  "confiance": "sure"
+ },
+ "inventions-importantes_moulin-a-vent": {
+  "inventeur": "Perses",
+  "date": "IXe siècle",
+  "pays": "Perse (Iran)",
+  "confiance": "tranchee",
+  "note": "Moulins perses du Sistan retenus avec le IXe siècle, date la mieux attestée."
+ },
+ "inventions-importantes_brouette": {
+  "inventeur": "Inconnu",
+  "date": "Ier siècle",
+  "pays": "Chine",
+  "confiance": "tranchee",
+  "note": "Origine chinoise sous les Han (Ier siècle) retenue."
+ },
+ "inventions-importantes_metier-a-tisser": {
+  "inventeur": "Inconnu",
+  "date": "Néolithique",
+  "pays": "Proche-Orient",
+  "confiance": "tranchee",
+  "note": "Métier manuel préhistorique retenu pour la carte générique ; Cartwright et Jacquard concernent le métier mécanique.",
+  "tri": "-6000"
+ },
+ "inventions-importantes_boulier": {
+  "inventeur": "Inconnu",
+  "date": "Antiquité",
+  "pays": "Chine",
+  "confiance": "tranchee",
+  "note": "Origine chinoise retenue pour le boulier à boules enfilées, datation restée vague.",
+  "tri": "-2500"
+ },
+ "inventions-importantes_cadran-solaire": {
+  "inventeur": "Égyptiens",
+  "date": "vers 1500 av. J.-C.",
+  "pays": "Égypte",
+  "confiance": "sure"
+ },
+ "inventions-importantes_chronometre-de-marine": {
+  "inventeur": "John Harrison",
+  "date": "1735",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Harrison et son premier modèle H1 (1735) retenus ; le H4 date de 1759."
+ },
+ "inventions-importantes_arme-a-feu": {
+  "inventeur": "Chinois",
+  "date": "XIIIe siècle",
+  "pays": "Chine",
+  "confiance": "tranchee",
+  "note": "Premières armes à feu métalliques chinoises (XIIIe siècle) retenues."
+ },
+ "inventions-importantes_canon-artillerie": {
+  "inventeur": "Chinois",
+  "date": "XIIIe siècle",
+  "pays": "Chine",
+  "confiance": "sure"
+ },
+ "inventions-importantes_char-d-assaut": {
+  "inventeur": "Tritton et Wilson",
+  "date": "1916",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Tritton et Wilson, concepteurs du Mark I engagé en 1916, retenus."
+ },
+ "inventions-importantes_disque-compact": {
+  "inventeur": "Philips et Sony",
+  "date": "1982",
+  "pays": "Pays-Bas · Japon",
+  "confiance": "tranchee",
+  "note": "Philips et Sony avec la commercialisation de 1982 retenus."
+ },
+ "inventions-importantes_cassette-audio": {
+  "inventeur": "Philips (Lou Ottens)",
+  "date": "1963",
+  "pays": "Pays-Bas",
+  "confiance": "sure"
+ },
+ "inventions-importantes_magnetoscope": {
+  "inventeur": "Ampex (Charles Ginsburg)",
+  "date": "1956",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_jeu-video": {
+  "inventeur": "William Higinbotham (disputé)",
+  "date": "1958",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_telephone-mobile": {
+  "inventeur": "Martin Cooper",
+  "date": "1973",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_photocopieur": {
+  "inventeur": "Chester Carlson",
+  "date": "1938",
+  "pays": "États-Unis",
+  "confiance": "sure"
+ },
+ "inventions-importantes_langage-de-programmation": {
+  "inventeur": "Konrad Zuse (disputé)",
+  "date": "1945",
+  "pays": "Allemagne",
+  "confiance": "tranchee",
+  "note": "Plankalkül de Zuse (1945), premier langage de haut niveau, retenu ; Fortran est le premier répandu."
+ },
+ "inventions-importantes_guichet-automatique-bancaire": {
+  "inventeur": "John Shepherd-Barron",
+  "date": "1967",
+  "pays": "Royaume-Uni",
+  "confiance": "sure"
+ },
+ "inventions-importantes_horloge-atomique": {
+  "inventeur": "Louis Essen (disputé)",
+  "date": "1955",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Essen et la première horloge au césium précise (1955) retenus."
+ },
+ "inventions-importantes_drone": {
+  "inventeur": "Archibald Low (disputé)",
+  "date": "1917",
+  "pays": "Royaume-Uni",
+  "confiance": "tranchee",
+  "note": "Aerial Target de Low (1917) retenu comme premier drone."
+ }
+}

@@ -18,7 +18,7 @@ Memo :
 Usage : python build/listes_wikideck.py            (toutes les listes decrites)
         python build/listes_wikideck.py --essai    (images et html en simulation)
 """
-import io, re, sys, json, shutil, datetime
+import io, re, sys, json, shutil, datetime, unicodedata
 from pathlib import Path
 from PIL import Image
 
@@ -90,6 +90,30 @@ LISTES = {
                                     categorie='geographie',
                                     colonnes=[('Monument', None), ('Ville', 'ville'), ('Pays', 'pays'),
                                               ('Date', 'date'), ('Architecte ou commanditaire', 'auteur')]),
+    # Lot 4
+    'grandes-guerres': dict(id='guerres', nom='Grandes guerres', icone='⚔️', ordre=('chrono', 'dates'),
+                            categorie='histoire',
+                            colonnes=[('Conflit', None), ('Dates', 'dates'), ('Belligérants', 'belligerants'),
+                                      ('Issue', 'issue')]),
+    'empires-et-civilisations': dict(id='civilisations', nom='Empires et civilisations', icone='🏺',
+                                     ordre=('chrono', 'periode'), categorie='histoire',
+                                     colonnes=[('Nom', None), ('Période', 'periode'), ('Capitale', 'capitale'),
+                                               ('Aire géographique', 'aire')]),
+    'grands-explorateurs': dict(id='grandes_explorations', nom='Grands explorateurs', icone='🧭',
+                                ordre=('chrono', 'date'), categorie='histoire',
+                                colonnes=[('Explorateur', None), ('Nationalité', 'nationalite'), ('Date', 'date'),
+                                          ('Exploration', 'exploration')]),
+    'inventions-importantes': dict(id='inventions_majeures', nom='Inventions importantes', icone='⚙️',
+                                   ordre=('chrono', 'date'), categorie='sciences-nature',
+                                   colonnes=[('Invention', None), ('Inventeur', 'inventeur'), ('Date', 'date'),
+                                             ('Pays', 'pays')]),
+    'villes-du-monde': dict(id='villes', nom='Villes du monde', icone='🏙️', ordre='pays',
+                            categorie='geographie',
+                            colonnes=[('Ville', None), ('Pays', 'pays'), ('Surnom ou monument', 'repere')]),
+    'montagnes-et-volcans': dict(id='montagnes_monde', nom='Montagnes et volcans', icone='🏔️',
+                                 ordre=('altitude', 'altitude'), categorie='geographie',
+                                 colonnes=[('Sommet', None), ('Altitude', 'altitude'), ('Massif', 'massif'),
+                                           ('Pays', 'pays'), ('Type', 'type')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -127,6 +151,17 @@ def annee(texte):
         return 99999
     a = int(m.group(1))
     return -a if avant else a
+
+
+def nombre(texte):
+    """Premier nombre lu dans « 8 849 m » (espaces de milliers compris), 0 sinon."""
+    m = re.search(r'\d[\d \u00a0\u202f]*', texte or '')
+    return int(re.sub(r'\D', '', m.group(0))) if m else 0
+
+
+def sans_accents(texte):
+    """Cle de tri alphabetique : « Île-de-France » avec les I, pas apres le Z."""
+    return ''.join(ch for ch in unicodedata.normalize('NFD', texte or '') if not unicodedata.combining(ch)).lower()
 
 
 def nom_affiche(c):
@@ -168,10 +203,12 @@ def construire(slug, cadrages, essai):
     cartes = [c for c in json.loads((WIKIDECK / 'data' / f'{slug}.json').read_text(encoding='utf-8'))['cartes']
               if c['id'] in textes]
     # ordre : ('chrono', <cle de date>) ou <cle> pour un tri alphabetique sur cette colonne
-    if isinstance(cfg['ordre'], tuple):
-        cartes.sort(key=lambda c: (annee(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
+    if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'altitude':
+        cartes.sort(key=lambda c: (-nombre(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
+    elif isinstance(cfg['ordre'], tuple):
+        cartes.sort(key=lambda c: (float(textes[c['id']]['tri']) if textes[c['id']].get('tri') else annee(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
     else:
-        cartes.sort(key=lambda c: (textes[c['id']].get(cfg['ordre'], ''), c['nom']))
+        cartes.sort(key=lambda c: (sans_accents(textes[c['id']].get(cfg['ordre'], '')), sans_accents(c['nom'])))
     lignes, grands = [], {}
     for i, c in enumerate(cartes, 1):
         t = textes[c['id']]
