@@ -1,0 +1,412 @@
+{
+ "iles_madagascar": {
+  "pays": "Madagascar",
+  "mer": "Océan Indien",
+  "cheflieu": "Antananarivo",
+  "confiance": "sure"
+ },
+ "iles_islande": {
+  "pays": "Islande",
+  "mer": "Océan Atlantique (Nord)",
+  "cheflieu": "Reykjavik",
+  "confiance": "sure"
+ },
+ "iles_borneo": {
+  "pays": "Partagée : Indonésie · Malaisie · Brunei",
+  "mer": "Mer de Chine méridionale · Mer de Java · Mer de Célèbes",
+  "cheflieu": "Pas de chef-lieu unique (Bandar Seri Begawan, Kuching, Samarinda)",
+  "confiance": "a_verifier",
+  "note": "Île partagée entre trois pays : aucune ville principale ne fait consensus, la plus peuplée reste à confirmer."
+ },
+ "iles_groenland": {
+  "pays": "Danemark (territoire autonome)",
+  "mer": "Océan Arctique · Océan Atlantique",
+  "cheflieu": "Nuuk",
+  "confiance": "sure"
+ },
+ "iles_nouvelle-guinee": {
+  "pays": "Partagée : Indonésie · Papouasie-Nouvelle-Guinée",
+  "mer": "Océan Pacifique (Mélanésie)",
+  "cheflieu": "Port Moresby",
+  "confiance": "a_verifier",
+  "note": "Contre-vérification : île partagée entre deux pays, Port Moresby n'est la capitale que de la partie papouasienne (Jayapura côté indonésien) ; même traitement que Bornéo à envisager."
+ },
+ "iles_sicile": {
+  "pays": "Italie (région autonome)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Palerme",
+  "confiance": "sure"
+ },
+ "iles_sardaigne": {
+  "pays": "Italie (région autonome)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Cagliari",
+  "confiance": "sure"
+ },
+ "iles_corse": {
+  "pays": "France (collectivité territoriale unique)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Ajaccio",
+  "confiance": "sure"
+ },
+ "iles_crete": {
+  "pays": "Grèce",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Héraklion",
+  "confiance": "sure"
+ },
+ "iles_chypre-ile": {
+  "pays": "Partagée : Chypre · Chypre du Nord (reconnue par la seule Turquie) · Royaume-Uni (bases souveraines)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Nicosie",
+  "confiance": "sure"
+ },
+ "iles_bali": {
+  "pays": "Indonésie",
+  "mer": "Océan Indien (Petites îles de la Sonde)",
+  "cheflieu": "Denpasar",
+  "confiance": "sure"
+ },
+ "iles_java-ile": {
+  "pays": "Indonésie",
+  "mer": "Mer de Java · Océan Indien",
+  "cheflieu": "Jakarta",
+  "confiance": "sure"
+ },
+ "iles_sumatra": {
+  "pays": "Indonésie",
+  "mer": "Océan Indien",
+  "cheflieu": "Medan",
+  "confiance": "sure"
+ },
+ "iles_hawai-ile": {
+  "pays": "États-Unis (État d'Hawaï)",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Hilo",
+  "confiance": "sure"
+ },
+ "iles_tahiti": {
+  "pays": "France (Polynésie française, collectivité d'outre-mer)",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Papeete",
+  "confiance": "sure"
+ },
+ "iles_ile-de-paques": {
+  "pays": "Chili",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Hanga Roa",
+  "confiance": "sure"
+ },
+ "iles_iles-galapagos": {
+  "pays": "Équateur",
+  "mer": "Océan Pacifique",
+  "cheflieu": "Puerto Baquerizo Moreno",
+  "confiance": "sure"
+ },
+ "iles_iles-feroe": {
+  "pays": "Danemark (territoire autonome)",
+  "mer": "Océan Atlantique (Nord)",
+  "cheflieu": "Tórshavn",
+  "confiance": "sure"
+ },
+ "iles_svalbard": {
+  "pays": "Norvège",
+  "mer": "Océan Arctique",
+  "cheflieu": "Longyearbyen",
+  "confiance": "sure"
+ },
+ "iles_sainte-helene-ile": {
+  "pays": "Royaume-Uni (territoire britannique d'outre-mer)",
+  "mer": "Océan Atlantique (Sud)",
+  "cheflieu": "Jamestown",
+  "confiance": "sure"
+ },
+ "iles_zanzibar-archipel": {
+  "pays": "Tanzanie (région semi-autonome)",
+  "mer": "Océan Indien",
+  "cheflieu": "Zanzibar (Stone Town)",
+  "confiance": "sure"
+ },
+ "iles_socotra": {
+  "pays": "Yémen",
+  "mer": "Mer d'Arabie (Océan Indien)",
+  "cheflieu": "Hadibo",
+  "confiance": "sure"
+ },
+ "iles_malte": {
+  "pays": "Malte",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "La Valette",
+  "confiance": "sure"
+ },
+ "iles_santorin": {
+  "pays": "Grèce",
+  "mer": "Mer Égée (Méditerranée)",
+  "cheflieu": "Fira",
+  "confiance": "sure"
+ },
+ "iles_capri": {
+  "pays": "Italie",
+  "mer": "Mer Tyrrhénienne (Méditerranée)",
+  "cheflieu": "Capri",
+  "confiance": "sure"
+ },
+ "iles_ibiza": {
+  "pays": "Espagne (Baléares)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Ibiza",
+  "confiance": "sure"
+ },
+ "iles_bahamas": {
+  "pays": "Bahamas",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Nassau",
+  "confiance": "sure"
+ },
+ "iles_cuba": {
+  "pays": "Cuba",
+  "mer": "Mer des Caraïbes",
+  "cheflieu": "La Havane",
+  "confiance": "sure"
+ },
+ "iles_jamaique": {
+  "pays": "Jamaïque",
+  "mer": "Mer des Caraïbes",
+  "cheflieu": "Kingston",
+  "confiance": "sure"
+ },
+ "iles_hispaniola": {
+  "pays": "Partagée : Haïti · République dominicaine",
+  "mer": "Mer des Caraïbes",
+  "cheflieu": "Saint-Domingue · Port-au-Prince",
+  "confiance": "sure"
+ },
+ "iles_terre-neuve": {
+  "pays": "Canada (Terre-Neuve-et-Labrador)",
+  "mer": "Océan Atlantique (Nord)",
+  "cheflieu": "Saint-Jean de Terre-Neuve",
+  "confiance": "sure"
+ },
+ "iles_tasmanie": {
+  "pays": "Australie (État)",
+  "mer": "Mer de Tasman · Océan Indien",
+  "cheflieu": "Hobart",
+  "confiance": "a_verifier",
+  "note": "L'océan de rattachement varie selon les sources (Pacifique par la mer de Tasman, Indien ou Austral au sud-ouest)."
+ },
+ "iles_fidji": {
+  "pays": "Fidji",
+  "mer": "Océan Pacifique (Mélanésie)",
+  "cheflieu": "Suva",
+  "confiance": "sure"
+ },
+ "iles_palaos": {
+  "pays": "Palaos",
+  "mer": "Océan Pacifique (Micronésie)",
+  "cheflieu": "Ngerulmud",
+  "confiance": "sure"
+ },
+ "iles_maldives": {
+  "pays": "Maldives",
+  "mer": "Océan Indien",
+  "cheflieu": "Malé",
+  "confiance": "sure"
+ },
+ "iles_seychelles": {
+  "pays": "Seychelles",
+  "mer": "Océan Indien",
+  "cheflieu": "Victoria",
+  "confiance": "sure"
+ },
+ "iles_archipel-des-comores": {
+  "pays": "Partagée : Comores · France (Mayotte)",
+  "mer": "Océan Indien (canal du Mozambique)",
+  "cheflieu": "Moroni",
+  "confiance": "sure"
+ },
+ "iles_ile-maurice": {
+  "pays": "Maurice",
+  "mer": "Océan Indien",
+  "cheflieu": "Port-Louis",
+  "confiance": "sure"
+ },
+ "iles_la-reunion": {
+  "pays": "France (département et région d'outre-mer)",
+  "mer": "Océan Indien",
+  "cheflieu": "Saint-Denis",
+  "confiance": "sure"
+ },
+ "iles_ouessant": {
+  "pays": "France (Finistère)",
+  "mer": "Océan Atlantique (mer d'Iroise)",
+  "cheflieu": "Lampaul",
+  "confiance": "sure"
+ },
+ "iles_taiwan-ile": {
+  "pays": "Taïwan (République de Chine), revendiquée par la Chine populaire",
+  "mer": "Océan Pacifique (mer de Chine orientale · mer des Philippines)",
+  "cheflieu": "Taipei",
+  "confiance": "sure"
+ },
+ "iles_martinique": {
+  "pays": "France (collectivité territoriale unique)",
+  "mer": "Mer des Caraïbes (Petites Antilles)",
+  "cheflieu": "Fort-de-France",
+  "confiance": "sure"
+ },
+ "iles_guadeloupe": {
+  "pays": "France (département et région d'outre-mer)",
+  "mer": "Mer des Caraïbes (Petites Antilles)",
+  "cheflieu": "Basse-Terre",
+  "confiance": "sure"
+ },
+ "iles_grande-terre-nouvelle-caledonie": {
+  "pays": "France (Nouvelle-Calédonie, collectivité sui generis)",
+  "mer": "Mer de Corail (Océan Pacifique)",
+  "cheflieu": "Nouméa",
+  "confiance": "sure"
+ },
+ "iles_bora-bora": {
+  "pays": "France (Polynésie française, collectivité d'outre-mer)",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Vaitape",
+  "confiance": "sure"
+ },
+ "iles_iles-marquises": {
+  "pays": "France (Polynésie française, collectivité d'outre-mer)",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Taiohae (Nuku Hiva)",
+  "confiance": "sure"
+ },
+ "iles_mayotte": {
+  "pays": "France (département d'outre-mer)",
+  "mer": "Océan Indien (canal du Mozambique)",
+  "cheflieu": "Mamoudzou",
+  "confiance": "sure"
+ },
+ "iles_ile-de-re": {
+  "pays": "France (Charente-Maritime)",
+  "mer": "Océan Atlantique (golfe de Gascogne)",
+  "cheflieu": "Saint-Martin-de-Ré",
+  "confiance": "sure"
+ },
+ "iles_belle-ile-en-mer": {
+  "pays": "France (Morbihan)",
+  "mer": "Océan Atlantique (golfe de Gascogne)",
+  "cheflieu": "Le Palais",
+  "confiance": "sure"
+ },
+ "iles_jersey": {
+  "pays": "Dépendance de la Couronne britannique (hors Royaume-Uni)",
+  "mer": "Manche",
+  "cheflieu": "Saint-Hélier",
+  "confiance": "a_verifier",
+  "note": "Contre-vérification : Royaume-Uni (dépendance de la Couronne) remplacé par Dépendance de la Couronne britannique (hors Royaume-Uni) car Jersey ne fait pas partie du Royaume-Uni, seule la Couronne britannique en assure la défense et les relations extérieures."
+ },
+ "iles_ile-de-skye": {
+  "pays": "Royaume-Uni (Écosse)",
+  "mer": "Océan Atlantique (Hébrides intérieures)",
+  "cheflieu": "Portree",
+  "confiance": "sure"
+ },
+ "iles_ithaque": {
+  "pays": "Grèce",
+  "mer": "Mer Ionienne",
+  "cheflieu": "Vathy",
+  "confiance": "sure"
+ },
+ "iles_rhodes": {
+  "pays": "Grèce",
+  "mer": "Mer Égée (Méditerranée)",
+  "cheflieu": "Rhodes",
+  "confiance": "sure"
+ },
+ "iles_majorque": {
+  "pays": "Espagne (Baléares)",
+  "mer": "Mer Méditerranée",
+  "cheflieu": "Palma",
+  "confiance": "sure"
+ },
+ "iles_tenerife": {
+  "pays": "Espagne (Canaries)",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Santa Cruz de Tenerife",
+  "confiance": "sure"
+ },
+ "iles_madere": {
+  "pays": "Portugal (région autonome)",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Funchal",
+  "confiance": "sure"
+ },
+ "iles_acores": {
+  "pays": "Portugal (région autonome)",
+  "mer": "Océan Atlantique (Nord)",
+  "cheflieu": "Ponta Delgada",
+  "confiance": "a_verifier",
+  "note": "Contre-vérification : les Açores n'ont pas de capitale unique officielle, les institutions sont réparties entre Ponta Delgada (présidence), Angra do Heroísmo (justice) et Horta (parlement)."
+ },
+ "iles_ile-de-goree": {
+  "pays": "Sénégal",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Gorée (commune d'arrondissement de Dakar)",
+  "confiance": "sure"
+ },
+ "iles_ile-d-alcatraz": {
+  "pays": "États-Unis (Californie)",
+  "mer": "Océan Pacifique (baie de San Francisco)",
+  "cheflieu": "Inhabitée",
+  "confiance": "sure"
+ },
+ "iles_ellis-island": {
+  "pays": "États-Unis (New York · New Jersey)",
+  "mer": "Océan Atlantique (baie de New York)",
+  "cheflieu": "Inhabitée",
+  "confiance": "sure"
+ },
+ "iles_ile-du-diable": {
+  "pays": "France (Guyane)",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Inhabitée",
+  "confiance": "sure"
+ },
+ "iles_ile-de-la-tortue": {
+  "pays": "Haïti",
+  "mer": "Océan Atlantique",
+  "cheflieu": "Palmiste",
+  "confiance": "a_verifier",
+  "note": "Chef-lieu de la commune (Palmiste) à confirmer ; d'autres localités (Cayonne, Basse-Terre) sont parfois citées."
+ },
+ "iles_tristan-da-cunha": {
+  "pays": "Royaume-Uni (territoire de Sainte-Hélène, Ascension et Tristan da Cunha)",
+  "mer": "Océan Atlantique (Sud)",
+  "cheflieu": "Edinburgh of the Seven Seas",
+  "confiance": "a_verifier",
+  "note": "La description de la carte porte sur le navigateur portugais et non sur l'île : l'article source est à corriger."
+ },
+ "iles_iles-kerguelen": {
+  "pays": "France (Terres australes et antarctiques françaises)",
+  "mer": "Océan Indien (austral)",
+  "cheflieu": "Port-aux-Français (base scientifique)",
+  "confiance": "sure"
+ },
+ "iles_pitcairn": {
+  "pays": "Royaume-Uni (territoire britannique d'outre-mer)",
+  "mer": "Océan Pacifique (Polynésie)",
+  "cheflieu": "Adamstown",
+  "confiance": "sure"
+ },
+ "iles_komodo-ile": {
+  "pays": "Indonésie",
+  "mer": "Petites îles de la Sonde (mer de Flores · océan Indien)",
+  "cheflieu": "Komodo (village)",
+  "confiance": "a_verifier",
+  "note": "Pas de ville notable : le village de Komodo est le principal lieu habité, à confirmer."
+ },
+ "iles_bikini-atoll": {
+  "pays": "Îles Marshall",
+  "mer": "Océan Pacifique (Micronésie)",
+  "cheflieu": "Inhabitée",
+  "confiance": "sure"
+ }
+}

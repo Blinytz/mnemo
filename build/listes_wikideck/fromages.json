@@ -1,0 +1,387 @@
+{
+ "fromages_camembert-fromage": {
+  "region": "Normandie",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "Le nom générique n'est pas protégé, mais le camembert de Normandie est AOP au lait cru : réponse ambiguë pour un quiz."
+ },
+ "fromages_roquefort-fromage": {
+  "region": "Occitanie (Aveyron)",
+  "lait": "Brebis (cru)",
+  "appellation": "AOP (AOC depuis 1925)",
+  "confiance": "sure"
+ },
+ "fromages_brie-de-meaux": {
+  "region": "Île-de-France (Brie)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1980)",
+  "confiance": "sure"
+ },
+ "fromages_comte-fromage": {
+  "region": "Franche-Comté",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1958)",
+  "confiance": "sure"
+ },
+ "fromages_beaufort-fromage": {
+  "region": "Savoie",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1968)",
+  "confiance": "sure"
+ },
+ "fromages_reblochon": {
+  "region": "Savoie (Haute-Savoie)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1958)",
+  "confiance": "sure"
+ },
+ "fromages_munster-fromage": {
+  "region": "Alsace · Lorraine (Vosges)",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1969)",
+  "confiance": "sure"
+ },
+ "fromages_epoisses": {
+  "region": "Bourgogne",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1991)",
+  "confiance": "sure",
+  "note": "La carte décrit la commune de Côte-d'Or ; les données valent pour le fromage qui en porte le nom."
+ },
+ "fromages_maroilles-fromage": {
+  "region": "Hauts-de-France (Thiérache)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_cantal-fromage": {
+  "region": "Auvergne",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1956)",
+  "confiance": "sure"
+ },
+ "fromages_saint-nectaire": {
+  "region": "Auvergne",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1955)",
+  "confiance": "sure",
+  "note": "La carte décrit la commune du Puy-de-Dôme ; les données valent pour le fromage qui en porte le nom."
+ },
+ "fromages_bleu-d-auvergne": {
+  "region": "Auvergne",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1975)",
+  "confiance": "sure"
+ },
+ "fromages_fourme-d-ambert": {
+  "region": "Auvergne",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1972)",
+  "confiance": "sure"
+ },
+ "fromages_crottin-de-chavignol": {
+  "region": "Centre-Val de Loire (Sancerrois)",
+  "lait": "Chèvre (cru)",
+  "appellation": "AOP (AOC depuis 1976)",
+  "confiance": "sure"
+ },
+ "fromages_mimolette": {
+  "region": "Hauts-de-France (Flandre)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "sure"
+ },
+ "fromages_tomme-de-savoie": {
+  "region": "Savoie",
+  "lait": "Vache",
+  "appellation": "IGP",
+  "confiance": "sure"
+ },
+ "fromages_morbier-fromage": {
+  "region": "Franche-Comté",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 2000)",
+  "confiance": "sure"
+ },
+ "fromages_livarot-fromage": {
+  "region": "Normandie (pays d'Auge)",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1975)",
+  "confiance": "sure"
+ },
+ "fromages_parmigiano-reggiano": {
+  "region": "Émilie-Romagne (Italie)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_mozzarella": {
+  "region": "Campanie (Italie)",
+  "lait": "Bufflonne · Vache",
+  "appellation": "STG",
+  "confiance": "a_verifier",
+  "note": "La mozzarella générique est STG, mais la mozzarella di bufala campana est AOP : l'appellation dépend de la variante visée."
+ },
+ "fromages_gorgonzola-fromage": {
+  "region": "Lombardie · Piémont (Italie)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_pecorino-romano": {
+  "region": "Latium (Italie)",
+  "lait": "Brebis",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_ricotta": {
+  "region": "Italie",
+  "lait": "Vache · Brebis · Chèvre · Bufflonne",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "Produit de lactosérum plus que fromage au sens strict ; certaines variantes (ricotta romana) sont AOP."
+ },
+ "fromages_cheddar": {
+  "region": "Somerset (Angleterre, Royaume-Uni)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "La carte décrit le village ; le cheddar générique n'est pas protégé mais le West Country Farmhouse Cheddar est AOP."
+ },
+ "fromages_stilton-fromage": {
+  "region": "Angleterre (Royaume-Uni)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_gouda-fromage": {
+  "region": "Hollande-Méridionale (Pays-Bas)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "Le gouda générique n'est pas protégé, mais le Gouda Holland est IGP."
+ },
+ "fromages_edam-fromage": {
+  "region": "Hollande-Septentrionale (Pays-Bas)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "L'édam générique n'est pas protégé, mais l'Edam Holland est IGP."
+ },
+ "fromages_emmental": {
+  "region": "Canton de Berne (Suisse)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (Suisse)",
+  "confiance": "a_verifier",
+  "note": "L'Emmentaler suisse est AOP, mais le nom est générique ailleurs (emmental de Savoie et emmental français est-central sont IGP)."
+ },
+ "fromages_gruyere-fromage": {
+  "region": "Canton de Fribourg (Suisse)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (Suisse)",
+  "confiance": "sure"
+ },
+ "fromages_feta": {
+  "region": "Grèce",
+  "lait": "Brebis · Chèvre",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_manchego": {
+  "region": "Castille-La Manche (Espagne)",
+  "lait": "Brebis",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_halloumi": {
+  "region": "Chypre",
+  "lait": "Chèvre · Brebis · Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_mascarpone": {
+  "region": "Lombardie (Italie)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "sure"
+ },
+ "fromages_burrata": {
+  "region": "Pouilles (Italie)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "La burrata générique n'est pas protégée, mais la Burrata di Andria est IGP."
+ },
+ "fromages_raclette-fromage": {
+  "region": "Valais (Suisse)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (Suisse)",
+  "confiance": "a_verifier",
+  "note": "Seule la Raclette du Valais est AOP suisse ; la raclette de Savoie est IGP et le nom reste générique ailleurs."
+ },
+ "fromages_bleu-de-gex-haut-jura": {
+  "region": "Haut-Jura (Ain · Jura)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1977)",
+  "confiance": "sure"
+ },
+ "fromages_ossau-iraty": {
+  "region": "Pays basque · Béarn",
+  "lait": "Brebis",
+  "appellation": "AOP (AOC depuis 1980)",
+  "confiance": "sure"
+ },
+ "fromages_vacherin-fromage": {
+  "region": "Jura (France · Suisse) · Savoie",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "Le nom désigne plusieurs fromages aux statuts différents (Mont d'Or AOP, vacherin fribourgeois AOP suisse, vacherin des Bauges sans label)."
+ },
+ "fromages_saint-marcellin": {
+  "region": "Dauphiné",
+  "lait": "Vache",
+  "appellation": "IGP",
+  "confiance": "sure"
+ },
+ "fromages_pont-l-eveque": {
+  "region": "Normandie (pays d'Auge)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_chaource-fromage": {
+  "region": "Champagne (Aube)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_langres-fromage": {
+  "region": "Champagne (Haute-Marne)",
+  "lait": "Vache",
+  "appellation": "AOP (AOC depuis 1991)",
+  "confiance": "sure"
+ },
+ "fromages_coulommiers-fromage": {
+  "region": "Île-de-France (Brie)",
+  "lait": "Vache",
+  "appellation": "Aucune",
+  "confiance": "sure"
+ },
+ "fromages_brillat-savarin-fromage": {
+  "region": "Normandie · Bourgogne",
+  "lait": "Vache",
+  "appellation": "IGP",
+  "confiance": "a_verifier",
+  "note": "Créé en Normandie, mais l'aire de l'IGP (2017) est centrée sur la Bourgogne et l'Île-de-France ; date et aire à confirmer."
+ },
+ "fromages_abondance-fromage": {
+  "region": "Savoie (Haute-Savoie)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1990)",
+  "confiance": "sure"
+ },
+ "fromages_salers-fromage": {
+  "region": "Auvergne (Cantal)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1961)",
+  "confiance": "sure"
+ },
+ "fromages_laguiole-fromage": {
+  "region": "Aubrac (Aveyron)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (AOC depuis 1961)",
+  "confiance": "sure"
+ },
+ "fromages_rocamadour-fromage": {
+  "region": "Quercy (Lot)",
+  "lait": "Chèvre (cru)",
+  "appellation": "AOP (AOC depuis 1996)",
+  "confiance": "sure"
+ },
+ "fromages_sainte-maure-de-touraine": {
+  "region": "Touraine (Centre-Val de Loire)",
+  "lait": "Chèvre (cru)",
+  "appellation": "AOP (AOC depuis 1990)",
+  "confiance": "sure"
+ },
+ "fromages_valencay-fromage": {
+  "region": "Berry (Centre-Val de Loire)",
+  "lait": "Chèvre (cru)",
+  "appellation": "AOP (AOC depuis 1998)",
+  "confiance": "sure"
+ },
+ "fromages_banon-fromage": {
+  "region": "Provence (Alpes-de-Haute-Provence)",
+  "lait": "Chèvre (cru)",
+  "appellation": "AOP (AOC depuis 2003)",
+  "confiance": "sure"
+ },
+ "fromages_brocciu": {
+  "region": "Corse",
+  "lait": "Brebis · Chèvre",
+  "appellation": "AOP (AOC depuis 1998)",
+  "confiance": "a_verifier",
+  "note": "Contre-vérification : la date d'AOC 1998 suit la carte, mais plusieurs sources datent le décret AOC du brocciu de 1983 (AOP en 1998) ; date à confirmer."
+ },
+ "fromages_cancoillotte": {
+  "region": "Franche-Comté",
+  "lait": "Vache",
+  "appellation": "IGP",
+  "confiance": "a_verifier",
+  "note": "IGP obtenue récemment (vers 2023), date à confirmer ; spécialité fromagère fondue plus que fromage affiné."
+ },
+ "fromages_tete-de-moine": {
+  "region": "Jura bernois (Suisse)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP (Suisse)",
+  "confiance": "sure"
+ },
+ "fromages_taleggio": {
+  "region": "Lombardie (Italie)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure",
+  "note": "La carte décrit la commune de la province de Bergame ; les données valent pour le fromage qui en porte le nom."
+ },
+ "fromages_provolone-valpadana": {
+  "region": "Plaine du Pô (Italie)",
+  "lait": "Vache",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_grana-padano": {
+  "region": "Plaine du Pô (Italie)",
+  "lait": "Vache (cru)",
+  "appellation": "AOP",
+  "confiance": "sure"
+ },
+ "fromages_cabrales": {
+  "region": "Asturies (Espagne)",
+  "lait": "Vache · Brebis · Chèvre (cru)",
+  "appellation": "AOP",
+  "confiance": "sure",
+  "note": "La carte décrit la commune asturienne ; les données valent pour le fromage qui en porte le nom."
+ },
+ "fromages_wensleydale-fromage": {
+  "region": "Yorkshire du Nord (Angleterre, Royaume-Uni)",
+  "lait": "Vache",
+  "appellation": "IGP",
+  "confiance": "a_verifier",
+  "note": "Seul le Yorkshire Wensleydale est IGP ; le nom seul n'est pas protégé."
+ },
+ "fromages_brunost": {
+  "region": "Norvège",
+  "lait": "Vache · Chèvre",
+  "appellation": "Aucune",
+  "confiance": "a_verifier",
+  "note": "Réduction de lactosérum plus que fromage au sens strict ; selon les variantes, lait de vache, de chèvre ou mélange."
+ },
+ "fromages_panir": {
+  "region": "Inde",
+  "lait": "Bufflonne · Vache",
+  "appellation": "Aucune",
+  "confiance": "sure"
+ }
+}

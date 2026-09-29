@@ -1,0 +1,741 @@
+{
+ "grandes-batailles-historiques_bataille-de-marathon": {
+  "date": "490 av. J.-C.",
+  "lieu": "Marathon (Grèce)",
+  "guerre": "Première guerre médique",
+  "vainqueur": "Athènes et Platées (Miltiade)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-thermopyles": {
+  "date": "480 av. J.-C.",
+  "lieu": "Thermopyles (Grèce)",
+  "guerre": "Seconde guerre médique",
+  "vainqueur": "Empire perse (Xerxès Ier)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-salamine": {
+  "date": "480 av. J.-C.",
+  "lieu": "Détroit de Salamine (Grèce)",
+  "guerre": "Seconde guerre médique",
+  "vainqueur": "Cités grecques (Thémistocle)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-gaugameles": {
+  "date": "1er octobre 331 av. J.-C.",
+  "lieu": "Gaugamèles (Irak)",
+  "guerre": "Conquêtes d'Alexandre le Grand",
+  "vainqueur": "Macédoine (Alexandre le Grand)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-cannes": {
+  "date": "2 août 216 av. J.-C.",
+  "lieu": "Cannes (Italie)",
+  "guerre": "Deuxième guerre punique",
+  "vainqueur": "Carthage (Hannibal)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-zama": {
+  "date": "202 av. J.-C.",
+  "lieu": "Zama (Tunisie)",
+  "guerre": "Deuxième guerre punique",
+  "vainqueur": "Rome (Scipion l'Africain)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-actium": {
+  "date": "2 septembre 31 av. J.-C.",
+  "lieu": "Actium (Grèce)",
+  "guerre": "Dernière guerre civile de la République romaine",
+  "vainqueur": "Octavien (Agrippa)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-teutobourg": {
+  "date": "septembre 9 apr. J.-C.",
+  "lieu": "Forêt de Teutobourg (Allemagne)",
+  "guerre": "Campagnes romaines en Germanie",
+  "vainqueur": "Germains (Arminius)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-andrinople-378": {
+  "date": "9 août 378",
+  "lieu": "Andrinople, auj. Edirne (Turquie)",
+  "guerre": "Guerre gothique (376-382)",
+  "vainqueur": "Goths (Fritigern)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-poitiers-732": {
+  "date": "25 octobre 732",
+  "lieu": "Entre Poitiers et Tours (France)",
+  "guerre": "Invasions omeyyades en Gaule",
+  "vainqueur": "Francs (Charles Martel)",
+  "confiance": "a_verifier",
+  "note": "Date traditionnelle : certains historiens penchent pour 733 et le lieu exact reste débattu."
+ },
+ "grandes-batailles-historiques_bataille-d-hastings": {
+  "date": "14 octobre 1066",
+  "lieu": "Près d'Hastings (Royaume-Uni)",
+  "guerre": "Conquête normande de l'Angleterre",
+  "vainqueur": "Normands (Guillaume le Conquérant)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-champs-catalauniques-451": {
+  "date": "451",
+  "lieu": "Champs catalauniques (France)",
+  "guerre": "Invasion de la Gaule par les Huns",
+  "vainqueur": "Romains et Wisigoths (Aetius)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-manzikert": {
+  "date": "26 août 1071",
+  "lieu": "Manzikert, auj. Malazgirt (Turquie)",
+  "guerre": "Guerres byzantino-seldjoukides",
+  "vainqueur": "Seldjoukides (Alp Arslan)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-hattin": {
+  "date": "4 juillet 1187",
+  "lieu": "Hattin, près du lac de Tibériade (Israël)",
+  "guerre": "Croisades (reconquête de Saladin)",
+  "vainqueur": "Ayyoubides (Saladin)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-courtrai-1302": {
+  "date": "11 juillet 1302",
+  "lieu": "Courtrai (Belgique)",
+  "guerre": "Guerre de Flandre",
+  "vainqueur": "Milices flamandes",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-bannockburn": {
+  "date": "23-24 juin 1314",
+  "lieu": "Bannockburn (Royaume-Uni)",
+  "guerre": "Première guerre d'indépendance de l'Écosse",
+  "vainqueur": "Écosse (Robert Bruce)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-crecy": {
+  "date": "26 août 1346",
+  "lieu": "Crécy-en-Ponthieu (France)",
+  "guerre": "Guerre de Cent Ans",
+  "vainqueur": "Angleterre (Édouard III)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-azincourt": {
+  "date": "25 octobre 1415",
+  "lieu": "Azincourt (France)",
+  "guerre": "Guerre de Cent Ans",
+  "vainqueur": "Angleterre (Henri V)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-castillon": {
+  "date": "17 juillet 1453",
+  "lieu": "Castillon-la-Bataille (France)",
+  "guerre": "Guerre de Cent Ans",
+  "vainqueur": "France (Charles VII)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-nicopolis": {
+  "date": "25 septembre 1396",
+  "lieu": "Nicopolis, auj. Nikopol (Bulgarie)",
+  "guerre": "Croisade de Nicopolis",
+  "vainqueur": "Empire ottoman (Bayezid Ier)",
+  "confiance": "a_verifier",
+  "note": "L'article français donne le 28 septembre, la plupart des sources le 25 septembre 1396."
+ },
+ "grandes-batailles-historiques_chute-de-constantinople": {
+  "date": "6 avril-29 mai 1453",
+  "lieu": "Constantinople, auj. Istanbul (Turquie)",
+  "guerre": "Guerres byzantino-ottomanes",
+  "vainqueur": "Empire ottoman (Mehmed II)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-lepante": {
+  "date": "7 octobre 1571",
+  "lieu": "Golfe de Patras, près de Naupacte (Grèce)",
+  "guerre": "Quatrième guerre vénéto-ottomane",
+  "vainqueur": "Sainte Ligue (Don Juan d'Autriche)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_invincible-armada": {
+  "date": "juillet-août 1588",
+  "lieu": "Manche et mer du Nord",
+  "guerre": "Guerre anglo-espagnole (1585-1604)",
+  "vainqueur": "Angleterre",
+  "confiance": "a_verifier",
+  "note": "La carte désigne une flotte, non une bataille : dates des combats de la Manche, dont Gravelines le 8 août 1588."
+ },
+ "grandes-batailles-historiques_bataille-de-breitenfeld-1631": {
+  "date": "17 septembre 1631",
+  "lieu": "Breitenfeld, près de Leipzig (Allemagne)",
+  "guerre": "Guerre de Trente Ans",
+  "vainqueur": "Suède et Saxe (Gustave II Adolphe)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-rocroi": {
+  "date": "19 mai 1643",
+  "lieu": "Rocroi (France)",
+  "guerre": "Guerre de Trente Ans",
+  "vainqueur": "France (duc d'Enghien)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-poltava": {
+  "date": "8 juillet 1709",
+  "lieu": "Poltava (Ukraine)",
+  "guerre": "Grande guerre du Nord",
+  "vainqueur": "Russie (Pierre le Grand)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-yorktown": {
+  "date": "28 septembre-19 octobre 1781",
+  "lieu": "Yorktown (États-Unis)",
+  "guerre": "Guerre d'indépendance des États-Unis",
+  "vainqueur": "Américains et Français (Washington, Rochambeau)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-valmy": {
+  "date": "20 septembre 1792",
+  "lieu": "Valmy (France)",
+  "guerre": "Guerres de la Révolution française",
+  "vainqueur": "France (Kellermann, Dumouriez)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-austerlitz": {
+  "date": "2 décembre 1805",
+  "lieu": "Austerlitz (Tchéquie)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "France (Napoléon Ier)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-trafalgar": {
+  "date": "21 octobre 1805",
+  "lieu": "Cap Trafalgar (Espagne)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "Royaume-Uni (Nelson)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-waterloo": {
+  "date": "18 juin 1815",
+  "lieu": "Waterloo (Belgique)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "Coalition (Wellington, Blücher)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_siege-de-sebastopol-1854-1855": {
+  "date": "9 octobre 1854-11 septembre 1855",
+  "lieu": "Sébastopol (Crimée)",
+  "guerre": "Guerre de Crimée",
+  "vainqueur": "France, Royaume-Uni, Empire ottoman et Piémont-Sardaigne",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-gettysburg": {
+  "date": "1er-3 juillet 1863",
+  "lieu": "Gettysburg (États-Unis)",
+  "guerre": "Guerre de Sécession",
+  "vainqueur": "Union (Meade)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-sedan": {
+  "date": "1er septembre 1870",
+  "lieu": "Sedan (France)",
+  "guerre": "Guerre franco-allemande de 1870",
+  "vainqueur": "Prusse et États allemands (Moltke)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-la-marne-1914": {
+  "date": "5-12 septembre 1914",
+  "lieu": "Vallée de la Marne (France)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "France et Royaume-Uni (Joffre)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-verdun": {
+  "date": "21 février-18 décembre 1916",
+  "lieu": "Verdun (France)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "France",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-la-somme": {
+  "date": "1er juillet-18 novembre 1916",
+  "lieu": "Somme (France)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Indécis",
+  "confiance": "a_verifier",
+  "note": "Issue discutée : jugée indécise par l'usage, parfois présentée comme victoire stratégique alliée."
+ },
+ "grandes-batailles-historiques_bataille-de-stalingrad": {
+  "date": "17 juillet 1942-2 février 1943",
+  "lieu": "Stalingrad, auj. Volgograd (Russie)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "URSS",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-midway": {
+  "date": "4-7 juin 1942",
+  "lieu": "Îles Midway (océan Pacifique)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "États-Unis",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_debarquement-de-normandie": {
+  "date": "6 juin 1944",
+  "lieu": "Normandie (France)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Alliés",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-ardennes": {
+  "date": "16 décembre 1944-25 janvier 1945",
+  "lieu": "Ardennes (Belgique, Luxembourg)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Alliés",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-dien-bien-phu": {
+  "date": "13 mars-7 mai 1954",
+  "lieu": "Diên Biên Phu (Viêt Nam)",
+  "guerre": "Guerre d'Indochine",
+  "vainqueur": "Viêt Minh (Giáp)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-khe-sanh": {
+  "date": "21 janvier-8 avril 1968",
+  "lieu": "Khe Sanh (Viêt Nam)",
+  "guerre": "Guerre du Viêt Nam",
+  "vainqueur": "Indécis",
+  "confiance": "a_verifier",
+  "note": "Issue revendiquée par les deux camps ; les Américains évacuent la base en juillet 1968."
+ },
+ "grandes-batailles-historiques_deuxieme-bataille-de-falloujah": {
+  "date": "7 novembre-23 décembre 2004",
+  "lieu": "Falloujah (Irak)",
+  "guerre": "Guerre d'Irak",
+  "vainqueur": "États-Unis et gouvernement irakien",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-qadesh": {
+  "date": "vers 1274 av. J.-C.",
+  "lieu": "Qadesh (Syrie)",
+  "guerre": "Guerres égypto-hittites",
+  "vainqueur": "Indécis",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-megiddo-1918": {
+  "date": "19-25 septembre 1918",
+  "lieu": "Plaines de Sharon et d'Esdraelon (Israël)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Royaume-Uni et alliés (Allenby)",
+  "confiance": "a_verifier",
+  "note": "L'article français borne les combats du 19 au 21 septembre, d'autres sources jusqu'au 25."
+ },
+ "grandes-batailles-historiques_bataille-de-platees": {
+  "date": "479 av. J.-C.",
+  "lieu": "Platées (Grèce)",
+  "guerre": "Seconde guerre médique",
+  "vainqueur": "Cités grecques (Pausanias)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-issos": {
+  "date": "novembre 333 av. J.-C.",
+  "lieu": "Issos (Turquie)",
+  "guerre": "Conquêtes d'Alexandre le Grand",
+  "vainqueur": "Macédoine (Alexandre le Grand)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-du-lac-trasimene": {
+  "date": "21 juin 217 av. J.-C.",
+  "lieu": "Lac Trasimène (Italie)",
+  "guerre": "Deuxième guerre punique",
+  "vainqueur": "Carthage (Hannibal)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-pharsale": {
+  "date": "9 août 48 av. J.-C.",
+  "lieu": "Pharsale (Grèce)",
+  "guerre": "Guerre civile de César",
+  "vainqueur": "César",
+  "confiance": "a_verifier",
+  "note": "Jour incertain : 9 août selon le calendrier romain d'alors, 29 juin selon certaines conversions."
+ },
+ "grandes-batailles-historiques_siege-d-alesia": {
+  "date": "juillet-septembre 52 av. J.-C.",
+  "lieu": "Alise-Sainte-Reine (France)",
+  "guerre": "Guerre des Gaules",
+  "vainqueur": "Rome (Jules César)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-philippes": {
+  "date": "3 et 23 octobre 42 av. J.-C.",
+  "lieu": "Philippes (Grèce)",
+  "guerre": "Guerre civile des libérateurs",
+  "vainqueur": "Triumvirs (Octave et Antoine)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-du-pont-milvius": {
+  "date": "28 octobre 312",
+  "lieu": "Pont Milvius, Rome (Italie)",
+  "guerre": "Guerres civiles de la Tétrarchie",
+  "vainqueur": "Constantin",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-roncevaux-778": {
+  "date": "15 août 778",
+  "lieu": "Col de Roncevaux (Espagne)",
+  "guerre": "Campagne de Charlemagne en Espagne",
+  "vainqueur": "Vascons (Basques)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-bouvines": {
+  "date": "27 juillet 1214",
+  "lieu": "Bouvines (France)",
+  "guerre": "Guerre franco-anglaise de 1213-1214",
+  "vainqueur": "France (Philippe Auguste)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-kosovo-polje": {
+  "date": "15 juin 1389",
+  "lieu": "Kosovo Polje (Kosovo)",
+  "guerre": "Guerres serbo-ottomanes",
+  "vainqueur": "Empire ottoman (Mourad Ier)",
+  "confiance": "a_verifier",
+  "note": "Issue tactique indécise, les deux souverains y meurent ; victoire stratégique ottomane."
+ },
+ "grandes-batailles-historiques_bataille-de-grunwald": {
+  "date": "15 juillet 1410",
+  "lieu": "Grunwald (Pologne)",
+  "guerre": "Guerre polono-lituano-teutonique",
+  "vainqueur": "Pologne-Lituanie (Ladislas II Jagellon)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_siege-d-orleans-1428-1429": {
+  "date": "12 octobre 1428-8 mai 1429",
+  "lieu": "Orléans (France)",
+  "guerre": "Guerre de Cent Ans",
+  "vainqueur": "France (Jeanne d'Arc)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-marignan": {
+  "date": "13-14 septembre 1515",
+  "lieu": "Marignan, auj. Melegnano (Italie)",
+  "guerre": "Guerres d'Italie",
+  "vainqueur": "France et Venise (François Ier)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-pavie-1525": {
+  "date": "24 février 1525",
+  "lieu": "Pavie (Italie)",
+  "guerre": "Guerres d'Italie",
+  "vainqueur": "Saint-Empire et Espagne (Charles Quint)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-mohacs-1526": {
+  "date": "29 août 1526",
+  "lieu": "Mohács (Hongrie)",
+  "guerre": "Guerres ottomano-hongroises",
+  "vainqueur": "Empire ottoman (Soliman le Magnifique)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_siege-de-vienne-1683": {
+  "date": "14 juillet-12 septembre 1683",
+  "lieu": "Vienne (Autriche)",
+  "guerre": "Grande guerre turque",
+  "vainqueur": "Saint-Empire et Pologne (Jean III Sobieski)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-hochstadt-1704": {
+  "date": "13 août 1704",
+  "lieu": "Höchstädt et Blindheim (Allemagne)",
+  "guerre": "Guerre de Succession d'Espagne",
+  "vainqueur": "Grande Alliance (Marlborough, Eugène de Savoie)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-plaines-d-abraham": {
+  "date": "13 septembre 1759",
+  "lieu": "Québec (Canada)",
+  "guerre": "Guerre de Sept Ans (guerre de la Conquête)",
+  "vainqueur": "Grande-Bretagne (Wolfe)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-pyramides": {
+  "date": "21 juillet 1798",
+  "lieu": "Embabeh, près du Caire (Égypte)",
+  "guerre": "Campagne d'Égypte",
+  "vainqueur": "France (Bonaparte)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-iena": {
+  "date": "14 octobre 1806",
+  "lieu": "Iéna (Allemagne)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "France (Napoléon Ier)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-la-moskova": {
+  "date": "7 septembre 1812",
+  "lieu": "Borodino (Russie)",
+  "guerre": "Campagne de Russie (guerres napoléoniennes)",
+  "vainqueur": "France (Napoléon Ier)",
+  "confiance": "a_verifier",
+  "note": "Victoire française à la Pyrrhus, souvent jugée indécise par l'historiographie russe."
+ },
+ "grandes-batailles-historiques_bataille-de-leipzig-1642": {
+  "date": "23 octobre 1642",
+  "lieu": "Breitenfeld, près de Leipzig (Allemagne)",
+  "guerre": "Guerre de Trente Ans",
+  "vainqueur": "Suède (Torstensson)",
+  "confiance": "a_verifier",
+  "note": "L'article donne les 23 et 24 octobre ; date julienne, soit le 2 novembre 1642 en grégorien."
+ },
+ "grandes-batailles-historiques_bataille-de-wagram": {
+  "date": "5-6 juillet 1809",
+  "lieu": "Wagram (Autriche)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "France (Napoléon Ier)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_siege-de-fort-alamo": {
+  "date": "23 février-6 mars 1836",
+  "lieu": "San Antonio (États-Unis)",
+  "guerre": "Révolution texane",
+  "vainqueur": "Mexique (Santa Anna)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-little-bighorn": {
+  "date": "25-26 juin 1876",
+  "lieu": "Little Bighorn, Montana (États-Unis)",
+  "guerre": "Grande guerre sioux de 1876",
+  "vainqueur": "Sioux et Cheyennes (Sitting Bull, Crazy Horse)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-tsushima": {
+  "date": "27-28 mai 1905",
+  "lieu": "Détroit de Tsushima (entre Corée et Japon)",
+  "guerre": "Guerre russo-japonaise",
+  "vainqueur": "Japon (Tōgō)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-des-dardanelles": {
+  "date": "18 mars 1915-9 janvier 1916",
+  "lieu": "Péninsule de Gallipoli (Turquie)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Empire ottoman",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-tannenberg-1914": {
+  "date": "26-30 août 1914",
+  "lieu": "Tannenberg, auj. Stębark (Pologne)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Allemagne (Hindenburg, Ludendorff)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-ypres-1915": {
+  "date": "22 avril-25 mai 1915",
+  "lieu": "Ypres (Belgique)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Indécis",
+  "confiance": "a_verifier",
+  "note": "Issue discutée : Ypres tient mais les Allemands gagnent du terrain ; parfois dite indécise."
+ },
+ "grandes-batailles-historiques_bataille-du-chemin-des-dames": {
+  "date": "16 avril-24 octobre 1917",
+  "lieu": "Chemin des Dames, Aisne (France)",
+  "guerre": "Première Guerre mondiale",
+  "vainqueur": "Allemagne (échec de l'offensive Nivelle)",
+  "confiance": "a_verifier",
+  "note": "Résultats discutés : échec français initial, mais gains locaux en fin d'année (La Malmaison)."
+ },
+ "grandes-batailles-historiques_attaque-de-pearl-harbor": {
+  "date": "7 décembre 1941",
+  "lieu": "Pearl Harbor, Hawaï (États-Unis)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Japon",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-angleterre": {
+  "date": "10 juillet-31 octobre 1940",
+  "lieu": "Ciel du Royaume-Uni",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Royaume-Uni (RAF)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_seconde-bataille-d-el-alamein": {
+  "date": "23 octobre-3 novembre 1942",
+  "lieu": "El-Alamein (Égypte)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Royaume-Uni et Commonwealth (Montgomery)",
+  "confiance": "a_verifier",
+  "note": "Fin datée du 3 novembre dans l'article français, du 11 novembre dans d'autres sources."
+ },
+ "grandes-batailles-historiques_bataille-de-koursk": {
+  "date": "5 juillet-23 août 1943",
+  "lieu": "Koursk (Russie)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "URSS",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_siege-de-leningrad": {
+  "date": "8 septembre 1941-27 janvier 1944",
+  "lieu": "Léningrad, auj. Saint-Pétersbourg (Russie)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "URSS",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-guadalcanal": {
+  "date": "7 août 1942-9 février 1943",
+  "lieu": "Guadalcanal (Îles Salomon)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Alliés (États-Unis)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-monte-cassino": {
+  "date": "17 janvier-18 mai 1944",
+  "lieu": "Mont Cassin (Italie)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Alliés",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-iwo-jima": {
+  "date": "19 février-26 mars 1945",
+  "lieu": "Iwo Jima (Japon)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "États-Unis",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-berlin": {
+  "date": "16 avril-2 mai 1945",
+  "lieu": "Berlin (Allemagne)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "URSS",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_debarquement-de-la-baie-des-cochons": {
+  "date": "17-19 avril 1961",
+  "lieu": "Baie des Cochons (Cuba)",
+  "guerre": "Guerre froide",
+  "vainqueur": "Cuba (Fidel Castro)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-mogadiscio": {
+  "date": "3-4 octobre 1993",
+  "lieu": "Mogadiscio (Somalie)",
+  "guerre": "Guerre civile somalienne (intervention de l'ONU)",
+  "vainqueur": "Indécis",
+  "confiance": "a_verifier",
+  "note": "Mission américaine remplie mais pertes lourdes et retrait ensuite : vainqueur discuté."
+ },
+ "grandes-batailles-historiques_bataille-d-ain-djalout": {
+  "date": "3 septembre 1260",
+  "lieu": "Aïn Djalout, vallée de Jezreel (Israël)",
+  "guerre": "Invasions mongoles du Levant",
+  "vainqueur": "Mamelouks (Qutuz, Baybars)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-talas": {
+  "date": "juillet 751",
+  "lieu": "Rivière Talas (Kirghizistan)",
+  "guerre": "Conflit entre Abbassides et Tang en Asie centrale",
+  "vainqueur": "Califat abbasside",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-sekigahara": {
+  "date": "21 octobre 1600",
+  "lieu": "Sekigahara (Japon)",
+  "guerre": "Fin de l'époque Sengoku",
+  "vainqueur": "Armée de l'Est (Tokugawa Ieyasu)",
+  "confiance": "a_verifier",
+  "note": "L'article français donne les 20 et 21 octobre ; la bataille décisive est le 21 octobre 1600."
+ },
+ "grandes-batailles-historiques_bataille-de-plassey": {
+  "date": "23 juin 1757",
+  "lieu": "Palashi (Inde)",
+  "guerre": "Guerre de Sept Ans (conquête du Bengale)",
+  "vainqueur": "Compagnie britannique des Indes orientales (Clive)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-culloden": {
+  "date": "16 avril 1746",
+  "lieu": "Culloden (Royaume-Uni)",
+  "guerre": "Soulèvement jacobite de 1745",
+  "vainqueur": "Grande-Bretagne (duc de Cumberland)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_batailles-de-saratoga": {
+  "date": "19 septembre et 7 octobre 1777",
+  "lieu": "Saratoga (États-Unis)",
+  "guerre": "Guerre d'indépendance des États-Unis",
+  "vainqueur": "Américains (Horatio Gates)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-aboukir-1798": {
+  "date": "1er-2 août 1798",
+  "lieu": "Baie d'Aboukir (Égypte)",
+  "guerre": "Campagne d'Égypte",
+  "vainqueur": "Royaume-Uni (Nelson)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-eylau": {
+  "date": "7-8 février 1807",
+  "lieu": "Eylau, auj. Bagrationovsk (Russie)",
+  "guerre": "Guerres napoléoniennes",
+  "vainqueur": "Indécis",
+  "confiance": "a_verifier",
+  "note": "Issue discutée : la France reste maître du terrain, souvent dite victoire française à la Pyrrhus."
+ },
+ "grandes-batailles-historiques_bataille-de-solferino": {
+  "date": "24 juin 1859",
+  "lieu": "Solférino (Italie)",
+  "guerre": "Deuxième guerre d'indépendance italienne",
+  "vainqueur": "France et Piémont-Sardaigne (Napoléon III)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-sadowa": {
+  "date": "3 juillet 1866",
+  "lieu": "Sadová, près de Hradec Králové (Tchéquie)",
+  "guerre": "Guerre austro-prussienne",
+  "vainqueur": "Prusse (Moltke)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-isandhlwana": {
+  "date": "22 janvier 1879",
+  "lieu": "Isandlwana (Afrique du Sud)",
+  "guerre": "Guerre anglo-zouloue",
+  "vainqueur": "Zoulous",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-d-adoua": {
+  "date": "1er mars 1896",
+  "lieu": "Adoua (Éthiopie)",
+  "guerre": "Première guerre italo-éthiopienne",
+  "vainqueur": "Éthiopie (Menelik II)",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-de-dunkerque": {
+  "date": "20 mai-4 juin 1940",
+  "lieu": "Dunkerque (France)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Allemagne",
+  "confiance": "a_verifier",
+  "note": "Bornes variables selon les sources ; défaite alliée mais évacuation réussie (opération Dynamo)."
+ },
+ "grandes-batailles-historiques_bataille-de-bir-hakeim": {
+  "date": "27 mai-11 juin 1942",
+  "lieu": "Bir Hakeim (Libye)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "Axe (Rommel)",
+  "confiance": "a_verifier",
+  "note": "Position abandonnée par les Français libres, mais sortie réussie et retard infligé : souvent présentée comme succès français."
+ },
+ "grandes-batailles-historiques_bataille-d-okinawa": {
+  "date": "1er avril-22 juin 1945",
+  "lieu": "Okinawa (Japon)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "États-Unis",
+  "confiance": "sure"
+ },
+ "grandes-batailles-historiques_bataille-du-golfe-de-leyte": {
+  "date": "23-26 octobre 1944",
+  "lieu": "Golfe de Leyte (Philippines)",
+  "guerre": "Seconde Guerre mondiale",
+  "vainqueur": "États-Unis",
+  "confiance": "sure"
+ }
+}

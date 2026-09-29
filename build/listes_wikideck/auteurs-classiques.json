@@ -1,0 +1,1071 @@
+{
+ "auteurs-classiques_homere": {
+  "dates": "VIIIe siècle av. J.-C. (présumé)",
+  "nationalite": "Grec",
+  "mouvement": "Épopée grecque archaïque",
+  "oeuvres": "Iliade · Odyssée",
+  "confiance": "a_verifier",
+  "note": "Existence historique et datation d'Homère débattues : la date est une convention."
+ },
+ "auteurs-classiques_sophocle": {
+  "dates": "vers 495-406 av. J.-C.",
+  "nationalite": "Grec (Athènes)",
+  "mouvement": "Tragédie grecque classique",
+  "oeuvres": "Œdipe roi · Antigone · Électre",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_euripide": {
+  "dates": "vers 480-406 av. J.-C.",
+  "nationalite": "Grec (Athènes)",
+  "mouvement": "Tragédie grecque classique",
+  "oeuvres": "Médée · Les Bacchantes · Les Troyennes",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_virgile": {
+  "dates": "70-19 av. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Littérature latine (siècle d'Auguste)",
+  "oeuvres": "Énéide · Géorgiques · Bucoliques",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_ovide": {
+  "dates": "43 av. J.-C.-vers 17 apr. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Littérature latine (siècle d'Auguste)",
+  "oeuvres": "Les Métamorphoses · L'Art d'aimer · Les Tristes",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_dante-alighieri": {
+  "dates": "1265-1321",
+  "nationalite": "Italien (Florence)",
+  "mouvement": "Moyen Âge (Dolce stil novo)",
+  "oeuvres": "La Divine Comédie · Vita nova",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_geoffrey-chaucer": {
+  "dates": "vers 1343-1400",
+  "nationalite": "Anglais",
+  "mouvement": "Littérature médiévale anglaise",
+  "oeuvres": "Les Contes de Canterbury · Troïlus et Criseyde",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_francois-rabelais": {
+  "dates": "vers 1494-1553",
+  "nationalite": "Français",
+  "mouvement": "Humanisme (Renaissance)",
+  "oeuvres": "Pantagruel · Gargantua · Le Tiers Livre",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_michel-de-montaigne": {
+  "dates": "1533-1592",
+  "nationalite": "Français",
+  "mouvement": "Humanisme (Renaissance)",
+  "oeuvres": "Essais",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_william-shakespeare": {
+  "dates": "1564-1616",
+  "nationalite": "Anglais",
+  "mouvement": "Théâtre élisabéthain",
+  "oeuvres": "Hamlet · Roméo et Juliette · Macbeth",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_miguel-de-cervantes": {
+  "dates": "1547-1616",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol",
+  "oeuvres": "Don Quichotte · Nouvelles exemplaires",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_moliere": {
+  "dates": "1622-1673",
+  "nationalite": "Français",
+  "mouvement": "Classicisme",
+  "oeuvres": "Le Misanthrope · Tartuffe · L'Avare",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jean-racine": {
+  "dates": "1639-1699",
+  "nationalite": "Français",
+  "mouvement": "Classicisme",
+  "oeuvres": "Phèdre · Andromaque · Britannicus",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_john-milton": {
+  "dates": "1608-1674",
+  "nationalite": "Anglais",
+  "mouvement": "Poésie épique anglaise du XVIIe siècle",
+  "oeuvres": "Le Paradis perdu · Le Paradis reconquis · Areopagitica",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jonathan-swift": {
+  "dates": "1667-1745",
+  "nationalite": "Irlandais",
+  "mouvement": "Satire (Lumières anglaises)",
+  "oeuvres": "Les Voyages de Gulliver · Modeste Proposition · Le Conte du tonneau",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_voltaire": {
+  "dates": "1694-1778",
+  "nationalite": "Français",
+  "mouvement": "Lumières",
+  "oeuvres": "Candide · Zadig · Lettres philosophiques",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jean-jacques-rousseau": {
+  "dates": "1712-1778",
+  "nationalite": "Genevois",
+  "mouvement": "Lumières",
+  "oeuvres": "Du contrat social · Les Confessions · Émile ou De l'éducation",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_denis-diderot": {
+  "dates": "1713-1784",
+  "nationalite": "Français",
+  "mouvement": "Lumières",
+  "oeuvres": "L'Encyclopédie · Jacques le Fataliste · Le Neveu de Rameau",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_johann-wolfgang-von-goethe": {
+  "dates": "1749-1832",
+  "nationalite": "Allemand",
+  "mouvement": "Sturm und Drang · Classicisme de Weimar",
+  "oeuvres": "Faust · Les Souffrances du jeune Werther · Les Années d'apprentissage de Wilhelm Meister",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_friedrich-schiller": {
+  "dates": "1759-1805",
+  "nationalite": "Allemand",
+  "mouvement": "Sturm und Drang · Classicisme de Weimar",
+  "oeuvres": "Les Brigands · Guillaume Tell · Don Carlos",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jane-austen": {
+  "dates": "1775-1817",
+  "nationalite": "Anglaise",
+  "mouvement": "Roman de mœurs (époque de la Régence)",
+  "oeuvres": "Orgueil et Préjugés · Raison et Sentiments · Emma",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_walter-scott": {
+  "dates": "1771-1832",
+  "nationalite": "Écossais",
+  "mouvement": "Romantisme (roman historique)",
+  "oeuvres": "Ivanhoé · Waverley · Rob Roy",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alexandre-pouchkine": {
+  "dates": "1799-1837",
+  "nationalite": "Russe",
+  "mouvement": "Romantisme",
+  "oeuvres": "Eugène Onéguine · La Dame de pique · Boris Godounov",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_victor-hugo": {
+  "dates": "1802-1885",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Les Misérables · Notre-Dame de Paris · Les Contemplations",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alexandre-dumas": {
+  "dates": "1802-1870",
+  "nationalite": "Français",
+  "mouvement": "Romantisme (roman historique)",
+  "oeuvres": "Les Trois Mousquetaires · Le Comte de Monte-Cristo · La Reine Margot",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_honore-de-balzac": {
+  "dates": "1799-1850",
+  "nationalite": "Français",
+  "mouvement": "Réalisme",
+  "oeuvres": "La Comédie humaine · Le Père Goriot · Eugénie Grandet",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_stendhal": {
+  "dates": "1783-1842",
+  "nationalite": "Français",
+  "mouvement": "Réalisme",
+  "oeuvres": "Le Rouge et le Noir · La Chartreuse de Parme",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_charles-dickens": {
+  "dates": "1812-1870",
+  "nationalite": "Anglais",
+  "mouvement": "Réalisme victorien",
+  "oeuvres": "Oliver Twist · David Copperfield · Un chant de Noël",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_charlotte-bronte": {
+  "dates": "1816-1855",
+  "nationalite": "Anglaise",
+  "mouvement": "Roman victorien",
+  "oeuvres": "Jane Eyre · Villette · Shirley",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_emily-bronte": {
+  "dates": "1818-1848",
+  "nationalite": "Anglaise",
+  "mouvement": "Roman victorien",
+  "oeuvres": "Les Hauts de Hurlevent",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_nathaniel-hawthorne": {
+  "dates": "1804-1864",
+  "nationalite": "Américain",
+  "mouvement": "Romantisme américain",
+  "oeuvres": "La Lettre écarlate · La Maison aux sept pignons",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_edgar-allan-poe": {
+  "dates": "1809-1849",
+  "nationalite": "Américain",
+  "mouvement": "Romantisme américain (fantastique)",
+  "oeuvres": "Le Corbeau · Histoires extraordinaires · La Chute de la maison Usher",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_herman-melville": {
+  "dates": "1819-1891",
+  "nationalite": "Américain",
+  "mouvement": "Romantisme américain",
+  "oeuvres": "Moby Dick · Bartleby · Billy Budd",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_nicolas-gogol": {
+  "dates": "1809-1852",
+  "nationalite": "Russe (d'origine ukrainienne)",
+  "mouvement": "Réalisme russe",
+  "oeuvres": "Les Âmes mortes · Le Revizor · Le Manteau",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_ivan-tourgueniev": {
+  "dates": "1818-1883",
+  "nationalite": "Russe",
+  "mouvement": "Réalisme russe",
+  "oeuvres": "Pères et Fils · Premier Amour · Mémoires d'un chasseur",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_fiodor-dostoievski": {
+  "dates": "1821-1881",
+  "nationalite": "Russe",
+  "mouvement": "Réalisme russe",
+  "oeuvres": "Crime et Châtiment · Les Frères Karamazov · L'Idiot",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_leon-tolstoi": {
+  "dates": "1828-1910",
+  "nationalite": "Russe",
+  "mouvement": "Réalisme russe",
+  "oeuvres": "Guerre et Paix · Anna Karénine · La Mort d'Ivan Ilitch",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_gustave-flaubert": {
+  "dates": "1821-1880",
+  "nationalite": "Français",
+  "mouvement": "Réalisme",
+  "oeuvres": "Madame Bovary · L'Éducation sentimentale · Salammbô",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_emile-zola": {
+  "dates": "1840-1902",
+  "nationalite": "Français",
+  "mouvement": "Naturalisme",
+  "oeuvres": "Les Rougon-Macquart · Germinal · L'Assommoir",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_guy-de-maupassant": {
+  "dates": "1850-1893",
+  "nationalite": "Français",
+  "mouvement": "Naturalisme",
+  "oeuvres": "Bel-Ami · Une vie · Boule de suif",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_lewis-carroll": {
+  "dates": "1832-1898",
+  "nationalite": "Anglais",
+  "mouvement": "Littérature victorienne (nonsense)",
+  "oeuvres": "Alice au pays des merveilles · De l'autre côté du miroir · La Chasse au Snark",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_mark-twain": {
+  "dates": "1835-1910",
+  "nationalite": "Américain",
+  "mouvement": "Réalisme américain",
+  "oeuvres": "Les Aventures de Tom Sawyer · Les Aventures de Huckleberry Finn",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_henry-james": {
+  "dates": "1843-1916",
+  "nationalite": "Américain (naturalisé britannique)",
+  "mouvement": "Réalisme",
+  "oeuvres": "Portrait de femme · Le Tour d'écrou · Les Ambassadeurs",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_anton-tchekhov": {
+  "dates": "1860-1904",
+  "nationalite": "Russe",
+  "mouvement": "Réalisme russe",
+  "oeuvres": "La Mouette · La Cerisaie · Oncle Vania",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_thomas-hardy-ecrivain": {
+  "dates": "1840-1928",
+  "nationalite": "Anglais",
+  "mouvement": "Réalisme victorien",
+  "oeuvres": "Tess d'Urberville · Jude l'Obscur · Loin de la foule déchaînée",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_oscar-wilde": {
+  "dates": "1854-1900",
+  "nationalite": "Irlandais",
+  "mouvement": "Esthétisme (décadentisme)",
+  "oeuvres": "Le Portrait de Dorian Gray · L'Importance d'être constant · Salomé",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_rudyard-kipling": {
+  "dates": "1865-1936",
+  "nationalite": "Britannique (né en Inde)",
+  "mouvement": "Littérature de l'Empire britannique",
+  "oeuvres": "Le Livre de la jungle · Kim · Histoires comme ça",
+  "confiance": "a_verifier",
+  "note": "Pas de mouvement littéraire établi : l'étiquette retenue est une approximation."
+ },
+ "auteurs-classiques_jules-verne": {
+  "dates": "1828-1905",
+  "nationalite": "Français",
+  "mouvement": "Roman d'aventures et d'anticipation",
+  "oeuvres": "Vingt mille lieues sous les mers · Le Tour du monde en quatre-vingts jours · Voyage au centre de la Terre",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_h-g-wells": {
+  "dates": "1866-1946",
+  "nationalite": "Anglais",
+  "mouvement": "Science-fiction",
+  "oeuvres": "La Machine à explorer le temps · La Guerre des mondes · L'Homme invisible",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_mary-shelley": {
+  "dates": "1797-1851",
+  "nationalite": "Anglaise",
+  "mouvement": "Romantisme (roman gothique)",
+  "oeuvres": "Frankenstein ou le Prométhée moderne · Le Dernier Homme",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_bram-stoker": {
+  "dates": "1847-1912",
+  "nationalite": "Irlandais",
+  "mouvement": "Roman gothique",
+  "oeuvres": "Dracula",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_emily-dickinson": {
+  "dates": "1830-1886",
+  "nationalite": "Américaine",
+  "mouvement": "Poésie américaine du XIXe siècle",
+  "oeuvres": "Poèmes (recueil posthume, 1890)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_walt-whitman": {
+  "dates": "1819-1892",
+  "nationalite": "Américain",
+  "mouvement": "Poésie américaine (transcendantalisme, vers libre)",
+  "oeuvres": "Feuilles d'herbe",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_charles-baudelaire": {
+  "dates": "1821-1867",
+  "nationalite": "Français",
+  "mouvement": "Précurseur du symbolisme",
+  "oeuvres": "Les Fleurs du mal · Le Spleen de Paris",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_arthur-rimbaud": {
+  "dates": "1854-1891",
+  "nationalite": "Français",
+  "mouvement": "Symbolisme",
+  "oeuvres": "Une saison en enfer · Illuminations · Le Bateau ivre",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_paul-verlaine": {
+  "dates": "1844-1896",
+  "nationalite": "Français",
+  "mouvement": "Symbolisme",
+  "oeuvres": "Poèmes saturniens · Fêtes galantes · Romances sans paroles",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_stephane-mallarme": {
+  "dates": "1842-1898",
+  "nationalite": "Français",
+  "mouvement": "Symbolisme",
+  "oeuvres": "L'Après-midi d'un faune · Un coup de dés jamais n'abolira le hasard · Hérodiade",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_george-sand": {
+  "dates": "1804-1876",
+  "nationalite": "Française",
+  "mouvement": "Romantisme",
+  "oeuvres": "La Mare au diable · Indiana · La Petite Fadette",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_confucius": {
+  "dates": "551-479 av. J.-C.",
+  "nationalite": "Chinois",
+  "mouvement": "Confucianisme (philosophie chinoise antique)",
+  "oeuvres": "Entretiens (Lunyu)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_sun-tzu": {
+  "dates": "VIe-Ve siècle av. J.-C. (présumé)",
+  "nationalite": "Chinois",
+  "mouvement": "Pensée militaire chinoise antique",
+  "oeuvres": "L'Art de la guerre",
+  "confiance": "a_verifier",
+  "note": "Historicité de Sun Tzu et datation de L'Art de la guerre débattues."
+ },
+ "auteurs-classiques_cao-xueqin": {
+  "dates": "vers 1715-1763",
+  "nationalite": "Chinois",
+  "mouvement": "Roman classique chinois (dynastie Qing)",
+  "oeuvres": "Le Rêve dans le pavillon rouge",
+  "confiance": "a_verifier",
+  "note": "Dates discutées : naissance 1710, 1715 ou 1724 selon les sources, mort 1763 ou 1764."
+ },
+ "auteurs-classiques_ferdowsi": {
+  "dates": "vers 940-vers 1020",
+  "nationalite": "Persan",
+  "mouvement": "Poésie épique persane",
+  "oeuvres": "Le Livre des rois (Shahnameh)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_rumi": {
+  "dates": "1207-1273",
+  "nationalite": "Persan",
+  "mouvement": "Soufisme (poésie mystique persane)",
+  "oeuvres": "Masnavi · Divan de Shams de Tabriz",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_omar-khayyam": {
+  "dates": "vers 1048-vers 1131",
+  "nationalite": "Persan",
+  "mouvement": "Poésie persane",
+  "oeuvres": "Rubaiyat (Quatrains)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_eschyle": {
+  "dates": "vers 525-456 av. J.-C.",
+  "nationalite": "Grec (Athènes)",
+  "mouvement": "Tragédie grecque classique",
+  "oeuvres": "L'Orestie · Les Perses · Prométhée enchaîné",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_aristophane": {
+  "dates": "vers 445-vers 385 av. J.-C.",
+  "nationalite": "Grec (Athènes)",
+  "mouvement": "Comédie grecque ancienne",
+  "oeuvres": "Les Nuées · Lysistrata · Les Oiseaux",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_hesiode": {
+  "dates": "VIIIe-VIIe siècle av. J.-C.",
+  "nationalite": "Grec",
+  "mouvement": "Poésie didactique grecque archaïque",
+  "oeuvres": "Théogonie · Les Travaux et les Jours",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_sappho": {
+  "dates": "vers 630-vers 580 av. J.-C.",
+  "nationalite": "Grecque (Lesbos)",
+  "mouvement": "Poésie lyrique grecque archaïque",
+  "oeuvres": "Poèmes (fragments) · Hymne à Aphrodite",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_esope": {
+  "dates": "VIIe-VIe siècle av. J.-C.",
+  "nationalite": "Grec (d'origine phrygienne)",
+  "mouvement": "Fable grecque archaïque",
+  "oeuvres": "Fables",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_herodote": {
+  "dates": "vers 484-vers 425 av. J.-C.",
+  "nationalite": "Grec (Halicarnasse)",
+  "mouvement": "Historiographie grecque classique",
+  "oeuvres": "Histoires (l'Enquête)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_thucydide": {
+  "dates": "vers 460-vers 400 av. J.-C.",
+  "nationalite": "Grec (Athènes)",
+  "mouvement": "Historiographie grecque classique",
+  "oeuvres": "Histoire de la guerre du Péloponnèse",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_ciceron": {
+  "dates": "106-43 av. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Littérature latine (fin de la République)",
+  "oeuvres": "Catilinaires · De la République · Des devoirs",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_seneque": {
+  "dates": "vers 4 av. J.-C.-65 apr. J.-C.",
+  "nationalite": "Romain (né à Cordoue)",
+  "mouvement": "Stoïcisme (littérature latine impériale)",
+  "oeuvres": "Lettres à Lucilius · De la brièveté de la vie · Médée",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_horace": {
+  "dates": "65-8 av. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Littérature latine (siècle d'Auguste)",
+  "oeuvres": "Odes · Satires · Épîtres",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_murasaki-shikibu": {
+  "dates": "vers 973-vers 1014",
+  "nationalite": "Japonaise",
+  "mouvement": "Littérature de l'époque de Heian",
+  "oeuvres": "Le Dit du Genji · Journal de Murasaki Shikibu",
+  "confiance": "a_verifier",
+  "note": "Date de mort incertaine : vers 1014 ou vers 1025 selon les sources."
+ },
+ "auteurs-classiques_chretien-de-troyes": {
+  "dates": "vers 1130-vers 1185",
+  "nationalite": "Français",
+  "mouvement": "Roman courtois (Moyen Âge)",
+  "oeuvres": "Perceval ou le Conte du Graal · Lancelot ou le Chevalier de la charrette · Yvain ou le Chevalier au lion",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_petrarque": {
+  "dates": "1304-1374",
+  "nationalite": "Italien",
+  "mouvement": "Humanisme (pré-Renaissance)",
+  "oeuvres": "Le Canzoniere · Les Triomphes",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_boccace": {
+  "dates": "1313-1375",
+  "nationalite": "Italien",
+  "mouvement": "Humanisme (pré-Renaissance)",
+  "oeuvres": "Le Décaméron",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_erasme": {
+  "dates": "vers 1466-1536",
+  "nationalite": "Néerlandais",
+  "mouvement": "Humanisme (Renaissance)",
+  "oeuvres": "Éloge de la folie · Adages · Colloques",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_luis-de-camoes": {
+  "dates": "vers 1525-1580",
+  "nationalite": "Portugais",
+  "mouvement": "Renaissance portugaise",
+  "oeuvres": "Les Lusiades",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_lope-de-vega": {
+  "dates": "1562-1635",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol",
+  "oeuvres": "Fuenteovejuna · Le Chien du jardinier · Le Chevalier d'Olmedo",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pedro-calderon-de-la-barca": {
+  "dates": "1600-1681",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol (baroque)",
+  "oeuvres": "La vie est un songe · L'Alcade de Zalamea",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_john-donne": {
+  "dates": "1572-1631",
+  "nationalite": "Anglais",
+  "mouvement": "Poésie métaphysique",
+  "oeuvres": "Chansons et Sonnets · Sonnets sacrés",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_matsuo-basho": {
+  "dates": "1644-1694",
+  "nationalite": "Japonais",
+  "mouvement": "Haïku (époque d'Edo)",
+  "oeuvres": "La Sente étroite du Bout-du-Monde",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pierre-corneille": {
+  "dates": "1606-1684",
+  "nationalite": "Français",
+  "mouvement": "Classicisme",
+  "oeuvres": "Le Cid · Horace · Cinna",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jean-de-la-fontaine": {
+  "dates": "1621-1695",
+  "nationalite": "Français",
+  "mouvement": "Classicisme",
+  "oeuvres": "Fables · Contes et Nouvelles en vers",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_charles-perrault": {
+  "dates": "1628-1703",
+  "nationalite": "Français",
+  "mouvement": "Classicisme (parti des Modernes)",
+  "oeuvres": "Contes de ma mère l'Oye · Le Siècle de Louis le Grand",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_madame-de-la-fayette": {
+  "dates": "1634-1693",
+  "nationalite": "Française",
+  "mouvement": "Classicisme",
+  "oeuvres": "La Princesse de Clèves · La Princesse de Montpensier",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pierre-augustin-caron-de-beaumarchais": {
+  "dates": "1732-1799",
+  "nationalite": "Français",
+  "mouvement": "Lumières",
+  "oeuvres": "Le Barbier de Séville · Le Mariage de Figaro · La Mère coupable",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pierre-choderlos-de-laclos": {
+  "dates": "1741-1803",
+  "nationalite": "Français",
+  "mouvement": "Lumières (roman libertin)",
+  "oeuvres": "Les Liaisons dangereuses",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_donatien-alphonse-francois-de-sade": {
+  "dates": "1740-1814",
+  "nationalite": "Français",
+  "mouvement": "Libertinage (Lumières)",
+  "oeuvres": "Justine ou les Malheurs de la vertu · Les Cent Vingt Journées de Sodome · La Philosophie dans le boudoir",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_daniel-defoe": {
+  "dates": "vers 1660-1731",
+  "nationalite": "Anglais",
+  "mouvement": "Naissance du roman anglais (XVIIIe siècle)",
+  "oeuvres": "Robinson Crusoé · Moll Flanders · Journal de l'année de la peste",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_henry-fielding": {
+  "dates": "1707-1754",
+  "nationalite": "Anglais",
+  "mouvement": "Roman anglais du XVIIIe siècle",
+  "oeuvres": "Tom Jones · Joseph Andrews",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_laurence-sterne": {
+  "dates": "1713-1768",
+  "nationalite": "Irlandais",
+  "mouvement": "Roman anglais du XVIIIe siècle",
+  "oeuvres": "Vie et opinions de Tristram Shandy · Voyage sentimental",
+  "confiance": "a_verifier",
+  "note": "Contre-vérification : nationalité « Irlandais » discutable, Sterne est né à Clonmel mais de famille anglaise, élevé et actif en Angleterre ; on le dit plutôt anglais ou anglo-irlandais."
+ },
+ "auteurs-classiques_chateaubriand-viande": {
+  "dates": "1768-1848",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Mémoires d'outre-tombe · René · Atala",
+  "confiance": "a_verifier",
+  "note": "La carte pointe vers la page de la pièce de viande, pas vers l'écrivain : fiche remplie pour François-René de Chateaubriand."
+ },
+ "auteurs-classiques_alphonse-de-lamartine": {
+  "dates": "1790-1869",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Méditations poétiques · Jocelyn · Histoire des Girondins",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alfred-de-musset": {
+  "dates": "1810-1857",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Lorenzaccio · On ne badine pas avec l'amour · La Confession d'un enfant du siècle",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alfred-de-vigny": {
+  "dates": "1797-1863",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Chatterton · Les Destinées · Servitude et grandeur militaires",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_theophile-gautier": {
+  "dates": "1811-1872",
+  "nationalite": "Français",
+  "mouvement": "Romantisme puis Parnasse",
+  "oeuvres": "Le Capitaine Fracasse · Émaux et Camées · Mademoiselle de Maupin",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_prosper-merimee": {
+  "dates": "1803-1870",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Carmen · Colomba · Mateo Falcone",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_lord-byron": {
+  "dates": "1788-1824",
+  "nationalite": "Anglais",
+  "mouvement": "Romantisme",
+  "oeuvres": "Le Pèlerinage de Childe Harold · Don Juan · Manfred",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_john-keats": {
+  "dates": "1795-1821",
+  "nationalite": "Anglais",
+  "mouvement": "Romantisme",
+  "oeuvres": "Ode à un rossignol · Ode sur une urne grecque · Endymion",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_percy-bysshe-shelley": {
+  "dates": "1792-1822",
+  "nationalite": "Anglais",
+  "mouvement": "Romantisme",
+  "oeuvres": "Prométhée délivré · Ode au vent d'ouest · Ozymandias",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_william-wordsworth": {
+  "dates": "1770-1850",
+  "nationalite": "Anglais",
+  "mouvement": "Romantisme",
+  "oeuvres": "Ballades lyriques · Le Prélude",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_george-eliot": {
+  "dates": "1819-1880",
+  "nationalite": "Anglaise",
+  "mouvement": "Réalisme victorien",
+  "oeuvres": "Middlemarch · Le Moulin sur la Floss · Silas Marner",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_anne-bronte": {
+  "dates": "1820-1849",
+  "nationalite": "Anglaise",
+  "mouvement": "Roman victorien",
+  "oeuvres": "Agnes Grey · La Locataire de Wildfell Hall",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_heinrich-heine": {
+  "dates": "1797-1856",
+  "nationalite": "Allemand",
+  "mouvement": "Romantisme · Jeune-Allemagne",
+  "oeuvres": "Le Livre des chants · Allemagne, un conte d'hiver",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_ernst-theodor-amadeus-hoffmann": {
+  "dates": "1776-1822",
+  "nationalite": "Allemand",
+  "mouvement": "Romantisme (fantastique)",
+  "oeuvres": "Contes fantastiques · L'Homme au sable · Casse-Noisette et le Roi des souris",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_mikhail-lermontov": {
+  "dates": "1814-1841",
+  "nationalite": "Russe",
+  "mouvement": "Romantisme",
+  "oeuvres": "Un héros de notre temps · Le Démon · Mtsyri",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alessandro-manzoni": {
+  "dates": "1785-1873",
+  "nationalite": "Italien",
+  "mouvement": "Romantisme",
+  "oeuvres": "Les Fiancés",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_joaquim-maria-machado-de-assis": {
+  "dates": "1839-1908",
+  "nationalite": "Brésilien",
+  "mouvement": "Réalisme",
+  "oeuvres": "Mémoires posthumes de Brás Cubas · Dom Casmurro · Quincas Borba",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_natsume-soseki": {
+  "dates": "1867-1916",
+  "nationalite": "Japonais",
+  "mouvement": "Littérature de l'ère Meiji",
+  "oeuvres": "Je suis un chat · Botchan · Le Pauvre Cœur des hommes",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_joseph-conrad": {
+  "dates": "1857-1924",
+  "nationalite": "Britannique (d'origine polonaise)",
+  "mouvement": "Précurseur du modernisme",
+  "oeuvres": "Au cœur des ténèbres · Lord Jim · Nostromo",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_jack-london": {
+  "dates": "1876-1916",
+  "nationalite": "Américain",
+  "mouvement": "Naturalisme (roman d'aventures)",
+  "oeuvres": "L'Appel de la forêt · Croc-Blanc · Martin Eden",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_arthur-conan-doyle": {
+  "dates": "1859-1930",
+  "nationalite": "Écossais",
+  "mouvement": "Roman policier",
+  "oeuvres": "Une étude en rouge · Le Chien des Baskerville · Le Monde perdu",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_robert-louis-stevenson": {
+  "dates": "1850-1894",
+  "nationalite": "Écossais",
+  "mouvement": "Roman d'aventures (néo-romantisme)",
+  "oeuvres": "L'Île au trésor · L'Étrange Cas du docteur Jekyll et de M. Hyde",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_hans-christian-andersen": {
+  "dates": "1805-1875",
+  "nationalite": "Danois",
+  "mouvement": "Romantisme (conte)",
+  "oeuvres": "La Petite Sirène · Le Vilain Petit Canard · La Petite Fille aux allumettes",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_freres-grimm": {
+  "dates": "1785-1863 (Jacob) · 1786-1859 (Wilhelm)",
+  "nationalite": "Allemands",
+  "mouvement": "Romantisme allemand",
+  "oeuvres": "Contes de l'enfance et du foyer · Blanche-Neige · Hansel et Gretel",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_henrik-ibsen": {
+  "dates": "1828-1906",
+  "nationalite": "Norvégien",
+  "mouvement": "Réalisme (théâtre moderne)",
+  "oeuvres": "Une maison de poupée · Peer Gynt · Hedda Gabler",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_francois-villon": {
+  "dates": "1431-après 1463",
+  "nationalite": "Français",
+  "mouvement": "Poésie de la fin du Moyen Âge",
+  "oeuvres": "Le Testament · Le Lais · La Ballade des pendus",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pierre-de-ronsard": {
+  "dates": "1524-1585",
+  "nationalite": "Français",
+  "mouvement": "Renaissance (la Pléiade)",
+  "oeuvres": "Les Amours · Odes · Sonnets pour Hélène",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_francois-de-la-rochefoucauld": {
+  "dates": "1613-1680",
+  "nationalite": "Français",
+  "mouvement": "Classicisme (moralistes)",
+  "oeuvres": "Maximes · Mémoires",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_madame-de-sevigne": {
+  "dates": "1626-1696",
+  "nationalite": "Française",
+  "mouvement": "Classicisme (genre épistolaire)",
+  "oeuvres": "Lettres",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_marivaux": {
+  "dates": "1688-1763",
+  "nationalite": "Français",
+  "mouvement": "Lumières (théâtre)",
+  "oeuvres": "Le Jeu de l'amour et du hasard · Les Fausses Confidences · L'Île des esclaves",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_gerard-de-nerval": {
+  "dates": "1808-1855",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Les Filles du feu · Aurélia · Les Chimères",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alphonse-daudet": {
+  "dates": "1840-1897",
+  "nationalite": "Français",
+  "mouvement": "Réalisme (naturalisme)",
+  "oeuvres": "Lettres de mon moulin · Tartarin de Tarascon · Le Petit Chose",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_edmond-rostand": {
+  "dates": "1868-1918",
+  "nationalite": "Français",
+  "mouvement": "Néo-romantisme",
+  "oeuvres": "Cyrano de Bergerac · L'Aiglon · Chantecler",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_anatole-france": {
+  "dates": "1844-1924",
+  "nationalite": "Français",
+  "mouvement": "Fin de siècle (proche du Parnasse à ses débuts)",
+  "oeuvres": "Le Crime de Sylvestre Bonnard · Les dieux ont soif · L'Île des Pingouins",
+  "confiance": "a_verifier",
+  "note": "Rattachement à un mouvement flou : ni réaliste ni symboliste, proche du Parnasse à ses débuts."
+ },
+ "auteurs-classiques_lautreamont": {
+  "dates": "1846-1870",
+  "nationalite": "Français (né en Uruguay)",
+  "mouvement": "Précurseur du surréalisme",
+  "oeuvres": "Les Chants de Maldoror · Poésies",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_christine-de-pizan": {
+  "dates": "1364-vers 1430",
+  "nationalite": "Française (née à Venise)",
+  "mouvement": "Littérature de la fin du Moyen Âge",
+  "oeuvres": "La Cité des dames · Le Livre des trois vertus",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_plutarque": {
+  "dates": "vers 46-vers 125",
+  "nationalite": "Grec (Chéronée)",
+  "mouvement": "Littérature grecque d'époque romaine",
+  "oeuvres": "Vies parallèles · Œuvres morales",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_tacite": {
+  "dates": "vers 58-vers 120",
+  "nationalite": "Romain",
+  "mouvement": "Historiographie latine (Haut-Empire)",
+  "oeuvres": "Annales · Histoires · La Germanie",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_plaute": {
+  "dates": "vers 254-184 av. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Comédie latine",
+  "oeuvres": "L'Aululaire (La Marmite) · Amphitryon · Le Soldat fanfaron",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_lucrece": {
+  "dates": "vers 98-vers 55 av. J.-C.",
+  "nationalite": "Romain",
+  "mouvement": "Épicurisme (littérature latine républicaine)",
+  "oeuvres": "De la nature (De rerum natura)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_pindare": {
+  "dates": "518-vers 438 av. J.-C.",
+  "nationalite": "Grec (Thèbes)",
+  "mouvement": "Poésie lyrique grecque",
+  "oeuvres": "Odes triomphales (Épinicies)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_li-bai": {
+  "dates": "701-762",
+  "nationalite": "Chinois",
+  "mouvement": "Poésie de la dynastie Tang",
+  "oeuvres": "Pensée dans la nuit calme · Buvant seul sous la lune",
+  "confiance": "a_verifier",
+  "note": "Naissance 701 selon l'usage, 702 selon la description ; titres français des poèmes non fixés."
+ },
+ "auteurs-classiques_du-fu": {
+  "dates": "712-770",
+  "nationalite": "Chinois",
+  "mouvement": "Poésie de la dynastie Tang",
+  "oeuvres": "Chanson des chariots · Vue printanière",
+  "confiance": "a_verifier",
+  "note": "Titres français des poèmes variables selon les traductions."
+ },
+ "auteurs-classiques_hafez-poete": {
+  "dates": "vers 1325-vers 1390",
+  "nationalite": "Persan",
+  "mouvement": "Poésie lyrique persane (soufisme)",
+  "oeuvres": "Divan",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_saadi": {
+  "dates": "vers 1210-vers 1292",
+  "nationalite": "Persan",
+  "mouvement": "Poésie persane classique",
+  "oeuvres": "Le Jardin des roses (Golestan) · Le Verger (Bustan)",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_kalidasa": {
+  "dates": "IVe-Ve siècle (présumé)",
+  "nationalite": "Indien",
+  "mouvement": "Littérature sanskrite classique (époque Gupta)",
+  "oeuvres": "Shakuntala · Le Nuage messager",
+  "confiance": "a_verifier",
+  "note": "Dates de Kalidasa très incertaines, placées par convention sous les Gupta."
+ },
+ "auteurs-classiques_wu-cheng-en": {
+  "dates": "vers 1500-vers 1582",
+  "nationalite": "Chinois",
+  "mouvement": "Roman classique chinois (dynastie Ming)",
+  "oeuvres": "La Pérégrination vers l'Ouest (Le Voyage en Occident)",
+  "confiance": "a_verifier",
+  "note": "Attribution de La Pérégrination vers l'Ouest à Wu Cheng'en discutée ; dates approximatives."
+ },
+ "auteurs-classiques_carlo-collodi": {
+  "dates": "1826-1890",
+  "nationalite": "Italien",
+  "mouvement": "Littérature de jeunesse (XIXe siècle)",
+  "oeuvres": "Les Aventures de Pinocchio",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_carlo-goldoni": {
+  "dates": "1707-1793",
+  "nationalite": "Italien (Venise)",
+  "mouvement": "Réforme de la commedia dell'arte (Lumières)",
+  "oeuvres": "Arlequin serviteur de deux maîtres · La Locandiera · Les Rustres",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_giacomo-leopardi": {
+  "dates": "1798-1837",
+  "nationalite": "Italien",
+  "mouvement": "Romantisme",
+  "oeuvres": "Chants · Petites Œuvres morales · Zibaldone",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_alfred-tennyson": {
+  "dates": "1809-1892",
+  "nationalite": "Anglais",
+  "mouvement": "Poésie victorienne",
+  "oeuvres": "In Memoriam · Idylles du roi · La Charge de la brigade légère",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_harriet-beecher-stowe": {
+  "dates": "1811-1896",
+  "nationalite": "Américaine",
+  "mouvement": "Roman abolitionniste",
+  "oeuvres": "La Case de l'oncle Tom",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_james-fenimore-cooper": {
+  "dates": "1789-1851",
+  "nationalite": "Américain",
+  "mouvement": "Romantisme américain",
+  "oeuvres": "Le Dernier des Mohicans · La Prairie",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_louisa-may-alcott": {
+  "dates": "1832-1888",
+  "nationalite": "Américaine",
+  "mouvement": "Roman réaliste (littérature de jeunesse)",
+  "oeuvres": "Les Quatre Filles du docteur March",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_august-strindberg": {
+  "dates": "1849-1912",
+  "nationalite": "Suédois",
+  "mouvement": "Naturalisme puis expressionnisme",
+  "oeuvres": "Mademoiselle Julie · Père · Le Songe",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_adam-mickiewicz": {
+  "dates": "1798-1855",
+  "nationalite": "Polonais",
+  "mouvement": "Romantisme",
+  "oeuvres": "Messire Thaddée (Pan Tadeusz) · Les Aïeux",
+  "confiance": "sure"
+ },
+ "auteurs-classiques_henryk-sienkiewicz": {
+  "dates": "1846-1916",
+  "nationalite": "Polonais",
+  "mouvement": "Roman historique",
+  "oeuvres": "Quo vadis ? · Par le fer et par le feu",
+  "confiance": "sure"
+ }
+}

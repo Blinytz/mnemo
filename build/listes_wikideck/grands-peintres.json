@@ -1,0 +1,1245 @@
+{
+ "grands-peintres_giotto-di-bondone": {
+  "dates": "vers 1267-1337",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Pré-Renaissance italienne (Trecento)",
+  "oeuvres": "Fresques de la chapelle Scrovegni · Le Baiser de Judas · La Lamentation sur le Christ mort",
+  "confiance": "sure"
+ },
+ "grands-peintres_sandro-botticelli": {
+  "dates": "1445-1510",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Renaissance italienne",
+  "oeuvres": "La Naissance de Vénus · Le Printemps",
+  "confiance": "sure"
+ },
+ "grands-peintres_michel-ange": {
+  "dates": "1475-1564",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne",
+  "oeuvres": "Plafond de la chapelle Sixtine · La Création d'Adam · Le Jugement dernier",
+  "confiance": "sure"
+ },
+ "grands-peintres_raphael-peintre": {
+  "dates": "1483-1520",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne",
+  "oeuvres": "L'École d'Athènes · La Madone Sixtine · La Belle Jardinière",
+  "confiance": "sure"
+ },
+ "grands-peintres_titien": {
+  "dates": "vers 1488-1576",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Renaissance vénitienne",
+  "oeuvres": "La Vénus d'Urbin · L'Amour sacré et l'Amour profane · L'Assomption de la Vierge",
+  "confiance": "sure"
+ },
+ "grands-peintres_jerome-bosch": {
+  "dates": "vers 1450-1516",
+  "nationalite": "Néerlandais",
+  "mouvement": "Primitifs flamands",
+  "oeuvres": "Le Jardin des délices · La Nef des fous · Le Chariot de foin",
+  "confiance": "sure"
+ },
+ "grands-peintres_pieter-brueghel-l-ancien": {
+  "dates": "vers 1525-1569",
+  "nationalite": "Flamand",
+  "mouvement": "Renaissance flamande",
+  "oeuvres": "Les Chasseurs dans la neige · La Tour de Babel · Le Repas de noce",
+  "confiance": "sure"
+ },
+ "grands-peintres_le-caravage": {
+  "dates": "1571-1610",
+  "nationalite": "Italien",
+  "mouvement": "Baroque italien (caravagisme)",
+  "oeuvres": "La Vocation de saint Matthieu · Judith décapitant Holopherne · Corbeille de fruits",
+  "confiance": "sure"
+ },
+ "grands-peintres_pierre-paul-rubens": {
+  "dates": "1577-1640",
+  "nationalite": "Flamand",
+  "mouvement": "Baroque flamand",
+  "oeuvres": "La Descente de croix · Le Cycle de Marie de Médicis · Les Trois Grâces",
+  "confiance": "sure"
+ },
+ "grands-peintres_rembrandt": {
+  "dates": "1606-1669",
+  "nationalite": "Néerlandais",
+  "mouvement": "Âge d'or hollandais (Baroque)",
+  "oeuvres": "La Ronde de nuit · La Leçon d'anatomie du docteur Tulp · Le Retour du fils prodigue",
+  "confiance": "sure"
+ },
+ "grands-peintres_johannes-vermeer": {
+  "dates": "1632-1675",
+  "nationalite": "Néerlandais",
+  "mouvement": "Âge d'or hollandais (Baroque)",
+  "oeuvres": "La Jeune Fille à la perle · La Laitière · Vue de Delft",
+  "confiance": "sure"
+ },
+ "grands-peintres_diego-velasquez": {
+  "dates": "1599-1660",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol (Baroque)",
+  "oeuvres": "Les Ménines · La Reddition de Breda · La Vénus au miroir",
+  "confiance": "sure"
+ },
+ "grands-peintres_francisco-de-goya": {
+  "dates": "1746-1828",
+  "nationalite": "Espagnol",
+  "mouvement": "Romantisme",
+  "oeuvres": "Tres de mayo · La Maja nue · Saturne dévorant un de ses fils",
+  "confiance": "sure"
+ },
+ "grands-peintres_jacques-louis-david": {
+  "dates": "1748-1825",
+  "nationalite": "Français",
+  "mouvement": "Néoclassicisme",
+  "oeuvres": "Le Serment des Horaces · La Mort de Marat · Le Sacre de Napoléon",
+  "confiance": "sure"
+ },
+ "grands-peintres_eugene-delacroix": {
+  "dates": "1798-1863",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "La Liberté guidant le peuple · La Mort de Sardanapale · Femmes d'Alger dans leur appartement",
+  "confiance": "sure"
+ },
+ "grands-peintres_william-turner": {
+  "dates": "1775-1851",
+  "nationalite": "Britannique",
+  "mouvement": "Romantisme",
+  "oeuvres": "Pluie, vapeur et vitesse · Le Dernier Voyage du Téméraire · Tempête de neige",
+  "confiance": "sure"
+ },
+ "grands-peintres_john-constable": {
+  "dates": "1776-1837",
+  "nationalite": "Britannique",
+  "mouvement": "Romantisme (paysage)",
+  "oeuvres": "La Charrette de foin · La Cathédrale de Salisbury",
+  "confiance": "sure"
+ },
+ "grands-peintres_gustave-courbet": {
+  "dates": "1819-1877",
+  "nationalite": "Français",
+  "mouvement": "Réalisme",
+  "oeuvres": "Un enterrement à Ornans · L'Atelier du peintre · L'Origine du monde",
+  "confiance": "sure"
+ },
+ "grands-peintres_edouard-manet": {
+  "dates": "1832-1883",
+  "nationalite": "Français",
+  "mouvement": "Réalisme · Impressionnisme (précurseur)",
+  "oeuvres": "Le Déjeuner sur l'herbe · Olympia · Un bar aux Folies Bergère",
+  "confiance": "sure"
+ },
+ "grands-peintres_claude-monet": {
+  "dates": "1840-1926",
+  "nationalite": "Français",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Impression, soleil levant · Les Nymphéas · Coquelicots",
+  "confiance": "sure"
+ },
+ "grands-peintres_edgar-degas": {
+  "dates": "1834-1917",
+  "nationalite": "Français",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "La Classe de danse · L'Absinthe · L'Étoile",
+  "confiance": "sure"
+ },
+ "grands-peintres_auguste-renoir": {
+  "dates": "1841-1919",
+  "nationalite": "Français",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Bal du moulin de la Galette · Le Déjeuner des canotiers · La Balançoire",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-cezanne": {
+  "dates": "1839-1906",
+  "nationalite": "Français",
+  "mouvement": "Postimpressionnisme",
+  "oeuvres": "Les Joueurs de cartes · La Montagne Sainte-Victoire · Les Grandes Baigneuses",
+  "confiance": "sure"
+ },
+ "grands-peintres_camille-pissarro": {
+  "dates": "1830-1903",
+  "nationalite": "Franco-danois",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Le Boulevard Montmartre, effet de nuit · Les Toits rouges · Gelée blanche",
+  "confiance": "sure"
+ },
+ "grands-peintres_berthe-morisot": {
+  "dates": "1841-1895",
+  "nationalite": "Française",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Le Berceau · Jeune Fille au bal",
+  "confiance": "sure"
+ },
+ "grands-peintres_georges-seurat": {
+  "dates": "1859-1891",
+  "nationalite": "Français",
+  "mouvement": "Néo-impressionnisme (pointillisme)",
+  "oeuvres": "Un dimanche après-midi à l'île de la Grande Jatte · Une baignade à Asnières · Le Cirque",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-gauguin": {
+  "dates": "1848-1903",
+  "nationalite": "Français",
+  "mouvement": "Postimpressionnisme (synthétisme)",
+  "oeuvres": "D'où venons-nous ? Que sommes-nous ? Où allons-nous ? · La Vision après le sermon · Le Christ jaune",
+  "confiance": "sure"
+ },
+ "grands-peintres_vincent-van-gogh": {
+  "dates": "1853-1890",
+  "nationalite": "Néerlandais",
+  "mouvement": "Postimpressionnisme",
+  "oeuvres": "La Nuit étoilée · Les Tournesols · Autoportrait à l'oreille bandée",
+  "confiance": "sure"
+ },
+ "grands-peintres_henri-de-toulouse-lautrec": {
+  "dates": "1864-1901",
+  "nationalite": "Français",
+  "mouvement": "Postimpressionnisme",
+  "oeuvres": "Au Moulin-Rouge · La Goulue arrivant au Moulin-Rouge · Au salon de la rue des Moulins",
+  "confiance": "sure"
+ },
+ "grands-peintres_gustav-klimt": {
+  "dates": "1862-1918",
+  "nationalite": "Autrichien",
+  "mouvement": "Sécession viennoise (Art nouveau)",
+  "oeuvres": "Le Baiser · Portrait d'Adele Bloch-Bauer I · Judith I",
+  "confiance": "sure"
+ },
+ "grands-peintres_edvard-munch": {
+  "dates": "1863-1944",
+  "nationalite": "Norvégien",
+  "mouvement": "Expressionnisme",
+  "oeuvres": "Le Cri · Madone · La Danse de la vie",
+  "confiance": "sure"
+ },
+ "grands-peintres_henri-matisse": {
+  "dates": "1869-1954",
+  "nationalite": "Français",
+  "mouvement": "Fauvisme",
+  "oeuvres": "La Danse · La Joie de vivre · Femme au chapeau",
+  "confiance": "sure"
+ },
+ "grands-peintres_pablo-picasso": {
+  "dates": "1881-1973",
+  "nationalite": "Espagnol",
+  "mouvement": "Cubisme",
+  "oeuvres": "Guernica · Les Demoiselles d'Avignon · La Vie",
+  "confiance": "sure"
+ },
+ "grands-peintres_georges-braque": {
+  "dates": "1882-1963",
+  "nationalite": "Français",
+  "mouvement": "Cubisme",
+  "oeuvres": "Maisons à l'Estaque · Violon et cruche",
+  "confiance": "sure"
+ },
+ "grands-peintres_amedeo-modigliani": {
+  "dates": "1884-1920",
+  "nationalite": "Italien",
+  "mouvement": "École de Paris",
+  "oeuvres": "Nu couché · Portrait de Jeanne Hébuterne",
+  "confiance": "sure"
+ },
+ "grands-peintres_marc-chagall": {
+  "dates": "1887-1985",
+  "nationalite": "Français (né dans l'Empire russe)",
+  "mouvement": "École de Paris",
+  "oeuvres": "Moi et le village · Au-dessus de la ville · L'Anniversaire",
+  "confiance": "sure"
+ },
+ "grands-peintres_vassily-kandinsky": {
+  "dates": "1866-1944",
+  "nationalite": "Russe (naturalisé français)",
+  "mouvement": "Art abstrait",
+  "oeuvres": "Composition VIII · Composition VII · Jaune-rouge-bleu",
+  "confiance": "sure"
+ },
+ "grands-peintres_piet-mondrian": {
+  "dates": "1872-1944",
+  "nationalite": "Néerlandais",
+  "mouvement": "De Stijl (néoplasticisme)",
+  "oeuvres": "Composition en rouge, jaune et bleu · Broadway Boogie-Woogie",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-klee": {
+  "dates": "1879-1940",
+  "nationalite": "Allemand (né en Suisse)",
+  "mouvement": "Der Blaue Reiter · Bauhaus",
+  "oeuvres": "Angelus Novus · Senecio · Ad Parnassum",
+  "confiance": "sure"
+ },
+ "grands-peintres_egon-schiele": {
+  "dates": "1890-1918",
+  "nationalite": "Autrichien",
+  "mouvement": "Expressionnisme",
+  "oeuvres": "La Mort et la Jeune Fille · Autoportrait au coqueret · L'Étreinte",
+  "confiance": "sure"
+ },
+ "grands-peintres_salvador-dali": {
+  "dates": "1904-1989",
+  "nationalite": "Espagnol",
+  "mouvement": "Surréalisme",
+  "oeuvres": "La Persistance de la mémoire · Le Christ de saint Jean de la Croix · Les Éléphants",
+  "confiance": "sure"
+ },
+ "grands-peintres_rene-magritte": {
+  "dates": "1898-1967",
+  "nationalite": "Belge",
+  "mouvement": "Surréalisme",
+  "oeuvres": "La Trahison des images · Le Fils de l'homme · L'Empire des lumières",
+  "confiance": "sure"
+ },
+ "grands-peintres_joan-miro": {
+  "dates": "1893-1983",
+  "nationalite": "Espagnol (catalan)",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Le Carnaval d'Arlequin · La Ferme · Bleu II",
+  "confiance": "sure"
+ },
+ "grands-peintres_frida-kahlo": {
+  "dates": "1907-1954",
+  "nationalite": "Mexicaine",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Les Deux Frida · La Colonne brisée · Autoportrait au collier d'épines",
+  "confiance": "sure"
+ },
+ "grands-peintres_diego-rivera": {
+  "dates": "1886-1957",
+  "nationalite": "Mexicain",
+  "mouvement": "Muralisme mexicain",
+  "oeuvres": "Fresques de l'industrie de Detroit · L'Homme à la croisée des chemins · Histoire du Mexique (Palais national)",
+  "confiance": "sure"
+ },
+ "grands-peintres_georgia-o-keeffe": {
+  "dates": "1887-1986",
+  "nationalite": "Américaine",
+  "mouvement": "Modernisme américain",
+  "oeuvres": "Iris noir · Jimson Weed · Crâne de vache : rouge, blanc et bleu",
+  "confiance": "sure"
+ },
+ "grands-peintres_edward-hopper": {
+  "dates": "1882-1967",
+  "nationalite": "Américain",
+  "mouvement": "Réalisme américain",
+  "oeuvres": "Nighthawks · Automat · Chop Suey",
+  "confiance": "sure"
+ },
+ "grands-peintres_jackson-pollock": {
+  "dates": "1912-1956",
+  "nationalite": "Américain",
+  "mouvement": "Expressionnisme abstrait",
+  "oeuvres": "Number 1 (Lavender Mist) · Autumn Rhythm · Blue Poles",
+  "confiance": "sure"
+ },
+ "grands-peintres_mark-rothko": {
+  "dates": "1903-1970",
+  "nationalite": "Américain (né en Lettonie)",
+  "mouvement": "Expressionnisme abstrait",
+  "oeuvres": "Chapelle Rothko · No. 61 (Rust and Blue) · Orange, rouge, jaune",
+  "confiance": "sure"
+ },
+ "grands-peintres_andy-warhol": {
+  "dates": "1928-1987",
+  "nationalite": "Américain",
+  "mouvement": "Pop art",
+  "oeuvres": "Campbell's Soup Cans · Marilyn Diptych · Shot Marilyns",
+  "confiance": "sure"
+ },
+ "grands-peintres_francis-bacon-peintre": {
+  "dates": "1909-1992",
+  "nationalite": "Britannique (né en Irlande)",
+  "mouvement": "Figuration (École de Londres)",
+  "oeuvres": "Étude d'après le portrait du pape Innocent X par Vélasquez · Trois études de Lucian Freud · Trois études de personnages au pied d'une crucifixion",
+  "confiance": "sure"
+ },
+ "grands-peintres_lucian-freud": {
+  "dates": "1922-2011",
+  "nationalite": "Britannique (né en Allemagne)",
+  "mouvement": "Figuration (École de Londres)",
+  "oeuvres": "Benefits Supervisor Sleeping · Portrait de la reine Élisabeth II",
+  "confiance": "sure"
+ },
+ "grands-peintres_david-hockney": {
+  "dates": "1937-2026",
+  "nationalite": "Britannique",
+  "mouvement": "Pop art",
+  "oeuvres": "A Bigger Splash · Portrait d'un artiste (Piscine avec deux personnages) · Mr and Mrs Clark and Percy",
+  "confiance": "a_verifier",
+  "note": "La description Wikipédia annonce son décès le 11 juin 2026, que je ne peux pas confirmer ; s'il est vivant, mettre « né en 1937 »."
+ },
+ "grands-peintres_jean-michel-basquiat": {
+  "dates": "1960-1988",
+  "nationalite": "Américain",
+  "mouvement": "Néo-expressionnisme",
+  "oeuvres": "Untitled (Skull) · Hollywood Africans · Irony of Negro Policeman",
+  "confiance": "sure"
+ },
+ "grands-peintres_keith-haring": {
+  "dates": "1958-1990",
+  "nationalite": "Américain",
+  "mouvement": "Pop art (art urbain)",
+  "oeuvres": "Crack Is Wack · Tuttomondo · Radiant Baby",
+  "confiance": "sure"
+ },
+ "grands-peintres_banksy": {
+  "dates": "",
+  "nationalite": "Britannique",
+  "mouvement": "Art urbain (street art)",
+  "oeuvres": "La Petite Fille au ballon · Le Lanceur de fleurs · L'amour est dans la poubelle",
+  "confiance": "a_verifier",
+  "note": "Identité inconnue donc dates inconnues ; artiste urbain au pochoir plutôt que peintre de chevalet."
+ },
+ "grands-peintres_hokusai": {
+  "dates": "1760-1849",
+  "nationalite": "Japonais",
+  "mouvement": "Ukiyo-e",
+  "oeuvres": "La Grande Vague de Kanagawa · Trente-six vues du mont Fuji · Le Fuji rouge",
+  "confiance": "sure"
+ },
+ "grands-peintres_hiroshige": {
+  "dates": "1797-1858",
+  "nationalite": "Japonais",
+  "mouvement": "Ukiyo-e",
+  "oeuvres": "Les Cinquante-trois Relais du Tōkaidō · Cent vues d'Edo · Averse soudaine sur le pont Ōhashi à Atake",
+  "confiance": "sure"
+ },
+ "grands-peintres_artemisia-gentileschi": {
+  "dates": "1593-vers 1656",
+  "nationalite": "Italienne",
+  "mouvement": "Baroque (caravagisme)",
+  "oeuvres": "Judith décapitant Holopherne · Suzanne et les Vieillards · Autoportrait en allégorie de la peinture",
+  "confiance": "a_verifier",
+  "note": "Date de décès incertaine : vers 1656 selon Wikipédia, 1653 ou 1654 selon Wikidata et des recherches récentes."
+ },
+ "grands-peintres_frans-hals": {
+  "dates": "vers 1582-1666",
+  "nationalite": "Néerlandais",
+  "mouvement": "Âge d'or hollandais (Baroque)",
+  "oeuvres": "Le Cavalier riant · La Bohémienne · Les Régentes de l'hospice des vieillards",
+  "confiance": "sure"
+ },
+ "grands-peintres_antoine-van-dyck": {
+  "dates": "1599-1641",
+  "nationalite": "Flamand",
+  "mouvement": "Baroque flamand",
+  "oeuvres": "Charles Ier à la chasse · Portrait équestre de Charles Ier",
+  "confiance": "sure"
+ },
+ "grands-peintres_le-greco": {
+  "dates": "1541-1614",
+  "nationalite": "Grec (actif en Espagne)",
+  "mouvement": "Maniérisme",
+  "oeuvres": "L'Enterrement du comte d'Orgaz · Vue de Tolède · Le Partage de la tunique du Christ",
+  "confiance": "sure"
+ },
+ "grands-peintres_francisco-de-zurbaran": {
+  "dates": "1598-1664",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol (Baroque)",
+  "oeuvres": "Saint François en méditation · Agnus Dei · Nature morte aux citrons, oranges et rose",
+  "confiance": "sure"
+ },
+ "grands-peintres_nicolas-poussin": {
+  "dates": "1594-1665",
+  "nationalite": "Français",
+  "mouvement": "Classicisme",
+  "oeuvres": "Les Bergers d'Arcadie · L'Enlèvement des Sabines · Les Quatre Saisons",
+  "confiance": "sure"
+ },
+ "grands-peintres_jean-honore-fragonard": {
+  "dates": "1732-1806",
+  "nationalite": "Français",
+  "mouvement": "Rococo",
+  "oeuvres": "Les Hasards heureux de l'escarpolette · Le Verrou · La Liseuse",
+  "confiance": "sure"
+ },
+ "grands-peintres_antoine-watteau": {
+  "dates": "1684-1721",
+  "nationalite": "Français",
+  "mouvement": "Rococo",
+  "oeuvres": "Pèlerinage à l'île de Cythère · Pierrot (Gilles) · L'Enseigne de Gersaint",
+  "confiance": "sure"
+ },
+ "grands-peintres_william-blake": {
+  "dates": "1757-1827",
+  "nationalite": "Britannique",
+  "mouvement": "Romantisme",
+  "oeuvres": "Le Grand Dragon rouge · Newton · L'Ancien des jours",
+  "confiance": "sure"
+ },
+ "grands-peintres_caspar-david-friedrich": {
+  "dates": "1774-1840",
+  "nationalite": "Allemand",
+  "mouvement": "Romantisme",
+  "oeuvres": "Le Voyageur contemplant une mer de nuages · La Mer de glace · Falaises de craie sur l'île de Rügen",
+  "confiance": "sure"
+ },
+ "grands-peintres_gustave-moreau": {
+  "dates": "1826-1898",
+  "nationalite": "Français",
+  "mouvement": "Symbolisme",
+  "oeuvres": "L'Apparition · Jupiter et Sémélé · Œdipe et le Sphinx",
+  "confiance": "sure"
+ },
+ "grands-peintres_leonard-de-vinci": {
+  "dates": "1452-1519",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne",
+  "oeuvres": "La Joconde · La Cène · La Vierge aux rochers",
+  "confiance": "sure"
+ },
+ "grands-peintres_jan-van-eyck": {
+  "dates": "vers 1390-1441",
+  "nationalite": "Flamand",
+  "mouvement": "Primitifs flamands",
+  "oeuvres": "Les Époux Arnolfini · L'Agneau mystique · La Vierge du chancelier Rolin",
+  "confiance": "sure"
+ },
+ "grands-peintres_albrecht-durer": {
+  "dates": "1471-1528",
+  "nationalite": "Allemand",
+  "mouvement": "Renaissance allemande",
+  "oeuvres": "Autoportrait à la fourrure · Le Lièvre · Melencolia I",
+  "confiance": "sure"
+ },
+ "grands-peintres_hans-holbein-le-jeune": {
+  "dates": "vers 1497-1543",
+  "nationalite": "Allemand",
+  "mouvement": "Renaissance allemande",
+  "oeuvres": "Les Ambassadeurs · Portrait d'Henri VIII · Portrait d'Érasme",
+  "confiance": "sure"
+ },
+ "grands-peintres_fra-angelico": {
+  "dates": "vers 1395-1455",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Renaissance italienne (Quattrocento)",
+  "oeuvres": "L'Annonciation · Le Couronnement de la Vierge · Le Jugement dernier",
+  "confiance": "sure"
+ },
+ "grands-peintres_masaccio": {
+  "dates": "1401-1428",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Renaissance italienne (Quattrocento)",
+  "oeuvres": "La Trinité · Le Paiement du tribut · Adam et Ève chassés du Paradis",
+  "confiance": "sure"
+ },
+ "grands-peintres_piero-della-francesca": {
+  "dates": "vers 1415-1492",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne (Quattrocento)",
+  "oeuvres": "La Flagellation du Christ · Le Baptême du Christ · Diptyque des ducs d'Urbino",
+  "confiance": "sure"
+ },
+ "grands-peintres_andrea-mantegna": {
+  "dates": "vers 1431-1506",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne (Quattrocento)",
+  "oeuvres": "Le Christ mort · La Chambre des époux · Saint Sébastien",
+  "confiance": "sure"
+ },
+ "grands-peintres_giorgione": {
+  "dates": "vers 1477-1510",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Renaissance vénitienne",
+  "oeuvres": "La Tempête · Les Trois Philosophes · Vénus endormie",
+  "confiance": "sure"
+ },
+ "grands-peintres_le-tintoret": {
+  "dates": "1518-1594",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Maniérisme (école vénitienne)",
+  "oeuvres": "Le Miracle de l'esclave · Le Paradis · La Cène",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-veronese": {
+  "dates": "1528-1588",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Renaissance vénitienne",
+  "oeuvres": "Les Noces de Cana · Le Repas chez Lévi",
+  "confiance": "sure"
+ },
+ "grands-peintres_georges-de-la-tour": {
+  "dates": "1593-1652",
+  "nationalite": "Français",
+  "mouvement": "Caravagisme (Baroque français)",
+  "oeuvres": "Le Tricheur à l'as de carreau · La Madeleine à la veilleuse · Saint Joseph charpentier",
+  "confiance": "sure"
+ },
+ "grands-peintres_jean-simeon-chardin": {
+  "dates": "1699-1779",
+  "nationalite": "Français",
+  "mouvement": "Nature morte et scène de genre (XVIIIe siècle)",
+  "oeuvres": "La Raie · Le Bénédicité · Les Bulles de savon",
+  "confiance": "a_verifier",
+  "note": "Chardin échappe au rococo de son temps ; aucune étiquette de mouvement ne fait consensus."
+ },
+ "grands-peintres_theodore-gericault": {
+  "dates": "1791-1824",
+  "nationalite": "Français",
+  "mouvement": "Romantisme",
+  "oeuvres": "Le Radeau de La Méduse · Officier de chasseurs à cheval de la garde impériale chargeant · Le Derby d'Epsom",
+  "confiance": "sure"
+ },
+ "grands-peintres_jean-auguste-dominique-ingres": {
+  "dates": "1780-1867",
+  "nationalite": "Français",
+  "mouvement": "Néoclassicisme",
+  "oeuvres": "La Grande Odalisque · Le Bain turc · Portrait de Monsieur Bertin",
+  "confiance": "sure"
+ },
+ "grands-peintres_camille-corot": {
+  "dates": "1796-1875",
+  "nationalite": "Français",
+  "mouvement": "École de Barbizon (paysage réaliste)",
+  "oeuvres": "Souvenir de Mortefontaine · Le Pont de Narni · La Dame en bleu",
+  "confiance": "sure"
+ },
+ "grands-peintres_jean-francois-millet": {
+  "dates": "1814-1875",
+  "nationalite": "Français",
+  "mouvement": "Réalisme (École de Barbizon)",
+  "oeuvres": "L'Angélus · Des glaneuses · Le Semeur",
+  "confiance": "sure"
+ },
+ "grands-peintres_alfred-sisley": {
+  "dates": "1839-1899",
+  "nationalite": "Britannique (né et actif en France)",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "L'Inondation à Port-Marly · Le Pont de Moret",
+  "confiance": "sure"
+ },
+ "grands-peintres_gustave-caillebotte": {
+  "dates": "1848-1894",
+  "nationalite": "Français",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Les Raboteurs de parquet · Rue de Paris, temps de pluie · Le Pont de l'Europe",
+  "confiance": "sure"
+ },
+ "grands-peintres_mary-cassatt": {
+  "dates": "1844-1926",
+  "nationalite": "Américaine",
+  "mouvement": "Impressionnisme",
+  "oeuvres": "Le Bain · Petite Fille dans un fauteuil bleu · La Tasse de thé",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-signac": {
+  "dates": "1863-1935",
+  "nationalite": "Français",
+  "mouvement": "Néo-impressionnisme (pointillisme)",
+  "oeuvres": "Portrait de Félix Fénéon · Le Port de Saint-Tropez · La Bouée rouge",
+  "confiance": "sure"
+ },
+ "grands-peintres_henri-rousseau": {
+  "dates": "1844-1910",
+  "nationalite": "Français",
+  "mouvement": "Art naïf",
+  "oeuvres": "Le Rêve · La Bohémienne endormie · Surpris !",
+  "confiance": "sure"
+ },
+ "grands-peintres_odilon-redon": {
+  "dates": "1840-1916",
+  "nationalite": "Français",
+  "mouvement": "Symbolisme",
+  "oeuvres": "Les Yeux clos · Le Cyclope · L'Œil comme un ballon bizarre",
+  "confiance": "sure"
+ },
+ "grands-peintres_james-abbott-mcneill-whistler": {
+  "dates": "1834-1903",
+  "nationalite": "Américain",
+  "mouvement": "Mouvement esthétique (tonalisme)",
+  "oeuvres": "Arrangement en gris et noir n° 1 (La Mère de l'artiste) · Nocturne en noir et or : la fusée qui retombe · Symphonie en blanc n° 1",
+  "confiance": "sure"
+ },
+ "grands-peintres_john-singer-sargent": {
+  "dates": "1856-1925",
+  "nationalite": "Américain",
+  "mouvement": "Portrait mondain (réalisme)",
+  "oeuvres": "Portrait de Madame X · Carnation, Lily, Lily, Rose · El Jaleo",
+  "confiance": "a_verifier",
+  "note": "Pas de mouvement unique : portraitiste mondain, parfois rattaché à l'impressionnisme américain."
+ },
+ "grands-peintres_winslow-homer": {
+  "dates": "1836-1910",
+  "nationalite": "Américain",
+  "mouvement": "Réalisme américain",
+  "oeuvres": "Snap the Whip · The Gulf Stream · Breezing Up",
+  "confiance": "sure"
+ },
+ "grands-peintres_ilia-repine": {
+  "dates": "1844-1930",
+  "nationalite": "Russe (d'origine ukrainienne)",
+  "mouvement": "Réalisme (les Ambulants)",
+  "oeuvres": "Les Haleurs de la Volga · Ivan le Terrible et son fils · Les Cosaques zaporogues écrivant une lettre au sultan",
+  "confiance": "sure"
+ },
+ "grands-peintres_ivan-aivazovski": {
+  "dates": "1817-1900",
+  "nationalite": "Russe (d'origine arménienne)",
+  "mouvement": "Romantisme (peinture de marine)",
+  "oeuvres": "La Neuvième Vague · La Vague",
+  "confiance": "sure"
+ },
+ "grands-peintres_joaquin-sorolla": {
+  "dates": "1863-1923",
+  "nationalite": "Espagnol",
+  "mouvement": "Luminisme (impressionnisme espagnol)",
+  "oeuvres": "Promenade au bord de la mer · Enfants à la plage · Triste Héritage",
+  "confiance": "sure"
+ },
+ "grands-peintres_kasimir-malevitch": {
+  "dates": "1879-1935",
+  "nationalite": "Russe (né à Kiev, d'origine polonaise)",
+  "mouvement": "Suprématisme",
+  "oeuvres": "Carré noir sur fond blanc · Carré blanc sur fond blanc",
+  "confiance": "sure"
+ },
+ "grands-peintres_giorgio-de-chirico": {
+  "dates": "1888-1978",
+  "nationalite": "Italien",
+  "mouvement": "Peinture métaphysique",
+  "oeuvres": "Chant d'amour · Les Muses inquiétantes · Mélancolie d'une après-midi",
+  "confiance": "sure"
+ },
+ "grands-peintres_max-ernst": {
+  "dates": "1891-1976",
+  "nationalite": "Allemand (naturalisé français)",
+  "mouvement": "Surréalisme",
+  "oeuvres": "L'Éléphant Célèbes · L'Europe après la pluie II · La Vierge corrigeant l'Enfant Jésus devant trois témoins",
+  "confiance": "sure"
+ },
+ "grands-peintres_otto-dix": {
+  "dates": "1891-1969",
+  "nationalite": "Allemand",
+  "mouvement": "Nouvelle Objectivité",
+  "oeuvres": "La Guerre · Portrait de la journaliste Sylvia von Harden · Métropolis",
+  "confiance": "sure"
+ },
+ "grands-peintres_fernand-leger": {
+  "dates": "1881-1955",
+  "nationalite": "Français",
+  "mouvement": "Cubisme",
+  "oeuvres": "Les Constructeurs · La Noce · Les Disques dans la ville",
+  "confiance": "sure"
+ },
+ "grands-peintres_robert-delaunay": {
+  "dates": "1885-1941",
+  "nationalite": "Français",
+  "mouvement": "Orphisme",
+  "oeuvres": "La Tour Eiffel (série) · Formes circulaires · Hommage à Blériot",
+  "confiance": "sure"
+ },
+ "grands-peintres_sonia-delaunay": {
+  "dates": "1885-1979",
+  "nationalite": "Française (née dans l'Empire russe)",
+  "mouvement": "Orphisme",
+  "oeuvres": "Le Bal Bullier · Prismes électriques · Rythme",
+  "confiance": "sure"
+ },
+ "grands-peintres_hilma-af-klint": {
+  "dates": "1862-1944",
+  "nationalite": "Suédoise",
+  "mouvement": "Art abstrait",
+  "oeuvres": "Les Dix Plus Grands · Peintures pour le Temple",
+  "confiance": "sure"
+ },
+ "grands-peintres_alfons-mucha": {
+  "dates": "1860-1939",
+  "nationalite": "Tchèque",
+  "mouvement": "Art nouveau",
+  "oeuvres": "Gismonda · Les Saisons · L'Épopée slave",
+  "confiance": "sure"
+ },
+ "grands-peintres_grant-wood": {
+  "dates": "1891-1942",
+  "nationalite": "Américain",
+  "mouvement": "Régionalisme américain",
+  "oeuvres": "American Gothic · La Chevauchée nocturne de Paul Revere",
+  "confiance": "sure"
+ },
+ "grands-peintres_nicolas-de-stael": {
+  "dates": "1914-1955",
+  "nationalite": "Français (d'origine russe)",
+  "mouvement": "École de Paris (abstraction)",
+  "oeuvres": "Le Parc des Princes · Le Concert · Agrigente",
+  "confiance": "sure"
+ },
+ "grands-peintres_pierre-soulages": {
+  "dates": "1919-2022",
+  "nationalite": "Français",
+  "mouvement": "Abstraction (Outrenoir)",
+  "oeuvres": "Outrenoir (série) · Vitraux de l'abbatiale de Conques",
+  "confiance": "sure"
+ },
+ "grands-peintres_yves-klein": {
+  "dates": "1928-1962",
+  "nationalite": "Français",
+  "mouvement": "Nouveau réalisme",
+  "oeuvres": "Monochromes bleus (IKB) · Anthropométries · Le Saut dans le vide",
+  "confiance": "sure"
+ },
+ "grands-peintres_roy-lichtenstein": {
+  "dates": "1923-1997",
+  "nationalite": "Américain",
+  "mouvement": "Pop art",
+  "oeuvres": "Whaam! · Drowning Girl · Look Mickey",
+  "confiance": "sure"
+ },
+ "grands-peintres_willem-de-kooning": {
+  "dates": "1904-1997",
+  "nationalite": "Américain (né aux Pays-Bas)",
+  "mouvement": "Expressionnisme abstrait",
+  "oeuvres": "Woman I · Excavation · Interchange",
+  "confiance": "sure"
+ },
+ "grands-peintres_jean-dubuffet": {
+  "dates": "1901-1985",
+  "nationalite": "Français",
+  "mouvement": "Art brut",
+  "oeuvres": "L'Hourloupe (cycle) · Le Jardin d'hiver",
+  "confiance": "sure"
+ },
+ "grands-peintres_gerhard-richter": {
+  "dates": "né en 1932",
+  "nationalite": "Allemand",
+  "mouvement": "Réalisme capitaliste · Abstraction",
+  "oeuvres": "Betty · La Liseuse · 18 octobre 1977",
+  "confiance": "a_verifier",
+  "note": "Aucun mouvement unique : « réalisme capitaliste » ne couvre que ses débuts, puis flous photographiques et abstractions."
+ },
+ "grands-peintres_anselm-kiefer": {
+  "dates": "né en 1945",
+  "nationalite": "Allemand",
+  "mouvement": "Néo-expressionnisme",
+  "oeuvres": "Margarethe · Sulamith",
+  "confiance": "sure"
+ },
+ "grands-peintres_yayoi-kusama": {
+  "dates": "née en 1929",
+  "nationalite": "Japonaise",
+  "mouvement": "Art contemporain (pop art)",
+  "oeuvres": "Infinity Mirror Rooms · Pumpkin · Infinity Nets",
+  "confiance": "a_verifier",
+  "note": "Mouvement difficile à fixer : pop art, minimalisme et art contemporain se disputent l'étiquette."
+ },
+ "grands-peintres_takashi-murakami": {
+  "dates": "né en 1962",
+  "nationalite": "Japonais",
+  "mouvement": "Superflat",
+  "oeuvres": "Mr. DOB · Tan Tan Bo · Fleurs souriantes",
+  "confiance": "sure"
+ },
+ "grands-peintres_zao-wou-ki": {
+  "dates": "1920-2013",
+  "nationalite": "Français (d'origine chinoise)",
+  "mouvement": "Abstraction lyrique",
+  "oeuvres": "Juin-octobre 1985 · Hommage à Claude Monet",
+  "confiance": "a_verifier",
+  "note": "Ses toiles sont titrées par leur date : les « œuvres célèbres » sont peu fixées pour un quiz."
+ },
+ "grands-peintres_emanuel-leutze": {
+  "dates": "1816-1868",
+  "nationalite": "Américain (né en Allemagne)",
+  "mouvement": "École de Düsseldorf (romantisme)",
+  "oeuvres": "Washington traversant le Delaware · Westward the Course of Empire Takes Its Way",
+  "confiance": "sure"
+ },
+ "grands-peintres_giuseppe-arcimboldo": {
+  "dates": "vers 1527-1593",
+  "nationalite": "Italien",
+  "mouvement": "Maniérisme",
+  "oeuvres": "Les Quatre Saisons · Vertumne · Les Quatre Éléments",
+  "confiance": "sure"
+ },
+ "grands-peintres_canaletto": {
+  "dates": "1697-1768",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Védutisme",
+  "oeuvres": "Le Grand Canal · La Place Saint-Marc · Retour du Bucentaure au môle le jour de l'Ascension",
+  "confiance": "sure"
+ },
+ "grands-peintres_cimabue": {
+  "dates": "vers 1240-1302",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Pré-Renaissance italienne (art gothique)",
+  "oeuvres": "Maestà de Santa Trinita · Crucifix de Santa Croce · Maestà du Louvre",
+  "confiance": "sure"
+ },
+ "grands-peintres_paolo-uccello": {
+  "dates": "1397-1475",
+  "nationalite": "Italien (florentin)",
+  "mouvement": "Renaissance italienne (Quattrocento)",
+  "oeuvres": "La Bataille de San Romano · Saint Georges et le Dragon · La Chasse nocturne",
+  "confiance": "sure"
+ },
+ "grands-peintres_le-correge": {
+  "dates": "vers 1489-1534",
+  "nationalite": "Italien",
+  "mouvement": "Renaissance italienne (école de Parme)",
+  "oeuvres": "Jupiter et Io · Danaé · L'Assomption de la Vierge",
+  "confiance": "sure"
+ },
+ "grands-peintres_giambattista-tiepolo": {
+  "dates": "1696-1770",
+  "nationalite": "Italien (vénitien)",
+  "mouvement": "Rococo",
+  "oeuvres": "Fresques de la Résidence de Wurtzbourg · Le Banquet de Cléopâtre",
+  "confiance": "sure"
+ },
+ "grands-peintres_lucas-cranach-l-ancien": {
+  "dates": "1472-1553",
+  "nationalite": "Allemand",
+  "mouvement": "Renaissance allemande",
+  "oeuvres": "Vénus et Cupidon · Adam et Ève · Portrait de Martin Luther",
+  "confiance": "sure"
+ },
+ "grands-peintres_hans-memling": {
+  "dates": "vers 1435-1494",
+  "nationalite": "Allemand (actif à Bruges)",
+  "mouvement": "Primitifs flamands",
+  "oeuvres": "La Châsse de sainte Ursule · Le Jugement dernier · Diptyque de Maarten van Nieuwenhove",
+  "confiance": "sure"
+ },
+ "grands-peintres_rogier-van-der-weyden": {
+  "dates": "vers 1399-1464",
+  "nationalite": "Flamand",
+  "mouvement": "Primitifs flamands",
+  "oeuvres": "La Descente de croix · Le Jugement dernier (Beaune) · Portrait d'une dame",
+  "confiance": "sure"
+ },
+ "grands-peintres_jan-steen": {
+  "dates": "vers 1626-1679",
+  "nationalite": "Néerlandais",
+  "mouvement": "Âge d'or hollandais (Baroque)",
+  "oeuvres": "La Joyeuse Famille · La Fête de saint Nicolas · Le Ménage de Jan Steen",
+  "confiance": "sure"
+ },
+ "grands-peintres_bartolome-esteban-murillo": {
+  "dates": "1617-1682",
+  "nationalite": "Espagnol",
+  "mouvement": "Siècle d'or espagnol (Baroque)",
+  "oeuvres": "Le Jeune Mendiant · L'Immaculée Conception · Jeunes Garçons mangeant des fruits",
+  "confiance": "sure"
+ },
+ "grands-peintres_jose-de-ribera": {
+  "dates": "1591-1652",
+  "nationalite": "Espagnol (actif à Naples)",
+  "mouvement": "Baroque (caravagisme)",
+  "oeuvres": "Le Pied-bot · Le Martyre de saint Philippe · Apollon et Marsyas",
+  "confiance": "sure"
+ },
+ "grands-peintres_claude-gellee": {
+  "dates": "vers 1600-1682",
+  "nationalite": "Français (lorrain)",
+  "mouvement": "Classicisme",
+  "oeuvres": "Port de mer au soleil couchant · Le Débarquement de Cléopâtre à Tarse · Paysage avec Agar et l'Ange",
+  "confiance": "sure"
+ },
+ "grands-peintres_francois-boucher": {
+  "dates": "1703-1770",
+  "nationalite": "Français",
+  "mouvement": "Rococo",
+  "oeuvres": "Diane sortant du bain · Madame de Pompadour · L'Odalisque brune",
+  "confiance": "sure"
+ },
+ "grands-peintres_elisabeth-vigee-le-brun": {
+  "dates": "1755-1842",
+  "nationalite": "Française",
+  "mouvement": "Néoclassicisme (portrait)",
+  "oeuvres": "Marie-Antoinette et ses enfants · Autoportrait avec sa fille · Marie-Antoinette à la rose",
+  "confiance": "a_verifier",
+  "note": "Entre rococo et néoclassicisme ; l'étiquette de mouvement se discute."
+ },
+ "grands-peintres_thomas-gainsborough": {
+  "dates": "1727-1788",
+  "nationalite": "Britannique",
+  "mouvement": "Rococo (portrait anglais)",
+  "oeuvres": "The Blue Boy · Mr and Mrs Andrews · La Promenade matinale",
+  "confiance": "sure"
+ },
+ "grands-peintres_joshua-reynolds": {
+  "dates": "1723-1792",
+  "nationalite": "Britannique",
+  "mouvement": "Académisme anglais (Grand Style)",
+  "oeuvres": "Mrs Siddons en muse tragique · L'Âge de l'innocence · Master Hare",
+  "confiance": "sure"
+ },
+ "grands-peintres_william-hogarth": {
+  "dates": "1697-1764",
+  "nationalite": "Britannique",
+  "mouvement": "Peinture satirique (rococo anglais)",
+  "oeuvres": "La Carrière d'une prostituée · La Carrière d'un libertin · Le Mariage à la mode",
+  "confiance": "sure"
+ },
+ "grands-peintres_dante-gabriel-rossetti": {
+  "dates": "1828-1882",
+  "nationalite": "Britannique",
+  "mouvement": "Préraphaélisme",
+  "oeuvres": "Beata Beatrix · Proserpine · Ecce Ancilla Domini",
+  "confiance": "sure"
+ },
+ "grands-peintres_john-william-waterhouse": {
+  "dates": "1849-1917",
+  "nationalite": "Britannique",
+  "mouvement": "Préraphaélisme",
+  "oeuvres": "La Dame de Shalott · Hylas et les Nymphes · Ophélie",
+  "confiance": "sure"
+ },
+ "grands-peintres_john-everett-millais": {
+  "dates": "1829-1896",
+  "nationalite": "Britannique",
+  "mouvement": "Préraphaélisme",
+  "oeuvres": "Ophélie · Le Christ dans la maison de ses parents · Bubbles",
+  "confiance": "sure"
+ },
+ "grands-peintres_arnold-bocklin": {
+  "dates": "1827-1901",
+  "nationalite": "Suisse",
+  "mouvement": "Symbolisme",
+  "oeuvres": "L'Île des morts · Autoportrait avec la Mort jouant du violon",
+  "confiance": "sure"
+ },
+ "grands-peintres_william-bouguereau": {
+  "dates": "1825-1905",
+  "nationalite": "Français",
+  "mouvement": "Académisme (art pompier)",
+  "oeuvres": "La Naissance de Vénus · Nymphes et Satyre · Dante et Virgile",
+  "confiance": "sure"
+ },
+ "grands-peintres_honore-daumier": {
+  "dates": "1808-1879",
+  "nationalite": "Français",
+  "mouvement": "Réalisme (caricature)",
+  "oeuvres": "Le Wagon de troisième classe · Gargantua · La Blanchisseuse",
+  "confiance": "sure"
+ },
+ "grands-peintres_gustave-dore": {
+  "dates": "1832-1883",
+  "nationalite": "Français",
+  "mouvement": "Romantisme (illustration)",
+  "oeuvres": "Illustrations de la Divine Comédie · Illustrations de la Bible · La Vallée de larmes",
+  "confiance": "sure"
+ },
+ "grands-peintres_rosa-bonheur": {
+  "dates": "1822-1899",
+  "nationalite": "Française",
+  "mouvement": "Réalisme (peinture animalière)",
+  "oeuvres": "Le Marché aux chevaux · Labourage nivernais",
+  "confiance": "sure"
+ },
+ "grands-peintres_pierre-bonnard": {
+  "dates": "1867-1947",
+  "nationalite": "Français",
+  "mouvement": "Nabis",
+  "oeuvres": "Nu dans le bain · La Salle à manger à la campagne · La Terrasse",
+  "confiance": "sure"
+ },
+ "grands-peintres_raoul-dufy": {
+  "dates": "1877-1953",
+  "nationalite": "Français",
+  "mouvement": "Fauvisme",
+  "oeuvres": "La Fée Électricité · Les Régates · La Jetée de Honfleur",
+  "confiance": "sure"
+ },
+ "grands-peintres_tamara-de-lempicka": {
+  "dates": "1898-1980",
+  "nationalite": "Polonaise",
+  "mouvement": "Art déco",
+  "oeuvres": "Autoportrait dans la Bugatti verte · La Belle Rafaëla · Jeune Fille en vert",
+  "confiance": "sure"
+ },
+ "grands-peintres_marcel-duchamp": {
+  "dates": "1887-1968",
+  "nationalite": "Français (naturalisé américain)",
+  "mouvement": "Dadaïsme",
+  "oeuvres": "Nu descendant un escalier n° 2 · Fontaine · Le Grand Verre",
+  "confiance": "sure"
+ },
+ "grands-peintres_juan-gris": {
+  "dates": "1887-1927",
+  "nationalite": "Espagnol",
+  "mouvement": "Cubisme",
+  "oeuvres": "Portrait de Pablo Picasso · Le Petit Déjeuner · Nature morte à la guitare",
+  "confiance": "sure"
+ },
+ "grands-peintres_balthus": {
+  "dates": "1908-2001",
+  "nationalite": "Français",
+  "mouvement": "Figuration (hors mouvement)",
+  "oeuvres": "La Rue · Thérèse rêvant · La Chambre",
+  "confiance": "a_verifier",
+  "note": "Balthus revendiquait n'appartenir à aucun mouvement : l'étiquette est fragile pour un quiz."
+ },
+ "grands-peintres_victor-vasarely": {
+  "dates": "1906-1997",
+  "nationalite": "Français (d'origine hongroise)",
+  "mouvement": "Art optique (op art)",
+  "oeuvres": "Zèbres · Vega · Hommage à l'hexagone",
+  "confiance": "sure"
+ },
+ "grands-peintres_chaim-soutine": {
+  "dates": "vers 1893-1943",
+  "nationalite": "Français (d'origine biélorusse)",
+  "mouvement": "École de Paris (expressionnisme)",
+  "oeuvres": "Le Bœuf écorché · Le Petit Pâtissier · Le Village (Céret)",
+  "confiance": "sure"
+ },
+ "grands-peintres_suzanne-valadon": {
+  "dates": "1865-1938",
+  "nationalite": "Française",
+  "mouvement": "Postimpressionnisme (École de Paris)",
+  "oeuvres": "La Chambre bleue · Adam et Ève · Le Lancement du filet",
+  "confiance": "a_verifier",
+  "note": "Mouvement discuté : proche du postimpressionnisme, souvent rattachée à l'École de Paris."
+ },
+ "grands-peintres_franz-marc": {
+  "dates": "1880-1916",
+  "nationalite": "Allemand",
+  "mouvement": "Expressionnisme (Der Blaue Reiter)",
+  "oeuvres": "La Tour des chevaux bleus · Le Grand Cheval bleu · Le Destin des animaux",
+  "confiance": "sure"
+ },
+ "grands-peintres_ernst-ludwig-kirchner": {
+  "dates": "1880-1938",
+  "nationalite": "Allemand",
+  "mouvement": "Expressionnisme (Die Brücke)",
+  "oeuvres": "Scène de rue berlinoise · Autoportrait en soldat · Marcella",
+  "confiance": "sure"
+ },
+ "grands-peintres_oskar-kokoschka": {
+  "dates": "1886-1980",
+  "nationalite": "Autrichien (naturalisé britannique)",
+  "mouvement": "Expressionnisme",
+  "oeuvres": "La Fiancée du vent · Portrait d'Adolf Loos",
+  "confiance": "sure"
+ },
+ "grands-peintres_emil-nolde": {
+  "dates": "1867-1956",
+  "nationalite": "Allemand",
+  "mouvement": "Expressionnisme (Die Brücke)",
+  "oeuvres": "La Danse autour du veau d'or · La Dernière Cène · Coquelicots",
+  "confiance": "sure"
+ },
+ "grands-peintres_james-ensor": {
+  "dates": "1860-1949",
+  "nationalite": "Belge",
+  "mouvement": "Expressionnisme (précurseur)",
+  "oeuvres": "L'Entrée du Christ à Bruxelles en 1889 · L'Intrigue · Squelettes se disputant un hareng saur",
+  "confiance": "sure"
+ },
+ "grands-peintres_paul-delvaux": {
+  "dates": "1897-1994",
+  "nationalite": "Belge",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Vénus endormie · Pygmalion · La Voix publique",
+  "confiance": "sure"
+ },
+ "grands-peintres_yves-tanguy-peintre": {
+  "dates": "1900-1955",
+  "nationalite": "Français (naturalisé américain)",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Maman, papa est blessé ! · Multiplication des arcs · Le Temps meublé",
+  "confiance": "sure"
+ },
+ "grands-peintres_remedios-varo": {
+  "dates": "1908-1963",
+  "nationalite": "Espagnole (exilée au Mexique)",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Création des oiseaux · Broderie du manteau terrestre · Vagabond",
+  "confiance": "sure"
+ },
+ "grands-peintres_leonora-carrington": {
+  "dates": "1917-2011",
+  "nationalite": "Britannique (naturalisée mexicaine)",
+  "mouvement": "Surréalisme",
+  "oeuvres": "Autoportrait (L'Auberge du cheval d'aube) · Les Distractions de Dagobert",
+  "confiance": "sure"
+ },
+ "grands-peintres_norman-rockwell": {
+  "dates": "1894-1978",
+  "nationalite": "Américain",
+  "mouvement": "Illustration (réalisme américain)",
+  "oeuvres": "Freedom from Want · The Problem We All Live With · Rosie la riveteuse",
+  "confiance": "sure"
+ },
+ "grands-peintres_andrew-wyeth": {
+  "dates": "1917-2009",
+  "nationalite": "Américain",
+  "mouvement": "Réalisme américain (régionalisme)",
+  "oeuvres": "Le Monde de Christina · Helga Pictures",
+  "confiance": "sure"
+ },
+ "grands-peintres_robert-rauschenberg": {
+  "dates": "1925-2008",
+  "nationalite": "Américain",
+  "mouvement": "Néo-dadaïsme (pop art)",
+  "oeuvres": "Monogram · Bed · Erased de Kooning Drawing",
+  "confiance": "sure"
+ },
+ "grands-peintres_jasper-johns": {
+  "dates": "né en 1930",
+  "nationalite": "Américain",
+  "mouvement": "Néo-dadaïsme (pop art)",
+  "oeuvres": "Flag · Target with Four Faces · Three Flags",
+  "confiance": "sure"
+ },
+ "grands-peintres_cy-twombly": {
+  "dates": "1928-2011",
+  "nationalite": "Américain",
+  "mouvement": "Expressionnisme abstrait",
+  "oeuvres": "Leda and the Swan · Plafond de la salle des Bronzes du Louvre",
+  "confiance": "sure"
+ },
+ "grands-peintres_david-alfaro-siqueiros": {
+  "dates": "1896-1974",
+  "nationalite": "Mexicain",
+  "mouvement": "Muralisme mexicain",
+  "oeuvres": "La Marche de l'humanité (Polyforum Siqueiros) · Écho d'un cri · Du porfirisme à la révolution",
+  "confiance": "sure"
+ },
+ "grands-peintres_jose-clemente-orozco": {
+  "dates": "1883-1949",
+  "nationalite": "Mexicain",
+  "mouvement": "Muralisme mexicain",
+  "oeuvres": "L'Homme de feu (Hospicio Cabañas) · Prométhée",
+  "confiance": "sure"
+ },
+ "grands-peintres_tarsila-do-amaral": {
+  "dates": "1886-1973",
+  "nationalite": "Brésilienne",
+  "mouvement": "Modernisme brésilien (anthropophagie)",
+  "oeuvres": "Abaporu · Operários · A Negra",
+  "confiance": "sure"
+ },
+ "grands-peintres_fernando-botero": {
+  "dates": "1932-2023",
+  "nationalite": "Colombien",
+  "mouvement": "Figuration (boterismo)",
+  "oeuvres": "Mona Lisa à douze ans · La Famille présidentielle · La Mort de Pablo Escobar",
+  "confiance": "sure"
+ },
+ "grands-peintres_utamaro": {
+  "dates": "vers 1753-1806",
+  "nationalite": "Japonais",
+  "mouvement": "Ukiyo-e",
+  "oeuvres": "Trois Beautés de notre temps · Dix études de physionomies féminines · Le Poème de l'oreiller",
+  "confiance": "sure"
+ },
+ "grands-peintres_tsugouharu-foujita": {
+  "dates": "1886-1968",
+  "nationalite": "Français (d'origine japonaise)",
+  "mouvement": "École de Paris",
+  "oeuvres": "Nu couché à la toile de Jouy · Autoportrait au chat",
+  "confiance": "sure"
+ },
+ "grands-peintres_qi-baishi": {
+  "dates": "1864-1957",
+  "nationalite": "Chinois",
+  "mouvement": "Peinture chinoise traditionnelle (guohua)",
+  "oeuvres": "Crevettes · Aigle sur un pin",
+  "confiance": "sure"
+ }
+}

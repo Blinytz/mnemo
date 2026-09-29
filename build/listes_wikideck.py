@@ -31,15 +31,40 @@ HTML = MEMO / 'memo.html'
 # Une liste Memo par collection WikiDeck : identifiant, nom, icone, colonnes
 # (libelle, cle dans le fichier redige), et ordre des lignes.
 LISTES = {
-    'philosophes': dict(id='philosophes', nom='Philosophes', icone='🏛️', ordre='chrono',
+    'philosophes': dict(id='philosophes', nom='Philosophes', icone='🏛️', ordre=('chrono', 'dates'),
+                        categorie='sciences-nature',
                         colonnes=[('Nom', None), ('Dates', 'dates'), ('Courant', 'courant'),
                                   ('Concepts clés', 'concepts'), ('Œuvres principales', 'oeuvres')]),
-    'tableaux-celebres': dict(id='tableaux_celebres', nom='Tableaux célèbres', icone='🖼️', ordre='chrono',
+    'tableaux-celebres': dict(id='tableaux_celebres', nom='Tableaux célèbres', icone='🖼️', ordre=('chrono', 'date'),
+                              categorie='arts-culture',
                               colonnes=[('Titre', None), ('Peintre', 'peintre'), ('Date', 'date'),
                                         ('Conservé à', 'lieu'), ('Mouvement', 'mouvement')]),
     'plats-francais': dict(id='plats_francais', nom='Plats français', icone='🍲', ordre='region',
+                           categorie='gastronomie',
                            colonnes=[('Plat', None), ('Région', 'region'), ('Ingrédients', 'ingredients'),
                                      ('Type', 'type')]),
+    # Lot 2 : en relecture tant que « relue » vaut False (le generateur les ignore)
+    'grands-peintres': dict(id='peintres', nom='Grands peintres', icone='🎨', ordre=('chrono', 'dates'),
+                            categorie='arts-culture', relue=False,
+                            colonnes=[('Nom', None), ('Dates', 'dates'), ('Nationalité', 'nationalite'),
+                                      ('Mouvement', 'mouvement'), ('Œuvres majeures', 'oeuvres')]),
+    'auteurs-classiques': dict(id='auteurs_classiques', nom='Auteurs classiques', icone='✒️', ordre=('chrono', 'dates'),
+                               categorie='arts-culture', relue=False,
+                               colonnes=[('Nom', None), ('Dates', 'dates'), ('Nationalité', 'nationalite'),
+                                         ('Mouvement', 'mouvement'), ('Œuvres majeures', 'oeuvres')]),
+    'oeuvres-litteraires': dict(id='litterature', nom='Œuvres littéraires', icone='📚', ordre=('chrono', 'annee'),
+                                categorie='arts-culture', relue=False,
+                                colonnes=[('Titre', None), ('Auteur', 'auteur'), ('Année', 'annee'),
+                                          ('Pays', 'pays'), ('Genre', 'genre')]),
+    'grandes-batailles-historiques': dict(id='batailles_decisives', nom='Grandes batailles', icone='⚔️',
+                                          ordre=('chrono', 'date'), categorie='histoire', relue=False,
+                                          colonnes=[('Bataille', None), ('Date', 'date'), ('Lieu', 'lieu'),
+                                                    ('Guerre', 'guerre'), ('Vainqueur', 'vainqueur')]),
+    'iles': dict(id='iles', nom='Îles', icone='🏝️', ordre='mer', categorie='geographie', relue=False,
+                 colonnes=[('Île', None), ('Pays', 'pays'), ('Océan ou mer', 'mer'), ('Chef-lieu', 'cheflieu')]),
+    'fromages': dict(id='fromages', nom='Fromages', icone='🧀', ordre='region', categorie='gastronomie', relue=False,
+                     colonnes=[('Fromage', None), ('Région', 'region'), ('Lait', 'lait'),
+                               ('Appellation', 'appellation')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -47,18 +72,35 @@ DEBUT_BLOC = '/* ══════════ LISTES ISSUES DE WIKIDECK ══
 FIN_BLOC = '/* ══════════ FIN DES LISTES WIKIDECK ══════════ */'
 
 
+MOIS = r'(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)'
+ROMAINS = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
+
+
+def romain(s):
+    n = 0
+    for i, ch in enumerate(s):
+        v = ROMAINS[ch]
+        n += -v if i + 1 < len(s) and ROMAINS[s[i + 1]] > v else v
+    return n
+
+
 def annee(texte):
-    """Premiere annee lue dans « vers 470-399 av. J.-C. », « 1503-1519 »..."""
-    m = re.search(r'(\d{1,4})', texte or '')
+    """Annee de tri lue dans « vers 470-399 av. J.-C. », « 1503-1519 »,
+    « 1er juillet-18 novembre 1916 », « VIIIe siècle av. J.-C. »..."""
+    texte = texte or ''
+    avant = bool(re.search(r'av\.? ?J\.?-?C', texte))
+    m = re.search(r'\b([IVXLC]+)e siècle', texte) or re.search(r'(\d{1,2})e siècle', texte)
+    if m and not re.search(r'\d{3,4}', texte):
+        s = romain(m.group(1)) if m.group(1)[0] in ROMAINS else int(m.group(1))
+        a = (s - 1) * 100 + 50
+        return -a if avant else a
+    # les jours du mois (« 1er », « 18 novembre ») ne sont pas des annees
+    sans_jours = re.sub(r'\b\d{1,2}(?:er)?\s+' + MOIS, ' ', texte)
+    m = re.search(r'(\d{1,4})', sans_jours)
     if not m:
         return 99999
     a = int(m.group(1))
-    if re.search(r'av\.? ?J\.?-?C', texte or ''):
-        a = -a
-    if re.search(r'(\d{1,2})e siècle', texte or '') and not re.search(r'\d{3,4}', texte or ''):
-        s = int(re.search(r'(\d{1,2})e siècle', texte).group(1))
-        a = (s - 1) * 100 + 50 if a > 0 else -(s - 1) * 100 - 50
-    return a
+    return -a if avant else a
 
 
 def nom_affiche(c):
@@ -98,11 +140,11 @@ def construire(slug, cadrages, essai):
     textes = json.loads((TEXTES / f'{slug}.json').read_text(encoding='utf-8'))
     cartes = [c for c in json.loads((WIKIDECK / 'data' / f'{slug}.json').read_text(encoding='utf-8'))['cartes']
               if c['id'] in textes]
-    if cfg['ordre'] == 'chrono':
-        cle_date = cfg['colonnes'][1][1] if cfg['colonnes'][1][1] in ('dates', 'date') else 'date'
-        cartes.sort(key=lambda c: (annee(textes[c['id']].get(cle_date, '')), c['nom']))
+    # ordre : ('chrono', <cle de date>) ou <cle> pour un tri alphabetique sur cette colonne
+    if isinstance(cfg['ordre'], tuple):
+        cartes.sort(key=lambda c: (annee(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
     else:
-        cartes.sort(key=lambda c: (textes[c['id']].get('region', ''), c['nom']))
+        cartes.sort(key=lambda c: (textes[c['id']].get(cfg['ordre'], ''), c['nom']))
     lignes, grands = [], {}
     for i, c in enumerate(cartes, 1):
         t = textes[c['id']]
@@ -115,7 +157,7 @@ def construire(slug, cadrages, essai):
         lignes.append(ligne)
     liste = {'id': cfg['id'], 'name': cfg['nom'], 'icon': cfg['icone'],
              'columns': ['Numéro', 'Image'] + [lib for lib, _ in cfg['colonnes']],
-             'rows': lignes, 'source': 'wikideck'}
+             'rows': lignes, 'source': 'wikideck', 'categoryId': cfg['categorie']}
     return liste, grands
 
 
@@ -174,7 +216,7 @@ def main():
     cadrages = json.loads((WIKIDECK / 'build' / 'notes_atelier.json').read_text(encoding='utf-8'))['cadrages']
     listes, grands = [], {}
     for slug in LISTES:
-        if not (TEXTES / f'{slug}.json').exists():
+        if not LISTES[slug].get('relue', True) or not (TEXTES / f'{slug}.json').exists():
             continue
         liste, g = construire(slug, cadrages, essai)
         listes.append(liste)

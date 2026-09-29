@@ -1,0 +1,531 @@
+{
+ "oeuvres-litteraires_iliade": {
+  "auteur": "Homère",
+  "annee": "VIIIe siècle av. J.-C.",
+  "pays": "Grèce antique",
+  "genre": "Épopée",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_metamorphoses-ovide": {
+  "auteur": "Ovide",
+  "annee": "vers 8 apr. J.-C.",
+  "pays": "Rome antique",
+  "genre": "Poème épique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_eneide": {
+  "auteur": "Virgile",
+  "annee": "29-19 av. J.-C.",
+  "pays": "Rome antique",
+  "genre": "Épopée",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_epopee-de-gilgamesh": {
+  "auteur": "Anonyme",
+  "annee": "vers 1200 av. J.-C.",
+  "pays": "Mésopotamie",
+  "genre": "Épopée",
+  "confiance": "a_verifier",
+  "note": "Plusieurs versions : les plus anciennes remontent au début du IIe millénaire av. J.-C., la version dite standard vers 1200 av. J.-C."
+ },
+ "oeuvres-litteraires_les-mille-et-une-nuits": {
+  "auteur": "Anonyme",
+  "annee": "IXe-XIVe siècle",
+  "pays": "Monde arabo-persan",
+  "genre": "Recueil de contes",
+  "confiance": "a_verifier",
+  "note": "Compilation progressive sans date fixe ; la fourchette et l'aire d'origine (Perse, Irak, Égypte) varient selon les sources."
+ },
+ "oeuvres-litteraires_divine-comedie": {
+  "auteur": "Dante Alighieri",
+  "annee": "1307-1321",
+  "pays": "Italie",
+  "genre": "Poème épique",
+  "confiance": "a_verifier",
+  "note": "Le début de la composition est discuté (1303, 1304 ou 1307) ; l'achèvement en 1321 est sûr."
+ },
+ "oeuvres-litteraires_decameron": {
+  "auteur": "Boccace",
+  "annee": "1349-1353",
+  "pays": "Italie",
+  "genre": "Recueil de nouvelles",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-contes-de-canterbury": {
+  "auteur": "Geoffrey Chaucer",
+  "annee": "1387-1400",
+  "pays": "Angleterre",
+  "genre": "Recueil de contes",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_pantagruel": {
+  "auteur": "François Rabelais",
+  "annee": "1532",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_essais-montaigne": {
+  "auteur": "Michel de Montaigne",
+  "annee": "1580",
+  "pays": "France",
+  "genre": "Essai",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-misanthrope": {
+  "auteur": "Molière",
+  "annee": "1666",
+  "pays": "France",
+  "genre": "Comédie",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_fables-de-la-fontaine": {
+  "auteur": "Jean de La Fontaine",
+  "annee": "1668-1694",
+  "pays": "France",
+  "genre": "Recueil de fables",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-cid-corneille": {
+  "auteur": "Pierre Corneille",
+  "annee": "1637",
+  "pays": "France",
+  "genre": "Tragi-comédie",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_phedre-racine": {
+  "auteur": "Jean Racine",
+  "annee": "1677",
+  "pays": "France",
+  "genre": "Tragédie",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_candide": {
+  "auteur": "Voltaire",
+  "annee": "1759",
+  "pays": "France",
+  "genre": "Conte philosophique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-liaisons-dangereuses": {
+  "auteur": "Choderlos de Laclos",
+  "annee": "1782",
+  "pays": "France",
+  "genre": "Roman épistolaire",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-miserables": {
+  "auteur": "Victor Hugo",
+  "annee": "1862",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_notre-dame-de-paris-roman": {
+  "auteur": "Victor Hugo",
+  "annee": "1831",
+  "pays": "France",
+  "genre": "Roman historique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-trois-mousquetaires": {
+  "auteur": "Alexandre Dumas",
+  "annee": "1844",
+  "pays": "France",
+  "genre": "Roman de cape et d'épée",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-rouge-et-le-noir": {
+  "auteur": "Stendhal",
+  "annee": "1830",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-pere-goriot": {
+  "auteur": "Honoré de Balzac",
+  "annee": "1835",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_madame-bovary": {
+  "auteur": "Gustave Flaubert",
+  "annee": "1857",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_germinal-roman": {
+  "auteur": "Émile Zola",
+  "annee": "1885",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-fleurs-du-mal": {
+  "auteur": "Charles Baudelaire",
+  "annee": "1857",
+  "pays": "France",
+  "genre": "Recueil de poèmes",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
+  "auteur": "Jules Verne",
+  "annee": "1869-1870",
+  "pays": "France",
+  "genre": "Roman d'aventures",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-tour-du-monde-en-quatre-vingts-jours": {
+  "auteur": "Jules Verne",
+  "annee": "1872",
+  "pays": "France",
+  "genre": "Roman d'aventures",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_a-la-recherche-du-temps-perdu": {
+  "auteur": "Marcel Proust",
+  "annee": "1913-1927",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_l-etranger": {
+  "auteur": "Albert Camus",
+  "annee": "1942",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_la-peste": {
+  "auteur": "Albert Camus",
+  "annee": "1947",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_voyage-au-bout-de-la-nuit": {
+  "auteur": "Louis-Ferdinand Céline",
+  "annee": "1932",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_orgueil-et-prejuges": {
+  "auteur": "Jane Austen",
+  "annee": "1813",
+  "pays": "Royaume-Uni",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-hauts-de-hurlevent": {
+  "auteur": "Emily Brontë",
+  "annee": "1847",
+  "pays": "Royaume-Uni",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_moby-dick": {
+  "auteur": "Herman Melville",
+  "annee": "1851",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-aventures-d-alice-au-pays-des-merveilles": {
+  "auteur": "Lewis Carroll",
+  "annee": "1865",
+  "pays": "Royaume-Uni",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_l-ile-au-tresor": {
+  "auteur": "Robert Louis Stevenson",
+  "annee": "1883",
+  "pays": "Royaume-Uni",
+  "genre": "Roman d'aventures",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_guerre-et-paix": {
+  "auteur": "Léon Tolstoï",
+  "annee": "1865-1869",
+  "pays": "Russie",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_crime-et-chatiment": {
+  "auteur": "Fiodor Dostoïevski",
+  "annee": "1866",
+  "pays": "Russie",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-freres-karamazov": {
+  "auteur": "Fiodor Dostoïevski",
+  "annee": "1879-1880",
+  "pays": "Russie",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_ulysse-roman": {
+  "auteur": "James Joyce",
+  "annee": "1922",
+  "pays": "Irlande",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_la-metamorphose": {
+  "auteur": "Franz Kafka",
+  "annee": "1915",
+  "pays": "Autriche-Hongrie",
+  "genre": "Nouvelle",
+  "confiance": "a_verifier",
+  "note": "Kafka écrit en allemand à Prague : le pays attendu peut être Autriche-Hongrie ou Tchéquie ; le genre oscille entre nouvelle et roman court."
+ },
+ "oeuvres-litteraires_le-proces": {
+  "auteur": "Franz Kafka",
+  "annee": "1925",
+  "pays": "Tchécoslovaquie",
+  "genre": "Roman",
+  "confiance": "a_verifier",
+  "note": "Auteur pragois de langue allemande, livre paru à Berlin : le pays attendu dans un quiz reste ambigu."
+ },
+ "oeuvres-litteraires_gatsby-le-magnifique": {
+  "auteur": "Francis Scott Fitzgerald",
+  "annee": "1925",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-vieil-homme-et-la-mer": {
+  "auteur": "Ernest Hemingway",
+  "annee": "1952",
+  "pays": "États-Unis",
+  "genre": "Roman court",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-raisins-de-la-colere": {
+  "auteur": "John Steinbeck",
+  "annee": "1939",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_1984-roman": {
+  "auteur": "George Orwell",
+  "annee": "1949",
+  "pays": "Royaume-Uni",
+  "genre": "Roman dystopique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_la-ferme-des-animaux": {
+  "auteur": "George Orwell",
+  "annee": "1945",
+  "pays": "Royaume-Uni",
+  "genre": "Roman court",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-meilleur-des-mondes": {
+  "auteur": "Aldous Huxley",
+  "annee": "1932",
+  "pays": "Royaume-Uni",
+  "genre": "Roman dystopique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_fahrenheit-451": {
+  "auteur": "Ray Bradbury",
+  "annee": "1953",
+  "pays": "États-Unis",
+  "genre": "Roman dystopique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-seigneur-des-anneaux": {
+  "auteur": "J. R. R. Tolkien",
+  "annee": "1954-1955",
+  "pays": "Royaume-Uni",
+  "genre": "Roman de fantasy",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-hobbit": {
+  "auteur": "J. R. R. Tolkien",
+  "annee": "1937",
+  "pays": "Royaume-Uni",
+  "genre": "Roman de fantasy",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-trone-de-fer": {
+  "auteur": "George R. R. Martin",
+  "annee": "depuis 1996",
+  "pays": "États-Unis",
+  "genre": "Cycle de romans de fantasy",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_dune-roman": {
+  "auteur": "Frank Herbert",
+  "annee": "1965",
+  "pays": "États-Unis",
+  "genre": "Roman de science-fiction",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_fondation-isaac-asimov": {
+  "auteur": "Isaac Asimov",
+  "annee": "1951",
+  "pays": "États-Unis",
+  "genre": "Roman de science-fiction",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_cent-ans-de-solitude": {
+  "auteur": "Gabriel García Márquez",
+  "annee": "1967",
+  "pays": "Colombie",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-nom-de-la-rose-roman": {
+  "auteur": "Umberto Eco",
+  "annee": "1980",
+  "pays": "Italie",
+  "genre": "Roman policier historique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_lolita": {
+  "auteur": "Vladimir Nabokov",
+  "annee": "1955",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "a_verifier",
+  "note": "Roman américain de Nabokov (naturalisé américain) mais d'abord publié à Paris : pays à confirmer pour le quiz."
+ },
+ "oeuvres-litteraires_l-attrape-c-urs": {
+  "auteur": "J. D. Salinger",
+  "annee": "1951",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_ne-tirez-pas-sur-l-oiseau-moqueur": {
+  "auteur": "Harper Lee",
+  "annee": "1960",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_beloved-roman": {
+  "auteur": "Toni Morrison",
+  "annee": "1987",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-maitre-et-marguerite": {
+  "auteur": "Mikhaïl Boulgakov",
+  "annee": "1966-1967",
+  "pays": "URSS",
+  "genre": "Roman",
+  "confiance": "a_verifier",
+  "note": "Écrit de 1928 à 1940, publié en revue seulement en 1966-1967 : choisir entre date d'écriture et de publication."
+ },
+ "oeuvres-litteraires_l-archipel-du-goulag": {
+  "auteur": "Alexandre Soljenitsyne",
+  "annee": "1973",
+  "pays": "URSS",
+  "genre": "Essai",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-journal-d-anne-frank": {
+  "auteur": "Anne Frank",
+  "annee": "1947",
+  "pays": "Pays-Bas",
+  "genre": "Journal intime",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_si-c-est-un-homme": {
+  "auteur": "Primo Levi",
+  "annee": "1947",
+  "pays": "Italie",
+  "genre": "Récit autobiographique",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-reve-dans-le-pavillon-rouge": {
+  "auteur": "Cao Xueqin",
+  "annee": "1791",
+  "pays": "Chine",
+  "genre": "Roman",
+  "confiance": "a_verifier",
+  "note": "Composé vers le milieu du XVIIIe siècle, première édition imprimée en 1791, les 40 derniers chapitres attribués à Gao E."
+ },
+ "oeuvres-litteraires_le-dit-du-genji": {
+  "auteur": "Murasaki Shikibu",
+  "annee": "début du XIe siècle",
+  "pays": "Japon",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_les-trois-royaumes-roman": {
+  "auteur": "Luo Guanzhong",
+  "annee": "XIVe siècle",
+  "pays": "Chine",
+  "genre": "Roman historique",
+  "confiance": "a_verifier",
+  "note": "Attribution à Luo Guanzhong traditionnelle et date incertaine (XIVe siècle, plus ancienne édition conservée de 1522)."
+ },
+ "oeuvres-litteraires_mahabharata": {
+  "auteur": "Vyasa",
+  "annee": "IVe siècle av. J.-C.-IVe siècle",
+  "pays": "Inde",
+  "genre": "Épopée",
+  "confiance": "a_verifier",
+  "note": "Vyasa est l'auteur légendaire ; composition étalée sur plusieurs siècles, bornes discutées."
+ },
+ "oeuvres-litteraires_tout-s-effondre": {
+  "auteur": "Chinua Achebe",
+  "annee": "1958",
+  "pays": "Nigeria",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-chateau": {
+  "auteur": "Franz Kafka",
+  "annee": "1926",
+  "pays": "Tchécoslovaquie",
+  "genre": "Roman",
+  "confiance": "a_verifier",
+  "note": "Auteur pragois de langue allemande, livre posthume paru à Munich : le pays attendu dans un quiz reste ambigu."
+ },
+ "oeuvres-litteraires_le-parfum": {
+  "auteur": "Patrick Süskind",
+  "annee": "1985",
+  "pays": "Allemagne",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_le-grand-meaulnes": {
+  "auteur": "Alain-Fournier",
+  "annee": "1913",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_bel-ami": {
+  "auteur": "Guy de Maupassant",
+  "annee": "1885",
+  "pays": "France",
+  "genre": "Roman",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_contes-de-l-enfance-et-du-foyer": {
+  "auteur": "Frères Grimm",
+  "annee": "1812-1815",
+  "pays": "Allemagne",
+  "genre": "Recueil de contes",
+  "confiance": "sure"
+ },
+ "oeuvres-litteraires_la-case-de-l-oncle-tom": {
+  "auteur": "Harriet Beecher Stowe",
+  "annee": "1852",
+  "pays": "États-Unis",
+  "genre": "Roman",
+  "confiance": "sure"
+ }
+}

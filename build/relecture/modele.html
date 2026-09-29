@@ -1,0 +1,207 @@
+<title>Relecture Mémo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Mise en page : une colonne de fiches, barre de listes collante, décisions au pouce. */
+:root{
+  --fond:#f3f5f8; --carte:#ffffff; --texte:#141a22; --doux:#5d6878; --trait:#dde2ea;
+  --accent:#2f6fd6; --accent-texte:#ffffff;
+  --doute:#b45309; --doute-fond:#fdf3e4;
+  --ok:#17803d; --ok-fond:#e6f4ea; --corr:#9a3fbf; --corr-fond:#f4eafa; --ret:#b42318; --ret-fond:#fdeceb;
+  --f-titre:"Fraunces",Georgia,serif; --f-texte:"Atkinson Hyperlegible",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --fond:#10141a; --carte:#171d25; --texte:#e8edf3; --doux:#9aa6b6; --trait:#2a3340;
+  --accent:#6ea1f2; --accent-texte:#0c1118;
+  --doute:#f0a44b; --doute-fond:#2b2116;
+  --ok:#5fcf85; --ok-fond:#15291c; --corr:#d19be8; --corr-fond:#2a1c31; --ret:#f38b82; --ret-fond:#321a18; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --fond:#10141a; --carte:#171d25; --texte:#e8edf3; --doux:#9aa6b6; --trait:#2a3340;
+  --accent:#6ea1f2; --accent-texte:#0c1118;
+  --doute:#f0a44b; --doute-fond:#2b2116;
+  --ok:#5fcf85; --ok-fond:#15291c; --corr:#d19be8; --corr-fond:#2a1c31; --ret:#f38b82; --ret-fond:#321a18; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--fond);color:var(--texte);font:15px/1.5 var(--f-texte);padding-inline:16px;padding-block:0 48px}
+.page{max-width:760px;margin:0 auto}
+header.tete{padding-block:24px 8px}
+h1{font-family:var(--f-titre);font-size:28px;line-height:1.15;margin:0 0 6px;text-wrap:balance}
+.chapo{color:var(--doux);margin:0;max-width:60ch}
+.etat{font-size:13px;color:var(--doux);margin-top:8px}
+.etat.alerte{color:var(--ret)}
+nav.barre{position:sticky;top:env(safe-area-inset-top,0px);z-index:3;background:var(--fond);padding-block:10px;border-bottom:1px solid var(--trait);display:grid;gap:8px}
+.listes{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding-bottom:2px}
+.listes button,.filtres button{font:inherit;border:1px solid var(--trait);background:var(--carte);color:var(--texte);border-radius:999px;padding:6px 12px;white-space:nowrap;cursor:pointer}
+.listes button[aria-pressed="true"],.filtres button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-texte)}
+.listes .compte{font-variant-numeric:tabular-nums;opacity:.8;margin-left:4px;font-size:13px}
+.filtres{display:flex;gap:6px;flex-wrap:wrap;font-size:14px}
+.resume{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;color:var(--doux);font-variant-numeric:tabular-nums;margin:14px 0 4px}
+.resume b{color:var(--texte)}
+.fiches{display:grid;gap:10px;margin-top:10px}
+.fiche{display:grid;grid-template-columns:128px minmax(0,1fr);gap:14px;background:var(--carte);border:1px solid var(--trait);border-radius:10px;padding:12px}
+.fiche.doute{border-color:var(--doute);background:var(--doute-fond)}
+.fiche img{width:128px;height:96px;object-fit:cover;border-radius:6px;background:var(--trait)}
+.nom{font-weight:700;font-size:17px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.num{color:var(--doux);font-weight:400;font-size:13px;font-variant-numeric:tabular-nums}
+dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:2px 12px;margin:6px 0 0}
+dt{color:var(--doux);font-size:13px;padding-top:1px}dd{margin:0;overflow-wrap:anywhere}
+.note{color:var(--doute);font-size:14px;margin-top:8px}
+.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px;align-items:center}
+.actions button{font:inherit;font-size:14px;border-radius:8px;padding:6px 12px;border:1px solid var(--trait);background:var(--carte);color:var(--texte);cursor:pointer}
+.actions button:focus-visible,.listes button:focus-visible,.filtres button:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.actions button[data-v="ok"][aria-pressed="true"]{background:var(--ok-fond);border-color:var(--ok);color:var(--ok)}
+.actions button[data-v="corriger"][aria-pressed="true"]{background:var(--corr-fond);border-color:var(--corr);color:var(--corr)}
+.actions button[data-v="retirer"][aria-pressed="true"]{background:var(--ret-fond);border-color:var(--ret);color:var(--ret)}
+.pastille{font-size:12px;border-radius:999px;padding:1px 8px;font-weight:700}
+.pastille.ok{background:var(--ok-fond);color:var(--ok)}.pastille.corriger{background:var(--corr-fond);color:var(--corr)}.pastille.retirer{background:var(--ret-fond);color:var(--ret)}
+.correction{display:grid;gap:6px;margin-top:8px}
+.correction textarea{font:inherit;width:100%;min-height:64px;border:1px solid var(--corr);border-radius:8px;padding:8px;background:var(--carte);color:var(--texte);resize:vertical}
+.correction .ligne{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.correction .enregistre{font-size:13px;color:var(--doux)}
+.vide{color:var(--doux);padding:24px 0}
+@media (max-width:520px){.fiche{grid-template-columns:1fr}.fiche img{width:100%;height:auto;aspect-ratio:4/3}}
+</style>
+
+<div class="page">
+  <header class="tete">
+    <h1>Relecture Mémo · lot 2</h1>
+    <p class="chapo">Six listes tirées de WikiDeck. Les fiches encadrées en orange sont celles où le rédacteur doute : elles passent en tête. Valide, corrige ou retire ; une fiche laissée sans décision entrera dans Mémo telle quelle.</p>
+    <p class="etat" id="etat">Connexion à l'enregistrement…</p>
+  </header>
+  <nav class="barre" aria-label="Listes et filtres">
+    <div class="listes" id="listes" role="group" aria-label="Listes"></div>
+    <div class="filtres" id="filtres" role="group" aria-label="Filtre">
+      <button type="button" data-f="doute" aria-pressed="true">À vérifier</button>
+      <button type="button" data-f="tout" aria-pressed="false">Toutes les fiches</button>
+      <button type="button" data-f="decide" aria-pressed="false">Déjà décidées</button>
+    </div>
+  </nav>
+  <div class="resume" id="resume"></div>
+  <main class="fiches" id="fiches"></main>
+</div>
+
+<script id="donnees" type="application/json">__DONNEES__</script>
+<script>
+const LOT = JSON.parse(document.getElementById('donnees').textContent);
+const LIB = {ok: 'Validée', corriger: 'À corriger', retirer: 'Retirée'};
+let choixListe = LOT.listes[0].slug, filtre = 'doute';
+const decisions = {};            // id de carte -> {statut, correction}
+let db = null, lectureSeule = false;
+try {
+  const f = localStorage.getItem('relecture-filtre'); if (f) filtre = f;
+  const l = localStorage.getItem('relecture-liste'); if (l && LOT.listes.some(x => x.slug === l)) choixListe = l;
+} catch {}
+
+const $ = s => document.querySelector(s);
+function el(tag, attrs = {}, ...enfants) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === 'class') e.className = v; else if (k === 'text') e.textContent = v; else e.setAttribute(k, v);
+  }
+  for (const c of enfants) if (c) e.append(c);
+  return e;
+}
+function etat(t, alerte) { const e = $('#etat'); e.textContent = t; e.classList.toggle('alerte', !!alerte); }
+
+function rendreListes() {
+  const boite = $('#listes'); boite.replaceChildren();
+  for (const l of LOT.listes) {
+    const doutes = l.fiches.filter(f => f.doute).length;
+    const b = el('button', {type: 'button', 'aria-pressed': String(l.slug === choixListe)}, l.nom,
+      el('span', {class: 'compte', text: doutes ? `${doutes} à vérifier` : String(l.fiches.length)}));
+    b.onclick = () => { choixListe = l.slug; try { localStorage.setItem('relecture-liste', l.slug); } catch {} rendre(); window.scrollTo({top: 0}); };
+    boite.append(b);
+  }
+  for (const b of document.querySelectorAll('#filtres button')) b.setAttribute('aria-pressed', String(b.dataset.f === filtre));
+}
+
+function rendreResume(l) {
+  const c = {ok: 0, corriger: 0, retirer: 0};
+  for (const f of l.fiches) { const s = decisions[f.id]?.statut; if (s in c) c[s]++; }
+  const bloc = (n, t) => el('span', {}, el('b', {text: String(n)}), ' ' + t);
+  $('#resume').replaceChildren(
+    bloc(l.fiches.length, 'fiches'), bloc(l.fiches.filter(f => f.doute).length, 'à vérifier'),
+    bloc(c.ok, 'validées'), bloc(c.corriger, 'à corriger'), bloc(c.retirer, 'retirées'),
+    el('span', {text: 'Colonnes : ' + l.colonnes.join(' · ')}));
+}
+
+async function decider(f, statut, correction) {
+  if (!db || lectureSeule) return;
+  const avant = decisions[f.id];
+  const ref = db.doc('decisions/' + f.id);
+  try {
+    if (avant && avant.statut === statut && statut !== 'corriger') { await ref.delete(); delete decisions[f.id]; }
+    else {
+      const corps = {carte: f.id, liste: choixListe, nom: f.nom, statut, correction: correction || '', t: new Date().toISOString()};
+      await ref.set(corps); decisions[f.id] = corps;
+    }
+    rendre();
+  } catch (e) {
+    if (e?.code === 'invalid_argument' || e?.code === 'not_granted') { lectureSeule = true; etat('Tu peux lire cette page, mais pas y enregistrer de décision.', true); rendre(); }
+    else etat("La décision n'a pas été enregistrée. Réessaie dans un instant.", true);
+  }
+}
+
+function ouvrirCorrection(f, corps, sansFocus) {
+  if (corps.querySelector('.correction')) return;
+  const zone = el('textarea', {id: 'corr-' + f.id, placeholder: 'Ce qui est faux et la bonne valeur. Exemple : Nationalité : Flamand'});
+  zone.value = decisions[f.id]?.correction || '';
+  const info = el('span', {class: 'enregistre'});
+  const bouton = el('button', {type: 'button'}, 'Enregistrer la correction');
+  bouton.onclick = async () => {
+    if (!zone.value.trim()) { info.textContent = 'Écris la correction avant de l’enregistrer.'; return; }
+    await decider(f, 'corriger', zone.value.trim());
+  };
+  corps.append(el('div', {class: 'correction'}, el('label', {for: zone.id, text: 'Correction'}), zone, el('div', {class: 'ligne'}, bouton, info)));
+  if (!sansFocus) zone.focus();
+}
+
+function fiche(f) {
+  const d = decisions[f.id];
+  const titre = el('div', {class: 'nom'}, el('span', {class: 'num', text: 'n° ' + f.rang}), f.nom);
+  if (d) titre.append(el('span', {class: 'pastille ' + d.statut, text: LIB[d.statut] || d.statut}));
+  const dl = el('dl');
+  for (const [lib, val] of f.champs) dl.append(el('dt', {text: lib}), el('dd', {text: val || '·'}));
+  const corps = el('div', {}, titre, dl);
+  if (f.note) corps.append(el('div', {class: 'note', text: f.note}));
+  if (db && !lectureSeule) {
+    const act = el('div', {class: 'actions'});
+    for (const [v, lib] of [['ok', 'Valider'], ['corriger', 'Corriger'], ['retirer', 'Retirer de la liste']]) {
+      const b = el('button', {type: 'button', 'data-v': v, 'aria-pressed': String(d?.statut === v)}, lib);
+      b.onclick = () => v === 'corriger' ? ouvrirCorrection(f, corps) : decider(f, v);
+      act.append(b);
+    }
+    corps.append(act);
+    if (d?.statut === 'corriger') ouvrirCorrection(f, corps, true);
+  }
+  return el('article', {class: 'fiche' + (f.doute ? ' doute' : '')},
+    el('img', {src: f.image, alt: f.nom, loading: 'lazy', width: '128', height: '96'}), corps);
+}
+
+function rendre() {
+  rendreListes();
+  const l = LOT.listes.find(x => x.slug === choixListe);
+  rendreResume(l);
+  let fs = l.fiches;
+  if (filtre === 'doute') fs = fs.filter(f => f.doute);
+  if (filtre === 'decide') fs = fs.filter(f => decisions[f.id]);
+  const vide = {doute: 'Aucune fiche à vérifier dans cette liste.', decide: 'Aucune décision pour cette liste pour l’instant.', tout: 'Liste vide.'}[filtre];
+  $('#fiches').replaceChildren(...(fs.length ? fs.map(fiche) : [el('p', {class: 'vide', text: vide})]));
+}
+
+for (const b of document.querySelectorAll('#filtres button')) b.onclick = () => {
+  filtre = b.dataset.f; try { localStorage.setItem('relecture-filtre', filtre); } catch {} rendre();
+};
+rendre();
+
+(async () => {
+  try { db = await window.claude?.use?.('db'); } catch { db = null; }
+  if (!db) { etat("L'enregistrement des décisions n'est pas disponible ici : ouvre cette page en étant connecté à Claude. Tu peux tout lire en attendant.", true); return; }
+  etat('Chaque décision est enregistrée aussitôt.');
+  rendre();
+  db.collection('decisions').onSnapshot(snap => {
+    for (const k of Object.keys(decisions)) delete decisions[k];
+    for (const doc of snap.docs) { const v = doc.data(); if (v) decisions[doc.id] = v; }
+    rendre();
+  }, () => etat("La liaison avec l'enregistrement s'est interrompue. Recharge la page.", true));
+})();
+</script>
