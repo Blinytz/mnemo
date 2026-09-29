@@ -1,0 +1,684 @@
+{
+ "oeuvres-musicales_symphonie-no-9-de-beethoven": {
+  "compositeur": "Ludwig van Beethoven",
+  "annee": "1824",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-sacre-du-printemps": {
+  "compositeur": "Igor Stravinsky",
+  "annee": "1913",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_les-quatre-saisons": {
+  "compositeur": "Antonio Vivaldi",
+  "annee": "1725",
+  "genre": "Concerto",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_rhapsody-in-blue": {
+  "compositeur": "George Gershwin",
+  "annee": "1924",
+  "genre": "Rhapsodie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_bolero-ravel": {
+  "compositeur": "Maurice Ravel",
+  "annee": "1928",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_requiem-mozart": {
+  "compositeur": "Wolfgang Amadeus Mozart",
+  "annee": "1791",
+  "genre": "Requiem",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_la-flute-enchantee": {
+  "compositeur": "Wolfgang Amadeus Mozart",
+  "annee": "1791",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_les-noces-de-figaro": {
+  "compositeur": "Wolfgang Amadeus Mozart",
+  "annee": "1786",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_don-giovanni": {
+  "compositeur": "Wolfgang Amadeus Mozart",
+  "annee": "1787",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_carmen-opera": {
+  "compositeur": "Georges Bizet",
+  "annee": "1875",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_la-traviata": {
+  "compositeur": "Giuseppe Verdi",
+  "annee": "1853",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_aida": {
+  "compositeur": "Giuseppe Verdi",
+  "annee": "1871",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_nabucco": {
+  "compositeur": "Giuseppe Verdi",
+  "annee": "1842",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-barbier-de-seville-rossini": {
+  "compositeur": "Gioachino Rossini",
+  "annee": "1816",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_tosca": {
+  "compositeur": "Giacomo Puccini",
+  "annee": "1900",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_la-boheme": {
+  "compositeur": "Giacomo Puccini",
+  "annee": "1896",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_l-anneau-du-nibelung": {
+  "compositeur": "Richard Wagner",
+  "annee": "1876",
+  "genre": "Cycle d'opéras",
+  "confiance": "tranchee",
+  "note": "Année de la première intégrale à Bayreuth, date de création usuelle du cycle."
+ },
+ "oeuvres-musicales_tristan-und-isolde": {
+  "compositeur": "Richard Wagner",
+  "annee": "1865",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_casse-noisette": {
+  "compositeur": "Piotr Ilitch Tchaïkovski",
+  "annee": "1892",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-lac-des-cygnes": {
+  "compositeur": "Piotr Ilitch Tchaïkovski",
+  "annee": "1877",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_la-belle-au-bois-dormant-ballet": {
+  "compositeur": "Piotr Ilitch Tchaïkovski",
+  "annee": "1890",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_messiah": {
+  "compositeur": "Georg Friedrich Haendel",
+  "annee": "1741",
+  "genre": "Oratorio",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_water-music": {
+  "compositeur": "Georg Friedrich Haendel",
+  "annee": "1717",
+  "genre": "Suite orchestrale",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-no-9-de-dvorak": {
+  "compositeur": "Antonín Dvořák",
+  "annee": "1893",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_suite-bergamasque": {
+  "compositeur": "Claude Debussy",
+  "annee": "1905",
+  "genre": "Pièce pour piano",
+  "confiance": "tranchee",
+  "note": "Année de publication de la Suite bergamasque, date usuelle de Clair de lune ; la première ébauche vers 1890 reste mal datée."
+ },
+ "oeuvres-musicales_prelude-a-l-apres-midi-d-un-faune": {
+  "compositeur": "Claude Debussy",
+  "annee": "1894",
+  "genre": "Poème symphonique",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_gymnopedies-satie": {
+  "compositeur": "Erik Satie",
+  "annee": "1888",
+  "genre": "Pièce pour piano",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_pierre-et-le-loup": {
+  "compositeur": "Sergueï Prokofiev",
+  "annee": "1936",
+  "genre": "Conte musical",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-beau-danube-bleu": {
+  "compositeur": "Johann Strauss fils",
+  "annee": "1867",
+  "genre": "Valse",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_ave-maria-schubert": {
+  "compositeur": "Franz Schubert",
+  "annee": "1825",
+  "genre": "Lied",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_carmina-burana-cantate": {
+  "compositeur": "Carl Orff",
+  "annee": "1937",
+  "genre": "Cantate",
+  "confiance": "tranchee",
+  "note": "Année de la création à Francfort, date usuelle de l'œuvre."
+ },
+ "oeuvres-musicales_symphonie-fantastique": {
+  "compositeur": "Hector Berlioz",
+  "annee": "1830",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_romeo-et-juliette-ballet": {
+  "compositeur": "Sergueï Prokofiev",
+  "annee": "1935",
+  "genre": "Ballet",
+  "confiance": "tranchee",
+  "note": "Année de composition retenue : la création est éclatée (Brno 1938, Leningrad 1940) et aucune ne fait référence."
+ },
+ "oeuvres-musicales_rhapsodies-hongroises": {
+  "compositeur": "Franz Liszt",
+  "annee": "1846-1885",
+  "genre": "Rhapsodie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_ainsi-parlait-zarathoustra-strauss": {
+  "compositeur": "Richard Strauss",
+  "annee": "1896",
+  "genre": "Poème symphonique",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_adagio-pour-cordes": {
+  "compositeur": "Samuel Barber",
+  "annee": "1936",
+  "genre": "Adagio",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-carnaval-des-animaux": {
+  "compositeur": "Camille Saint-Saëns",
+  "annee": "1886",
+  "genre": "Suite",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_nocturnes-de-chopin": {
+  "compositeur": "Frédéric Chopin",
+  "annee": "1827-1846",
+  "genre": "Nocturne",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_toccata-et-fugue-en-re-mineur": {
+  "compositeur": "Jean-Sébastien Bach",
+  "annee": "1703-1707",
+  "genre": "Pièce pour orgue",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_messe-en-si-mineur": {
+  "compositeur": "Jean-Sébastien Bach",
+  "annee": "1733-1749",
+  "genre": "Messe",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_l-orfeo": {
+  "compositeur": "Claudio Monteverdi",
+  "annee": "1607",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-no-94-de-joseph-haydn": {
+  "compositeur": "Joseph Haydn",
+  "annee": "1792",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_scenes-d-enfants-de-schumann": {
+  "compositeur": "Robert Schumann",
+  "annee": "1838",
+  "genre": "Cycle pour piano",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_danses-hongroises": {
+  "compositeur": "Johannes Brahms",
+  "annee": "1867-1880",
+  "genre": "Danse",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-no-5-de-mahler": {
+  "compositeur": "Gustav Mahler",
+  "annee": "1901-1902",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_concerto-pour-piano-no-2-de-rachmaninov": {
+  "compositeur": "Sergueï Rachmaninov",
+  "annee": "1901",
+  "genre": "Concerto",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-no-7-de-chostakovitch": {
+  "compositeur": "Dmitri Chostakovitch",
+  "annee": "1941",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-chateau-de-barbe-bleue": {
+  "compositeur": "Béla Bartók",
+  "annee": "1918",
+  "genre": "Opéra",
+  "confiance": "tranchee",
+  "note": "Année de la création à Budapest, bien établie ; composé en 1911."
+ },
+ "oeuvres-musicales_pierrot-lunaire": {
+  "compositeur": "Arnold Schönberg",
+  "annee": "1912",
+  "genre": "Mélodrame",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_appalachian-spring-ballet": {
+  "compositeur": "Aaron Copland",
+  "annee": "1944",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_quatuor-pour-la-fin-du-temps": {
+  "compositeur": "Olivier Messiaen",
+  "annee": "1941",
+  "genre": "Musique de chambre",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_4-33": {
+  "compositeur": "John Cage",
+  "annee": "1952",
+  "genre": "Pièce expérimentale",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_einstein-on-the-beach": {
+  "compositeur": "Philip Glass",
+  "annee": "1976",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_music-for-18-musicians": {
+  "compositeur": "Steve Reich",
+  "annee": "1974-1976",
+  "genre": "Musique minimaliste",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_les-indes-galantes": {
+  "compositeur": "Jean-Philippe Rameau",
+  "annee": "1735",
+  "genre": "Opéra-ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_dido-and-neas": {
+  "compositeur": "Henry Purcell",
+  "annee": "1689",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_sonates-pour-clavier-de-domenico-scarlatti": {
+  "compositeur": "Domenico Scarlatti",
+  "annee": "vers 1720-1757",
+  "genre": "Sonate",
+  "confiance": "tranchee",
+  "note": "Fourchette approximative gardée : 555 sonates sans datation individuelle."
+ },
+ "oeuvres-musicales_orphee-et-eurydice-gluck": {
+  "compositeur": "Christoph Willibald Gluck",
+  "annee": "1762",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_requiem-faure": {
+  "compositeur": "Gabriel Fauré",
+  "annee": "1888",
+  "genre": "Requiem",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-en-re-mineur-de-franck": {
+  "compositeur": "César Franck",
+  "annee": "1888",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_tableaux-d-une-exposition": {
+  "compositeur": "Modeste Moussorgski",
+  "annee": "1874",
+  "genre": "Suite pour piano",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_scheherazade-rimski-korsakov": {
+  "compositeur": "Nikolaï Rimski-Korsakov",
+  "annee": "1888",
+  "genre": "Suite symphonique",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_finlandia-poeme-symphonique": {
+  "compositeur": "Jean Sibelius",
+  "annee": "1899",
+  "genre": "Poème symphonique",
+  "confiance": "tranchee",
+  "note": "Année de la création de la première version, date usuelle ; la révision de 1900 n'en change pas l'identité."
+ },
+ "oeuvres-musicales_peer-gynt-suites-orchestrales": {
+  "compositeur": "Edvard Grieg",
+  "annee": "1888-1891",
+  "genre": "Suite orchestrale",
+  "confiance": "tranchee",
+  "note": "La carte vise les suites : années des suites nº 1 et nº 2, la musique de scène datant de 1875."
+ },
+ "oeuvres-musicales_orphee-aux-enfers": {
+  "compositeur": "Jacques Offenbach",
+  "annee": "1858",
+  "genre": "Opéra bouffe",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_symphonie-no-7-de-bruckner": {
+  "compositeur": "Anton Bruckner",
+  "annee": "1883",
+  "genre": "Symphonie",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_concerto-pour-violon-no-2-de-mendelssohn": {
+  "compositeur": "Felix Mendelssohn",
+  "annee": "1844",
+  "genre": "Concerto",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_libertango": {
+  "compositeur": "Astor Piazzolla",
+  "annee": "1974",
+  "genre": "Tango",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_take-the-a-train": {
+  "compositeur": "Billy Strayhorn",
+  "annee": "1939",
+  "genre": "Standard de jazz",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_maple-leaf-rag": {
+  "compositeur": "Scott Joplin",
+  "annee": "1899",
+  "genre": "Ragtime",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_musique-de-star-wars": {
+  "compositeur": "John Williams",
+  "annee": "1977",
+  "genre": "Musique de film",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_messe-de-notre-dame": {
+  "compositeur": "Guillaume de Machaut",
+  "annee": "vers 1360",
+  "genre": "Messe",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_messe-du-pape-marcel": {
+  "compositeur": "Giovanni Pierluigi da Palestrina",
+  "annee": "1562",
+  "genre": "Messe",
+  "confiance": "tranchee",
+  "note": "Année de composition donnée par l'article et d'usage courant ; la publication de 1567 est secondaire."
+ },
+ "oeuvres-musicales_le-bourgeois-gentilhomme": {
+  "compositeur": "Jean-Baptiste Lully",
+  "annee": "1670",
+  "genre": "Comédie-ballet",
+  "confiance": "tranchee",
+  "note": "Musique de Lully pour la comédie-ballet de Molière, créée à Chambord en 1670."
+ },
+ "oeuvres-musicales_les-barricades-mysterieuses": {
+  "compositeur": "François Couperin",
+  "annee": "1717",
+  "genre": "Pièce pour clavecin",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_te-deum-charpentier": {
+  "compositeur": "Marc-Antoine Charpentier",
+  "annee": "1688-1698",
+  "genre": "Te Deum",
+  "confiance": "tranchee",
+  "note": "Fourchette de composition gardée : aucune date plus précise n'est établie."
+ },
+ "oeuvres-musicales_tafelmusik-telemann": {
+  "compositeur": "Georg Philipp Telemann",
+  "annee": "1733",
+  "genre": "Musique de table",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_canon-de-pachelbel": {
+  "compositeur": "Johann Pachelbel",
+  "annee": "vers 1680",
+  "genre": "Canon",
+  "confiance": "tranchee",
+  "note": "Datation approximative usuelle gardée, faute de date établie."
+ },
+ "oeuvres-musicales_adagio-en-sol-mineur": {
+  "compositeur": "Remo Giazotto (attribué à Albinoni)",
+  "annee": "1958",
+  "genre": "Adagio",
+  "confiance": "tranchee",
+  "note": "Vrai compositeur avec l'attribution usuelle entre parenthèses ; 1958 est l'année de publication."
+ },
+ "oeuvres-musicales_stabat-mater-pergolese": {
+  "compositeur": "Jean-Baptiste Pergolèse",
+  "annee": "1736",
+  "genre": "Stabat Mater",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_vingt-quatre-caprices-pour-violon-de-paganini": {
+  "compositeur": "Niccolò Paganini",
+  "annee": "1802-1817",
+  "genre": "Caprice",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_lucia-di-lammermoor": {
+  "compositeur": "Gaetano Donizetti",
+  "annee": "1835",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_norma-opera": {
+  "compositeur": "Vincenzo Bellini",
+  "annee": "1831",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_faust-gounod": {
+  "compositeur": "Charles Gounod",
+  "annee": "1859",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_manon-opera": {
+  "compositeur": "Jules Massenet",
+  "annee": "1884",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_der-freischutz": {
+  "compositeur": "Carl Maria von Weber",
+  "annee": "1821",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_ma-vlast": {
+  "compositeur": "Bedřich Smetana",
+  "annee": "1874",
+  "genre": "Poème symphonique",
+  "confiance": "tranchee",
+  "note": "Fiche pour La Moldau, que nomme la carte : composée en 1874, date usuelle."
+ },
+ "oeuvres-musicales_jenufa": {
+  "compositeur": "Leoš Janáček",
+  "annee": "1904",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-prince-igor": {
+  "compositeur": "Alexandre Borodine",
+  "annee": "1890",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_une-vie-pour-le-tsar": {
+  "compositeur": "Mikhaïl Glinka",
+  "annee": "1836",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_pomp-and-circumstance": {
+  "compositeur": "Edward Elgar",
+  "annee": "1901-1930",
+  "genre": "Marche",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_les-planetes": {
+  "compositeur": "Gustav Holst",
+  "annee": "1914-1917",
+  "genre": "Suite orchestrale",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_war-requiem": {
+  "compositeur": "Benjamin Britten",
+  "annee": "1962",
+  "genre": "Requiem",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_l-amour-sorcier": {
+  "compositeur": "Manuel de Falla",
+  "annee": "1915",
+  "genre": "Ballet",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_iberia-albeniz": {
+  "compositeur": "Isaac Albéniz",
+  "annee": "1905-1909",
+  "genre": "Suite pour piano",
+  "confiance": "tranchee",
+  "note": "Fourchette de l'article gardée, cohérente avec la description de la carte."
+ },
+ "oeuvres-musicales_concerto-d-aranjuez": {
+  "compositeur": "Joaquín Rodrigo",
+  "annee": "1939",
+  "genre": "Concerto",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_bachianas-brasileiras": {
+  "compositeur": "Heitor Villa-Lobos",
+  "annee": "1930-1945",
+  "genre": "Suite",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_gloria-poulenc": {
+  "compositeur": "Francis Poulenc",
+  "annee": "1959-1960",
+  "genre": "Musique sacrée",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_le-marteau-sans-maitre": {
+  "compositeur": "Pierre Boulez",
+  "annee": "1955",
+  "genre": "Cycle vocal",
+  "confiance": "tranchee",
+  "note": "Fiche pour l'œuvre de Boulez que le nom évoque, créée à Baden-Baden en 1955, et non pour le recueil de René Char."
+ },
+ "oeuvres-musicales_ionisation-varese": {
+  "compositeur": "Edgard Varèse",
+  "annee": "1931",
+  "genre": "Œuvre pour percussions",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_wozzeck": {
+  "compositeur": "Alban Berg",
+  "annee": "1925",
+  "genre": "Opéra",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_gesang-der-junglinge": {
+  "compositeur": "Karlheinz Stockhausen",
+  "annee": "1956",
+  "genre": "Musique électroacoustique",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_threne-a-la-memoire-des-victimes-d-hiroshima": {
+  "compositeur": "Krzysztof Penderecki",
+  "annee": "1960",
+  "genre": "Œuvre pour cordes",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_west-side-story": {
+  "compositeur": "Leonard Bernstein",
+  "annee": "1957",
+  "genre": "Comédie musicale",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_l-opera-de-quat-sous": {
+  "compositeur": "Kurt Weill",
+  "annee": "1928",
+  "genre": "Théâtre musical",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_les-chariots-de-feu-bande-originale": {
+  "compositeur": "Vangelis",
+  "annee": "1981",
+  "genre": "Musique de film",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_concerto-pour-piano-de-clara-schumann": {
+  "compositeur": "Clara Schumann",
+  "annee": "1833-1835",
+  "genre": "Concerto",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_das-jahr-fanny-mendelssohn": {
+  "compositeur": "Fanny Mendelssohn",
+  "annee": "1841",
+  "genre": "Cycle pour piano",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_psaume-24-boulanger": {
+  "compositeur": "Lili Boulanger",
+  "annee": "1916",
+  "genre": "Musique sacrée",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_spiegel-im-spiegel": {
+  "compositeur": "Arvo Pärt",
+  "annee": "1978",
+  "genre": "Musique de chambre",
+  "confiance": "sure"
+ },
+ "oeuvres-musicales_the-ecstasy-of-gold": {
+  "compositeur": "Ennio Morricone",
+  "annee": "1966",
+  "genre": "Musique de film",
+  "confiance": "sure"
+ }
+}

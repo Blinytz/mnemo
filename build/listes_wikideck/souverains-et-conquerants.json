@@ -1,0 +1,737 @@
+{
+ "souverains-et-conquerants_elisabeth-ire-imperatrice-de-russie": {
+  "royaume": "Russie",
+  "regne": "1741-1762",
+  "fait": "Fille de Pierre le Grand, prend le trône par un coup d'État",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_napoleon-ier": {
+  "royaume": "France",
+  "regne": "1804-1814 · 1815",
+  "fait": "Sacré empereur des Français en 1804 · Code civil",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_catherine-ii": {
+  "royaume": "Russie",
+  "regne": "1762-1796",
+  "fait": "Despote éclairée, étend la Russie jusqu'à la mer Noire",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_qin-shi-huang": {
+  "royaume": "Chine (dynastie Qin)",
+  "regne": "221-210 av. J.-C.",
+  "fait": "Unifie la Chine et en devient le premier empereur",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_cleopatre-vii": {
+  "royaume": "Égypte ptolémaïque",
+  "regne": "51-30 av. J.-C.",
+  "fait": "Dernière reine de l'Égypte ptolémaïque",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_ramses-ii": {
+  "royaume": "Égypte antique",
+  "regne": "1279-1213 av. J.-C.",
+  "fait": "Bataille de Qadesh · fait bâtir Abou Simbel",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_pericles": {
+  "royaume": "Athènes",
+  "regne": "443-429 av. J.-C. (stratège)",
+  "fait": "Stratège d'Athènes, fait bâtir le Parthénon",
+  "confiance": "tranchee",
+  "note": "Retenu : ses stratégies ininterrompues, datation usuelle de sa domination, plutôt que 461."
+ },
+ "souverains-et-conquerants_alexandre-le-grand": {
+  "royaume": "Macédoine",
+  "regne": "336-323 av. J.-C.",
+  "fait": "Conquiert l'Empire perse jusqu'à l'Indus",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_auguste": {
+  "royaume": "Empire romain",
+  "regne": "27 av. J.-C. - 14 apr. J.-C.",
+  "fait": "Premier empereur romain",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_trajan": {
+  "royaume": "Empire romain",
+  "regne": "98-117",
+  "fait": "Conquiert la Dacie, l'Empire romain à son extension maximale",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_tokugawa-ieyasu": {
+  "royaume": "Japon",
+  "regne": "1603-1605",
+  "fait": "Fonde le shogunat Tokugawa après la victoire de Sekigahara (1600)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_saladin": {
+  "royaume": "Égypte et Syrie (dynastie ayyoubide)",
+  "regne": "1174-1193",
+  "fait": "Reprend Jérusalem aux croisés en 1187",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_darius-ier": {
+  "royaume": "Empire perse achéménide",
+  "regne": "522-486 av. J.-C.",
+  "fait": "Organise l'empire en satrapies · vaincu à Marathon (490 av. J.-C.)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_cyrus-le-grand": {
+  "royaume": "Empire perse achéménide",
+  "regne": "559-530 av. J.-C.",
+  "fait": "Fonde l'Empire perse achéménide · prend Babylone (539 av. J.-C.)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_gengis-khan": {
+  "royaume": "Empire mongol",
+  "regne": "1206-1227",
+  "fait": "Fonde l'Empire mongol",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_moctezuma-ier": {
+  "royaume": "Empire aztèque",
+  "regne": "1440-1469",
+  "fait": "Étend l'Empire aztèque jusqu'au golfe du Mexique",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_pachacutec": {
+  "royaume": "Empire inca",
+  "regne": "1438-1471",
+  "fait": "Fait du royaume de Cuzco l'Empire inca · Machu Picchu",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_k-inich-janaab-pakal-ier": {
+  "royaume": "Palenque (cité maya)",
+  "regne": "615-683",
+  "fait": "Plus célèbre roi maya, tombeau du temple des Inscriptions",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_askia-mohammed": {
+  "royaume": "Empire songhaï",
+  "regne": "1493-1528",
+  "fait": "Fonde la dynastie des Askia, apogée de l'Empire songhaï",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_christine-de-suede": {
+  "royaume": "Suède",
+  "regne": "1632-1654",
+  "fait": "Abdique en 1654 et se convertit au catholicisme",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_harald-hardrada": {
+  "royaume": "Norvège",
+  "regne": "1046-1066",
+  "fait": "Tué à Stamford Bridge en tentant de conquérir l'Angleterre (1066)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_harald-a-la-dent-bleue": {
+  "royaume": "Danemark",
+  "regne": "vers 958-986",
+  "fait": "Unifie et christianise le Danemark · a donné son nom au Bluetooth",
+  "confiance": "tranchee",
+  "note": "Retenu : datation usuelle, mort placée en 986."
+ },
+ "souverains-et-conquerants_guillaume-ier-d-orange-nassau": {
+  "royaume": "Provinces-Unies (Pays-Bas)",
+  "regne": "1559-1584 (stathouder)",
+  "fait": "Mène la révolte des Pays-Bas contre l'Espagne · assassiné en 1584",
+  "confiance": "tranchee",
+  "note": "Retenu : de sa première nomination de stathouder à son assassinat, sans détailler l'interruption."
+ },
+ "souverains-et-conquerants_isabelle-la-catholique": {
+  "royaume": "Castille",
+  "regne": "1474-1504",
+  "fait": "Prend Grenade (1492) et finance Christophe Colomb",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_marie-ire-reine-d-angleterre": {
+  "royaume": "Angleterre",
+  "regne": "1553-1558",
+  "fait": "Restaure le catholicisme, surnommée Bloody Mary",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_casimir-iii-le-grand": {
+  "royaume": "Pologne",
+  "regne": "1333-1370",
+  "fait": "Fonde l'université de Cracovie (1364)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_soliman-le-magnifique": {
+  "royaume": "Empire ottoman",
+  "regne": "1520-1566",
+  "fait": "Apogée de l'Empire ottoman · assiège Vienne (1529)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_justinien-ier": {
+  "royaume": "Empire byzantin",
+  "regne": "527-565",
+  "fait": "Code Justinien · fait bâtir Sainte-Sophie",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_theodora-imperatrice-epouse-de-justinien-ier": {
+  "royaume": "Empire byzantin",
+  "regne": "527-548 (impératrice consort)",
+  "fait": "Épouse de Justinien, sauve son trône lors de la sédition Nika (532)",
+  "confiance": "tranchee",
+  "note": "Impératrice consort : rôle ajouté entre parenthèses, dates de son mariage régnant à sa mort."
+ },
+ "souverains-et-conquerants_sejong-le-grand": {
+  "royaume": "Corée (Joseon)",
+  "regne": "1418-1450",
+  "fait": "Crée l'alphabet coréen hangeul",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_jayavarman-vii": {
+  "royaume": "Empire khmer",
+  "regne": "1181-1218",
+  "fait": "Fait bâtir Angkor Thom et le Bayon",
+  "confiance": "tranchee",
+  "note": "Retenu : 1218, date de fin la plus citée."
+ },
+ "souverains-et-conquerants_amanitore": {
+  "royaume": "Royaume de Koush (Méroé)",
+  "regne": "vers 1-25",
+  "fait": "Candace de Méroé, grande bâtisseuse (temple d'Amon de Naga)",
+  "confiance": "tranchee",
+  "note": "Retenu : datation usuelle autour du début de notre ère, précédée de « vers »."
+ },
+ "souverains-et-conquerants_alphonse-ier-manikongo": {
+  "royaume": "Royaume du Kongo",
+  "regne": "1509-1542",
+  "fait": "Christianise le Kongo et proteste auprès du Portugal contre la traite",
+  "confiance": "tranchee",
+  "note": "Retenu : dates de l'article, mort placée en 1542."
+ },
+ "souverains-et-conquerants_robert-ier-roi-d-ecosse": {
+  "royaume": "Écosse",
+  "regne": "1306-1329",
+  "fait": "Bat les Anglais à Bannockburn (1314)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_tamar-ire": {
+  "royaume": "Géorgie",
+  "regne": "1184-1213",
+  "fait": "Âge d'or de la Géorgie médiévale, première femme à régner en son nom",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_matthias-corvin": {
+  "royaume": "Hongrie",
+  "regne": "1458-1490",
+  "fait": "Roi de la Renaissance, bibliothèque Corvina · prend Vienne (1485)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_mansa-moussa": {
+  "royaume": "Empire du Mali",
+  "regne": "vers 1312-1337",
+  "fait": "Pèlerinage fastueux à La Mecque (1324), réputé l'homme le plus riche de l'histoire",
+  "confiance": "tranchee",
+  "note": "Retenu : chronologie la plus répandue, celle du pèlerinage de 1324."
+ },
+ "souverains-et-conquerants_hannibal-barca": {
+  "royaume": "Carthage",
+  "regne": "221-202 av. J.-C. (général)",
+  "fait": "Franchit les Alpes avec ses éléphants (218 av. J.-C.)",
+  "confiance": "tranchee",
+  "note": "Retenu : commandement de l'armée carthaginoise jusqu'à Zama, rôle entre parenthèses."
+ },
+ "souverains-et-conquerants_boudica": {
+  "royaume": "Icènes (Bretagne romaine)",
+  "regne": "vers 60-61 (cheffe de la révolte)",
+  "fait": "Mène la révolte des Bretons contre Rome",
+  "confiance": "tranchee",
+  "note": "Retenu : années de la révolte, rôle précisé car son royaume est alors annexé par Rome."
+ },
+ "souverains-et-conquerants_vercingetorix": {
+  "royaume": "Arvernes (Gaule)",
+  "regne": "52 av. J.-C. (chef de guerre)",
+  "fait": "Chef de la coalition gauloise, vaincu par César à Alésia",
+  "confiance": "tranchee",
+  "note": "Chef de la coalition gauloise et non roi : rôle ajouté entre parenthèses."
+ },
+ "souverains-et-conquerants_louis-xiv": {
+  "royaume": "France",
+  "regne": "1643-1715",
+  "fait": "Le Roi-Soleil, installe la cour à Versailles · plus long règne de l'histoire de France",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_charlemagne": {
+  "royaume": "Royaume des Francs (Empire carolingien)",
+  "regne": "768-814",
+  "fait": "Couronné empereur d'Occident en 800",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_frederic-ii-roi-de-prusse": {
+  "royaume": "Prusse",
+  "regne": "1740-1786",
+  "fait": "Despote éclairé, fait de la Prusse une grande puissance",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_pierre-ier-le-grand": {
+  "royaume": "Russie",
+  "regne": "1682-1725",
+  "fait": "Modernise la Russie et fonde Saint-Pétersbourg (1703)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_ivan-le-terrible": {
+  "royaume": "Russie",
+  "regne": "1533-1584",
+  "fait": "Premier grand-prince couronné tsar de Russie (1547)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_marie-therese-d-autriche-1717-1780": {
+  "royaume": "Autriche (monarchie de Habsbourg)",
+  "regne": "1740-1780",
+  "fait": "Guerre de Succession d'Autriche · mère de Marie-Antoinette",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_wu-zetian": {
+  "royaume": "Chine (dynastie Tang, puis Zhou)",
+  "regne": "690-705",
+  "fait": "Seule impératrice régnante de l'histoire de la Chine",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_kubilai-khan": {
+  "royaume": "Empire mongol · Chine (dynastie Yuan)",
+  "regne": "1260-1294",
+  "fait": "Fonde la dynastie Yuan en Chine · reçoit Marco Polo",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_ashoka": {
+  "royaume": "Empire Maurya (Inde)",
+  "regne": "vers 268-232 av. J.-C.",
+  "fait": "Se convertit au bouddhisme après la guerre du Kalinga",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_akbar": {
+  "royaume": "Empire moghol",
+  "regne": "1556-1605",
+  "fait": "Étend l'Empire moghol et pratique la tolérance religieuse",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_attila": {
+  "royaume": "Huns",
+  "regne": "434-453",
+  "fait": "Le « fléau de Dieu », arrêté aux champs Catalauniques (451)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_haroun-ar-rachid": {
+  "royaume": "Califat abbasside",
+  "regne": "786-809",
+  "fait": "Calife des Mille et Une Nuits, apogée de Bagdad",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_soundiata-keita": {
+  "royaume": "Empire du Mali",
+  "regne": "vers 1235-1255",
+  "fait": "Fonde l'Empire du Mali après la bataille de Kirina",
+  "confiance": "tranchee",
+  "note": "Retenu : datation usuelle issue de la tradition orale."
+ },
+ "souverains-et-conquerants_njinga-du-ndongo-et-du-matamba": {
+  "royaume": "Ndongo et Matamba (Angola)",
+  "regne": "1624-1663",
+  "fait": "Résiste aux Portugais en Angola",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_piankhy": {
+  "royaume": "Royaume de Koush · Égypte (XXVe dynastie)",
+  "regne": "vers 741-713 av. J.-C.",
+  "fait": "Conquiert l'Égypte, premier grand pharaon koushite",
+  "confiance": "tranchee",
+  "note": "Retenu : dates de l'article de la carte, pour ne pas le contredire."
+ },
+ "souverains-et-conquerants_kamehameha-ier": {
+  "royaume": "Royaume d'Hawaï",
+  "regne": "1795-1819",
+  "fait": "Unifie l'archipel d'Hawaï (1810)",
+  "confiance": "tranchee",
+  "note": "Retenu : de la fondation du royaume à sa mort, datation la plus courante."
+ },
+ "souverains-et-conquerants_tecumseh": {
+  "royaume": "Chaouanons (Shawnees)",
+  "regne": "vers 1808-1813 (chef de guerre)",
+  "fait": "Fédère les nations amérindiennes contre les États-Unis, allié des Britanniques en 1812",
+  "confiance": "tranchee",
+  "note": "Retenu : de sa confédération à sa mort, rôle entre parenthèses."
+ },
+ "souverains-et-conquerants_hammurabi": {
+  "royaume": "Babylone",
+  "regne": "vers 1792-1750 av. J.-C.",
+  "fait": "Code de Hammurabi",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_nabuchodonosor-ii": {
+  "royaume": "Empire néo-babylonien",
+  "regne": "605-562 av. J.-C.",
+  "fait": "Prend Jérusalem et déporte les Juifs à Babylone (587 av. J.-C.)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_hatchepsout": {
+  "royaume": "Égypte antique",
+  "regne": "vers 1479-1458 av. J.-C.",
+  "fait": "Femme pharaon · temple de Deir el-Bahari",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_toutankhamon": {
+  "royaume": "Égypte antique",
+  "regne": "vers 1336-1327 av. J.-C.",
+  "fait": "Tombeau intact découvert par Howard Carter (1922)",
+  "confiance": "tranchee",
+  "note": "Retenu : chronologie française usuelle, cohérente avec l'article (mort vers 1327)."
+ },
+ "souverains-et-conquerants_akhenaton": {
+  "royaume": "Égypte antique",
+  "regne": "vers 1353-1337 av. J.-C.",
+  "fait": "Impose le culte d'Aton et fonde Amarna",
+  "confiance": "tranchee",
+  "note": "Retenu : bornes basses données par l'article de la carte."
+ },
+ "souverains-et-conquerants_xerxes-ier": {
+  "royaume": "Empire perse achéménide",
+  "regne": "486-465 av. J.-C.",
+  "fait": "Envahit la Grèce · Thermopyles et Salamine (480 av. J.-C.)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_leonidas-ier-de-sparte": {
+  "royaume": "Sparte",
+  "regne": "489-480 av. J.-C.",
+  "fait": "Meurt aux Thermopyles face aux Perses",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_jules-cesar": {
+  "royaume": "République romaine",
+  "regne": "49-44 av. J.-C. (dictateur)",
+  "fait": "Conquiert la Gaule · assassiné aux ides de mars",
+  "confiance": "tranchee",
+  "note": "Pas un monarque : dates de sa dictature, rôle ajouté entre parenthèses."
+ },
+ "souverains-et-conquerants_marc-antoine": {
+  "royaume": "République romaine",
+  "regne": "43-30 av. J.-C. (triumvir)",
+  "fait": "Allié de Cléopâtre, vaincu à Actium (31 av. J.-C.)",
+  "confiance": "tranchee",
+  "note": "Retenu : de son triumvirat à sa mort, rôle entre parenthèses."
+ },
+ "souverains-et-conquerants_neron": {
+  "royaume": "Empire romain",
+  "regne": "54-68",
+  "fait": "Incendie de Rome (64) · persécute les chrétiens",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_marc-aurele": {
+  "royaume": "Empire romain",
+  "regne": "161-180",
+  "fait": "Empereur philosophe stoïcien, auteur des Pensées",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_constantin-ier-empereur-romain": {
+  "royaume": "Empire romain",
+  "regne": "306-337",
+  "fait": "Premier empereur chrétien · fonde Constantinople (330)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_clovis-ier": {
+  "royaume": "Francs",
+  "regne": "481-511",
+  "fait": "Baptisé à Reims, unifie les Francs",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_guillaume-le-conquerant": {
+  "royaume": "Normandie · Angleterre",
+  "regne": "1035-1087 · 1066-1087",
+  "fait": "Conquiert l'Angleterre à Hastings (1066)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_richard-c-ur-de-lion": {
+  "royaume": "Angleterre",
+  "regne": "1189-1199",
+  "fait": "Chef de la troisième croisade",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_frederic-barberousse": {
+  "royaume": "Saint-Empire romain germanique",
+  "regne": "1155-1190",
+  "fait": "Meurt noyé pendant la troisième croisade (1190)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_philippe-ii-auguste": {
+  "royaume": "France",
+  "regne": "1180-1223",
+  "fait": "Vainqueur à Bouvines (1214)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_louis-ix": {
+  "royaume": "France",
+  "regne": "1226-1270",
+  "fait": "Saint Louis, meurt devant Tunis pendant la huitième croisade",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_alienor-d-aquitaine": {
+  "royaume": "Aquitaine",
+  "regne": "1137-1204",
+  "fait": "Reine de France puis d'Angleterre, mère de Richard Cœur de Lion",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_elisabeth-ire-reine-d-angleterre": {
+  "royaume": "Angleterre",
+  "regne": "1558-1603",
+  "fait": "La Reine vierge, victoire sur l'Invincible Armada (1588)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_henri-viii": {
+  "royaume": "Angleterre",
+  "regne": "1509-1547",
+  "fait": "Rompt avec Rome et fonde l'Église anglicane · six épouses",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_francois-ier-roi-de-france": {
+  "royaume": "France",
+  "regne": "1515-1547",
+  "fait": "Victoire de Marignan (1515) · mécène de Léonard de Vinci",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_charles-quint": {
+  "royaume": "Espagne · Saint-Empire romain germanique",
+  "regne": "1516-1556 · 1519-1556",
+  "fait": "Empire « sur lequel le soleil ne se couche jamais »",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_philippe-ii-roi-d-espagne": {
+  "royaume": "Espagne",
+  "regne": "1556-1598",
+  "fait": "Envoie l'Invincible Armada (1588) · fait bâtir l'Escurial",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_henri-iv-roi-de-france": {
+  "royaume": "France",
+  "regne": "1589-1610",
+  "fait": "Édit de Nantes (1598) · assassiné par Ravaillac",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_oliver-cromwell": {
+  "royaume": "Angleterre (Commonwealth)",
+  "regne": "1653-1658 (lord-protecteur)",
+  "fait": "Fait exécuter Charles Ier, devient Lord Protecteur",
+  "confiance": "tranchee",
+  "note": "Pas un roi : dates de son protectorat, rôle ajouté entre parenthèses."
+ },
+ "souverains-et-conquerants_louis-xvi": {
+  "royaume": "France",
+  "regne": "1774-1792",
+  "fait": "Renversé par la Révolution, guillotiné en 1793",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_mehmed-ii": {
+  "royaume": "Empire ottoman",
+  "regne": "1444-1446 · 1451-1481",
+  "fait": "Prend Constantinople (1453)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_tamerlan": {
+  "royaume": "Empire timouride",
+  "regne": "1370-1405",
+  "fait": "Fonde l'Empire timouride, capitale Samarcande",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_oda-nobunaga": {
+  "royaume": "Japon",
+  "regne": "1568-1582 (seigneur de guerre)",
+  "fait": "Premier des trois unificateurs du Japon",
+  "confiance": "tranchee",
+  "note": "Retenu : de son entrée à Kyoto à sa mort au Honnō-ji, rôle entre parenthèses."
+ },
+ "souverains-et-conquerants_toyotomi-hideyoshi": {
+  "royaume": "Japon",
+  "regne": "1585-1598 (régent)",
+  "fait": "Achève l'unification du Japon (1590) · envahit la Corée",
+  "confiance": "tranchee",
+  "note": "Retenu : de sa nomination de kampaku à sa mort, rôle entre parenthèses."
+ },
+ "souverains-et-conquerants_kangxi": {
+  "royaume": "Chine (dynastie Qing)",
+  "regne": "1661-1722",
+  "fait": "Plus long règne de l'histoire de la Chine",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_shah-jahan": {
+  "royaume": "Empire moghol",
+  "regne": "1628-1658",
+  "fait": "Fait bâtir le Taj Mahal",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_septimia-bathzabbai-zenobie": {
+  "royaume": "Palmyre",
+  "regne": "267-272 (régente)",
+  "fait": "Reine de Palmyre révoltée contre Rome, vaincue par Aurélien",
+  "confiance": "tranchee",
+  "note": "Gouverne Palmyre comme régente de son fils Wahballat : rôle ajouté entre parenthèses."
+ },
+ "souverains-et-conquerants_moctezuma-ii": {
+  "royaume": "Empire aztèque",
+  "regne": "1502-1520",
+  "fait": "Empereur aztèque à l'arrivée de Cortés",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_atahualpa": {
+  "royaume": "Empire inca",
+  "regne": "1532-1533",
+  "fait": "Dernier empereur inca, exécuté par Pizarro",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_sargon-d-akkad": {
+  "royaume": "Empire d'Akkad",
+  "regne": "vers 2334-2279 av. J.-C.",
+  "fait": "Fonde le premier empire de Mésopotamie",
+  "confiance": "tranchee",
+  "note": "Retenu : chronologie moyenne, la plus citée."
+ },
+ "souverains-et-conquerants_philippe-ii-roi-de-macedoine": {
+  "royaume": "Macédoine",
+  "regne": "359-336 av. J.-C.",
+  "fait": "Soumet la Grèce à Chéronée (338 av. J.-C.) · père d'Alexandre",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_hadrien": {
+  "royaume": "Empire romain",
+  "regne": "117-138",
+  "fait": "Fait construire le mur d'Hadrien en Bretagne",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_nefertiti": {
+  "royaume": "Égypte antique",
+  "regne": "vers 1353-1337 av. J.-C. (reine consort)",
+  "fait": "Grande épouse royale d'Akhenaton, célèbre buste de Berlin",
+  "confiance": "tranchee",
+  "note": "Retenu : dates du règne d'Akhenaton, rôle de reine consort entre parenthèses."
+ },
+ "souverains-et-conquerants_kheops": {
+  "royaume": "Égypte antique (Ancien Empire)",
+  "regne": "vers 2589-2566 av. J.-C.",
+  "fait": "Fait bâtir la Grande Pyramide de Gizeh",
+  "confiance": "tranchee",
+  "note": "Retenu : datation usuelle de l'Ancien Empire."
+ },
+ "souverains-et-conquerants_thoutmosis-iii": {
+  "royaume": "Égypte antique",
+  "regne": "vers 1479-1425 av. J.-C.",
+  "fait": "Pharaon conquérant, vainqueur à Megiddo",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_chandragupta-maurya": {
+  "royaume": "Empire Maurya (Inde)",
+  "regne": "vers 321-297 av. J.-C.",
+  "fait": "Fonde l'Empire Maurya",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_alfred-le-grand": {
+  "royaume": "Wessex",
+  "regne": "871-899",
+  "fait": "Résiste aux Vikings, roi des Anglo-Saxons",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_cnut-le-grand": {
+  "royaume": "Angleterre · Danemark · Norvège",
+  "regne": "1016-1035 · 1018-1035 · 1028-1035",
+  "fait": "Règne sur un empire de la mer du Nord",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_otton-ier-empereur-du-saint-empire": {
+  "royaume": "Germanie · Saint-Empire romain germanique",
+  "regne": "936-973",
+  "fait": "Bat les Hongrois au Lechfeld (955) · couronné empereur en 962",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_basile-ii": {
+  "royaume": "Empire byzantin",
+  "regne": "976-1025",
+  "fait": "Écrase les Bulgares, surnommé le Bulgaroctone",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_louis-xi": {
+  "royaume": "France",
+  "regne": "1461-1483",
+  "fait": "Vainc Charles le Téméraire, « l'universelle aragne »",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_louis-xv": {
+  "royaume": "France",
+  "regne": "1715-1774",
+  "fait": "Le Bien-Aimé · perd le Canada au traité de Paris (1763)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_catherine-de-medicis": {
+  "royaume": "France",
+  "regne": "1547-1559 (reine consort) · 1560-1563 (régente)",
+  "fait": "Reine mère de trois rois · massacre de la Saint-Barthélemy (1572)",
+  "confiance": "tranchee",
+  "note": "Non souveraine régnante : rôles ajoutés à chaque période."
+ },
+ "souverains-et-conquerants_ferdinand-le-catholique": {
+  "royaume": "Aragon · Castille",
+  "regne": "1479-1516",
+  "fait": "Avec Isabelle, prend Grenade (1492) : les Rois catholiques",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_gustave-ii-adolphe": {
+  "royaume": "Suède",
+  "regne": "1611-1632",
+  "fait": "Tué à Lützen pendant la guerre de Trente Ans",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_charles-xii": {
+  "royaume": "Suède",
+  "regne": "1697-1718",
+  "fait": "Vaincu par Pierre le Grand à Poltava (1709)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_jean-iii-sobieski": {
+  "royaume": "Pologne-Lituanie",
+  "regne": "1674-1696",
+  "fait": "Délivre Vienne assiégée par les Ottomans (1683)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_marie-stuart": {
+  "royaume": "Écosse",
+  "regne": "1542-1567",
+  "fait": "Reine d'Écosse exécutée sur ordre d'Élisabeth Ire (1587)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_babur": {
+  "royaume": "Empire moghol",
+  "regne": "1526-1530",
+  "fait": "Fonde l'Empire moghol après la victoire de Panipat (1526)",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_aurangzeb": {
+  "royaume": "Empire moghol",
+  "regne": "1658-1707",
+  "fait": "Porte l'Empire moghol à son extension maximale",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_tang-taizong": {
+  "royaume": "Chine (dynastie Tang)",
+  "regne": "626-649",
+  "fait": "Consolide la dynastie Tang, modèle de l'empereur chinois",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_ming-yongle": {
+  "royaume": "Chine (dynastie Ming)",
+  "regne": "1402-1424",
+  "fait": "Fait bâtir la Cité interdite · expéditions de Zheng He",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_qianlong": {
+  "royaume": "Chine (dynastie Qing)",
+  "regne": "1735-1796",
+  "fait": "Apogée des Qing, abdique pour ne pas dépasser le règne de Kangxi",
+  "confiance": "sure"
+ },
+ "souverains-et-conquerants_ranavalona-ire": {
+  "royaume": "Royaume de Madagascar (Merina)",
+  "regne": "1828-1861",
+  "fait": "Persécute les chrétiens et ferme Madagascar aux Européens",
+  "confiance": "sure"
+ }
+}

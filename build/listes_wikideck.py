@@ -65,6 +65,31 @@ LISTES = {
     'fromages': dict(id='fromages', nom='Fromages', icone='🧀', ordre='region', categorie='gastronomie',
                      colonnes=[('Fromage', None), ('Région', 'region'), ('Lait', 'lait'),
                                ('Appellation', 'appellation')]),
+    # Lot 3
+    'grands-compositeurs': dict(id='compositeurs', nom='Grands compositeurs', icone='🎼', ordre=('chrono', 'dates'),
+                                categorie='arts-culture',
+                                colonnes=[('Nom', None), ('Dates', 'dates'), ('Nationalité', 'nationalite'),
+                                          ('Période', 'periode'), ('Œuvres majeures', 'oeuvres')]),
+    'scientifiques-celebres': dict(id='grands_scientifiques', nom='Scientifiques célèbres', icone='🔭',
+                                   ordre=('chrono', 'dates'), categorie='sciences-nature',
+                                   colonnes=[('Nom', None), ('Dates', 'dates'), ('Nationalité', 'nationalite'),
+                                             ('Domaine', 'domaine'), ('Découverte majeure', 'decouverte')]),
+    'oeuvres-musicales': dict(id='oeuvres_musicales', nom='Œuvres musicales', icone='🎵', ordre=('chrono', 'annee'),
+                              categorie='arts-culture',
+                              colonnes=[('Œuvre', None), ('Compositeur', 'compositeur'), ('Année', 'annee'),
+                                        ('Genre', 'genre')]),
+    'sculptures-celebres': dict(id='sculptures_celebres', nom='Sculptures célèbres', icone='🗿', ordre=('chrono', 'date'),
+                                categorie='arts-culture',
+                                colonnes=[('Sculpture', None), ('Sculpteur', 'sculpteur'), ('Date', 'date'),
+                                          ('Conservée à', 'lieu')]),
+    'souverains-et-conquerants': dict(id='souverains', nom='Souverains et conquérants', icone='👑',
+                                      ordre=('chrono', 'regne'), categorie='histoire',
+                                      colonnes=[('Nom', None), ('Royaume ou empire', 'royaume'), ('Au pouvoir', 'regne'),
+                                                ('Fait marquant', 'fait')]),
+    'monuments-emblematiques': dict(id='monuments', nom='Monuments', icone='🗼', ordre='pays',
+                                    categorie='geographie',
+                                    colonnes=[('Monument', None), ('Ville', 'ville'), ('Pays', 'pays'),
+                                              ('Date', 'date'), ('Architecte ou commanditaire', 'auteur')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -87,16 +112,17 @@ def romain(s):
 def annee(texte):
     """Annee de tri lue dans « vers 470-399 av. J.-C. », « 1503-1519 »,
     « 1er juillet-18 novembre 1916 », « VIIIe siècle av. J.-C. »..."""
-    texte = texte or ''
+    # « 28 000 » : les espaces entre groupes de chiffres ne coupent pas le nombre
+    texte = re.sub(r'(\d)[ \u00a0\u202f](?=\d{3}\b)', r'\1', texte or '')
     avant = bool(re.search(r'av\.? ?J\.?-?C', texte))
-    m = re.search(r'\b([IVXLC]+)e siècle', texte) or re.search(r'(\d{1,2})e siècle', texte)
+    m = re.search(r'\b([IVXLC]+)(?:er|e) siècle', texte) or re.search(r'(\d{1,2})e siècle', texte)
     if m and not re.search(r'\d{3,4}', texte):
         s = romain(m.group(1)) if m.group(1)[0] in ROMAINS else int(m.group(1))
         a = (s - 1) * 100 + 50
         return -a if avant else a
     # les jours du mois (« 1er », « 18 novembre ») ne sont pas des annees
     sans_jours = re.sub(r'\b\d{1,2}(?:er)?\s+' + MOIS, ' ', texte)
-    m = re.search(r'(\d{1,4})', sans_jours)
+    m = re.search(r'(\d{1,6})', sans_jours)
     if not m:
         return 99999
     a = int(m.group(1))
@@ -104,6 +130,7 @@ def annee(texte):
 
 
 def nom_affiche(c):
+    # une fiche peut imposer son nom (cle « nom ») quand la carte se trompe de sujet
     # « Ophélie (Millais) » garde sa precision ; « Ratatouille (plat) » la perd
     return re.sub(r' \((plat|gâteau|peinture|tableau)\)$', '', c['nom'])
 
@@ -153,7 +180,7 @@ def construire(slug, cadrages, essai):
         grands[cle] = ff
         ligne = [str(i), tf]
         for lib, k in cfg['colonnes']:
-            ligne.append(nom_affiche(c) if k is None else (t.get(k) or VIDE.get(k, '')))
+            ligne.append((t.get('nom') or nom_affiche(c)) if k is None else (t.get(k) or VIDE.get(k, '')))
         lignes.append(ligne)
     liste = {'id': cfg['id'], 'name': cfg['nom'], 'icon': cfg['icone'],
              'columns': ['Numéro', 'Image'] + [lib for lib, _ in cfg['colonnes']],

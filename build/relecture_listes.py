@@ -42,7 +42,7 @@ def liste(slug, cadrages):
     for rang, c in enumerate(cartes, 1):
         t = textes[c['id']]
         fiches.append({
-            'id': c['id'], 'rang': rang, 'nom': L.nom_affiche(c),
+            'id': c['id'], 'rang': rang, 'nom': t.get('nom') or L.nom_affiche(c),
             'image': vignette(L.recadrer(c, cadrages)),
             'champs': [[lib, t.get(k, '')] for lib, k in cfg['colonnes'] if k],
             'doute': t.get('confiance') == 'a_verifier', 'note': t.get('note', ''),

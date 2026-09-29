@@ -1,0 +1,331 @@
+{
+ "sculptures-celebres_venus-de-milo": {
+  "sculpteur": "Anonyme (Grèce hellénistique)",
+  "date": "vers 150-130 av. J.-C.",
+  "lieu": "Musée du Louvre, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_victoire-de-samothrace": {
+  "sculpteur": "Anonyme (Grèce hellénistique)",
+  "date": "vers 190 av. J.-C.",
+  "lieu": "Musée du Louvre, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_david-michel-ange": {
+  "sculpteur": "Michel-Ange",
+  "date": "1501-1504",
+  "lieu": "Galleria dell'Accademia, Florence",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_pieta-michel-ange": {
+  "sculpteur": "Michel-Ange",
+  "date": "1498-1499",
+  "lieu": "Basilique Saint-Pierre, Vatican",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_le-penseur": {
+  "sculpteur": "Auguste Rodin",
+  "date": "1880",
+  "lieu": "Musée Rodin, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_le-baiser-rodin": {
+  "sculpteur": "Auguste Rodin",
+  "date": "vers 1882",
+  "lieu": "Musée Rodin, Paris",
+  "confiance": "tranchee",
+  "note": "Datation usuelle de la conception retenue plutôt que l'achèvement du grand marbre (1898)."
+ },
+ "sculptures-celebres_les-bourgeois-de-calais": {
+  "sculpteur": "Auguste Rodin",
+  "date": "1884-1895",
+  "lieu": "Plein air, Calais",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_discobole": {
+  "sculpteur": "Myron",
+  "date": "vers 450 av. J.-C.",
+  "lieu": "Palazzo Massimo (Musée national romain), Rome",
+  "confiance": "tranchee",
+  "note": "Original de Myron perdu : lieu de la copie Lancellotti, la plus réputée."
+ },
+ "sculptures-celebres_laocoon": {
+  "sculpteur": "Agésandros, Athénodore et Polydore de Rhodes",
+  "date": "Ier siècle av. J.-C.",
+  "lieu": "Musées du Vatican, Rome",
+  "confiance": "tranchee",
+  "note": "Carte lue comme le groupe du Vatican, l'œuvre qu'elle évoque ; datation élargie au siècle pour rester sûre."
+ },
+ "sculptures-celebres_colonne-sans-fin": {
+  "sculpteur": "Constantin Brâncuși",
+  "date": "1937-1938",
+  "lieu": "Plein air, Târgu Jiu",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_le-baiser-brancusi": {
+  "sculpteur": "Constantin Brâncuși",
+  "date": "1909",
+  "lieu": "Cimetière du Montparnasse, Paris (et autres versions)",
+  "confiance": "tranchee",
+  "note": "Série : l'exemplaire tombal du Montparnasse (1909), le plus connu en France, est retenu."
+ },
+ "sculptures-celebres_homme-qui-marche-i": {
+  "sculpteur": "Alberto Giacometti",
+  "date": "1960",
+  "lieu": "Fondation Maeght, Saint-Paul-de-Vence (et autres tirages)",
+  "confiance": "tranchee",
+  "note": "Plusieurs tirages : celui de la Fondation Maeght est retenu, avec mention des autres."
+ },
+ "sculptures-celebres_bronzes-de-riace": {
+  "sculpteur": "Anonyme (Grèce classique)",
+  "date": "Ve siècle av. J.-C.",
+  "lieu": "Musée national de la Grande-Grèce, Reggio de Calabre",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_buste-de-nefertiti": {
+  "sculpteur": "Thoutmôsis",
+  "date": "vers 1345 av. J.-C.",
+  "lieu": "Neues Museum, Berlin",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_cariatide": {
+  "sculpteur": "Anonyme (Grèce classique)",
+  "date": "vers 421-406 av. J.-C.",
+  "lieu": "Musée de l'Acropole, Athènes",
+  "confiance": "tranchee",
+  "note": "Carte vague : données des Caryatides de l'Érechthéion, l'exemple canonique, au musée de l'Acropole."
+ },
+ "sculptures-celebres_la-petite-danseuse-de-quatorze-ans": {
+  "sculpteur": "Edgar Degas",
+  "date": "1878-1881",
+  "lieu": "Musée d'Orsay, Paris (et autres exemplaires)",
+  "confiance": "tranchee",
+  "note": "Bronze d'Orsay retenu, le plus attendu en France ; datation 1878-1881 jusqu'à l'exposition de 1881."
+ },
+ "sculptures-celebres_fontaine-duchamp": {
+  "sculpteur": "Marcel Duchamp",
+  "date": "1917",
+  "lieu": "Centre Pompidou, Paris (et autres répliques)",
+  "confiance": "tranchee",
+  "note": "Original de 1917 perdu : date de l'original et lieu de la réplique la plus connue en France."
+ },
+ "sculptures-celebres_maman-sculpture": {
+  "sculpteur": "Louise Bourgeois",
+  "date": "1999",
+  "lieu": "Musée Guggenheim, Bilbao (et autres exemplaires)",
+  "confiance": "tranchee",
+  "note": "Exemplaire de Bilbao retenu, le plus célèbre."
+ },
+ "sculptures-celebres_cloud-gate": {
+  "sculpteur": "Anish Kapoor",
+  "date": "2004-2006",
+  "lieu": "Plein air, Chicago",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_apollon-et-daphne-le-bernin": {
+  "sculpteur": "Le Bernin",
+  "date": "1622-1625",
+  "lieu": "Galerie Borghèse, Rome",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_l-extase-de-sainte-therese": {
+  "sculpteur": "Le Bernin",
+  "date": "1647-1652",
+  "lieu": "Église Santa Maria della Vittoria, Rome",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_christ-des-abysses": {
+  "sculpteur": "Guido Galletti",
+  "date": "1954",
+  "lieu": "Sous-marin, baie de San Fruttuoso (Camogli)",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_manneken-pis": {
+  "sculpteur": "Jérôme Duquesnoy l'Ancien",
+  "date": "1619",
+  "lieu": "Plein air, Bruxelles",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_venus-de-willendorf": {
+  "sculpteur": "Anonyme (Paléolithique, Gravettien)",
+  "date": "vers 28 000 av. J.-C.",
+  "lieu": "Musée d'histoire naturelle, Vienne",
+  "confiance": "tranchee",
+  "note": "Datation révisée (environ 30 000 ans avant le présent) convertie en av. J.-C. ; 29 500 était un âge, pas une date."
+ },
+ "sculptures-celebres_masque-funeraire-de-toutankhamon": {
+  "sculpteur": "Anonyme (Égypte, XVIIIe dynastie)",
+  "date": "vers 1323 av. J.-C.",
+  "lieu": "Grand Musée égyptien, Gizeh",
+  "confiance": "tranchee",
+  "note": "Le masque a rejoint le Grand Musée égyptien, ouvert en novembre 2025, avec tout le trésor du pharaon."
+ },
+ "sculptures-celebres_aurige-de-delphes": {
+  "sculpteur": "Anonyme (Grèce classique)",
+  "date": "vers 478-474 av. J.-C.",
+  "lieu": "Musée archéologique de Delphes",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_apollon-du-belvedere": {
+  "sculpteur": "Léocharès (d'après)",
+  "date": "vers 120-140 apr. J.-C.",
+  "lieu": "Musées du Vatican, Rome",
+  "confiance": "tranchee",
+  "note": "Date de la copie romaine du Vatican ; Léocharès est l'auteur traditionnel du bronze perdu."
+ },
+ "sculptures-celebres_galate-mourant": {
+  "sculpteur": "Anonyme (copie romaine d'un original pergaménien)",
+  "date": "vers 230-220 av. J.-C.",
+  "lieu": "Musées du Capitole, Rome",
+  "confiance": "tranchee",
+  "note": "Date de l'original pergaménien retenue, la plus citée ; la copie du Capitole est plus tardive."
+ },
+ "sculptures-celebres_masque-d-agamemnon": {
+  "sculpteur": "Anonyme (Grèce mycénienne)",
+  "date": "vers 1550-1500 av. J.-C.",
+  "lieu": "Musée national archéologique, Athènes",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_auguste-de-prima-porta": {
+  "sculpteur": "Anonyme (Rome antique)",
+  "date": "début du Ier siècle apr. J.-C.",
+  "lieu": "Musées du Vatican, Rome",
+  "confiance": "tranchee",
+  "note": "Datation usuelle au début du Ier siècle apr. J.-C. conservée."
+ },
+ "sculptures-celebres_statue-equestre-de-marc-aurele": {
+  "sculpteur": "Anonyme (Rome antique)",
+  "date": "vers 175 apr. J.-C.",
+  "lieu": "Musées du Capitole, Rome",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_louve-capitoline": {
+  "sculpteur": "Anonyme",
+  "date": "Ve siècle av. J.-C.",
+  "lieu": "Musées du Capitole, Rome",
+  "confiance": "tranchee",
+  "note": "Datation étrusque traditionnelle, la plus attendue, malgré une datation médiévale proposée en 2006."
+ },
+ "sculptures-celebres_tete-colossale-olmeque": {
+  "sculpteur": "Anonyme (civilisation olmèque)",
+  "date": "vers 1200-900 av. J.-C.",
+  "lieu": "Musée d'anthropologie de Xalapa (et autres musées)",
+  "confiance": "tranchee",
+  "note": "Musée de Xalapa retenu, qui en conserve le plus grand nombre."
+ },
+ "sculptures-celebres_bronzes-du-benin": {
+  "sculpteur": "Anonyme (royaume du Bénin)",
+  "date": "XVIe-XVIIIe siècle",
+  "lieu": "British Museum, Londres (et autres musées)",
+  "confiance": "tranchee",
+  "note": "British Museum retenu, collection la plus importante et la plus citée."
+ },
+ "sculptures-celebres_david-donatello": {
+  "sculpteur": "Donatello",
+  "date": "vers 1430-1440",
+  "lieu": "Musée du Bargello, Florence",
+  "confiance": "tranchee",
+  "note": "Fourchette usuelle vers 1430-1440 conservée malgré le débat."
+ },
+ "sculptures-celebres_persee-tenant-la-tete-de-meduse-cellini": {
+  "sculpteur": "Benvenuto Cellini",
+  "date": "1545-1554",
+  "lieu": "Loggia dei Lanzi, Florence",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_moise-michel-ange": {
+  "sculpteur": "Michel-Ange",
+  "date": "vers 1513-1515",
+  "lieu": "Basilique Saint-Pierre-aux-Liens, Rome",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_l-enlevement-de-proserpine-le-bernin": {
+  "sculpteur": "Le Bernin",
+  "date": "1621-1622",
+  "lieu": "Galerie Borghèse, Rome",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_psyche-ranimee-par-le-baiser-de-l-amour": {
+  "sculpteur": "Antonio Canova",
+  "date": "1787-1793",
+  "lieu": "Musée du Louvre, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_le-depart-des-volontaires-de-1792": {
+  "sculpteur": "François Rude",
+  "date": "1833-1836",
+  "lieu": "Arc de triomphe de l'Étoile, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_la-porte-de-l-enfer": {
+  "sculpteur": "Auguste Rodin",
+  "date": "1880-1917",
+  "lieu": "Musée Rodin, Paris",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_la-valse-camille-claudel": {
+  "sculpteur": "Camille Claudel",
+  "date": "1889-1905",
+  "lieu": "Musée Rodin, Paris",
+  "confiance": "tranchee",
+  "note": "Datation usuelle 1889-1905 et bronze du musée Rodin retenus."
+ },
+ "sculptures-celebres_lion-de-belfort": {
+  "sculpteur": "Auguste Bartholdi",
+  "date": "1875-1880",
+  "lieu": "Plein air, Belfort",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_oiseau-dans-l-espace": {
+  "sculpteur": "Constantin Brâncuși",
+  "date": "1923",
+  "lieu": "Metropolitan Museum of Art, New York (et autres versions)",
+  "confiance": "tranchee",
+  "note": "Premier marbre de 1923, celui de la date de la carte, retenu."
+ },
+ "sculptures-celebres_nana-niki-de-saint-phalle": {
+  "sculpteur": "Niki de Saint Phalle",
+  "date": "à partir de 1965",
+  "lieu": "Plein air, Hanovre (et nombreux autres lieux)",
+  "confiance": "tranchee",
+  "note": "Série : les trois Nanas du Leibnizufer de Hanovre, les plus emblématiques, sont retenues."
+ },
+ "sculptures-celebres_balloon-dog": {
+  "sculpteur": "Jeff Koons",
+  "date": "1994-2000",
+  "lieu": "The Broad, Los Angeles (et autres versions)",
+  "confiance": "tranchee",
+  "note": "Cinq versions : celle du Broad, visible au public, est retenue."
+ },
+ "sculptures-celebres_ange-du-nord": {
+  "sculpteur": "Antony Gormley",
+  "date": "1998",
+  "lieu": "Plein air, Gateshead",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_taureau-de-wall-street": {
+  "sculpteur": "Arturo Di Modica",
+  "date": "1989",
+  "lieu": "Plein air, New York",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_statue-de-la-mere-patrie-volgograd": {
+  "sculpteur": "Ievgueni Voutchetitch",
+  "date": "1959-1967",
+  "lieu": "Plein air, Volgograd",
+  "confiance": "sure"
+ },
+ "sculptures-celebres_kotoku-in": {
+  "sculpteur": "Anonyme (Japon, époque de Kamakura)",
+  "date": "1252",
+  "lieu": "Temple Kōtoku-in, Kamakura",
+  "confiance": "tranchee",
+  "note": "Carte lue comme le Grand Bouddha du temple ; 1252, date traditionnelle, et artisan non établi."
+ },
+ "sculptures-celebres_la-petite-sirene-copenhague": {
+  "sculpteur": "Edvard Eriksen",
+  "date": "1913",
+  "lieu": "Plein air, Copenhague",
+  "confiance": "sure"
+ }
+}

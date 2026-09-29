@@ -1,0 +1,773 @@
+{
+ "grands-compositeurs_claudio-monteverdi": {
+  "dates": "1567-1643",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "L'Orfeo · Vêpres de la Vierge · Le Couronnement de Poppée",
+  "confiance": "tranchee",
+  "note": "Baroque retenu : c'est l'étiquette enseignée pour L'Orfeo (1607), acte de naissance de l'opéra baroque."
+ },
+ "grands-compositeurs_antonio-vivaldi": {
+  "dates": "1678-1741",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "Les Quatre Saisons · Gloria · L'Estro armonico",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jean-sebastien-bach": {
+  "dates": "1685-1750",
+  "nationalite": "Allemand",
+  "periode": "Baroque",
+  "oeuvres": "Toccata et fugue en ré mineur · Concertos brandebourgeois · Passion selon saint Matthieu",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_georg-friedrich-haendel": {
+  "dates": "1685-1759",
+  "nationalite": "Allemand naturalisé britannique",
+  "periode": "Baroque",
+  "oeuvres": "Le Messie · Water Music · Musique pour les feux d'artifice royaux",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_joseph-haydn": {
+  "dates": "1732-1809",
+  "nationalite": "Autrichien",
+  "periode": "Classique",
+  "oeuvres": "La Création · Symphonie « La Surprise » · Quatuor « L'Empereur »",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_wolfgang-amadeus-mozart": {
+  "dates": "1756-1791",
+  "nationalite": "Autrichien",
+  "periode": "Classique",
+  "oeuvres": "La Flûte enchantée · Requiem · Don Giovanni",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_ludwig-van-beethoven": {
+  "dates": "1770-1827",
+  "nationalite": "Allemand",
+  "periode": "Classique et romantique",
+  "oeuvres": "Symphonie n° 9 · Symphonie n° 5 · Lettre à Élise",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_franz-schubert": {
+  "dates": "1797-1828",
+  "nationalite": "Autrichien",
+  "periode": "Romantique",
+  "oeuvres": "Symphonie inachevée · La Truite · Le Roi des aulnes",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_hector-berlioz": {
+  "dates": "1803-1869",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Symphonie fantastique · La Damnation de Faust · Les Troyens",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_frederic-chopin": {
+  "dates": "1810-1849",
+  "nationalite": "Polonais",
+  "periode": "Romantique",
+  "oeuvres": "Nocturnes · Polonaise héroïque · Valse minute",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_robert-schumann": {
+  "dates": "1810-1856",
+  "nationalite": "Allemand",
+  "periode": "Romantique",
+  "oeuvres": "Scènes d'enfants · Carnaval · Concerto pour piano en la mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_franz-liszt": {
+  "dates": "1811-1886",
+  "nationalite": "Hongrois",
+  "periode": "Romantique",
+  "oeuvres": "Rhapsodies hongroises · Rêve d'amour · Sonate en si mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_richard-wagner": {
+  "dates": "1813-1883",
+  "nationalite": "Allemand",
+  "periode": "Romantique",
+  "oeuvres": "L'Anneau du Nibelung · Tristan et Isolde · Lohengrin",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_giuseppe-verdi": {
+  "dates": "1813-1901",
+  "nationalite": "Italien",
+  "periode": "Romantique",
+  "oeuvres": "La Traviata · Aida · Nabucco",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_johannes-brahms": {
+  "dates": "1833-1897",
+  "nationalite": "Allemand",
+  "periode": "Romantique",
+  "oeuvres": "Danses hongroises · Berceuse · Un requiem allemand",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_piotr-ilitch-tchaikovski": {
+  "dates": "1840-1893",
+  "nationalite": "Russe",
+  "periode": "Romantique",
+  "oeuvres": "Le Lac des cygnes · Casse-Noisette · Concerto pour piano n° 1",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_antonin-dvorak": {
+  "dates": "1841-1904",
+  "nationalite": "Tchèque",
+  "periode": "Romantique",
+  "oeuvres": "Symphonie du Nouveau Monde · Danses slaves · Rusalka",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gustav-mahler": {
+  "dates": "1860-1911",
+  "nationalite": "Autrichien",
+  "periode": "Post-romantique",
+  "oeuvres": "Symphonie n° 5 · Le Chant de la Terre · Symphonie n° 2 « Résurrection »",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_claude-debussy": {
+  "dates": "1862-1918",
+  "nationalite": "Français",
+  "periode": "Impressionnisme musical",
+  "oeuvres": "Prélude à l'après-midi d'un faune · Clair de lune · La Mer",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_maurice-ravel": {
+  "dates": "1875-1937",
+  "nationalite": "Français",
+  "periode": "Impressionnisme musical",
+  "oeuvres": "Boléro · Pavane pour une infante défunte · Daphnis et Chloé",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_erik-satie": {
+  "dates": "1866-1925",
+  "nationalite": "Français",
+  "periode": "Modernisme",
+  "oeuvres": "Gymnopédies · Gnossiennes · Parade",
+  "confiance": "tranchee",
+  "note": "Étiquette nette « Modernisme » retenue, cohérente avec Stravinsky ; l'avant-garde et le minimalisme restent des nuances."
+ },
+ "grands-compositeurs_igor-stravinsky": {
+  "dates": "1882-1971",
+  "nationalite": "Russe naturalisé français puis américain",
+  "periode": "Modernisme",
+  "oeuvres": "Le Sacre du printemps · L'Oiseau de feu · Petrouchka",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_serguei-rachmaninov": {
+  "dates": "1873-1943",
+  "nationalite": "Russe",
+  "periode": "Post-romantique",
+  "oeuvres": "Concerto pour piano n° 2 · Rhapsodie sur un thème de Paganini · Prélude en do dièse mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_dmitri-chostakovitch": {
+  "dates": "1906-1975",
+  "nationalite": "Russe (soviétique)",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Valse n° 2 · Symphonie n° 7 « Leningrad » · Symphonie n° 5",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_serguei-prokofiev": {
+  "dates": "1891-1953",
+  "nationalite": "Russe",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Pierre et le Loup · Roméo et Juliette · Symphonie classique",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_bela-bartok": {
+  "dates": "1881-1945",
+  "nationalite": "Hongrois",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Concerto pour orchestre · Musique pour cordes, percussion et célesta · Le Château de Barbe-Bleue",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_arnold-schonberg": {
+  "dates": "1874-1951",
+  "nationalite": "Autrichien naturalisé américain",
+  "periode": "Seconde école de Vienne (dodécaphonisme)",
+  "oeuvres": "Pierrot lunaire · La Nuit transfigurée · Un survivant de Varsovie",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_george-gershwin": {
+  "dates": "1898-1937",
+  "nationalite": "Américain",
+  "periode": "Musique américaine (jazz symphonique)",
+  "oeuvres": "Rhapsody in Blue · Un Américain à Paris · Porgy and Bess",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_aaron-copland": {
+  "dates": "1900-1990",
+  "nationalite": "Américain",
+  "periode": "Musique américaine du XXe siècle",
+  "oeuvres": "Appalachian Spring · Fanfare for the Common Man · Rodeo",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_olivier-messiaen": {
+  "dates": "1908-1992",
+  "nationalite": "Français",
+  "periode": "Musique contemporaine",
+  "oeuvres": "Quatuor pour la fin du Temps · Turangalîla-Symphonie · Catalogue d'oiseaux",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_john-cage": {
+  "dates": "1912-1992",
+  "nationalite": "Américain",
+  "periode": "Musique expérimentale",
+  "oeuvres": "4'33'' · Sonates et interludes pour piano préparé",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_philip-glass": {
+  "dates": "né en 1937",
+  "nationalite": "Américain",
+  "periode": "Minimalisme",
+  "oeuvres": "Einstein on the Beach · Koyaanisqatsi · Glassworks",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_steve-reich": {
+  "dates": "né en 1936",
+  "nationalite": "Américain",
+  "periode": "Minimalisme",
+  "oeuvres": "Music for 18 Musicians · Different Trains · Clapping Music",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_arvo-part": {
+  "dates": "né en 1935",
+  "nationalite": "Estonien",
+  "periode": "Minimalisme sacré (tintinnabuli)",
+  "oeuvres": "Spiegel im Spiegel · Fratres · Tabula rasa",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_ennio-morricone": {
+  "dates": "1928-2020",
+  "nationalite": "Italien",
+  "periode": "Musique de film",
+  "oeuvres": "Le Bon, la Brute et le Truand · Il était une fois dans l'Ouest · Mission",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_hans-zimmer": {
+  "dates": "né en 1957",
+  "nationalite": "Allemand",
+  "periode": "Musique de film",
+  "oeuvres": "Le Roi lion · Gladiator · Inception",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_nino-rota": {
+  "dates": "1911-1979",
+  "nationalite": "Italien",
+  "periode": "Musique de film",
+  "oeuvres": "Le Parrain · La Strada · Huit et demi",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jean-philippe-rameau": {
+  "dates": "1683-1764",
+  "nationalite": "Français",
+  "periode": "Baroque",
+  "oeuvres": "Les Indes galantes · Hippolyte et Aricie · Traité de l'harmonie",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_henry-purcell": {
+  "dates": "1659-1695",
+  "nationalite": "Anglais",
+  "periode": "Baroque",
+  "oeuvres": "Didon et Énée · King Arthur · Musique pour les funérailles de la reine Mary",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_domenico-scarlatti": {
+  "dates": "1685-1757",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "Sonates pour clavecin · Essercizi per gravicembalo",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_christoph-willibald-gluck": {
+  "dates": "1714-1787",
+  "nationalite": "Allemand",
+  "periode": "Classique",
+  "oeuvres": "Orphée et Eurydice · Alceste · Iphigénie en Tauride",
+  "confiance": "tranchee",
+  "note": "Allemand retenu : né dans le Haut-Palatinat, c'est la nationalité donnée par les dictionnaires ; la carrière viennoise et parisienne n'y change rien."
+ },
+ "grands-compositeurs_camille-saint-saens": {
+  "dates": "1835-1921",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Le Carnaval des animaux · Danse macabre · Symphonie n° 3 « avec orgue »",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gabriel-faure": {
+  "dates": "1845-1924",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Requiem · Pavane · Après un rêve",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_cesar-franck": {
+  "dates": "1822-1890",
+  "nationalite": "Belge naturalisé français",
+  "periode": "Romantique",
+  "oeuvres": "Symphonie en ré mineur · Sonate pour violon et piano · Panis angelicus",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_modeste-moussorgski": {
+  "dates": "1839-1881",
+  "nationalite": "Russe",
+  "periode": "Romantique (Groupe des Cinq)",
+  "oeuvres": "Tableaux d'une exposition · Une nuit sur le mont Chauve · Boris Godounov",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_nikolai-rimski-korsakov": {
+  "dates": "1844-1908",
+  "nationalite": "Russe",
+  "periode": "Romantique (Groupe des Cinq)",
+  "oeuvres": "Shéhérazade · Le Vol du bourdon · Capriccio espagnol",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jean-sibelius": {
+  "dates": "1865-1957",
+  "nationalite": "Finlandais",
+  "periode": "Romantique (école nationale)",
+  "oeuvres": "Finlandia · Valse triste · Concerto pour violon",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_edvard-grieg": {
+  "dates": "1843-1907",
+  "nationalite": "Norvégien",
+  "periode": "Romantique (école nationale)",
+  "oeuvres": "Peer Gynt · Concerto pour piano en la mineur · Pièces lyriques",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_giacomo-puccini": {
+  "dates": "1858-1924",
+  "nationalite": "Italien",
+  "periode": "Vérisme",
+  "oeuvres": "La Bohème · Tosca · Madame Butterfly",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gioachino-rossini": {
+  "dates": "1792-1868",
+  "nationalite": "Italien",
+  "periode": "Bel canto",
+  "oeuvres": "Le Barbier de Séville · Guillaume Tell · La Pie voleuse",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_georges-bizet": {
+  "dates": "1838-1875",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Carmen · L'Arlésienne · Les Pêcheurs de perles",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jacques-offenbach": {
+  "dates": "1819-1880",
+  "nationalite": "Allemand naturalisé français",
+  "periode": "Opérette (Second Empire)",
+  "oeuvres": "Orphée aux Enfers · Les Contes d'Hoffmann · La Belle Hélène",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_anton-bruckner": {
+  "dates": "1824-1896",
+  "nationalite": "Autrichien",
+  "periode": "Romantique",
+  "oeuvres": "Symphonie n° 7 · Symphonie n° 4 « Romantique » · Te Deum",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_felix-mendelssohn": {
+  "dates": "1809-1847",
+  "nationalite": "Allemand",
+  "periode": "Romantique",
+  "oeuvres": "Le Songe d'une nuit d'été · Symphonie « Italienne » · Concerto pour violon en mi mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_carl-orff": {
+  "dates": "1895-1982",
+  "nationalite": "Allemand",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Carmina Burana",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_toru-takemitsu": {
+  "dates": "1930-1996",
+  "nationalite": "Japonais",
+  "periode": "Musique contemporaine",
+  "oeuvres": "Requiem pour cordes · November Steps · Ran (musique de film)",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_astor-piazzolla": {
+  "dates": "1921-1992",
+  "nationalite": "Argentin",
+  "periode": "Tango nuevo",
+  "oeuvres": "Libertango · Adiós Nonino · Oblivion",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_duke-ellington": {
+  "dates": "1899-1974",
+  "nationalite": "Américain",
+  "periode": "Jazz (swing)",
+  "oeuvres": "Mood Indigo · It Don't Mean a Thing · Sophisticated Lady",
+  "confiance": "tranchee",
+  "note": "Œuvres conservées : les trois sont créditées à Ellington (cosignatures d'usage) ; Take the A Train, de Strayhorn, reste écarté."
+ },
+ "grands-compositeurs_scott-joplin": {
+  "dates": "1868-1917",
+  "nationalite": "Américain",
+  "periode": "Ragtime",
+  "oeuvres": "The Entertainer · Maple Leaf Rag · Treemonisha",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_john-williams-compositeur": {
+  "dates": "né en 1932",
+  "nationalite": "Américain",
+  "periode": "Musique de film",
+  "oeuvres": "Star Wars · Les Dents de la mer · E.T. l'extra-terrestre",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_richard-strauss": {
+  "dates": "1864-1949",
+  "nationalite": "Allemand",
+  "periode": "Post-romantique",
+  "oeuvres": "Ainsi parlait Zarathoustra · Le Chevalier à la rose · Salomé",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_johann-strauss-ii": {
+  "dates": "1825-1899",
+  "nationalite": "Autrichien",
+  "periode": "Romantique (valse viennoise)",
+  "oeuvres": "Le Beau Danube bleu · La Chauve-Souris · Valse de l'Empereur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_samuel-barber": {
+  "dates": "1910-1981",
+  "nationalite": "Américain",
+  "periode": "Néoromantisme",
+  "oeuvres": "Adagio pour cordes · Knoxville: Summer of 1915 · Vanessa",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_guillaume-de-machaut": {
+  "dates": "vers 1300-1377",
+  "nationalite": "Français",
+  "periode": "Ars nova (Moyen Âge)",
+  "oeuvres": "Messe de Notre-Dame · Le Voir Dit",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_josquin-des-pres": {
+  "dates": "vers 1450-1521",
+  "nationalite": "Franco-flamand",
+  "periode": "Renaissance",
+  "oeuvres": "Ave Maria... virgo serena · Missa Pange lingua · Mille regretz",
+  "confiance": "tranchee",
+  "note": "« Vers 1450 » et « Franco-flamand » conservés : c'est la datation courante et l'étiquette de l'école à laquelle il appartient."
+ },
+ "grands-compositeurs_giovanni-pierluigi-da-palestrina": {
+  "dates": "vers 1525-1594",
+  "nationalite": "Italien",
+  "periode": "Renaissance",
+  "oeuvres": "Messe du pape Marcel · Stabat Mater",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jean-baptiste-lully": {
+  "dates": "1632-1687",
+  "nationalite": "Français d'origine italienne",
+  "periode": "Baroque",
+  "oeuvres": "Le Bourgeois gentilhomme · Armide · Atys",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_francois-couperin": {
+  "dates": "1668-1733",
+  "nationalite": "Français",
+  "periode": "Baroque",
+  "oeuvres": "Pièces de clavecin · Leçons de ténèbres · L'Art de toucher le clavecin",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_marc-antoine-charpentier": {
+  "dates": "1643-1704",
+  "nationalite": "Français",
+  "periode": "Baroque",
+  "oeuvres": "Te Deum · Médée · Messe de minuit pour Noël",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_georg-philipp-telemann": {
+  "dates": "1681-1767",
+  "nationalite": "Allemand",
+  "periode": "Baroque",
+  "oeuvres": "Musique de table · Concerto pour alto en sol majeur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_johann-pachelbel": {
+  "dates": "1653-1706",
+  "nationalite": "Allemand",
+  "periode": "Baroque",
+  "oeuvres": "Canon en ré majeur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_arcangelo-corelli": {
+  "dates": "1653-1713",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "Concerti grossi op. 6 · Concerto pour la nuit de Noël · La Folia",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_tomaso-albinoni": {
+  "dates": "1671-1751",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "Adagio en sol mineur (attribué, en fait de Giazotto) · Concertos pour hautbois op. 9",
+  "confiance": "tranchee",
+  "note": "L'Adagio reste cité car c'est par lui qu'on connaît Albinoni, avec la mention de son véritable auteur."
+ },
+ "grands-compositeurs_jean-baptiste-pergolese": {
+  "dates": "1710-1736",
+  "nationalite": "Italien",
+  "periode": "Baroque",
+  "oeuvres": "Stabat Mater · La serva padrona",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_niccolo-paganini": {
+  "dates": "1782-1840",
+  "nationalite": "Italien",
+  "periode": "Romantique",
+  "oeuvres": "24 Caprices pour violon seul · Concerto pour violon n° 1 · La Campanella",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gaetano-donizetti": {
+  "dates": "1797-1848",
+  "nationalite": "Italien",
+  "periode": "Bel canto",
+  "oeuvres": "L'Élixir d'amour · Lucia di Lammermoor · Don Pasquale",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_vincenzo-bellini": {
+  "dates": "1801-1835",
+  "nationalite": "Italien",
+  "periode": "Bel canto",
+  "oeuvres": "Norma · La Somnambule · Les Puritains",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_charles-gounod": {
+  "dates": "1818-1893",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Faust · Roméo et Juliette · Ave Maria",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_jules-massenet": {
+  "dates": "1842-1912",
+  "nationalite": "Français",
+  "periode": "Romantique",
+  "oeuvres": "Manon · Werther · Thaïs",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_carl-maria-von-weber": {
+  "dates": "1786-1826",
+  "nationalite": "Allemand",
+  "periode": "Romantique",
+  "oeuvres": "Le Freischütz · Oberon · L'Invitation à la valse",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_bedrich-smetana": {
+  "dates": "1824-1884",
+  "nationalite": "Tchèque",
+  "periode": "Romantique (école nationale)",
+  "oeuvres": "Ma patrie (La Moldau) · La Fiancée vendue",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_leos-janacek": {
+  "dates": "1854-1928",
+  "nationalite": "Tchèque",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Jenůfa · Sinfonietta · La Petite Renarde rusée",
+  "confiance": "tranchee",
+  "note": "« Musique du XXe siècle » conservé : ses œuvres majeures (Jenůfa, Sinfonietta, La Petite Renarde rusée) datent de 1904 à 1926."
+ },
+ "grands-compositeurs_alexandre-borodine": {
+  "dates": "1833-1887",
+  "nationalite": "Russe",
+  "periode": "Romantique (Groupe des Cinq)",
+  "oeuvres": "Le Prince Igor · Dans les steppes de l'Asie centrale · Quatuor à cordes n° 2",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_mikhail-glinka": {
+  "dates": "1804-1857",
+  "nationalite": "Russe",
+  "periode": "Romantique (école russe)",
+  "oeuvres": "Une vie pour le tsar · Rouslan et Lioudmila",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_edward-elgar": {
+  "dates": "1857-1934",
+  "nationalite": "Anglais",
+  "periode": "Post-romantique",
+  "oeuvres": "Pomp and Circumstance · Variations Enigma · Concerto pour violoncelle",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gustav-holst": {
+  "dates": "1874-1934",
+  "nationalite": "Anglais",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Les Planètes",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_benjamin-britten": {
+  "dates": "1913-1976",
+  "nationalite": "Anglais",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Peter Grimes · War Requiem · Guide de l'orchestre pour les jeunes",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_manuel-de-falla": {
+  "dates": "1876-1946",
+  "nationalite": "Espagnol",
+  "periode": "Musique du XXe siècle (école nationale)",
+  "oeuvres": "L'Amour sorcier · Le Tricorne · Nuits dans les jardins d'Espagne",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_isaac-albeniz": {
+  "dates": "1860-1909",
+  "nationalite": "Espagnol",
+  "periode": "Romantique (école nationale)",
+  "oeuvres": "Iberia · Asturias · Suite espagnole",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_joaquin-rodrigo": {
+  "dates": "1901-1999",
+  "nationalite": "Espagnol",
+  "periode": "Néoclassicisme",
+  "oeuvres": "Concierto de Aranjuez · Fantaisie pour un gentilhomme",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_heitor-villa-lobos": {
+  "dates": "1887-1959",
+  "nationalite": "Brésilien",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Bachianas Brasileiras · Chôros",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_francis-poulenc": {
+  "dates": "1899-1963",
+  "nationalite": "Français",
+  "periode": "Groupe des Six",
+  "oeuvres": "Dialogues des carmélites · La Voix humaine · Gloria",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_pierre-boulez": {
+  "dates": "1925-2016",
+  "nationalite": "Français",
+  "periode": "Musique sérielle",
+  "oeuvres": "Le Marteau sans maître · Pli selon pli · Répons",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_edgard-varese": {
+  "dates": "1883-1965",
+  "nationalite": "Français naturalisé américain",
+  "periode": "Musique contemporaine",
+  "oeuvres": "Ionisation · Amériques · Poème électronique",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_alban-berg": {
+  "dates": "1885-1935",
+  "nationalite": "Autrichien",
+  "periode": "Seconde école de Vienne (dodécaphonisme)",
+  "oeuvres": "Wozzeck · Lulu · Concerto « À la mémoire d'un ange »",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_gyorgy-ligeti": {
+  "dates": "1923-2006",
+  "nationalite": "Hongrois naturalisé autrichien",
+  "periode": "Musique contemporaine",
+  "oeuvres": "Atmosphères · Lux aeterna · Le Grand Macabre",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_karlheinz-stockhausen": {
+  "dates": "1928-2007",
+  "nationalite": "Allemand",
+  "periode": "Musique électronique et sérielle",
+  "oeuvres": "Gesang der Jünglinge · Gruppen · Licht",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_krzysztof-penderecki": {
+  "dates": "1933-2020",
+  "nationalite": "Polonais",
+  "periode": "Musique contemporaine",
+  "oeuvres": "Thrène à la mémoire des victimes d'Hiroshima · Passion selon saint Luc",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_leonard-bernstein": {
+  "dates": "1918-1990",
+  "nationalite": "Américain",
+  "periode": "Comédie musicale",
+  "oeuvres": "West Side Story · Candide · On the Town",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_kurt-weill": {
+  "dates": "1900-1950",
+  "nationalite": "Allemand naturalisé américain",
+  "periode": "Théâtre musical",
+  "oeuvres": "L'Opéra de quat'sous · Grandeur et décadence de la ville de Mahagonny",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_michel-legrand": {
+  "dates": "1932-2019",
+  "nationalite": "Français",
+  "periode": "Musique de film",
+  "oeuvres": "Les Parapluies de Cherbourg · Les Demoiselles de Rochefort · L'Affaire Thomas Crown",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_joe-hisaishi": {
+  "dates": "né en 1950",
+  "nationalite": "Japonais",
+  "periode": "Musique de film",
+  "oeuvres": "Le Voyage de Chihiro · Mon voisin Totoro · Le Château ambulant",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_bernard-herrmann": {
+  "dates": "1911-1975",
+  "nationalite": "Américain",
+  "periode": "Musique de film",
+  "oeuvres": "Psychose · Sueurs froides · Citizen Kane",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_maurice-jarre": {
+  "dates": "1924-2009",
+  "nationalite": "Français",
+  "periode": "Musique de film",
+  "oeuvres": "Lawrence d'Arabie · Le Docteur Jivago · Ghost",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_vangelis": {
+  "dates": "1943-2022",
+  "nationalite": "Grec",
+  "periode": "Musique électronique et de film",
+  "oeuvres": "Les Chariots de feu · Blade Runner · 1492 : Christophe Colomb",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_howard-shore": {
+  "dates": "né en 1946",
+  "nationalite": "Canadien",
+  "periode": "Musique de film",
+  "oeuvres": "Le Seigneur des anneaux · Le Hobbit · Le Silence des agneaux",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_clara-schumann": {
+  "dates": "1819-1896",
+  "nationalite": "Allemande",
+  "periode": "Romantique",
+  "oeuvres": "Concerto pour piano en la mineur · Trio avec piano en sol mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_fanny-mendelssohn": {
+  "dates": "1805-1847",
+  "nationalite": "Allemande",
+  "periode": "Romantique",
+  "oeuvres": "Das Jahr · Trio avec piano en ré mineur",
+  "confiance": "sure"
+ },
+ "grands-compositeurs_lili-boulanger": {
+  "dates": "1893-1918",
+  "nationalite": "Française",
+  "periode": "Musique du XXe siècle",
+  "oeuvres": "Faust et Hélène · Psaumes · D'un soir triste",
+  "confiance": "tranchee",
+  "note": "Impressionnisme écarté comme rattachement discutable ; « Musique du XXe siècle » est sûr pour une œuvre écrite entre 1911 et 1918."
+ }
+}

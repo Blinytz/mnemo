@@ -1,0 +1,775 @@
+{
+ "monuments-emblematiques_tunnel-sous-la-manche": {
+  "ville": "Entre Coquelles et Folkestone",
+  "pays": "France · Royaume-Uni",
+  "date": "1987-1994",
+  "auteur": "Transmanche-Link (consortium constructeur)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tour-eiffel": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1887-1889",
+  "auteur": "Gustave Eiffel",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_statue-de-la-liberte": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1875-1886",
+  "auteur": "Auguste Bartholdi",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_big-ben": {
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "date": "1843-1859",
+  "auteur": "Charles Barry · Augustus Pugin",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_sagrada-familia": {
+  "ville": "Barcelone",
+  "pays": "Espagne",
+  "date": "depuis 1882",
+  "auteur": "Antoni Gaudí",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_opera-de-sydney": {
+  "ville": "Sydney",
+  "pays": "Australie",
+  "date": "1959-1973",
+  "auteur": "Jørn Utzon",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_kremlin-de-moscou": {
+  "ville": "Moscou",
+  "pays": "Russie",
+  "date": "1485-1495",
+  "auteur": "Ivan III (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Date de l'enceinte de brique actuelle, repère usuel d'un ensemble de plusieurs époques."
+ },
+ "monuments-emblematiques_chateau-de-neuschwanstein": {
+  "ville": "Schwangau (près de Füssen)",
+  "pays": "Allemagne",
+  "date": "1869-1886",
+  "auteur": "Louis II de Bavière (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_mont-rushmore": {
+  "ville": "Keystone (Dakota du Sud)",
+  "pays": "États-Unis",
+  "date": "1927-1941",
+  "auteur": "Gutzon Borglum",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_empire-state-building": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1930-1931",
+  "auteur": "William F. Lamb (Shreve, Lamb & Harmon)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_burj-khalifa": {
+  "ville": "Dubaï",
+  "pays": "Émirats arabes unis",
+  "date": "2004-2010",
+  "auteur": "Adrian Smith (SOM)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_angkor-vat": {
+  "ville": "Angkor (près de Siem Reap)",
+  "pays": "Cambodge",
+  "date": "première moitié du XIIe siècle",
+  "auteur": "Suryavarman II (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_cite-interdite": {
+  "ville": "Pékin",
+  "pays": "Chine",
+  "date": "1406-1420",
+  "auteur": "Empereur Yongle (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_alhambra-grenade": {
+  "ville": "Grenade",
+  "pays": "Espagne",
+  "date": "XIIIe siècle-XIVe siècle",
+  "auteur": "Dynastie nasride (Mohammed Ier, fondateur)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-himeji": {
+  "ville": "Himeji",
+  "pays": "Japon",
+  "date": "1601-1609",
+  "auteur": "Ikeda Terumasa (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_porte-de-brandebourg": {
+  "ville": "Berlin",
+  "pays": "Allemagne",
+  "date": "1788-1791",
+  "auteur": "Carl Gotthard Langhans",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tour-de-pise": {
+  "ville": "Pise",
+  "pays": "Italie",
+  "date": "1173-1372",
+  "auteur": "Bonanno Pisano (attribué)",
+  "confiance": "tranchee",
+  "note": "Bonanno Pisano retenu comme attribution usuelle, les sources hésitant avec Diotisalvi."
+ },
+ "monuments-emblematiques_cathedrale-notre-dame-de-paris": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1163-1345",
+  "auteur": "Maurice de Sully (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_le-mont-saint-michel": {
+  "ville": "Le Mont-Saint-Michel",
+  "pays": "France",
+  "date": "à partir de 708",
+  "auteur": "Aubert d'Avranches (fondateur)",
+  "confiance": "tranchee",
+  "note": "Fondation du sanctuaire par Aubert en 708 retenue, date la plus attendue et cohérente avec l'auteur."
+ },
+ "monuments-emblematiques_chateau-de-versailles": {
+  "ville": "Versailles",
+  "pays": "France",
+  "date": "1661-1710",
+  "auteur": "Louis Le Vau · Jules Hardouin-Mansart",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_mosquee-bleue": {
+  "ville": "Istanbul",
+  "pays": "Turquie",
+  "date": "1609-1616",
+  "auteur": "Sedefkâr Mehmed Ağa",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_sainte-sophie-constantinople": {
+  "ville": "Istanbul",
+  "pays": "Turquie",
+  "date": "532-537",
+  "auteur": "Anthémius de Tralles · Isidore de Milet",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-de-topkap": {
+  "ville": "Istanbul",
+  "pays": "Turquie",
+  "date": "1459-1478",
+  "auteur": "Mehmed II (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Période 1459-1478 retenue, de la fondation à l'achèvement le plus tardif cité."
+ },
+ "monuments-emblematiques_pont-du-golden-gate": {
+  "ville": "San Francisco",
+  "pays": "États-Unis",
+  "date": "1933-1937",
+  "auteur": "Joseph Strauss",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tour-cn": {
+  "ville": "Toronto",
+  "pays": "Canada",
+  "date": "1973-1976",
+  "auteur": "John Andrews · WZMH Architects",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-d-edimbourg": {
+  "ville": "Édimbourg",
+  "pays": "Royaume-Uni",
+  "date": "XIIe siècle",
+  "auteur": "Anonyme",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-de-buckingham": {
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "date": "1703-1705",
+  "auteur": "William Winde · John Nash",
+  "confiance": "tranchee",
+  "note": "Date de Buckingham House, origine du palais ; Nash cité pour sa transformation."
+ },
+ "monuments-emblematiques_cathedrale-de-cologne": {
+  "ville": "Cologne",
+  "pays": "Allemagne",
+  "date": "1248-1880",
+  "auteur": "Maître Gérard (Gerhard)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_basilique-saint-pierre": {
+  "ville": "Cité du Vatican",
+  "pays": "Vatican",
+  "date": "1506-1626",
+  "auteur": "Bramante · Michel-Ange · Carlo Maderno",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-chambord": {
+  "ville": "Chambord",
+  "pays": "France",
+  "date": "1519-1547",
+  "auteur": "François Ier (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_grande-mosquee-de-djenne": {
+  "ville": "Djenné",
+  "pays": "Mali",
+  "date": "1906-1907",
+  "auteur": "Ismaïla Traoré (maître maçon)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_temple-du-ciel": {
+  "ville": "Pékin",
+  "pays": "Chine",
+  "date": "1406-1420",
+  "auteur": "Empereur Yongle (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-prague": {
+  "ville": "Prague",
+  "pays": "Tchéquie",
+  "date": "vers 880",
+  "auteur": "Bořivoj Ier (fondateur)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-du-potala": {
+  "ville": "Lhassa",
+  "pays": "Chine (Tibet)",
+  "date": "1645-1694",
+  "auteur": "5e dalaï-lama (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_burj-al-arab": {
+  "ville": "Dubaï",
+  "pays": "Émirats arabes unis",
+  "date": "1994-1999",
+  "auteur": "Tom Wright (Atkins)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_kinkaku-ji": {
+  "ville": "Kyoto",
+  "pays": "Japon",
+  "date": "1397 (reconstruit en 1955)",
+  "auteur": "Ashikaga Yoshimitsu (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_cathedrale-saint-basile-le-bienheureux-de-moscou": {
+  "ville": "Moscou",
+  "pays": "Russie",
+  "date": "1555-1561",
+  "auteur": "Postnik Iakovlev · Ivan le Terrible (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_alcazar-de-seville": {
+  "ville": "Séville",
+  "pays": "Espagne",
+  "date": "1364",
+  "auteur": "Pierre Ier de Castille (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Palais mudéjar de Pierre Ier retenu, partie la plus célèbre de l'Alcazar."
+ },
+ "monuments-emblematiques_pont-de-brooklyn": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1869-1883",
+  "auteur": "John Augustus Roebling · Washington Roebling",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_arc-de-triomphe": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1806-1836",
+  "auteur": "Jean-François Chalgrin",
+  "confiance": "tranchee",
+  "note": "Arc de triomphe de l'Étoile retenu, le plus connu que le nom évoque."
+ },
+ "monuments-emblematiques_basilique-du-sacre-c-ur-de-montmartre": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1875-1914",
+  "auteur": "Paul Abadie",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_pyramide-du-louvre": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1985-1989",
+  "auteur": "Ieoh Ming Pei",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-des-papes-d-avignon": {
+  "ville": "Avignon",
+  "pays": "France",
+  "date": "1335-1352",
+  "auteur": "Benoît XII · Clément VI (commanditaires)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-chenonceau": {
+  "ville": "Chenonceaux",
+  "pays": "France",
+  "date": "1513-1521",
+  "auteur": "Thomas Bohier (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_pont-du-gard": {
+  "ville": "Vers-Pont-du-Gard",
+  "pays": "France",
+  "date": "milieu du Ier siècle apr. J.-C.",
+  "auteur": "Anonyme (ingénieurs romains)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tower-bridge": {
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "date": "1886-1894",
+  "auteur": "Horace Jones · John Wolfe Barry",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tour-de-londres": {
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "date": "à partir de 1078",
+  "auteur": "Guillaume le Conquérant (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_abbaye-de-westminster": {
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "date": "à partir de 1245",
+  "auteur": "Henri III (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_mosquee-cathedrale-de-cordoue": {
+  "ville": "Cordoue",
+  "pays": "Espagne",
+  "date": "785-987",
+  "auteur": "Abd al-Rahman Ier (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tour-de-belem": {
+  "ville": "Lisbonne",
+  "pays": "Portugal",
+  "date": "1514-1519",
+  "auteur": "Francisco de Arruda · Manuel Ier (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_cathedrale-santa-maria-del-fiore": {
+  "ville": "Florence",
+  "pays": "Italie",
+  "date": "1296-1436",
+  "auteur": "Arnolfo di Cambio · Filippo Brunelleschi (coupole)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_basilique-saint-marc-de-venise": {
+  "ville": "Venise",
+  "pays": "Italie",
+  "date": "1063-1094",
+  "auteur": "Doge Domenico Contarini (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Édifice actuel du XIe siècle retenu, sous le doge Contarini."
+ },
+ "monuments-emblematiques_fontaine-de-trevi": {
+  "ville": "Rome",
+  "pays": "Italie",
+  "date": "1732-1762",
+  "auteur": "Nicola Salvi",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_cathedrale-notre-dame-de-chartres": {
+  "ville": "Chartres",
+  "pays": "France",
+  "date": "1194-1220",
+  "auteur": "Anonyme",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_atomium": {
+  "ville": "Bruxelles",
+  "pays": "Belgique",
+  "date": "1956-1958",
+  "auteur": "André Waterkeyn · André et Jean Polak",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_grand-place-de-bruxelles": {
+  "ville": "Bruxelles",
+  "pays": "Belgique",
+  "date": "XVe siècle-XVIIe siècle",
+  "auteur": "Jan van Ruysbroeck (tour de l'hôtel de ville)",
+  "confiance": "tranchee",
+  "note": "Hôtel de ville et maisons rebâties après 1695 couverts ; Ruysbroeck, seul auteur connu du monument phare."
+ },
+ "monuments-emblematiques_chateau-de-schonbrunn": {
+  "ville": "Vienne",
+  "pays": "Autriche",
+  "date": "1696-1763",
+  "auteur": "Johann Bernhard Fischer von Erlach · Nikolaus Pacassi",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_musee-guggenheim-bilbao": {
+  "ville": "Bilbao",
+  "pays": "Espagne",
+  "date": "1993-1997",
+  "auteur": "Frank Gehry",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-d-hiver": {
+  "ville": "Saint-Pétersbourg",
+  "pays": "Russie",
+  "date": "1754-1762",
+  "auteur": "Bartolomeo Rastrelli",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_mur-de-berlin": {
+  "ville": "Berlin",
+  "pays": "Allemagne",
+  "date": "1961",
+  "auteur": "République démocratique allemande (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-bran": {
+  "ville": "Bran (près de Brașov)",
+  "pays": "Roumanie",
+  "date": "1377-1388",
+  "auteur": "Saxons de Brașov (bâtisseurs)",
+  "confiance": "tranchee",
+  "note": "Château de pierre de 1377-1388 retenu, date usuelle."
+ },
+ "monuments-emblematiques_palais-du-parlement-bucarest": {
+  "ville": "Bucarest",
+  "pays": "Roumanie",
+  "date": "1984-1997",
+  "auteur": "Anca Petrescu · Nicolae Ceaușescu (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_dome-du-rocher": {
+  "ville": "Jérusalem",
+  "pays": "Israël · Palestine (statut disputé)",
+  "date": "688-692",
+  "auteur": "Abd al-Malik (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Pays formulé de façon neutre ; construction datée usuellement de 688 à 692."
+ },
+ "monuments-emblematiques_mosquee-al-haram": {
+  "ville": "La Mecque",
+  "pays": "Arabie saoudite",
+  "date": "VIIe siècle (agrandie jusqu'au XXIe siècle)",
+  "auteur": "Anonyme",
+  "confiance": "tranchee",
+  "note": "Origine au VIIe siècle retenue, avec mention des agrandissements continus."
+ },
+ "monuments-emblematiques_krak-des-chevaliers": {
+  "ville": "Al-Hosn (près de Homs)",
+  "pays": "Syrie",
+  "date": "1142-1271",
+  "auteur": "Chevaliers hospitaliers",
+  "confiance": "tranchee",
+  "note": "Période hospitalière retenue, qui donne au château l'essentiel de sa forme."
+ },
+ "monuments-emblematiques_mosquee-hassan-ii": {
+  "ville": "Casablanca",
+  "pays": "Maroc",
+  "date": "1986-1993",
+  "auteur": "Michel Pinseau",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_temple-de-borobudur": {
+  "ville": "Magelang (Java central)",
+  "pays": "Indonésie",
+  "date": "VIIIe siècle-IXe siècle",
+  "auteur": "Dynastie Sailendra (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_harmandir-sahib": {
+  "ville": "Amritsar",
+  "pays": "Inde",
+  "date": "1589-1604",
+  "auteur": "Guru Arjan",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_pagode-shwedagon": {
+  "ville": "Rangoun",
+  "pays": "Birmanie",
+  "date": "entre le VIe siècle et le Xe siècle",
+  "auteur": "Anonyme",
+  "confiance": "tranchee",
+  "note": "Datation historique retenue plutôt que la tradition des 2 500 ans."
+ },
+ "monuments-emblematiques_grand-bouddha-de-leshan": {
+  "ville": "Leshan",
+  "pays": "Chine",
+  "date": "713-803",
+  "auteur": "Haitong (moine)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tours-petronas": {
+  "ville": "Kuala Lumpur",
+  "pays": "Malaisie",
+  "date": "1993-1998",
+  "auteur": "César Pelli",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_taipei-101": {
+  "ville": "Taipei",
+  "pays": "Taïwan",
+  "date": "1999-2004",
+  "auteur": "C. Y. Lee",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_maison-blanche": {
+  "ville": "Washington",
+  "pays": "États-Unis",
+  "date": "1792-1800",
+  "auteur": "James Hoban",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chrysler-building": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1928-1930",
+  "auteur": "William Van Alen",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_lincoln-memorial": {
+  "ville": "Washington",
+  "pays": "États-Unis",
+  "date": "1914-1922",
+  "auteur": "Henry Bacon · Daniel Chester French (statue)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_panneau-hollywood": {
+  "ville": "Los Angeles",
+  "pays": "États-Unis",
+  "date": "1923",
+  "auteur": "Harry Chandler (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Chandler retenu comme principal promoteur du lotissement Hollywoodland ; érigé en 1923."
+ },
+ "monuments-emblematiques_capitole-des-etats-unis": {
+  "ville": "Washington",
+  "pays": "États-Unis",
+  "date": "1793-1800 (dôme 1855-1866)",
+  "auteur": "William Thornton",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_eglises-rupestres-de-lalibela": {
+  "ville": "Lalibela",
+  "pays": "Éthiopie",
+  "date": "fin du XIIe siècle-début du XIIIe siècle",
+  "auteur": "Gebre Mesqel Lalibela (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_harbour-bridge": {
+  "ville": "Sydney",
+  "pays": "Australie",
+  "date": "1923-1932",
+  "auteur": "John Bradfield",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_villa-savoye": {
+  "ville": "Poissy",
+  "pays": "France",
+  "date": "1928-1931",
+  "auteur": "Le Corbusier · Pierre Jeanneret",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_maison-sur-la-cascade": {
+  "ville": "Mill Run (Pennsylvanie)",
+  "pays": "États-Unis",
+  "date": "1936-1939",
+  "auteur": "Frank Lloyd Wright",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_musee-solomon-r-guggenheim": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1956-1959",
+  "auteur": "Frank Lloyd Wright",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_cite-radieuse-de-marseille": {
+  "ville": "Marseille",
+  "pays": "France",
+  "date": "1947-1952",
+  "auteur": "Le Corbusier",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_ellora": {
+  "ville": "Ellorâ (près d'Aurangâbâd)",
+  "pays": "Inde",
+  "date": "VIe siècle-Xe siècle",
+  "auteur": "Anonyme",
+  "confiance": "tranchee",
+  "note": "Ensemble des grottes d'Ellorâ retenu, datées usuellement du VIe au Xe siècle."
+ },
+ "monuments-emblematiques_hampi": {
+  "ville": "Hampi",
+  "pays": "Inde",
+  "date": "XIVe siècle-XVIe siècle",
+  "auteur": "Empire de Vijayanagara",
+  "confiance": "tranchee",
+  "note": "Ruines de Vijayanagara retenues, capitale de l'empire du XIVe au XVIe siècle."
+ },
+ "monuments-emblematiques_fatehpur-sikri": {
+  "ville": "Fatehpur-Sikri",
+  "pays": "Inde",
+  "date": "1571-1585",
+  "auteur": "Akbar (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Datation usuelle 1571-1585, de la fondation par Akbar à l'abandon."
+ },
+ "monuments-emblematiques_wat-arun": {
+  "ville": "Bangkok",
+  "pays": "Thaïlande",
+  "date": "XIXe siècle",
+  "auteur": "Rama II · Rama III (commanditaires)",
+  "confiance": "tranchee",
+  "note": "Grand prang bâti sous Rama II et Rama III retenu, partie emblématique du temple."
+ },
+ "monuments-emblematiques_grande-mosquee-de-kairouan": {
+  "ville": "Kairouan",
+  "pays": "Tunisie",
+  "date": "670 (reconstruite en 836)",
+  "auteur": "Oqba Ibn Nafi (fondateur)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_stade-olympique-de-berlin": {
+  "ville": "Berlin",
+  "pays": "Allemagne",
+  "date": "1934-1936",
+  "auteur": "Werner March",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_seagram-building": {
+  "ville": "New York",
+  "pays": "États-Unis",
+  "date": "1954-1958",
+  "auteur": "Ludwig Mies van der Rohe · Philip Johnson",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_opera-garnier": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1861-1875",
+  "auteur": "Charles Garnier",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_pantheon-paris": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1758-1790",
+  "auteur": "Jacques-Germain Soufflot",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_hotel-des-invalides": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "1671-1706",
+  "auteur": "Libéral Bruant · Jules Hardouin-Mansart",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_palais-du-louvre": {
+  "ville": "Paris",
+  "pays": "France",
+  "date": "à partir de 1190",
+  "auteur": "Philippe Auguste (fondateur)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_pont-charles": {
+  "ville": "Prague",
+  "pays": "Tchéquie",
+  "date": "1357-1402",
+  "auteur": "Peter Parler · Charles IV (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_ponte-vecchio": {
+  "ville": "Florence",
+  "pays": "Italie",
+  "date": "1345",
+  "auteur": "Neri di Fioravanti (attribué)",
+  "confiance": "tranchee",
+  "note": "Neri di Fioravanti retenu, Vasari citant aussi Taddeo Gaddi."
+ },
+ "monuments-emblematiques_palais-des-doges": {
+  "ville": "Venise",
+  "pays": "Italie",
+  "date": "1340-1424",
+  "auteur": "Filippo Calendario (attribué)",
+  "confiance": "tranchee",
+  "note": "Palais gothique du XIVe siècle retenu ; Calendario, nom le plus souvent cité."
+ },
+ "monuments-emblematiques_dome-de-milan": {
+  "ville": "Milan",
+  "pays": "Italie",
+  "date": "1386-1965",
+  "auteur": "Gian Galeazzo Visconti (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_chateau-de-windsor": {
+  "ville": "Windsor",
+  "pays": "Royaume-Uni",
+  "date": "vers 1070",
+  "auteur": "Guillaume le Conquérant (commanditaire)",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_place-rouge": {
+  "ville": "Moscou",
+  "pays": "Russie",
+  "date": "fin du XVe siècle",
+  "auteur": "Ivan III (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Aménagement de la place au dégagement des abords du Kremlin sous Ivan III retenu."
+ },
+ "monuments-emblematiques_barrage-hoover": {
+  "ville": "Près de Boulder City (Nevada)",
+  "pays": "États-Unis",
+  "date": "1931-1936",
+  "auteur": "John L. Savage · Gordon Kaufmann",
+  "confiance": "tranchee",
+  "note": "Ingénieur concepteur et architecte retenus ; le barrage est à la frontière Nevada-Arizona."
+ },
+ "monuments-emblematiques_gateway-arch": {
+  "ville": "Saint-Louis (Missouri)",
+  "pays": "États-Unis",
+  "date": "1963-1965",
+  "auteur": "Eero Saarinen",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_space-needle": {
+  "ville": "Seattle",
+  "pays": "États-Unis",
+  "date": "1961-1962",
+  "auteur": "John Graham Jr. · Edward E. Carlson",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_marina-bay-sands": {
+  "ville": "Singapour",
+  "pays": "Singapour",
+  "date": "2007-2010",
+  "auteur": "Moshe Safdie",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_tokyo-skytree": {
+  "ville": "Tokyo",
+  "pays": "Japon",
+  "date": "2008-2012",
+  "auteur": "Nikken Sekkei",
+  "confiance": "sure"
+ },
+ "monuments-emblematiques_itsukushima-jinja": {
+  "ville": "Hatsukaichi (île de Miyajima)",
+  "pays": "Japon",
+  "date": "1168 (torii actuel : 1875)",
+  "auteur": "Taira no Kiyomori (commanditaire)",
+  "confiance": "tranchee",
+  "note": "Sanctuaire de 1168 et torii actuel de 1875 donnés, la carte mêlant les deux."
+ },
+ "monuments-emblematiques_todai-ji": {
+  "ville": "Nara",
+  "pays": "Japon",
+  "date": "745-752",
+  "auteur": "Empereur Shōmu (commanditaire)",
+  "confiance": "sure"
+ }
+}

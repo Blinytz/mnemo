@@ -1,0 +1,1393 @@
+{
+ "scientifiques-celebres_archimede": {
+  "dates": "vers 287-212 av. J.-C.",
+  "nationalite": "Grec (Syracuse)",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Poussée d'Archimède",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_euclide": {
+  "dates": "vers 300 av. J.-C.",
+  "nationalite": "Grec (Alexandrie)",
+  "domaine": "Mathématiques",
+  "decouverte": "Les Éléments (géométrie euclidienne)",
+  "confiance": "tranchee",
+  "note": "Dates de vie inconnues : on retient l'époque d'activité usuelle, vers 300 av. J.-C."
+ },
+ "scientifiques-celebres_pythagore": {
+  "dates": "vers 580-495 av. J.-C.",
+  "nationalite": "Grec (Samos)",
+  "domaine": "Mathématiques · Philosophie",
+  "decouverte": "Théorème de Pythagore",
+  "confiance": "tranchee",
+  "note": "Dates traditionnelles retenues (vers 580-495 av. J.-C.) ; le théorème porte son nom, c'est la réponse attendue en quiz."
+ },
+ "scientifiques-celebres_hippocrate": {
+  "dates": "vers 460-370 av. J.-C.",
+  "nationalite": "Grec (Kos)",
+  "domaine": "Médecine",
+  "decouverte": "Père de la médecine (serment d'Hippocrate)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_claude-ptolemee": {
+  "dates": "vers 100-168",
+  "nationalite": "Grec (Alexandrie)",
+  "domaine": "Astronomie · Géographie",
+  "decouverte": "Système géocentrique (Almageste)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_al-khwarizmi": {
+  "dates": "vers 780-850",
+  "nationalite": "Persan",
+  "domaine": "Mathématiques · Astronomie",
+  "decouverte": "Algèbre (origine du mot algorithme)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_avicenne": {
+  "dates": "980-1037",
+  "nationalite": "Persan",
+  "domaine": "Médecine · Philosophie",
+  "decouverte": "Canon de la médecine",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alhazen": {
+  "dates": "vers 965-1040",
+  "nationalite": "Arabe (Bassora)",
+  "domaine": "Physique · Mathématiques",
+  "decouverte": "Fondateur de l'optique moderne (Traité d'optique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_nicolas-copernic": {
+  "dates": "1473-1543",
+  "nationalite": "Polonais",
+  "domaine": "Astronomie",
+  "decouverte": "Héliocentrisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_galilee-savant": {
+  "dates": "1564-1642",
+  "nationalite": "Italien",
+  "domaine": "Physique · Astronomie",
+  "decouverte": "Lunette astronomique · défense de l'héliocentrisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_johannes-kepler": {
+  "dates": "1571-1630",
+  "nationalite": "Allemand",
+  "domaine": "Astronomie",
+  "decouverte": "Lois du mouvement des planètes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_francis-bacon-philosophe": {
+  "dates": "1561-1626",
+  "nationalite": "Anglais",
+  "domaine": "Philosophie",
+  "decouverte": "Méthode expérimentale (empirisme)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_blaise-pascal": {
+  "dates": "1623-1662",
+  "nationalite": "Français",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Pression atmosphérique · Pascaline (machine à calculer)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_isaac-newton": {
+  "dates": "1642-1727",
+  "nationalite": "Anglais",
+  "domaine": "Physique · Mathématiques",
+  "decouverte": "Gravitation universelle",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_gottfried-wilhelm-leibniz": {
+  "dates": "1646-1716",
+  "nationalite": "Allemand",
+  "domaine": "Mathématiques · Philosophie",
+  "decouverte": "Calcul infinitésimal · système binaire",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_robert-hooke": {
+  "dates": "1635-1703",
+  "nationalite": "Anglais",
+  "domaine": "Physique · Biologie",
+  "decouverte": "Loi de Hooke (élasticité) · mot « cellule »",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_antoni-van-leeuwenhoek": {
+  "dates": "1632-1723",
+  "nationalite": "Néerlandais",
+  "domaine": "Biologie",
+  "decouverte": "Découverte des micro-organismes (microscopes à lentille unique)",
+  "confiance": "tranchee",
+  "note": "Il n'a pas inventé le microscope : l'apport retenu est la découverte des micro-organismes avec ses propres microscopes."
+ },
+ "scientifiques-celebres_carl-von-linne": {
+  "dates": "1707-1778",
+  "nationalite": "Suédois",
+  "domaine": "Botanique · Biologie",
+  "decouverte": "Nomenclature binominale (classification du vivant)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_benjamin-franklin": {
+  "dates": "1706-1790",
+  "nationalite": "Américain",
+  "domaine": "Physique · Politique",
+  "decouverte": "Paratonnerre (nature électrique de la foudre)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_antoine-lavoisier": {
+  "dates": "1743-1794",
+  "nationalite": "Français",
+  "domaine": "Chimie",
+  "decouverte": "Conservation de la masse · rôle de l'oxygène",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alessandro-volta": {
+  "dates": "1745-1827",
+  "nationalite": "Italien",
+  "domaine": "Physique",
+  "decouverte": "Pile électrique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_andre-marie-ampere": {
+  "dates": "1775-1836",
+  "nationalite": "Français",
+  "domaine": "Physique · Mathématiques",
+  "decouverte": "Électrodynamique (courant électrique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_michael-faraday": {
+  "dates": "1791-1867",
+  "nationalite": "Britannique",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Induction électromagnétique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_charles-darwin": {
+  "dates": "1809-1882",
+  "nationalite": "Britannique",
+  "domaine": "Biologie",
+  "decouverte": "Évolution par sélection naturelle",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_gregor-mendel": {
+  "dates": "1822-1884",
+  "nationalite": "Autrichien (Moravie)",
+  "domaine": "Biologie",
+  "decouverte": "Lois de l'hérédité (génétique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_louis-pasteur": {
+  "dates": "1822-1895",
+  "nationalite": "Français",
+  "domaine": "Biologie · Chimie",
+  "decouverte": "Vaccin contre la rage · pasteurisation",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_claude-bernard": {
+  "dates": "1813-1878",
+  "nationalite": "Français",
+  "domaine": "Médecine · Physiologie",
+  "decouverte": "Médecine expérimentale · milieu intérieur",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_james-clerk-maxwell": {
+  "dates": "1831-1879",
+  "nationalite": "Britannique (écossais)",
+  "domaine": "Physique",
+  "decouverte": "Équations de l'électromagnétisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_dmitri-mendeleiev": {
+  "dates": "1834-1907",
+  "nationalite": "Russe",
+  "domaine": "Chimie",
+  "decouverte": "Tableau périodique des éléments",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_wilhelm-rontgen": {
+  "dates": "1845-1923",
+  "nationalite": "Allemand",
+  "domaine": "Physique",
+  "decouverte": "Rayons X",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_marie-curie": {
+  "dates": "1867-1934",
+  "nationalite": "Polonaise et française",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Radioactivité · polonium et radium",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_pierre-curie": {
+  "dates": "1859-1906",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Radioactivité (avec Marie Curie) · piézoélectricité",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_max-planck": {
+  "dates": "1858-1947",
+  "nationalite": "Allemand",
+  "domaine": "Physique",
+  "decouverte": "Quanta (constante de Planck)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_albert-einstein": {
+  "dates": "1879-1955",
+  "nationalite": "Allemand, suisse et américain",
+  "domaine": "Physique",
+  "decouverte": "Théorie de la relativité",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_niels-bohr": {
+  "dates": "1885-1962",
+  "nationalite": "Danois",
+  "domaine": "Physique",
+  "decouverte": "Modèle atomique de Bohr",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ernest-rutherford": {
+  "dates": "1871-1937",
+  "nationalite": "Néo-zélandais et britannique",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Noyau atomique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_werner-heisenberg": {
+  "dates": "1901-1976",
+  "nationalite": "Allemand",
+  "domaine": "Physique",
+  "decouverte": "Principe d'incertitude",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_erwin-schrodinger": {
+  "dates": "1887-1961",
+  "nationalite": "Autrichien",
+  "domaine": "Physique",
+  "decouverte": "Équation de Schrödinger",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_paul-dirac": {
+  "dates": "1902-1984",
+  "nationalite": "Britannique",
+  "domaine": "Physique",
+  "decouverte": "Équation de Dirac · prédiction de l'antimatière",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_enrico-fermi": {
+  "dates": "1901-1954",
+  "nationalite": "Italien et américain",
+  "domaine": "Physique",
+  "decouverte": "Première pile atomique (réaction en chaîne)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_robert-oppenheimer": {
+  "dates": "1904-1967",
+  "nationalite": "Américain",
+  "domaine": "Physique",
+  "decouverte": "Direction scientifique du projet Manhattan (bombe atomique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_richard-feynman": {
+  "dates": "1918-1988",
+  "nationalite": "Américain",
+  "domaine": "Physique",
+  "decouverte": "Électrodynamique quantique (diagrammes de Feynman)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_stephen-hawking": {
+  "dates": "1942-2018",
+  "nationalite": "Britannique",
+  "domaine": "Physique · Cosmologie",
+  "decouverte": "Rayonnement des trous noirs (rayonnement de Hawking)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alan-turing": {
+  "dates": "1912-1954",
+  "nationalite": "Britannique",
+  "domaine": "Mathématiques · Informatique",
+  "decouverte": "Machine de Turing · décryptage d'Enigma",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_john-von-neumann": {
+  "dates": "1903-1957",
+  "nationalite": "Hongrois et américain",
+  "domaine": "Mathématiques · Informatique",
+  "decouverte": "Architecture de von Neumann · théorie des jeux",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ada-lovelace": {
+  "dates": "1815-1852",
+  "nationalite": "Britannique",
+  "domaine": "Mathématiques · Informatique",
+  "decouverte": "Premier programme informatique (machine analytique de Babbage)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_sigmund-freud": {
+  "dates": "1856-1939",
+  "nationalite": "Autrichien",
+  "domaine": "Psychanalyse · Médecine",
+  "decouverte": "Psychanalyse (inconscient)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_carl-gustav-jung": {
+  "dates": "1875-1961",
+  "nationalite": "Suisse",
+  "domaine": "Psychiatrie · Psychologie",
+  "decouverte": "Inconscient collectif · archétypes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ivan-pavlov": {
+  "dates": "1849-1936",
+  "nationalite": "Russe",
+  "domaine": "Physiologie",
+  "decouverte": "Réflexe conditionnel",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jean-piaget": {
+  "dates": "1896-1980",
+  "nationalite": "Suisse",
+  "domaine": "Psychologie",
+  "decouverte": "Stades du développement de l'enfant",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alexander-fleming": {
+  "dates": "1881-1955",
+  "nationalite": "Britannique (écossais)",
+  "domaine": "Biologie · Médecine",
+  "decouverte": "Pénicilline",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_robert-koch": {
+  "dates": "1843-1910",
+  "nationalite": "Allemand",
+  "domaine": "Médecine · Microbiologie",
+  "decouverte": "Bacille de la tuberculose",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_edward-jenner": {
+  "dates": "1749-1823",
+  "nationalite": "Anglais",
+  "domaine": "Médecine",
+  "decouverte": "Vaccin contre la variole",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_florence-nightingale": {
+  "dates": "1820-1910",
+  "nationalite": "Britannique",
+  "domaine": "Soins infirmiers · Statistiques",
+  "decouverte": "Fondatrice des soins infirmiers modernes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_rosalind-franklin": {
+  "dates": "1920-1958",
+  "nationalite": "Britannique",
+  "domaine": "Chimie · Biologie",
+  "decouverte": "Cliché 51 : structure de l'ADN par diffraction des rayons X",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_james-dewey-watson": {
+  "dates": "1928-2025",
+  "nationalite": "Américain",
+  "domaine": "Biologie",
+  "decouverte": "Structure en double hélice de l'ADN (avec Francis Crick)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_francis-crick": {
+  "dates": "1916-2004",
+  "nationalite": "Britannique",
+  "domaine": "Biologie",
+  "decouverte": "Structure en double hélice de l'ADN (avec James Watson)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_barbara-mcclintock": {
+  "dates": "1902-1992",
+  "nationalite": "Américaine",
+  "domaine": "Biologie (génétique)",
+  "decouverte": "Éléments transposables (gènes sauteurs)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jane-goodall": {
+  "dates": "1934-2025",
+  "nationalite": "Britannique",
+  "domaine": "Primatologie · Éthologie",
+  "decouverte": "Étude des chimpanzés sauvages (Gombe)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_rachel-carson": {
+  "dates": "1907-1964",
+  "nationalite": "Américaine",
+  "domaine": "Biologie · Écologie",
+  "decouverte": "Printemps silencieux (dangers des pesticides)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_carl-sagan": {
+  "dates": "1934-1996",
+  "nationalite": "Américain",
+  "domaine": "Astronomie",
+  "decouverte": "Vulgarisation scientifique (Cosmos) · exobiologie",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_edwin-hubble": {
+  "dates": "1889-1953",
+  "nationalite": "Américain",
+  "domaine": "Astronomie",
+  "decouverte": "Expansion de l'Univers (loi de Hubble)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_stephen-jay-gould": {
+  "dates": "1941-2002",
+  "nationalite": "Américain",
+  "domaine": "Paléontologie · Biologie",
+  "decouverte": "Équilibres ponctués (avec Niles Eldredge)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_linus-pauling": {
+  "dates": "1901-1994",
+  "nationalite": "Américain",
+  "domaine": "Chimie",
+  "decouverte": "Nature de la liaison chimique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_katherine-johnson": {
+  "dates": "1918-2020",
+  "nationalite": "Américaine",
+  "domaine": "Mathématiques",
+  "decouverte": "Calculs de trajectoires spatiales pour la NASA",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_grace-hopper": {
+  "dates": "1906-1992",
+  "nationalite": "Américaine",
+  "domaine": "Informatique",
+  "decouverte": "Premier compilateur · langage COBOL",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_leon-foucault": {
+  "dates": "1819-1868",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Pendule de Foucault (rotation de la Terre)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_antoine-becquerel": {
+  "nom": "Henri Becquerel",
+  "dates": "1852-1908",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Radioactivité (1896)",
+  "confiance": "tranchee",
+  "note": "La photo de la carte montre Henri (Antoine Henri) Becquerel ; seul le lien Wikipédia visait son grand-père. Fiche alignée sur la photo."
+ },
+ "scientifiques-celebres_irene-joliot-curie": {
+  "dates": "1897-1956",
+  "nationalite": "Française",
+  "domaine": "Chimie · Physique",
+  "decouverte": "Radioactivité artificielle (avec Frédéric Joliot)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_lise-meitner": {
+  "dates": "1878-1968",
+  "nationalite": "Autrichienne et suédoise",
+  "domaine": "Physique",
+  "decouverte": "Fission nucléaire (avec Otto Hahn)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_emmy-noether": {
+  "dates": "1882-1935",
+  "nationalite": "Allemande",
+  "domaine": "Mathématiques",
+  "decouverte": "Théorème de Noether · algèbre abstraite",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_srinivasa-ramanujan": {
+  "dates": "1887-1920",
+  "nationalite": "Indien",
+  "domaine": "Mathématiques",
+  "decouverte": "Théorie des nombres (partitions, séries infinies)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alan-guth": {
+  "dates": "né en 1947",
+  "nationalite": "Américain",
+  "domaine": "Physique · Cosmologie",
+  "decouverte": "Inflation cosmique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_peter-higgs": {
+  "dates": "1929-2024",
+  "nationalite": "Britannique",
+  "domaine": "Physique",
+  "decouverte": "Boson de Higgs",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_roger-penrose": {
+  "dates": "né en 1931",
+  "nationalite": "Britannique",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Théorèmes des singularités (trous noirs)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_kip-thorne": {
+  "dates": "né en 1940",
+  "nationalite": "Américain",
+  "domaine": "Physique",
+  "decouverte": "Détection des ondes gravitationnelles (LIGO)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jocelyn-bell": {
+  "dates": "née en 1943",
+  "nationalite": "Britannique (nord-irlandaise)",
+  "domaine": "Astrophysique",
+  "decouverte": "Découverte des pulsars",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_vera-rubin": {
+  "dates": "1928-2016",
+  "nationalite": "Américaine",
+  "domaine": "Astronomie",
+  "decouverte": "Matière noire (rotation des galaxies)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_katalin-kariko": {
+  "dates": "née en 1955",
+  "nationalite": "Hongroise et américaine",
+  "domaine": "Biochimie",
+  "decouverte": "ARN messager des vaccins (avec Drew Weissman)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jennifer-doudna": {
+  "dates": "née en 1964",
+  "nationalite": "Américaine",
+  "domaine": "Biochimie",
+  "decouverte": "Ciseaux génétiques CRISPR-Cas9 (avec Emmanuelle Charpentier)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_emmanuelle-charpentier": {
+  "dates": "née en 1968",
+  "nationalite": "Française",
+  "domaine": "Microbiologie · Génétique",
+  "decouverte": "Ciseaux génétiques CRISPR-Cas9 (avec Jennifer Doudna)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_tu-youyou": {
+  "dates": "née en 1930",
+  "nationalite": "Chinoise",
+  "domaine": "Pharmacologie · Médecine",
+  "decouverte": "Artémisinine contre le paludisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_chien-shiung-wu": {
+  "dates": "1912-1997",
+  "nationalite": "Chinoise et américaine",
+  "domaine": "Physique",
+  "decouverte": "Violation de la parité (expérience de Wu)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_subrahmanyan-chandrasekhar": {
+  "dates": "1910-1995",
+  "nationalite": "Indien et américain",
+  "domaine": "Astrophysique",
+  "decouverte": "Limite de Chandrasekhar (naines blanches)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_abdus-salam": {
+  "dates": "1926-1996",
+  "nationalite": "Pakistanais",
+  "domaine": "Physique",
+  "decouverte": "Unification électrofaible",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_chandrashekhara-venkata-raman": {
+  "dates": "1888-1970",
+  "nationalite": "Indien",
+  "domaine": "Physique",
+  "decouverte": "Effet Raman (diffusion de la lumière)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_har-gobind-khorana": {
+  "dates": "1922-2011",
+  "nationalite": "Indien et américain",
+  "domaine": "Biochimie",
+  "decouverte": "Déchiffrement du code génétique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_al-biruni": {
+  "dates": "973-1048",
+  "nationalite": "Persan",
+  "domaine": "Astronomie · Mathématiques",
+  "decouverte": "Mesure du rayon de la Terre",
+  "confiance": "tranchee",
+  "note": "Dates usuelles 973-1048 conservées ; la mesure du rayon de la Terre est son apport le plus cité."
+ },
+ "scientifiques-celebres_al-jazari": {
+  "dates": "vers 1136-1206",
+  "nationalite": "Mésopotamien (Djézireh)",
+  "domaine": "Ingénierie · Mécanique",
+  "decouverte": "Automates et machines hydrauliques",
+  "confiance": "tranchee",
+  "note": "Naissance inconnue : « vers 1136 » usuel conservé avec 1206 (achèvement de son traité) ; origine rendue par sa région, la Djézireh."
+ },
+ "scientifiques-celebres_zhang-heng": {
+  "dates": "78-139",
+  "nationalite": "Chinois",
+  "domaine": "Astronomie · Ingénierie",
+  "decouverte": "Premier sismoscope",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_shen-kuo": {
+  "dates": "1031-1095",
+  "nationalite": "Chinois",
+  "domaine": "Sciences naturelles · Astronomie",
+  "decouverte": "Boussole magnétique (déclinaison magnétique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ada-yonath": {
+  "dates": "née en 1939",
+  "nationalite": "Israélienne",
+  "domaine": "Cristallographie · Biologie",
+  "decouverte": "Structure du ribosome",
+  "confiance": "tranchee",
+  "note": "Décès signalé par Wikidata seul, sans confirmation dans l'article : on garde « née en 1939 »."
+ },
+ "scientifiques-celebres_dorothy-crowfoot-hodgkin": {
+  "dates": "1910-1994",
+  "nationalite": "Britannique",
+  "domaine": "Chimie · Cristallographie",
+  "decouverte": "Structure de la pénicilline et de la vitamine B12",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_rita-levi-montalcini": {
+  "dates": "1909-2012",
+  "nationalite": "Italienne",
+  "domaine": "Neurobiologie",
+  "decouverte": "Facteur de croissance des nerfs (NGF)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_barbara-liskov": {
+  "dates": "née en 1939",
+  "nationalite": "Américaine",
+  "domaine": "Informatique",
+  "decouverte": "Principe de substitution de Liskov · abstraction de données",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_leonardo-fibonacci": {
+  "dates": "vers 1170-1250",
+  "nationalite": "Italien (Pise)",
+  "domaine": "Mathématiques",
+  "decouverte": "Suite de Fibonacci · chiffres indo-arabes en Occident",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_pierre-de-fermat": {
+  "dates": "vers 1607-1665",
+  "nationalite": "Français",
+  "domaine": "Mathématiques",
+  "decouverte": "Dernier théorème de Fermat",
+  "confiance": "tranchee",
+  "note": "Naissance entre 1601 et 1607 ; « vers 1607 » suit les recherches récentes, la mort en 1665 est sûre."
+ },
+ "scientifiques-celebres_leonhard-euler": {
+  "dates": "1707-1783",
+  "nationalite": "Suisse",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Identité d'Euler · théorie des graphes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_carl-friedrich-gauss": {
+  "dates": "1777-1855",
+  "nationalite": "Allemand",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Loi normale (courbe de Gauss)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_pierre-simon-de-laplace": {
+  "dates": "1749-1827",
+  "nationalite": "Français",
+  "domaine": "Mathématiques · Astronomie",
+  "decouverte": "Mécanique céleste · déterminisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_joseph-louis-lagrange": {
+  "dates": "1736-1813",
+  "nationalite": "Italien et français",
+  "domaine": "Mathématiques · Mécanique",
+  "decouverte": "Mécanique analytique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_joseph-fourier": {
+  "dates": "1768-1830",
+  "nationalite": "Français",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Séries de Fourier (propagation de la chaleur)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_evariste-galois": {
+  "dates": "1811-1832",
+  "nationalite": "Français",
+  "domaine": "Mathématiques",
+  "decouverte": "Théorie de Galois (groupes)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_bernhard-riemann": {
+  "dates": "1826-1866",
+  "nationalite": "Allemand",
+  "domaine": "Mathématiques",
+  "decouverte": "Hypothèse de Riemann · géométrie riemannienne",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_georg-cantor": {
+  "dates": "1845-1918",
+  "nationalite": "Allemand",
+  "domaine": "Mathématiques",
+  "decouverte": "Théorie des ensembles (infinis)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_henri-poincare": {
+  "dates": "1854-1912",
+  "nationalite": "Français",
+  "domaine": "Mathématiques · Physique",
+  "decouverte": "Conjecture de Poincaré · théorie du chaos",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_david-hilbert": {
+  "dates": "1862-1943",
+  "nationalite": "Allemand",
+  "domaine": "Mathématiques",
+  "decouverte": "Les 23 problèmes de Hilbert",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_kurt-godel": {
+  "dates": "1906-1978",
+  "nationalite": "Autrichien et américain",
+  "domaine": "Logique · Mathématiques",
+  "decouverte": "Théorèmes d'incomplétude",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_john-forbes-nash": {
+  "dates": "1928-2015",
+  "nationalite": "Américain",
+  "domaine": "Mathématiques · Économie",
+  "decouverte": "Équilibre de Nash (théorie des jeux)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alexandre-grothendieck": {
+  "dates": "1928-2014",
+  "nationalite": "Français (apatride jusqu'en 1971)",
+  "domaine": "Mathématiques",
+  "decouverte": "Refondation de la géométrie algébrique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_grigori-perelman": {
+  "dates": "né en 1966",
+  "nationalite": "Russe",
+  "domaine": "Mathématiques",
+  "decouverte": "Démonstration de la conjecture de Poincaré",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_tycho-brahe": {
+  "dates": "1546-1601",
+  "nationalite": "Danois",
+  "domaine": "Astronomie",
+  "decouverte": "Observations astronomiques précises (supernova de 1572)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_christian-huygens": {
+  "dates": "1629-1695",
+  "nationalite": "Néerlandais",
+  "domaine": "Physique · Astronomie",
+  "decouverte": "Horloge à pendule · anneaux de Saturne",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_edmond-halley": {
+  "dates": "1656-1742",
+  "nationalite": "Anglais",
+  "domaine": "Astronomie",
+  "decouverte": "Retour périodique de la comète de Halley",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_william-herschel": {
+  "dates": "1738-1822",
+  "nationalite": "Britannique d'origine allemande",
+  "domaine": "Astronomie",
+  "decouverte": "Découverte d'Uranus",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_caroline-herschel": {
+  "dates": "1750-1848",
+  "nationalite": "Britannique d'origine allemande",
+  "domaine": "Astronomie",
+  "decouverte": "Découverte de comètes (première astronome professionnelle)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_georges-lemaitre": {
+  "dates": "1894-1966",
+  "nationalite": "Belge",
+  "domaine": "Astronomie · Cosmologie",
+  "decouverte": "Théorie du Big Bang (atome primitif)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_arthur-eddington": {
+  "dates": "1882-1944",
+  "nationalite": "Britannique",
+  "domaine": "Astrophysique",
+  "decouverte": "Confirmation de la relativité générale (éclipse de 1919)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_henrietta-swan-leavitt": {
+  "dates": "1868-1921",
+  "nationalite": "Américaine",
+  "domaine": "Astronomie",
+  "decouverte": "Relation période-luminosité des céphéides",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_fred-hoyle": {
+  "dates": "1915-2001",
+  "nationalite": "Britannique",
+  "domaine": "Astrophysique",
+  "decouverte": "Nucléosynthèse stellaire · auteur du terme « Big Bang »",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_robert-boyle": {
+  "dates": "1627-1691",
+  "nationalite": "Anglo-irlandais",
+  "domaine": "Chimie · Physique",
+  "decouverte": "Loi de Boyle-Mariotte",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_emilie-du-chatelet": {
+  "dates": "1706-1749",
+  "nationalite": "Française",
+  "domaine": "Physique · Mathématiques",
+  "decouverte": "Traduction commentée des Principia de Newton",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_john-dalton": {
+  "dates": "1766-1844",
+  "nationalite": "Britannique",
+  "domaine": "Chimie · Physique",
+  "decouverte": "Théorie atomique · daltonisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_amedeo-avogadro": {
+  "dates": "1776-1856",
+  "nationalite": "Italien",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Loi d'Avogadro (nombre d'Avogadro)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_james-prescott-joule": {
+  "dates": "1818-1889",
+  "nationalite": "Britannique",
+  "domaine": "Physique",
+  "decouverte": "Équivalence travail-chaleur (énergie)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_william-thomson-lord-kelvin": {
+  "dates": "1824-1907",
+  "nationalite": "Britannique",
+  "domaine": "Physique",
+  "decouverte": "Échelle de température absolue (kelvin)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ludwig-boltzmann": {
+  "dates": "1844-1906",
+  "nationalite": "Autrichien",
+  "domaine": "Physique",
+  "decouverte": "Physique statistique (entropie)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_heinrich-hertz": {
+  "dates": "1857-1894",
+  "nationalite": "Allemand",
+  "domaine": "Physique",
+  "decouverte": "Ondes électromagnétiques (ondes hertziennes)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_friedrich-kekule-von-stradonitz": {
+  "dates": "1829-1896",
+  "nationalite": "Allemand",
+  "domaine": "Chimie",
+  "decouverte": "Structure cyclique du benzène",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_svante-august-arrhenius": {
+  "dates": "1859-1927",
+  "nationalite": "Suédois",
+  "domaine": "Chimie",
+  "decouverte": "Dissociation ionique · effet de serre du CO2",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_fritz-haber": {
+  "dates": "1868-1934",
+  "nationalite": "Allemand",
+  "domaine": "Chimie",
+  "decouverte": "Synthèse de l'ammoniac (procédé Haber)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_louis-de-broglie": {
+  "dates": "1892-1987",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Dualité onde-corpuscule de la matière",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_wolfgang-pauli": {
+  "dates": "1900-1958",
+  "nationalite": "Autrichien puis suisse",
+  "domaine": "Physique",
+  "decouverte": "Principe d'exclusion de Pauli",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_max-born": {
+  "dates": "1882-1970",
+  "nationalite": "Allemand et britannique",
+  "domaine": "Physique",
+  "decouverte": "Interprétation probabiliste de la fonction d'onde",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_murray-gell-mann": {
+  "dates": "1929-2019",
+  "nationalite": "Américain",
+  "domaine": "Physique",
+  "decouverte": "Quarks",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_andrei-sakharov": {
+  "dates": "1921-1989",
+  "nationalite": "Soviétique",
+  "domaine": "Physique",
+  "decouverte": "Bombe H soviétique · défense des droits de l'homme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_andre-vesale": {
+  "dates": "1514-1564",
+  "nationalite": "Flamand",
+  "domaine": "Médecine (anatomie)",
+  "decouverte": "Anatomie moderne (De humani corporis fabrica)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ambroise-pare": {
+  "dates": "vers 1510-1590",
+  "nationalite": "Français",
+  "domaine": "Médecine (chirurgie)",
+  "decouverte": "Ligature des artères",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_william-harvey": {
+  "dates": "1578-1657",
+  "nationalite": "Anglais",
+  "domaine": "Médecine · Physiologie",
+  "decouverte": "Circulation sanguine",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jean-baptiste-de-lamarck": {
+  "dates": "1744-1829",
+  "nationalite": "Français",
+  "domaine": "Biologie",
+  "decouverte": "Transformisme (hérédité des caractères acquis)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_georges-cuvier": {
+  "dates": "1769-1832",
+  "nationalite": "Français",
+  "domaine": "Paléontologie · Anatomie comparée",
+  "decouverte": "Fondateur de la paléontologie · extinction des espèces",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alfred-russel-wallace": {
+  "dates": "1823-1913",
+  "nationalite": "Britannique",
+  "domaine": "Biologie · Géographie",
+  "decouverte": "Sélection naturelle (en même temps que Darwin)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ignace-philippe-semmelweis": {
+  "dates": "1818-1865",
+  "nationalite": "Hongrois",
+  "domaine": "Médecine",
+  "decouverte": "Lavage des mains contre la fièvre puerpérale",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_paul-ehrlich": {
+  "dates": "1854-1915",
+  "nationalite": "Allemand",
+  "domaine": "Médecine · Immunologie",
+  "decouverte": "Chimiothérapie (Salvarsan contre la syphilis)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jonas-salk": {
+  "dates": "1914-1995",
+  "nationalite": "Américain",
+  "domaine": "Médecine · Virologie",
+  "decouverte": "Vaccin contre la poliomyélite",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_frederick-banting": {
+  "dates": "1891-1941",
+  "nationalite": "Canadien",
+  "domaine": "Médecine",
+  "decouverte": "Découverte de l'insuline",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_frederick-sanger": {
+  "dates": "1918-2013",
+  "nationalite": "Britannique",
+  "domaine": "Biochimie",
+  "decouverte": "Séquençage des protéines et de l'ADN",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_lynn-margulis": {
+  "dates": "1938-2011",
+  "nationalite": "Américaine",
+  "domaine": "Biologie",
+  "decouverte": "Théorie endosymbiotique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_richard-dawkins": {
+  "dates": "né en 1941",
+  "nationalite": "Britannique",
+  "domaine": "Biologie · Éthologie",
+  "decouverte": "Le Gène égoïste",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_edward-osborne-wilson": {
+  "dates": "1929-2021",
+  "nationalite": "Américain",
+  "domaine": "Biologie · Entomologie",
+  "decouverte": "Sociobiologie · biodiversité",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_alfred-wegener": {
+  "dates": "1880-1930",
+  "nationalite": "Allemand",
+  "domaine": "Géophysique · Météorologie",
+  "decouverte": "Dérive des continents",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_james-hutton": {
+  "dates": "1726-1797",
+  "nationalite": "Écossais",
+  "domaine": "Géologie",
+  "decouverte": "Père de la géologie moderne (temps profond)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_charles-lyell-geologue": {
+  "dates": "1797-1875",
+  "nationalite": "Britannique (écossais)",
+  "domaine": "Géologie",
+  "decouverte": "Principes de géologie (uniformitarisme)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_marie-tharp": {
+  "dates": "1920-2006",
+  "nationalite": "Américaine",
+  "domaine": "Géologie · Océanographie",
+  "decouverte": "Cartographie des fonds océaniques (dorsale médio-atlantique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_claude-shannon": {
+  "dates": "1916-2001",
+  "nationalite": "Américain",
+  "domaine": "Mathématiques · Informatique",
+  "decouverte": "Théorie de l'information",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_norbert-wiener": {
+  "dates": "1894-1964",
+  "nationalite": "Américain",
+  "domaine": "Mathématiques",
+  "decouverte": "Cybernétique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_donald-knuth": {
+  "dates": "né en 1938",
+  "nationalite": "Américain",
+  "domaine": "Informatique",
+  "decouverte": "The Art of Computer Programming · TeX",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_vint-cerf": {
+  "dates": "né en 1943",
+  "nationalite": "Américain",
+  "domaine": "Informatique",
+  "decouverte": "Protocole TCP/IP (avec Bob Kahn)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_adam-smith": {
+  "dates": "1723-1790",
+  "nationalite": "Écossais",
+  "domaine": "Économie · Philosophie",
+  "decouverte": "La Richesse des nations (main invisible)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_john-maynard-keynes": {
+  "dates": "1883-1946",
+  "nationalite": "Britannique",
+  "domaine": "Économie",
+  "decouverte": "Théorie générale (keynésianisme)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_david-ricardo": {
+  "dates": "1772-1823",
+  "nationalite": "Britannique",
+  "domaine": "Économie",
+  "decouverte": "Avantages comparatifs",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ferdinand-de-saussure": {
+  "dates": "1857-1913",
+  "nationalite": "Suisse",
+  "domaine": "Linguistique",
+  "decouverte": "Linguistique structurale (signifiant et signifié)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_noam-chomsky": {
+  "dates": "né en 1928",
+  "nationalite": "Américain",
+  "domaine": "Linguistique",
+  "decouverte": "Grammaire générative",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jean-francois-champollion": {
+  "dates": "1790-1832",
+  "nationalite": "Français",
+  "domaine": "Égyptologie",
+  "decouverte": "Déchiffrement des hiéroglyphes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_emile-durkheim": {
+  "dates": "1858-1917",
+  "nationalite": "Français",
+  "domaine": "Sociologie",
+  "decouverte": "Fondateur de la sociologie (Le Suicide)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_max-weber": {
+  "dates": "1864-1920",
+  "nationalite": "Allemand",
+  "domaine": "Sociologie · Économie",
+  "decouverte": "L'Éthique protestante et l'esprit du capitalisme",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_pierre-bourdieu": {
+  "dates": "1930-2002",
+  "nationalite": "Français",
+  "domaine": "Sociologie",
+  "decouverte": "Capital culturel · habitus",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_claude-levi-strauss": {
+  "dates": "1908-2009",
+  "nationalite": "Français",
+  "domaine": "Anthropologie",
+  "decouverte": "Anthropologie structurale",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_franz-boas": {
+  "dates": "1858-1942",
+  "nationalite": "Américain d'origine allemande",
+  "domaine": "Anthropologie",
+  "decouverte": "Relativisme culturel (père de l'anthropologie américaine)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_bronis-aw-malinowski": {
+  "dates": "1884-1942",
+  "nationalite": "Polonais et britannique",
+  "domaine": "Anthropologie",
+  "decouverte": "Observation participante (îles Trobriand)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_margaret-mead": {
+  "dates": "1901-1978",
+  "nationalite": "Américaine",
+  "domaine": "Anthropologie",
+  "decouverte": "Études sur Samoa (culture et rôles sexuels)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_eratosthene": {
+  "dates": "vers 276-194 av. J.-C.",
+  "nationalite": "Grec (Cyrène)",
+  "domaine": "Mathématiques · Géographie",
+  "decouverte": "Mesure de la circonférence de la Terre",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_averroes": {
+  "dates": "1126-1198",
+  "nationalite": "Andalou",
+  "domaine": "Philosophie · Médecine",
+  "decouverte": "Commentaires d'Aristote",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_aryabhata": {
+  "dates": "476-vers 550",
+  "nationalite": "Indien",
+  "domaine": "Astronomie · Mathématiques",
+  "decouverte": "Āryabhaṭīya (rotation de la Terre, valeur de pi)",
+  "confiance": "tranchee",
+  "note": "Naissance en 476 connue par son œuvre, mort « vers 550 » par convention ; apport résumé par son traité et ses deux résultats les plus cités."
+ },
+ "scientifiques-celebres_brahmagupta": {
+  "dates": "598-vers 670",
+  "nationalite": "Indien",
+  "domaine": "Mathématiques · Astronomie",
+  "decouverte": "Règles de calcul avec le zéro",
+  "confiance": "tranchee",
+  "note": "Naissance 598 retenue, mort « vers 670 » usuel ; les règles de calcul avec le zéro sont son apport le plus attendu."
+ },
+ "scientifiques-celebres_nasir-al-din-al-tusi": {
+  "dates": "1201-1274",
+  "nationalite": "Persan",
+  "domaine": "Astronomie · Mathématiques",
+  "decouverte": "Couple de Tusi · observatoire de Maragha",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_mary-anning": {
+  "dates": "1799-1847",
+  "nationalite": "Britannique",
+  "domaine": "Paléontologie",
+  "decouverte": "Fossiles d'ichtyosaures et du premier plésiosaure",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_georges-louis-leclerc-de-buffon": {
+  "dates": "1707-1788",
+  "nationalite": "Français",
+  "domaine": "Histoire naturelle",
+  "decouverte": "Histoire naturelle (encyclopédie)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_charles-augustin-coulomb": {
+  "dates": "1736-1806",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Loi de Coulomb (force électrostatique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_sadi-carnot-physicien": {
+  "dates": "1796-1832",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Principe de Carnot (thermodynamique)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_louis-joseph-gay-lussac": {
+  "dates": "1778-1850",
+  "nationalite": "Français",
+  "domaine": "Chimie · Physique",
+  "decouverte": "Lois des gaz",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_augustin-fresnel": {
+  "dates": "1788-1827",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Théorie ondulatoire de la lumière · lentille de Fresnel",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jean-perrin": {
+  "dates": "1870-1942",
+  "nationalite": "Français",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Preuve expérimentale de l'existence des atomes",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_paul-langevin": {
+  "dates": "1872-1946",
+  "nationalite": "Français",
+  "domaine": "Physique",
+  "decouverte": "Sonar à ultrasons · paradoxe des jumeaux",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_jacques-monod": {
+  "dates": "1910-1976",
+  "nationalite": "Français",
+  "domaine": "Biologie",
+  "decouverte": "Régulation des gènes (opéron lactose)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_theodore-monod": {
+  "dates": "1902-2000",
+  "nationalite": "Français",
+  "domaine": "Naturalisme · Exploration",
+  "decouverte": "Exploration scientifique du Sahara",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_hubert-reeves": {
+  "dates": "1932-2023",
+  "nationalite": "Canadien (québécois)",
+  "domaine": "Astrophysique",
+  "decouverte": "Vulgarisation de l'astrophysique",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_claude-galien": {
+  "dates": "129-vers 216",
+  "nationalite": "Grec (Pergame)",
+  "domaine": "Médecine",
+  "decouverte": "Médecine antique (théorie des humeurs)",
+  "confiance": "tranchee",
+  "note": "Mort située entre 201 et 216 : on garde « vers 216 », la date la plus répandue."
+ },
+ "scientifiques-celebres_hans-christian-rsted": {
+  "dates": "1777-1851",
+  "nationalite": "Danois",
+  "domaine": "Physique · Chimie",
+  "decouverte": "Effet d'un courant électrique sur une boussole (électromagnétisme)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_georg-ohm": {
+  "dates": "1789-1854",
+  "nationalite": "Allemand",
+  "domaine": "Physique",
+  "decouverte": "Loi d'Ohm",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_henry-cavendish": {
+  "dates": "1731-1810",
+  "nationalite": "Britannique",
+  "domaine": "Chimie · Physique",
+  "decouverte": "Découverte de l'hydrogène · mesure de la densité de la Terre",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_joseph-priestley": {
+  "dates": "1733-1804",
+  "nationalite": "Anglais",
+  "domaine": "Chimie",
+  "decouverte": "Découverte de l'oxygène",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_joseph-lister": {
+  "dates": "1827-1912",
+  "nationalite": "Britannique",
+  "domaine": "Médecine (chirurgie)",
+  "decouverte": "Antisepsie en chirurgie",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_santiago-ramon-y-cajal": {
+  "dates": "1852-1934",
+  "nationalite": "Espagnol",
+  "domaine": "Neurosciences · Médecine",
+  "decouverte": "Théorie du neurone",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_thomas-hunt-morgan": {
+  "dates": "1866-1945",
+  "nationalite": "Américain",
+  "domaine": "Biologie (génétique)",
+  "decouverte": "Rôle des chromosomes dans l'hérédité (drosophile)",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_ernst-haeckel": {
+  "dates": "1834-1919",
+  "nationalite": "Allemand",
+  "domaine": "Biologie",
+  "decouverte": "Invention du mot « écologie » · arbres phylogénétiques",
+  "confiance": "sure"
+ },
+ "scientifiques-celebres_dian-fossey": {
+  "dates": "1932-1985",
+  "nationalite": "Américaine",
+  "domaine": "Primatologie",
+  "decouverte": "Étude des gorilles des montagnes",
+  "confiance": "sure"
+ }
+}
