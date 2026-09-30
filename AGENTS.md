@@ -22,6 +22,22 @@ distantes.
 - Scripts de construction et de contrôle : `build/`.
 - Données éditoriales complémentaires : `data/`.
 
+## Refonte en cours (depuis le 30/09/2026)
+
+- Maquette validée par le propriétaire : `maquette.html` (en ligne).
+- Nouvelle application dans `app/`, à côté de l'ancienne, qui reste
+  l'application officielle jusqu'à la bascule. Détails : `app/LISEZMOI.md`.
+- Elle lit des données propres : `data/catalogue.json` et `data/listes/<id>.json`,
+  produites depuis `memo.html` par `node build/exporter_donnees.mjs`. **À relancer
+  après toute modification des listes ou des images** (lot WikiDeck, Atelier),
+  sinon la nouvelle application ne voit pas le changement.
+- Décisions du propriétaire, à ne pas rediscuter : les Éclats ne viennent que du
+  quiz du jour (20 questions, barème 0 à 9 : 0 · 10 à 12 : 10 · 13 à 15 : 25 ·
+  16 ou 17 : 45 · 18 ou 19 : 75 · 20 : 120) ; les révisions n'en rapportent pas ;
+  pas de propositions, les réponses sont tapées ; le verdict peut toujours être
+  renversé par l'utilisateur.
+- Tests : `node --test app/tests/`.
+
 ## Lancement local
 
 Servir la racine du projet avec un serveur HTTP local. Configuration historique :

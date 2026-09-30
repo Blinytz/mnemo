@@ -1,0 +1,1709 @@
+{
+ "note": "Fichier produit par build/exporter_donnees.mjs à partir de memo.html : ne pas modifier à la main.",
+ "categories": [
+  {
+   "id": "histoire",
+   "nom": "Histoire",
+   "icone": "🏛️"
+  },
+  {
+   "id": "geographie",
+   "nom": "Géographie",
+   "icone": "🗺️"
+  },
+  {
+   "id": "arts-culture",
+   "nom": "Arts & culture",
+   "icone": "🎭"
+  },
+  {
+   "id": "sciences-nature",
+   "nom": "Sciences & nature",
+   "icone": "🔬"
+  },
+  {
+   "id": "sports-loisirs",
+   "nom": "Sports & loisirs",
+   "icone": "🏅"
+  },
+  {
+   "id": "langues-vocabulaire",
+   "nom": "Langues & vocabulaire",
+   "icone": "🗣️"
+  },
+  {
+   "id": "mythologies",
+   "nom": "Mythologies",
+   "icone": "🐉"
+  },
+  {
+   "id": "gastronomie",
+   "nom": "Gastronomie",
+   "icone": "🧀"
+  },
+  {
+   "id": "mes-listes",
+   "nom": "Mes listes",
+   "icone": "📋"
+  }
+ ],
+ "listes": [
+  {
+   "id": "chefs_etat",
+   "nom": "Chefs d'État français (depuis 1792)",
+   "icone": "🏛️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Mandat",
+    "Régime"
+   ],
+   "cle": 0,
+   "fiches": 43,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/chefs_etat/1.webp",
+    "thumbs/chefs_etat/2.webp",
+    "thumbs/chefs_etat/3.webp"
+   ]
+  },
+  {
+   "id": "departements",
+   "nom": "Départements français",
+   "icone": "🇫🇷",
+   "categorie": "geographie",
+   "colonnes": [
+    "Nom",
+    "Préfecture"
+   ],
+   "cle": 0,
+   "fiches": 101,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/departements/1.webp",
+    "thumbs/departements/2.webp",
+    "thumbs/departements/3.webp"
+   ]
+  },
+  {
+   "id": "elements",
+   "nom": "Éléments chimiques",
+   "icone": "⚗️",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Élément",
+    "Symbole",
+    "Numéro atomique",
+    "Famille"
+   ],
+   "cle": 0,
+   "fiches": 118,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/elements/hydrogene.webp",
+    "thumbs/elements/helium.webp",
+    "thumbs/elements/lithium.webp"
+   ]
+  },
+  {
+   "id": "etats_usa",
+   "nom": "États américains",
+   "icone": "🇺🇸",
+   "categorie": "geographie",
+   "colonnes": [
+    "État",
+    "Capitale",
+    "Surnom",
+    "Année d’intégration"
+   ],
+   "cle": 0,
+   "fiches": 50,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/etats_usa/1.svg",
+    "thumbs/etats_usa/2.svg",
+    "thumbs/etats_usa/3.svg"
+   ]
+  },
+  {
+   "id": "mythologie",
+   "nom": "Mythologie grecque",
+   "icone": "⚡",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Type",
+    "Domaine",
+    "Symbole",
+    "Équivalent romain"
+   ],
+   "cle": 0,
+   "fiches": 112,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie/aphrodite.webp",
+    "thumbs/mythologie/apollon.webp",
+    "thumbs/mythologie/ares.webp"
+   ]
+  },
+  {
+   "id": "os",
+   "nom": "Os du corps humain",
+   "icone": "🦴",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Nom",
+    "Groupe",
+    "Côté",
+    "Nb total"
+   ],
+   "cle": 0,
+   "fiches": 122,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/os/1.webp",
+    "thumbs/os/2.webp",
+    "thumbs/os/3.webp"
+   ]
+  },
+  {
+   "id": "pays",
+   "nom": "Pays du monde",
+   "icone": "🌍",
+   "categorie": "geographie",
+   "colonnes": [
+    "Pays",
+    "Capitale",
+    "Continent"
+   ],
+   "cle": 0,
+   "fiches": 197,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/pays/1.svg",
+    "thumbs/pays/2.svg",
+    "thumbs/pays/3.svg"
+   ]
+  },
+  {
+   "id": "peintres",
+   "nom": "Grands peintres",
+   "icone": "🎨",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Nationalité",
+    "Mouvement",
+    "Œuvres majeures"
+   ],
+   "cle": 0,
+   "fiches": 176,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/peintres/cimabue.webp",
+    "thumbs/peintres/giotto-di-bondone.webp",
+    "thumbs/peintres/jan-van-eyck.webp"
+   ]
+  },
+  {
+   "id": "rois_france",
+   "nom": "Rois & Empereurs de France",
+   "icone": "👑",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Règne",
+    "Dynastie"
+   ],
+   "cle": 0,
+   "fiches": 67,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/rois_france/1.webp",
+    "thumbs/rois_france/2.webp",
+    "thumbs/rois_france/3.webp"
+   ]
+  },
+  {
+   "id": "coupes_monde",
+   "nom": "Coupes du monde de football",
+   "icone": "⚽",
+   "categorie": "sports-loisirs",
+   "colonnes": [
+    "Édition",
+    "Année",
+    "Pays organisateur",
+    "Vainqueur",
+    "Finale"
+   ],
+   "cle": 0,
+   "fiches": 23,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/coupes_monde/coupe-du-monde-de-football-1930.webp",
+    "thumbs/coupes_monde/coupe-du-monde-de-football-1934.webp",
+    "thumbs/coupes_monde/coupe-du-monde-de-football-1938.webp"
+   ]
+  },
+  {
+   "id": "xixe",
+   "nom": "XIXe siècle, Événements",
+   "icone": "📜",
+   "categorie": "histoire",
+   "colonnes": [
+    "Année",
+    "Événement 1",
+    "Événement 2",
+    "Événement 3"
+   ],
+   "cle": 0,
+   "fiches": 75,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/xixe/1.webp",
+    "thumbs/xixe/2.webp",
+    "thumbs/xixe/3.webp"
+   ]
+  },
+  {
+   "id": "xxe",
+   "nom": "XXe siècle, Événements",
+   "icone": "🌐",
+   "categorie": "histoire",
+   "colonnes": [
+    "Année",
+    "Événement 1",
+    "Événement 2",
+    "Événement 3"
+   ],
+   "cle": 0,
+   "fiches": 97,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/xxe/1.webp",
+    "thumbs/xxe/2.webp",
+    "thumbs/xxe/3.webp"
+   ]
+  },
+  {
+   "id": "litterature",
+   "nom": "Œuvres littéraires",
+   "icone": "📚",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Titre",
+    "Auteur",
+    "Année",
+    "Pays",
+    "Genre"
+   ],
+   "cle": 0,
+   "fiches": 74,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/litterature/epopee-de-gilgamesh.webp",
+    "thumbs/litterature/iliade.webp",
+    "thumbs/litterature/mahabharata.webp"
+   ]
+  },
+  {
+   "id": "guerres",
+   "nom": "Grandes guerres",
+   "icone": "⚔️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Conflit",
+    "Dates",
+    "Belligérants",
+    "Issue"
+   ],
+   "cle": 0,
+   "fiches": 72,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/guerres/guerres-mediques.webp",
+    "thumbs/guerres/guerre-du-peloponnese.webp",
+    "thumbs/guerres/guerres-puniques.webp"
+   ]
+  },
+  {
+   "id": "philosophes",
+   "nom": "Philosophes",
+   "icone": "🏛️",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Courant",
+    "Concepts clés",
+    "Œuvres principales"
+   ],
+   "cle": 0,
+   "fiches": 101,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/philosophes/thales.webp",
+    "thumbs/philosophes/anaximandre.webp",
+    "thumbs/philosophes/lao-tseu.webp"
+   ]
+  },
+  {
+   "id": "mouvements_peinture",
+   "nom": "Mouvements picturaux",
+   "icone": "🖼️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Mouvement",
+    "Époque",
+    "Caractéristiques",
+    "Artistes majeurs"
+   ],
+   "cle": 0,
+   "fiches": 41,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/mouvements_peinture/1.webp",
+    "thumbs/mouvements_peinture/2.webp",
+    "thumbs/mouvements_peinture/3.webp"
+   ]
+  },
+  {
+   "id": "jo_ete",
+   "nom": "Jeux olympiques d'été",
+   "icone": "🏅",
+   "categorie": "sports-loisirs",
+   "colonnes": [
+    "Édition",
+    "Année",
+    "Ville",
+    "Pays",
+    "Fait marquant"
+   ],
+   "cle": 0,
+   "fiches": 30,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/jo_ete/jeux-olympiques-de-1896.webp",
+    "thumbs/jo_ete/jeux-olympiques-de-1900.webp",
+    "thumbs/jo_ete/jeux-olympiques-de-1904.webp"
+   ]
+  },
+  {
+   "id": "jo_hiver",
+   "nom": "Jeux olympiques d'hiver",
+   "icone": "⛷️",
+   "categorie": "sports-loisirs",
+   "colonnes": [
+    "Édition",
+    "Année",
+    "Ville",
+    "Pays",
+    "Fait marquant"
+   ],
+   "cle": 0,
+   "fiches": 25,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1924.webp",
+    "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1928.webp",
+    "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1932.webp"
+   ]
+  },
+  {
+   "id": "f1_champions",
+   "nom": "Champions du monde de F1",
+   "icone": "🏎️",
+   "categorie": "sports-loisirs",
+   "colonnes": [
+    "Pilote",
+    "Nationalité",
+    "Titres",
+    "Écurie"
+   ],
+   "cle": 0,
+   "fiches": 35,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/f1_champions/giuseppe-farina.webp",
+    "thumbs/f1_champions/juan-manuel-fangio.webp",
+    "thumbs/f1_champions/alberto-ascari.webp"
+   ]
+  },
+  {
+   "id": "consoles",
+   "nom": "Consoles de jeux vidéo",
+   "icone": "🎮",
+   "categorie": "sports-loisirs",
+   "colonnes": [
+    "Année",
+    "Console",
+    "Entreprise",
+    "Génération"
+   ],
+   "cle": 1,
+   "fiches": 43,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/consoles/1.webp",
+    "thumbs/consoles/2.webp",
+    "thumbs/consoles/3.webp"
+   ]
+  },
+  {
+   "id": "lunes",
+   "nom": "Lunes du système solaire",
+   "icone": "🌙",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Lune",
+    "Planète",
+    "Distance (km)",
+    "Découverte"
+   ],
+   "cle": 0,
+   "fiches": 56,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/lunes/1.webp",
+    "thumbs/lunes/2.webp",
+    "thumbs/lunes/3.webp"
+   ]
+  },
+  {
+   "id": "periodes_geologiques",
+   "nom": "Périodes géologiques",
+   "icone": "🪨",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Éon",
+    "Ère",
+    "Période",
+    "Début (Ma)",
+    "Fin (Ma)",
+    "Événements clés"
+   ],
+   "cle": 2,
+   "fiches": 31,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/periodes_geologiques/1.svg",
+    "thumbs/periodes_geologiques/2.svg",
+    "thumbs/periodes_geologiques/3.svg"
+   ]
+  },
+  {
+   "id": "films",
+   "nom": "Films majeurs par année",
+   "icone": "🎬",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Année",
+    "Titre",
+    "Réalisateur",
+    "Acteurs principaux"
+   ],
+   "cle": 1,
+   "fiches": 390,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/films/1.webp",
+    "thumbs/films/2.webp",
+    "thumbs/films/3.webp"
+   ]
+  },
+  {
+   "id": "civilisations",
+   "nom": "Empires et civilisations",
+   "icone": "🏺",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Période",
+    "Capitale",
+    "Aire géographique"
+   ],
+   "cle": 0,
+   "fiches": 87,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/civilisations/sumer.webp",
+    "thumbs/civilisations/ancien-empire.webp",
+    "thumbs/civilisations/civilisation-minoenne.webp"
+   ]
+  },
+  {
+   "id": "vocabulaire_precis",
+   "nom": "Vocabulaire français de précision",
+   "icone": "📖",
+   "categorie": "langues-vocabulaire",
+   "colonnes": [
+    "Mot",
+    "Définition",
+    "Domaine",
+    "Exemple"
+   ],
+   "cle": 0,
+   "fiches": 40,
+   "images": false,
+   "wikideck": false,
+   "apercu": []
+  },
+  {
+   "id": "phrasal_verbs",
+   "nom": "Phrasal verbs anglais",
+   "icone": "🔗",
+   "categorie": "langues-vocabulaire",
+   "colonnes": [
+    "Phrasal verb",
+    "Sens en français",
+    "Construction",
+    "Exemple"
+   ],
+   "cle": 0,
+   "fiches": 126,
+   "images": false,
+   "wikideck": false,
+   "apercu": []
+  },
+  {
+   "id": "compositeurs",
+   "nom": "Grands compositeurs",
+   "icone": "🎼",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Nationalité",
+    "Période",
+    "Œuvres majeures"
+   ],
+   "cle": 0,
+   "fiches": 109,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/compositeurs/guillaume-de-machaut.webp",
+    "thumbs/compositeurs/josquin-des-pres.webp",
+    "thumbs/compositeurs/giovanni-pierluigi-da-palestrina.webp"
+   ]
+  },
+  {
+   "id": "constellations",
+   "nom": "Constellations",
+   "icone": "✨",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Constellation",
+    "Hémisphère",
+    "Étoile principale",
+    "Représente"
+   ],
+   "cle": 0,
+   "fiches": 88,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/constellations/aigle-constellation.webp",
+    "thumbs/constellations/andromede-constellation.webp",
+    "thumbs/constellations/autel-constellation.webp"
+   ]
+  },
+  {
+   "id": "grands_scientifiques",
+   "nom": "Scientifiques célèbres",
+   "icone": "🔭",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Nationalité",
+    "Domaine",
+    "Découverte majeure"
+   ],
+   "cle": 0,
+   "fiches": 197,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/grands_scientifiques/pythagore.webp",
+    "thumbs/grands_scientifiques/hippocrate.webp",
+    "thumbs/grands_scientifiques/euclide.webp"
+   ]
+  },
+  {
+   "id": "batailles_decisives",
+   "nom": "Grandes batailles",
+   "icone": "⚔️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Bataille",
+    "Date",
+    "Lieu",
+    "Guerre",
+    "Vainqueur"
+   ],
+   "cle": 0,
+   "fiches": 103,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/batailles_decisives/bataille-de-qadesh.webp",
+    "thumbs/batailles_decisives/bataille-de-marathon.webp",
+    "thumbs/batailles_decisives/bataille-de-salamine.webp"
+   ]
+  },
+  {
+   "id": "grandes_explorations",
+   "nom": "Grands explorateurs",
+   "icone": "🧭",
+   "categorie": "histoire",
+   "colonnes": [
+    "Explorateur",
+    "Nationalité",
+    "Date",
+    "Exploration"
+   ],
+   "cle": 0,
+   "fiches": 71,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/grandes_explorations/hannon-le-navigateur.webp",
+    "thumbs/grandes_explorations/pytheas.webp",
+    "thumbs/grandes_explorations/xuanzang.webp"
+   ]
+  },
+  {
+   "id": "revolutions",
+   "nom": "Révolutions et indépendances",
+   "icone": "✊",
+   "categorie": "histoire",
+   "colonnes": [
+    "Événement",
+    "Période",
+    "Lieu",
+    "Repère"
+   ],
+   "cle": 0,
+   "fiches": 30,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/revolutions/1.webp",
+    "thumbs/revolutions/2.webp",
+    "thumbs/revolutions/3.webp"
+   ]
+  },
+  {
+   "id": "montagnes_monde",
+   "nom": "Montagnes et volcans",
+   "icone": "🏔️",
+   "categorie": "geographie",
+   "colonnes": [
+    "Sommet",
+    "Altitude",
+    "Massif",
+    "Pays",
+    "Type"
+   ],
+   "cle": 0,
+   "fiches": 59,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/montagnes_monde/everest.webp",
+    "thumbs/montagnes_monde/k2.webp",
+    "thumbs/montagnes_monde/kangchenjunga.webp"
+   ]
+  },
+  {
+   "id": "detroits_monde",
+   "nom": "Détroits stratégiques",
+   "icone": "🗺️",
+   "categorie": "geographie",
+   "colonnes": [
+    "Détroit",
+    "Relie",
+    "Sépare",
+    "Repère"
+   ],
+   "cle": 0,
+   "fiches": 20,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/detroits_monde/1.webp",
+    "thumbs/detroits_monde/2.webp",
+    "thumbs/detroits_monde/3.webp"
+   ]
+  },
+  {
+   "id": "parcs_nationaux",
+   "nom": "Parcs nationaux emblématiques",
+   "icone": "🌲",
+   "categorie": "geographie",
+   "colonnes": [
+    "Parc",
+    "Pays",
+    "Création",
+    "Milieu"
+   ],
+   "cle": 0,
+   "fiches": 30,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/parcs_nationaux/1.webp",
+    "thumbs/parcs_nationaux/2.webp",
+    "thumbs/parcs_nationaux/3.webp"
+   ]
+  },
+  {
+   "id": "architectes_majeurs",
+   "nom": "Architectes majeurs",
+   "icone": "🏛️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Architecte",
+    "Période",
+    "Pays",
+    "Œuvre repère"
+   ],
+   "cle": 0,
+   "fiches": 30,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/architectes_majeurs/1.webp",
+    "thumbs/architectes_majeurs/2.webp",
+    "thumbs/architectes_majeurs/3.webp"
+   ]
+  },
+  {
+   "id": "musees_monde",
+   "nom": "Musées du monde",
+   "icone": "🖼️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Musée",
+    "Ville",
+    "Pays",
+    "Repère"
+   ],
+   "cle": 0,
+   "fiches": 25,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/musees_monde/1.webp",
+    "thumbs/musees_monde/2.webp",
+    "thumbs/musees_monde/3.webp"
+   ]
+  },
+  {
+   "id": "inventions_majeures",
+   "nom": "Inventions importantes",
+   "icone": "⚙️",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Invention",
+    "Inventeur",
+    "Date",
+    "Pays"
+   ],
+   "cle": 0,
+   "fiches": 166,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/inventions_majeures/domestication-du-feu.webp",
+    "thumbs/inventions_majeures/arc-architecture.webp",
+    "thumbs/inventions_majeures/poterie.webp"
+   ]
+  },
+  {
+   "id": "decouvertes_scientifiques",
+   "nom": "Découvertes scientifiques",
+   "icone": "🧬",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Découverte",
+    "Date",
+    "Domaine",
+    "Repère"
+   ],
+   "cle": 0,
+   "fiches": 24,
+   "images": true,
+   "wikideck": false,
+   "apercu": [
+    "thumbs/decouvertes_scientifiques/1.webp",
+    "thumbs/decouvertes_scientifiques/2.webp",
+    "thumbs/decouvertes_scientifiques/3.webp"
+   ]
+  },
+  {
+   "id": "tableaux_celebres",
+   "nom": "Tableaux célèbres",
+   "icone": "🖼️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Titre",
+    "Peintre",
+    "Date",
+    "Conservé à",
+    "Mouvement"
+   ],
+   "cle": 0,
+   "fiches": 137,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/tableaux_celebres/l-agneau-mystique.webp",
+    "thumbs/tableaux_celebres/les-epoux-arnolfini.webp",
+    "thumbs/tableaux_celebres/la-bataille-de-san-romano.webp"
+   ]
+  },
+  {
+   "id": "plats_francais",
+   "nom": "Plats français",
+   "icone": "🍲",
+   "categorie": "gastronomie",
+   "colonnes": [
+    "Plat",
+    "Région",
+    "Ingrédients",
+    "Type"
+   ],
+   "cle": 0,
+   "fiches": 92,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/plats_francais/baeckeoffe.webp",
+    "thumbs/plats_francais/choucroute-d-alsace.webp",
+    "thumbs/plats_francais/kougelhopf.webp"
+   ]
+  },
+  {
+   "id": "auteurs_classiques",
+   "nom": "Auteurs classiques",
+   "icone": "✒️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Nationalité",
+    "Mouvement",
+    "Œuvres majeures"
+   ],
+   "cle": 0,
+   "fiches": 151,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/auteurs_classiques/homere.webp",
+    "thumbs/auteurs_classiques/hesiode.webp",
+    "thumbs/auteurs_classiques/sappho.webp"
+   ]
+  },
+  {
+   "id": "iles",
+   "nom": "Îles",
+   "icone": "🏝️",
+   "categorie": "geographie",
+   "colonnes": [
+    "Île",
+    "Pays",
+    "Océan ou mer",
+    "Chef-lieu"
+   ],
+   "cle": 0,
+   "fiches": 67,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/iles/jersey.webp",
+    "thumbs/iles/socotra.webp",
+    "thumbs/iles/borneo.webp"
+   ]
+  },
+  {
+   "id": "fromages",
+   "nom": "Fromages",
+   "icone": "🧀",
+   "categorie": "gastronomie",
+   "colonnes": [
+    "Fromage",
+    "Région",
+    "Lait",
+    "Appellation"
+   ],
+   "cle": 0,
+   "fiches": 61,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/fromages/munster-fromage.webp",
+    "thumbs/fromages/stilton-fromage.webp",
+    "thumbs/fromages/cabrales.webp"
+   ]
+  },
+  {
+   "id": "oeuvres_musicales",
+   "nom": "Œuvres musicales",
+   "icone": "🎵",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Œuvre",
+    "Compositeur",
+    "Année",
+    "Genre"
+   ],
+   "cle": 0,
+   "fiches": 111,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/oeuvres_musicales/messe-de-notre-dame.webp",
+    "thumbs/oeuvres_musicales/messe-du-pape-marcel.webp",
+    "thumbs/oeuvres_musicales/l-orfeo.webp"
+   ]
+  },
+  {
+   "id": "sculptures_celebres",
+   "nom": "Sculptures célèbres",
+   "icone": "🗿",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Sculpture",
+    "Sculpteur",
+    "Date",
+    "Conservée à"
+   ],
+   "cle": 0,
+   "fiches": 51,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/sculptures_celebres/venus-de-willendorf.webp",
+    "thumbs/sculptures_celebres/masque-d-agamemnon.webp",
+    "thumbs/sculptures_celebres/buste-de-nefertiti.webp"
+   ]
+  },
+  {
+   "id": "souverains",
+   "nom": "Souverains et conquérants",
+   "icone": "👑",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Royaume ou empire",
+    "Au pouvoir",
+    "Fait marquant"
+   ],
+   "cle": 0,
+   "fiches": 118,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/souverains/kheops.webp",
+    "thumbs/souverains/sargon-d-akkad.webp",
+    "thumbs/souverains/hammurabi.webp"
+   ]
+  },
+  {
+   "id": "monuments",
+   "nom": "Monuments",
+   "icone": "🗼",
+   "categorie": "geographie",
+   "colonnes": [
+    "Monument",
+    "Ville",
+    "Pays",
+    "Date",
+    "Architecte ou commanditaire"
+   ],
+   "cle": 0,
+   "fiches": 107,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/monuments/cathedrale-de-cologne.webp",
+    "thumbs/monuments/chateau-de-neuschwanstein.webp",
+    "thumbs/monuments/mur-de-berlin.webp"
+   ]
+  },
+  {
+   "id": "villes",
+   "nom": "Villes du monde",
+   "icone": "🏙️",
+   "categorie": "geographie",
+   "colonnes": [
+    "Ville",
+    "Pays",
+    "Surnom ou monument"
+   ],
+   "cle": 0,
+   "fiches": 98,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/villes/johannesbourg.webp",
+    "thumbs/villes/le-cap.webp",
+    "thumbs/villes/alger.webp"
+   ]
+  },
+  {
+   "id": "langues",
+   "nom": "Langues du monde",
+   "icone": "🗣️",
+   "categorie": "langues-vocabulaire",
+   "colonnes": [
+    "Langue",
+    "Famille",
+    "Pays principaux",
+    "Écriture"
+   ],
+   "cle": 0,
+   "fiches": 91,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/langues/langues-berberes.webp",
+    "thumbs/langues/copte.webp",
+    "thumbs/langues/akkadien.webp"
+   ]
+  },
+  {
+   "id": "monnaies",
+   "nom": "Monnaies du monde",
+   "icone": "💱",
+   "categorie": "geographie",
+   "colonnes": [
+    "Monnaie",
+    "Pays",
+    "Symbole",
+    "Subdivision"
+   ],
+   "cle": 0,
+   "fiches": 81,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/monnaies/franc-cfa.webp",
+    "thumbs/monnaies/rand-monnaie.webp",
+    "thumbs/monnaies/dinar-algerien.webp"
+   ]
+  },
+  {
+   "id": "plats_monde",
+   "nom": "Plats du monde",
+   "icone": "🍜",
+   "categorie": "gastronomie",
+   "colonnes": [
+    "Plat",
+    "Pays",
+    "Ingrédients"
+   ],
+   "cle": 0,
+   "fiches": 118,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/plats_monde/bunny-chow.webp",
+    "thumbs/plats_monde/bretzel.webp",
+    "thumbs/plats_monde/foret-noire-gateau.webp"
+   ]
+  },
+  {
+   "id": "cepages",
+   "nom": "Cépages",
+   "icone": "🍇",
+   "categorie": "gastronomie",
+   "colonnes": [
+    "Cépage",
+    "Couleur",
+    "Région viticole",
+    "Vin emblématique"
+   ],
+   "cle": 0,
+   "fiches": 75,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/cepages/alvarinho.webp",
+    "thumbs/cepages/aligote.webp",
+    "thumbs/cepages/altesse-cepage.webp"
+   ]
+  },
+  {
+   "id": "figures_religieuses",
+   "nom": "Figures religieuses",
+   "icone": "🕊️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Religion",
+    "Époque",
+    "Rôle"
+   ],
+   "cle": 0,
+   "fiches": 74,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/figures_religieuses/noe-patriarche.webp",
+    "thumbs/figures_religieuses/abraham.webp",
+    "thumbs/figures_religieuses/moise.webp"
+   ]
+  },
+  {
+   "id": "conquete_spatiale",
+   "nom": "Conquête spatiale",
+   "icone": "🚀",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Mission ou engin",
+    "Date",
+    "Pays ou agence",
+    "Fait marquant"
+   ],
+   "cle": 0,
+   "fiches": 58,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/conquete_spatiale/v2-missile.webp",
+    "thumbs/conquete_spatiale/cap-canaveral.webp",
+    "thumbs/conquete_spatiale/cosmodrome-de-baikonour.webp"
+   ]
+  },
+  {
+   "id": "mythologie_egyptienne",
+   "nom": "Mythologie égyptienne",
+   "icone": "☥",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 41,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie_egyptienne/ammout.webp",
+    "thumbs/mythologie_egyptienne/amon.webp",
+    "thumbs/mythologie_egyptienne/anoukis.webp"
+   ]
+  },
+  {
+   "id": "mythologie_nordique",
+   "nom": "Mythologie nordique",
+   "icone": "🪓",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 49,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie_nordique/gir.webp",
+    "thumbs/mythologie_nordique/angrboda.webp",
+    "thumbs/mythologie_nordique/ask-et-embla.webp"
+   ]
+  },
+  {
+   "id": "mythologie_hindoue",
+   "nom": "Mythologie hindoue",
+   "icone": "🪷",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 53,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie_hindoue/agni-dieu.webp",
+    "thumbs/mythologie_hindoue/airavata.webp",
+    "thumbs/mythologie_hindoue/arjuna.webp"
+   ]
+  },
+  {
+   "id": "mythologie_celtique",
+   "nom": "Mythologie celtique",
+   "icone": "🍀",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 51,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie_celtique/oengus.webp",
+    "thumbs/mythologie_celtique/arawn.webp",
+    "thumbs/mythologie_celtique/bodb.webp"
+   ]
+  },
+  {
+   "id": "mythologies_asie_est",
+   "nom": "Mythologies d'Asie de l'Est",
+   "icone": "🐉",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 54,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_asie_est/amaterasu.webp",
+    "thumbs/mythologies_asie_est/benzaiten.webp",
+    "thumbs/mythologies_asie_est/chang-e.webp"
+   ]
+  },
+  {
+   "id": "mythologies_slaves",
+   "nom": "Mythologies slaves et baltes",
+   "icone": "🌲",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 35,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_slaves/alkonost.webp",
+    "thumbs/mythologies_slaves/baba-yaga.webp",
+    "thumbs/mythologies_slaves/bannik.webp"
+   ]
+  },
+  {
+   "id": "mythologies_africaines",
+   "nom": "Mythologies africaines",
+   "icone": "🥁",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 32,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_africaines/amma-divinite.webp",
+    "thumbs/mythologies_africaines/anansi.webp",
+    "thumbs/mythologies_africaines/anzar.webp"
+   ]
+  },
+  {
+   "id": "mythologies_mesoamericaines",
+   "nom": "Mythologies mésoaméricaines et andines",
+   "icone": "🐍",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 38,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_mesoamericaines/ah-puch.webp",
+    "thumbs/mythologies_mesoamericaines/aiapaec.webp",
+    "thumbs/mythologies_mesoamericaines/camazotz.webp"
+   ]
+  },
+  {
+   "id": "mythologies_proche_orient",
+   "nom": "Mythologies du Proche-Orient ancien",
+   "icone": "🏺",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 44,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_proche_orient/adad.webp",
+    "thumbs/mythologies_proche_orient/ahura-mazda.webp",
+    "thumbs/mythologies_proche_orient/anahita.webp"
+   ]
+  },
+  {
+   "id": "mythologies_oceanie_ameriques",
+   "nom": "Mythologies océaniennes et amérindiennes",
+   "icone": "🌊",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 34,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologies_oceanie_ameriques/amaru.webp",
+    "thumbs/mythologies_oceanie_ameriques/baiame.webp",
+    "thumbs/mythologies_oceanie_ameriques/coyote-mythologie.webp"
+   ]
+  },
+  {
+   "id": "mythologie_finnoise",
+   "nom": "Mythologie finnoise",
+   "icone": "🦢",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Nom",
+    "Rôle ou domaine",
+    "Attribut ou symbole",
+    "Parenté"
+   ],
+   "cle": 0,
+   "fiches": 18,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mythologie_finnoise/ahti-mythologie.webp",
+    "thumbs/mythologie_finnoise/hiisi.webp",
+    "thumbs/mythologie_finnoise/ilmarinen.webp"
+   ]
+  },
+  {
+   "id": "creatures_legendaires",
+   "nom": "Créatures légendaires",
+   "icone": "🦄",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Créature",
+    "Origine",
+    "Description"
+   ],
+   "cle": 0,
+   "fiches": 52,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/creatures_legendaires/basilic-mythologie.webp",
+    "thumbs/creatures_legendaires/behemoth.webp",
+    "thumbs/creatures_legendaires/bete-du-gevaudan.webp"
+   ]
+  },
+  {
+   "id": "lieux_legendaires",
+   "nom": "Lieux légendaires",
+   "icone": "🏰",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Lieu",
+    "Tradition ou œuvre",
+    "Description"
+   ],
+   "cle": 0,
+   "fiches": 40,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/lieux_legendaires/agartha.webp",
+    "thumbs/lieux_legendaires/apsu.webp",
+    "thumbs/lieux_legendaires/asgard-mythologie.webp"
+   ]
+  },
+  {
+   "id": "objets_mythiques",
+   "nom": "Objets mythiques",
+   "icone": "🗡️",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Objet",
+    "Tradition",
+    "Pouvoir ou rôle",
+    "Possesseur"
+   ],
+   "cle": 0,
+   "fiches": 37,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/objets_mythiques/ankh.webp",
+    "thumbs/objets_mythiques/anneau-de-gyges.webp",
+    "thumbs/objets_mythiques/arche-d-alliance.webp"
+   ]
+  },
+  {
+   "id": "evenements_mythiques",
+   "nom": "Événements mythiques",
+   "icone": "🌋",
+   "categorie": "mythologies",
+   "colonnes": [
+    "Événement",
+    "Tradition",
+    "Description"
+   ],
+   "cle": 0,
+   "fiches": 27,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/evenements_mythiques/armageddon.webp",
+    "thumbs/evenements_mythiques/barattage-de-la-mer-de-lait.webp",
+    "thumbs/evenements_mythiques/bataille-de-kurukshetra.webp"
+   ]
+  },
+  {
+   "id": "figures_emancipation",
+   "nom": "Figures de l'émancipation",
+   "icone": "✊",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Pays",
+    "Combat"
+   ],
+   "cle": 0,
+   "fiches": 76,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/figures_emancipation/spartacus.webp",
+    "thumbs/figures_emancipation/bartolome-de-las-casas.webp",
+    "thumbs/figures_emancipation/zumbi-dos-palmares.webp"
+   ]
+  },
+  {
+   "id": "figures_resistance",
+   "nom": "Figures de la Résistance",
+   "icone": "🕯️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Pays",
+    "Action"
+   ],
+   "cle": 0,
+   "fiches": 33,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/figures_resistance/marc-bloch.webp",
+    "thumbs/figures_resistance/berty-albrecht.webp",
+    "thumbs/figures_resistance/jean-moulin.webp"
+   ]
+  },
+  {
+   "id": "dirigeants_contemporains",
+   "nom": "Dirigeants contemporains",
+   "icone": "🎖️",
+   "categorie": "histoire",
+   "colonnes": [
+    "Nom",
+    "Pays",
+    "Fonction",
+    "Au pouvoir"
+   ],
+   "cle": 0,
+   "fiches": 83,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/dirigeants_contemporains/george-washington.webp",
+    "thumbs/dirigeants_contemporains/leopold-ii-empereur-du-saint-empire.webp",
+    "thumbs/dirigeants_contemporains/maximilien-de-robespierre.webp"
+   ]
+  },
+  {
+   "id": "auteurs_modernes",
+   "nom": "Auteurs modernes",
+   "icone": "✍️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Nom",
+    "Dates",
+    "Nationalité",
+    "Œuvres majeures",
+    "Prix"
+   ],
+   "cle": 0,
+   "fiches": 196,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/auteurs_modernes/george-bernard-shaw.webp",
+    "thumbs/auteurs_modernes/selma-lagerlof.webp",
+    "thumbs/auteurs_modernes/knut-hamsun.webp"
+   ]
+  },
+  {
+   "id": "personnages_litterature",
+   "nom": "Personnages de littérature",
+   "icone": "🎭",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Personnage",
+    "Œuvre",
+    "Auteur"
+   ],
+   "cle": 0,
+   "fiches": 97,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/personnages_litterature/albus-dumbledore.webp",
+    "thumbs/personnages_litterature/alice-alice-au-pays-des-merveilles.webp",
+    "thumbs/personnages_litterature/anna-karenine.webp"
+   ]
+  },
+  {
+   "id": "traites",
+   "nom": "Traités et textes fondateurs",
+   "icone": "📜",
+   "categorie": "histoire",
+   "colonnes": [
+    "Texte",
+    "Date",
+    "Auteurs ou signataires",
+    "Ce qu'il établit"
+   ],
+   "cle": 0,
+   "fiches": 64,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/traites/code-de-hammurabi.webp",
+    "thumbs/traites/traite-de-paix-egypto-hittite.webp",
+    "thumbs/traites/loi-des-douze-tables.webp"
+   ]
+  },
+  {
+   "id": "sites_antiques",
+   "nom": "Sites antiques",
+   "icone": "🪨",
+   "categorie": "histoire",
+   "colonnes": [
+    "Site",
+    "Pays",
+    "Civilisation",
+    "Époque"
+   ],
+   "cle": 0,
+   "fiches": 56,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/sites_antiques/grotte-de-lascaux.webp",
+    "thumbs/sites_antiques/gobekli-tepe.webp",
+    "thumbs/sites_antiques/jericho.webp"
+   ]
+  },
+  {
+   "id": "styles_architecturaux",
+   "nom": "Styles architecturaux",
+   "icone": "🏗️",
+   "categorie": "arts-culture",
+   "colonnes": [
+    "Style",
+    "Période",
+    "Origine",
+    "Édifice type"
+   ],
+   "cle": 0,
+   "fiches": 30,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/styles_architecturaux/architecture-romaine.webp",
+    "thumbs/styles_architecturaux/architecture-de-la-grece-antique.webp",
+    "thumbs/styles_architecturaux/art-roman.webp"
+   ]
+  },
+  {
+   "id": "fleuves_mers_oceans",
+   "nom": "Fleuves, mers et océans",
+   "icone": "🌊",
+   "categorie": "geographie",
+   "colonnes": [
+    "Nom",
+    "Type",
+    "Pays ou région",
+    "Repère"
+   ],
+   "cle": 0,
+   "fiches": 84,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/fleuves_mers_oceans/ocean-arctique.webp",
+    "thumbs/fleuves_mers_oceans/ocean-atlantique.webp",
+    "thumbs/fleuves_mers_oceans/ocean-austral.webp"
+   ]
+  }
+ ]
+}

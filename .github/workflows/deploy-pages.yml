@@ -27,7 +27,8 @@ jobs:
           mkdir -p _site/atelier
           cp index.html memo.html maquette.html manifest.json sw.js _site/
           cp icone.svg icon-192.png icon-512.png icon-maskable-512.png apple-touch-icon.png _site/
-          cp -R thumbs full originaux data _site/
+          cp -R thumbs full originaux data app _site/
+          rm -rf _site/app/tests _site/app/package.json
           rm -rf _site/data/atelier/history
           # Atelier en ligne : même adresse que l'ancienne copie memo-web
           cp atelier-en-ligne/atelier.html _site/
