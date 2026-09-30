@@ -1,0 +1,210 @@
+{
+ "lieux-legendaires_atlantide": {
+  "origine": "Platon (Timée et Critias)",
+  "description": "Île engloutie au-delà des Colonnes d'Hercule",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_eldorado": {
+  "origine": "Mythe des conquistadors espagnols",
+  "description": "Contrée d'or en Amérique du Sud",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_shangri-la": {
+  "origine": "James Hilton (Horizons perdus)",
+  "description": "Vallée paradisiaque cachée dans l'Himalaya",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_camelot": {
+  "origine": "Légende arthurienne",
+  "description": "Château et cour du roi Arthur",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_eden": {
+  "origine": "Bible (Genèse)",
+  "description": "Jardin d'Adam et Ève, paradis terrestre",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_lemurie": {
+  "origine": "Hypothèse de Philip Sclater (XIXe siècle)",
+  "description": "Continent englouti de l'océan Indien",
+  "confiance": "tranchee",
+  "note": "Origine ramenée au zoologiste Sclater (1864), reprise ensuite par la théosophie ; hypothèse scientifique abandonnée"
+ },
+ "lieux-legendaires_avalon": {
+  "origine": "Légende arthurienne",
+  "description": "Île où est emmené le roi Arthur blessé",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_hyperboreens": {
+  "origine": "Mythologie grecque",
+  "description": "Pays du peuple vivant au-delà du vent du nord",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers l'article sur le peuple (Hyperboréens) ; fiche rédigée pour le lieu, Hyperborée"
+ },
+ "lieux-legendaires_thule-mythologie": {
+  "origine": "Pythéas (récit de voyage antique)",
+  "description": "Île la plus septentrionale du monde connu",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_ys": {
+  "origine": "Légende bretonne",
+  "description": "Ville engloutie par l'océan",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_broceliande": {
+  "origine": "Légende arthurienne",
+  "description": "Forêt enchantée de Merlin et Viviane",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_agartha": {
+  "origine": "Saint-Yves d'Alveydre (Mission de l'Inde)",
+  "description": "Royaume souterrain mythique",
+  "confiance": "tranchee",
+  "note": "Popularisée par Saint-Yves d'Alveydre (1886) après Louis Jacolliot ; retenu comme source la plus citée"
+ },
+ "lieux-legendaires_shambhala-mythe": {
+  "origine": "Bouddhisme tibétain (Kalachakra)",
+  "description": "Royaume caché de sagesse en Asie centrale",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_cites-d-or": {
+  "origine": "Mythe des conquistadors espagnols",
+  "description": "Sept cités d'or du nord du Mexique",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers l'article général sur les cités d'or ; fiche centrée sur Cibola et ses sept cités cherchées par Coronado"
+ },
+ "lieux-legendaires_mu-continent": {
+  "origine": "Augustus Le Plongeon et James Churchward",
+  "description": "Continent englouti du Pacifique",
+  "confiance": "tranchee",
+  "note": "Idée lancée par Le Plongeon au XIXe siècle, popularisée par Churchward ; les deux noms retenus"
+ },
+ "lieux-legendaires_aztlan": {
+  "origine": "Mythologie aztèque",
+  "description": "Terre d'origine des Mexicas",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_ile-de-brasil": {
+  "origine": "Légende irlandaise",
+  "description": "Île fantôme à l'ouest de l'Irlande",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_kitej": {
+  "origine": "Légende russe",
+  "description": "Ville engloutie dans un lac pour échapper aux Mongols",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_pays-de-pount": {
+  "origine": "Égypte antique",
+  "description": "Pays lointain de l'encens et de l'or",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_fontaine-de-jouvence": {
+  "origine": "Légende médiévale européenne",
+  "description": "Source qui rend la jeunesse",
+  "confiance": "tranchee",
+  "note": "Mythe aux racines multiples (Alexandre, Ponce de León) ; tradition médiévale retenue comme la plus générale"
+ },
+ "lieux-legendaires_pays-de-cocagne": {
+  "origine": "Folklore médiéval européen",
+  "description": "Pays d'abondance où l'on vit sans travailler",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_ile-de-saint-brendan": {
+  "origine": "Navigation de saint Brendan",
+  "description": "Île fantôme de l'Atlantique",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_tour-de-babel": {
+  "origine": "Bible (Genèse)",
+  "description": "Tour à l'origine de la confusion des langues",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_jerusalem-celeste": {
+  "origine": "Bible (Apocalypse)",
+  "description": "Cité sainte descendue du ciel à la fin des temps",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_sodome-et-gomorrhe": {
+  "origine": "Bible (Genèse)",
+  "description": "Villes détruites par le feu du ciel",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_iles-des-bienheureux": {
+  "origine": "Mythologie grecque",
+  "description": "Séjour des héros aux confins du monde",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_valhalla": {
+  "origine": "Mythologie nordique",
+  "description": "Palais d'Odin qui accueille les guerriers morts",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_yggdrasil": {
+  "origine": "Mythologie nordique",
+  "description": "Arbre-monde reliant les neuf mondes",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_apsu": {
+  "origine": "Mythologie mésopotamienne",
+  "description": "Océan souterrain d'eau douce",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_tartare-mythologie": {
+  "origine": "Mythologie grecque",
+  "description": "Abîme des Enfers où sont enfermés les Titans",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_champs-elysees-mythologie": {
+  "origine": "Mythologie grecque",
+  "description": "Séjour des âmes vertueuses aux Enfers",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_hesperides": {
+  "origine": "Mythologie grecque",
+  "description": "Jardin aux pommes d'or gardé par un dragon",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers l'article sur les nymphes (Hespérides) ; fiche rédigée pour leur jardin"
+ },
+ "lieux-legendaires_asgard-mythologie": {
+  "origine": "Mythologie nordique",
+  "description": "Domaine des dieux Ases",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_midgard": {
+  "origine": "Mythologie nordique",
+  "description": "Monde des hommes",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_xibalba": {
+  "origine": "Mythologie maya (Popol Vuh)",
+  "description": "Monde souterrain des dieux de la mort",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_mictlan": {
+  "origine": "Mythologie aztèque",
+  "description": "Monde souterrain des morts",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_kunlun-mythologie": {
+  "origine": "Mythologie chinoise",
+  "description": "Montagne sacrée de la Reine mère d'Occident",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_mont-meru": {
+  "origine": "Cosmologie hindoue et bouddhique",
+  "description": "Montagne sacrée au centre de l'univers",
+  "confiance": "sure"
+ },
+ "lieux-legendaires_lyonesse": {
+  "origine": "Légende arthurienne",
+  "description": "Terre engloutie au large de la Cornouailles",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers la trilogie de Jack Vance ; fiche rédigée pour la Lyonesse légendaire, pays de Tristan"
+ },
+ "lieux-legendaires_tir-na-nog": {
+  "origine": "Mythologie celtique irlandaise",
+  "description": "Terre de l'éternelle jeunesse",
+  "confiance": "sure"
+ }
+}

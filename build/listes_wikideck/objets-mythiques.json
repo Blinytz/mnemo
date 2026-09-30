@@ -1,0 +1,239 @@
+{
+ "objets-mythiques_mjollnir": {
+  "origine": "Mythologie nordique",
+  "role": "Marteau qui revient dans la main",
+  "possesseur": "Thor",
+  "confiance": "sure"
+ },
+ "objets-mythiques_arche-de-noe": {
+  "origine": "Bible (Genèse)",
+  "role": "Navire qui sauve la vie du Déluge",
+  "possesseur": "Noé",
+  "confiance": "sure"
+ },
+ "objets-mythiques_arche-d-alliance": {
+  "origine": "Bible (Exode)",
+  "role": "Coffre sacré contenant les Tables de la Loi",
+  "possesseur": "Moïse",
+  "confiance": "tranchee",
+  "note": "Moïse retenu : l'arche est fabriquée sur son ordre ; aucun porteur unique (lévites, peuple d'Israël)"
+ },
+ "objets-mythiques_excalibur": {
+  "origine": "Légende arthurienne",
+  "role": "Épée magique du roi de Bretagne",
+  "possesseur": "Roi Arthur",
+  "confiance": "sure"
+ },
+ "objets-mythiques_graal": {
+  "origine": "Légende arthurienne",
+  "role": "Coupe du dernier repas du Christ",
+  "possesseur": "Joseph d'Arimathie",
+  "confiance": "tranchee",
+  "note": "Joseph d'Arimathie retenu comme gardien d'origine ; Galaad (qui l'achève) et le Roi Pêcheur sont aussi défendables"
+ },
+ "objets-mythiques_table-ronde": {
+  "origine": "Légende arthurienne",
+  "role": "Table sans préséance des chevaliers",
+  "possesseur": "Roi Arthur",
+  "confiance": "sure"
+ },
+ "objets-mythiques_durandal": {
+  "origine": "Chanson de Roland",
+  "role": "Épée incassable que son maître tente en vain de briser à Roncevaux",
+  "possesseur": "Roland",
+  "confiance": "tranchee",
+  "note": "Formulation fausse (« brisée en vain ») : Roland essaie de la briser sans y parvenir"
+ },
+ "objets-mythiques_joyeuse-epee": {
+  "origine": "Chanson de Roland",
+  "role": "Épée dont l'éclat change trente fois par jour",
+  "possesseur": "Charlemagne",
+  "confiance": "sure"
+ },
+ "objets-mythiques_toison-d-or": {
+  "origine": "Mythologie grecque",
+  "role": "Toison du bélier ailé Chrysomallos",
+  "possesseur": "Jason",
+  "confiance": "tranchee",
+  "note": "Jason retenu (conquête avec les Argonautes) plutôt qu'Aiétès, roi de Colchide qui la gardait"
+ },
+ "objets-mythiques_cheval-de-troie": {
+  "origine": "Mythologie grecque",
+  "role": "Cheval de bois cachant des guerriers grecs",
+  "possesseur": "Ulysse",
+  "confiance": "tranchee",
+  "note": "Ulysse retenu comme inventeur de la ruse ; Épéios en est le constructeur"
+ },
+ "objets-mythiques_boite-de-pandore": {
+  "origine": "Mythologie grecque",
+  "role": "Jarre renfermant tous les maux de l'humanité",
+  "possesseur": "Pandore",
+  "confiance": "sure"
+ },
+ "objets-mythiques_egide": {
+  "origine": "Mythologie grecque",
+  "role": "Bouclier portant la tête de Méduse",
+  "possesseur": "Athéna",
+  "confiance": "tranchee",
+  "note": "Athéna retenue comme dans l'article ; l'égide appartient d'abord à Zeus"
+ },
+ "objets-mythiques_caducee": {
+  "origine": "Mythologie grecque",
+  "role": "Bâton de messager aux deux serpents",
+  "possesseur": "Hermès",
+  "confiance": "sure"
+ },
+ "objets-mythiques_corne-d-abondance": {
+  "origine": "Mythologie gréco-romaine",
+  "role": "Corne débordant de fruits et de richesses",
+  "possesseur": "Amalthée",
+  "confiance": "tranchee",
+  "note": "Amalthée retenue (corne de la chèvre nourrice de Zeus) ; aussi attribut de Fortuna et de Ploutos"
+ },
+ "objets-mythiques_gungnir": {
+  "origine": "Mythologie nordique",
+  "role": "Lance qui ne manque jamais sa cible",
+  "possesseur": "Odin",
+  "confiance": "sure"
+ },
+ "objets-mythiques_draupnir": {
+  "origine": "Mythologie nordique",
+  "role": "Anneau d'or qui en engendre huit toutes les neuf nuits",
+  "possesseur": "Odin",
+  "confiance": "sure"
+ },
+ "objets-mythiques_vajra": {
+  "origine": "Mythologie hindoue",
+  "role": "Foudre, arme indestructible",
+  "possesseur": "Indra",
+  "confiance": "sure"
+ },
+ "objets-mythiques_sampo": {
+  "origine": "Mythologie finnoise",
+  "role": "Moulin magique qui produit richesse et abondance",
+  "possesseur": "Louhi",
+  "confiance": "tranchee",
+  "note": "Louhi, maîtresse de Pohjola, retenue comme possesseur ; le forgeron Ilmarinen en est l'auteur"
+ },
+ "objets-mythiques_baton-de-moise": {
+  "origine": "Bible (Exode)",
+  "role": "Bâton des prodiges qui fend la mer Rouge",
+  "possesseur": "Moïse",
+  "confiance": "sure"
+ },
+ "objets-mythiques_pierre-philosophale": {
+  "origine": "Alchimie",
+  "role": "Change les métaux en or et donne l'immortalité",
+  "possesseur": "Nicolas Flamel",
+  "confiance": "tranchee",
+  "note": "Nicolas Flamel retenu comme détenteur légendaire le plus cité ; objet hypothétique sans possesseur attesté"
+ },
+ "objets-mythiques_talaria": {
+  "origine": "Mythologie grecque",
+  "role": "Sandales ailées permettant de voler",
+  "possesseur": "Hermès",
+  "confiance": "sure"
+ },
+ "objets-mythiques_pomme-d-or-de-la-discorde": {
+  "origine": "Mythologie grecque",
+  "role": "Pomme « à la plus belle », cause de la guerre de Troie",
+  "possesseur": "Aphrodite",
+  "confiance": "tranchee",
+  "note": "Aphrodite retenue (désignée par Pâris) ; Éris la lance et Pâris l'attribue"
+ },
+ "objets-mythiques_anneau-de-gyges": {
+  "origine": "Platon (La République)",
+  "role": "Anneau qui rend invisible",
+  "possesseur": "Gygès",
+  "confiance": "sure"
+ },
+ "objets-mythiques_gjallarhorn": {
+  "origine": "Mythologie nordique",
+  "role": "Cor annonçant le Ragnarök",
+  "possesseur": "Heimdall",
+  "confiance": "sure"
+ },
+ "objets-mythiques_collier-des-brisingar": {
+  "origine": "Mythologie nordique",
+  "role": "Collier d'or forgé par quatre nains",
+  "possesseur": "Freyja",
+  "confiance": "sure"
+ },
+ "objets-mythiques_gram-epee": {
+  "origine": "Mythologie nordique",
+  "role": "Épée qui tue le dragon Fáfnir",
+  "possesseur": "Sigurd",
+  "confiance": "sure"
+ },
+ "objets-mythiques_pierre-de-fal": {
+  "origine": "Mythologie celtique irlandaise",
+  "role": "Pierre qui crie sous le roi légitime",
+  "possesseur": "Tuatha Dé Danann",
+  "confiance": "tranchee",
+  "note": "Tuatha Dé Danann retenus (ils l'apportent en Irlande) ; installée ensuite à Tara pour le sacre des rois"
+ },
+ "objets-mythiques_tables-de-la-loi": {
+  "origine": "Bible (Exode)",
+  "role": "Tables gravées des Dix Commandements",
+  "possesseur": "Moïse",
+  "confiance": "sure"
+ },
+ "objets-mythiques_sainte-lance": {
+  "origine": "Christianisme",
+  "role": "Lance qui perça le flanc du Christ",
+  "possesseur": "Longin",
+  "confiance": "sure"
+ },
+ "objets-mythiques_sceau-de-salomon-legende": {
+  "origine": "Légendes juive et islamique",
+  "role": "Anneau qui commande aux démons et djinns",
+  "possesseur": "Roi Salomon",
+  "confiance": "sure"
+ },
+ "objets-mythiques_la-lampe-d-aladin": {
+  "origine": "Les Mille et Une Nuits",
+  "role": "Lampe renfermant un génie qui exauce les vœux",
+  "possesseur": "Aladin",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers un cartoon Looney Tunes de 1948 ; fiche établie d'après le nom (conte des Mille et Une Nuits)"
+ },
+ "objets-mythiques_bottes-de-sept-lieues": {
+  "origine": "Contes de Perrault",
+  "role": "Bottes parcourant sept lieues à chaque pas",
+  "possesseur": "Petit Poucet",
+  "confiance": "tranchee",
+  "note": "Petit Poucet retenu (il les dérobe à l'ogre, premier propriétaire)"
+ },
+ "objets-mythiques_kusanagi": {
+  "origine": "Mythologie japonaise",
+  "role": "Épée impériale, l'un des trois trésors sacrés",
+  "possesseur": "Susanoo",
+  "confiance": "tranchee",
+  "note": "Susanoo retenu (il la tire de la queue du serpent Orochi) ; Yamato Takeru lui donne son nom"
+ },
+ "objets-mythiques_baton-de-bon-plaisir-cercle-d-or": {
+  "origine": "La Pérégrination vers l'Ouest",
+  "role": "Bâton qui change de taille à volonté",
+  "possesseur": "Sun Wukong",
+  "confiance": "sure"
+ },
+ "objets-mythiques_trishula": {
+  "origine": "Mythologie hindoue",
+  "role": "Trident à trois pointes",
+  "possesseur": "Shiva",
+  "confiance": "sure"
+ },
+ "objets-mythiques_ankh": {
+  "origine": "Égypte antique",
+  "role": "Symbole de la vie éternelle",
+  "possesseur": "Dieux égyptiens",
+  "confiance": "tranchee",
+  "note": "Aucun possesseur unique : attribut tenu par les dieux égyptiens en général"
+ },
+ "objets-mythiques_tizona": {
+  "origine": "Chanson de geste espagnole",
+  "role": "Épée qui effraie les ennemis indignes",
+  "possesseur": "Le Cid",
+  "confiance": "sure"
+ }
+}

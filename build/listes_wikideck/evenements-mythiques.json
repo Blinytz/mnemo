@@ -1,0 +1,148 @@
+{
+ "evenements-mythiques_ragnarok": {
+  "origine": "Mythologie nordique",
+  "description": "Fin du monde et combat final des dieux",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_deluge": {
+  "origine": "Bible (Genèse)",
+  "description": "Inondation universelle envoyée par Dieu, Noé sauvé dans l'arche",
+  "confiance": "tranchee",
+  "note": "Mythe présent dans de nombreuses cultures (Gilgamesh, Deucalion) ; version biblique retenue comme la plus attendue"
+ },
+ "evenements-mythiques_armageddon": {
+  "origine": "Bible (Apocalypse)",
+  "description": "Ultime bataille entre les forces du bien et du mal à la fin des temps",
+  "confiance": "tranchee",
+  "note": "Collection d'événements : la bataille plutôt que le lieu (Megiddo), sens attendu en quiz"
+ },
+ "evenements-mythiques_jugement-dernier": {
+  "origine": "Religions abrahamiques",
+  "description": "Jugement de tous les humains par Dieu à la fin des temps",
+  "confiance": "tranchee",
+  "note": "Commun au judaïsme, au christianisme et à l'islam ; origine générique retenue plutôt qu'un seul livre"
+ },
+ "evenements-mythiques_guerre-de-troie": {
+  "origine": "Mythologie grecque",
+  "description": "Guerre des Grecs contre Troie pour reprendre Hélène",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_titanomachie": {
+  "origine": "Mythologie grecque",
+  "description": "Guerre des dieux olympiens contre les Titans",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_gigantomachie": {
+  "origine": "Mythologie grecque",
+  "description": "Guerre des dieux olympiens contre les Géants",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_travaux-d-heracles": {
+  "origine": "Mythologie grecque",
+  "description": "Douze exploits imposés à Héraclès par Eurysthée",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_jugement-de-paris": {
+  "origine": "Mythologie grecque",
+  "description": "Pâris désigne Aphrodite comme la plus belle des déesses",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_barattage-de-la-mer-de-lait": {
+  "origine": "Mythologie hindoue",
+  "description": "Dieux et démons barattent l'océan pour obtenir l'amrita",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_bataille-de-kurukshetra": {
+  "origine": "Mythologie hindoue (Mahabharata)",
+  "description": "Bataille de 18 jours entre Pandavas et Kauravas",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_chute-bible": {
+  "origine": "Bible (Genèse)",
+  "description": "Adam et Ève mangent le fruit défendu et sont chassés d'Éden",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_cain-et-abel-genese": {
+  "origine": "Bible (Genèse)",
+  "description": "Caïn tue son frère Abel, premier meurtre",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_dix-plaies-d-egypte": {
+  "origine": "Bible (Exode)",
+  "description": "Dix fléaux infligés à l'Égypte pour libérer les Hébreux",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_passage-de-la-mer-rouge": {
+  "origine": "Bible (Exode)",
+  "description": "La mer s'ouvre pour laisser passer les Hébreux fuyant l'Égypte",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_ligature-d-isaac": {
+  "origine": "Bible (Genèse)",
+  "description": "Dieu demande à Abraham de sacrifier son fils Isaac",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_argonautes": {
+  "origine": "Mythologie grecque",
+  "description": "Expédition de Jason à bord de l'Argo pour conquérir la Toison d'or",
+  "confiance": "tranchee",
+  "note": "L'article porte sur le groupe des Argonautes ; la carte vise leur expédition, décrite selon le nom"
+ },
+ "evenements-mythiques_odyssee": {
+  "origine": "Mythologie grecque (Homère)",
+  "description": "Long retour d'Ulysse vers Ithaque après la guerre de Troie",
+  "confiance": "tranchee",
+  "note": "L'article porte sur l'épopée d'Homère ; décrit comme événement (le voyage d'Ulysse) selon le nom de la carte"
+ },
+ "evenements-mythiques_vol-du-feu": {
+  "origine": "Mythologie grecque",
+  "description": "Prométhée dérobe le feu aux dieux pour le donner aux hommes",
+  "confiance": "tranchee",
+  "note": "Thème présent dans de nombreuses mythologies ; version grecque de Prométhée retenue comme la plus attendue en quiz"
+ },
+ "evenements-mythiques_la-descente-d-orphee-aux-enfers": {
+  "origine": "Mythologie grecque",
+  "description": "Orphée descend aux Enfers chercher Eurydice et la perd en se retournant",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers l'opéra de Charpentier ; fiche rédigée d'après le mythe d'Orphée"
+ },
+ "evenements-mythiques_fondation-de-rome": {
+  "origine": "Mythologie romaine",
+  "description": "Romulus fonde Rome après avoir tué son frère Rémus",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_guerre-entre-les-ases-et-les-vanes": {
+  "origine": "Mythologie nordique",
+  "description": "Première guerre entre les deux familles de dieux, Ases et Vanes",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_mythe-d-osiris": {
+  "origine": "Mythologie égyptienne",
+  "description": "Osiris est tué et démembré par son frère Seth",
+  "confiance": "sure"
+ },
+ "evenements-mythiques_jugement-de-l-ame-egypte-antique": {
+  "origine": "Mythologie égyptienne",
+  "description": "Le cœur du défunt est pesé contre la plume de Maât",
+  "confiance": "tranchee",
+  "note": "L'article couvre plusieurs conceptions du jugement de l'âme ; la pesée du cœur (Livre des morts) est retenue selon le nom"
+ },
+ "evenements-mythiques_un-livre-dont-vous-etes-le-heros": {
+  "origine": "Légende arthurienne",
+  "description": "Les chevaliers de la Table ronde cherchent le Saint Graal",
+  "confiance": "tranchee",
+  "note": "La carte pointe vers une collection de livres-jeux ; fiche rédigée d'après le nom (Quête du Graal)"
+ },
+ "evenements-mythiques_ramayana": {
+  "origine": "Mythologie hindoue (Ramayana)",
+  "description": "Rama combat Ravana à Lanka pour délivrer Sita",
+  "confiance": "tranchee",
+  "note": "L'article porte sur l'épopée entière du Ramayana ; fiche centrée sur la guerre de Lanka selon le nom"
+ },
+ "evenements-mythiques_legende-des-soleils": {
+  "origine": "Mythologie aztèque",
+  "description": "Création et destruction successives de cinq mondes ou soleils",
+  "confiance": "tranchee",
+  "note": "Mythe mésoaméricain plus large ; version aztèque des cinq soleils retenue comme la plus attendue"
+ }
+}

@@ -1,0 +1,465 @@
+{
+ "figures-emancipation_martin-luther-king": {
+  "dates": "1929-1968",
+  "pays": "États-Unis",
+  "combat": "Droits civiques · I have a dream (1963)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_malcolm-x": {
+  "dates": "1925-1965",
+  "pays": "États-Unis",
+  "combat": "Nationalisme noir · Nation of Islam",
+  "confiance": "sure"
+ },
+ "figures-emancipation_rosa-parks": {
+  "dates": "1913-2005",
+  "pays": "États-Unis",
+  "combat": "Refuse de céder sa place dans un bus (1955)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_frederick-douglass": {
+  "dates": "vers 1818-1895",
+  "pays": "États-Unis",
+  "combat": "Esclave évadé devenu orateur abolitionniste",
+  "confiance": "tranchee",
+  "note": "Naissance en 1817 ou 1818 : 1818, année qu'il avait retenue"
+ },
+ "figures-emancipation_harriet-tubman": {
+  "dates": "vers 1822-1913",
+  "pays": "États-Unis",
+  "combat": "Fait évader des esclaves par le chemin de fer clandestin",
+  "confiance": "sure"
+ },
+ "figures-emancipation_sojourner-truth": {
+  "dates": "vers 1797-1883",
+  "pays": "États-Unis",
+  "combat": "Abolition et droits des femmes · Ain't I a Woman? (1851)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_w-e-b-du-bois": {
+  "dates": "1868-1963",
+  "pays": "États-Unis",
+  "combat": "Cofondateur de la NAACP (1909) · Les Âmes du peuple noir",
+  "confiance": "sure"
+ },
+ "figures-emancipation_ida-b-wells": {
+  "dates": "1862-1931",
+  "pays": "États-Unis",
+  "combat": "Journaliste contre les lynchages",
+  "confiance": "sure"
+ },
+ "figures-emancipation_nat-turner": {
+  "dates": "1800-1831",
+  "pays": "États-Unis",
+  "combat": "Révolte d'esclaves en Virginie (1831)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_angela-davis": {
+  "dates": "née en 1944",
+  "pays": "États-Unis",
+  "combat": "Black Panthers · communisme · abolition des prisons",
+  "confiance": "sure"
+ },
+ "figures-emancipation_william-wilberforce": {
+  "dates": "1759-1833",
+  "pays": "Royaume-Uni",
+  "combat": "Abolition de la traite dans l'Empire britannique (1807)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_victor-sch-lcher": {
+  "dates": "1804-1893",
+  "pays": "France",
+  "combat": "Décret d'abolition de l'esclavage (1848)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_ruth-bader-ginsburg": {
+  "dates": "1933-2020",
+  "pays": "États-Unis",
+  "combat": "Juge à la Cour suprême · égalité des sexes en droit",
+  "confiance": "sure"
+ },
+ "figures-emancipation_steve-biko": {
+  "dates": "1946-1977",
+  "pays": "Afrique du Sud",
+  "combat": "Conscience noire · mort en détention (1977)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_desmond-tutu": {
+  "dates": "1931-2021",
+  "pays": "Afrique du Sud",
+  "combat": "Archevêque anti-apartheid · Nobel de la paix 1984",
+  "confiance": "sure"
+ },
+ "figures-emancipation_winnie-mandela": {
+  "dates": "1936-2018",
+  "pays": "Afrique du Sud",
+  "combat": "Lutte anti-apartheid · « Mère de la nation »",
+  "confiance": "sure"
+ },
+ "figures-emancipation_olympe-de-gouges": {
+  "dates": "1748-1793",
+  "pays": "France",
+  "combat": "Déclaration des droits de la femme et de la citoyenne (1791)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_emmeline-pankhurst": {
+  "dates": "1858-1928",
+  "pays": "Royaume-Uni",
+  "combat": "Suffragettes · fonde la WSPU (1903)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_emily-davison": {
+  "dates": "1872-1913",
+  "pays": "Royaume-Uni",
+  "combat": "Suffragette renversée par le cheval du roi au Derby d'Epsom (1913)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_susan-b-anthony": {
+  "dates": "1820-1906",
+  "pays": "États-Unis",
+  "combat": "Suffrage des femmes · arrêtée pour avoir voté (1872)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_elizabeth-cady-stanton": {
+  "dates": "1815-1902",
+  "pays": "États-Unis",
+  "combat": "Convention de Seneca Falls (1848) · suffrage des femmes",
+  "confiance": "sure"
+ },
+ "figures-emancipation_simone-veil": {
+  "dates": "1927-2017",
+  "pays": "France",
+  "combat": "Loi dépénalisant l'IVG (1975)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_gisele-halimi": {
+  "dates": "1927-2020",
+  "pays": "France",
+  "combat": "Avocate du procès de Bobigny (1972) · droit à l'avortement",
+  "confiance": "sure"
+ },
+ "figures-emancipation_louise-michel": {
+  "dates": "1830-1905",
+  "pays": "France",
+  "combat": "Communarde · la « Vierge rouge », déportée en Nouvelle-Calédonie",
+  "confiance": "sure"
+ },
+ "figures-emancipation_flora-tristan": {
+  "dates": "1803-1844",
+  "pays": "France",
+  "combat": "Féminisme et union ouvrière · L'Union ouvrière (1843)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_clara-zetkin": {
+  "dates": "1857-1933",
+  "pays": "Allemagne",
+  "combat": "Propose une Journée internationale des femmes (1910)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_rosa-luxemburg": {
+  "dates": "1871-1919",
+  "pays": "Allemagne",
+  "combat": "Ligue spartakiste · assassinée en 1919",
+  "confiance": "sure"
+ },
+ "figures-emancipation_malala-yousafzai": {
+  "dates": "née en 1997",
+  "pays": "Pakistan",
+  "combat": "Éducation des filles · Nobel de la paix 2014",
+  "confiance": "sure"
+ },
+ "figures-emancipation_sitting-bull": {
+  "dates": "vers 1831-1890",
+  "pays": "États-Unis",
+  "combat": "Chef lakota · victoire de Little Bighorn (1876)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_geronimo": {
+  "dates": "1829-1909",
+  "pays": "États-Unis",
+  "combat": "Chef apache résistant aux armées mexicaine et américaine",
+  "confiance": "sure"
+ },
+ "figures-emancipation_crazy-horse-chef-amerindien": {
+  "dates": "vers 1840-1877",
+  "pays": "États-Unis",
+  "combat": "Chef lakota · bataille de Little Bighorn (1876)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_chef-joseph": {
+  "dates": "1840-1904",
+  "pays": "États-Unis",
+  "combat": "Chef nez-percé · « Je ne combattrai plus jamais » (1877)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_rigoberta-menchu": {
+  "dates": "née en 1959",
+  "pays": "Guatemala",
+  "combat": "Droits des peuples autochtones · Nobel de la paix 1992",
+  "confiance": "sure"
+ },
+ "figures-emancipation_frantz-fanon": {
+  "dates": "1925-1961",
+  "pays": "Algérie",
+  "combat": "Anticolonialisme · Les Damnés de la Terre (1961)",
+  "confiance": "tranchee",
+  "note": "Martiniquais engagé dans la guerre d'Algérie : pays du combat retenu"
+ },
+ "figures-emancipation_amilcar-cabral": {
+  "dates": "1924-1973",
+  "pays": "Guinée-Bissau",
+  "combat": "Indépendance de la Guinée-Bissau et du Cap-Vert · fonde le PAIGC",
+  "confiance": "sure"
+ },
+ "figures-emancipation_emiliano-zapata": {
+  "dates": "1879-1919",
+  "pays": "Mexique",
+  "combat": "Révolution mexicaine · « Terre et liberté »",
+  "confiance": "sure"
+ },
+ "figures-emancipation_pancho-villa": {
+  "dates": "1878-1923",
+  "pays": "Mexique",
+  "combat": "Révolution mexicaine · chef de la division du Nord",
+  "confiance": "sure"
+ },
+ "figures-emancipation_che-guevara": {
+  "dates": "1928-1967",
+  "pays": "Cuba",
+  "combat": "Révolution cubaine · guérilla, exécuté en Bolivie (1967)",
+  "confiance": "tranchee",
+  "note": "Argentin : Cuba retenu comme pays du combat principal"
+ },
+ "figures-emancipation_bhimrao-ramji-ambedkar": {
+  "dates": "1891-1956",
+  "pays": "Inde",
+  "combat": "Droits des intouchables (dalits) · père de la Constitution indienne",
+  "confiance": "sure"
+ },
+ "figures-emancipation_cesar-chavez": {
+  "dates": "1927-1993",
+  "pays": "États-Unis",
+  "combat": "Syndicat des ouvriers agricoles (UFW) · boycott du raisin",
+  "confiance": "sure"
+ },
+ "figures-emancipation_dolores-huerta": {
+  "dates": "née en 1930",
+  "pays": "États-Unis",
+  "combat": "Cofonde le syndicat des ouvriers agricoles · « Sí, se puede »",
+  "confiance": "sure"
+ },
+ "figures-emancipation_wangari-muta-maathai": {
+  "dates": "1940-2011",
+  "pays": "Kenya",
+  "combat": "Mouvement de la ceinture verte · Nobel de la paix 2004",
+  "confiance": "sure"
+ },
+ "figures-emancipation_lech-wa-esa": {
+  "dates": "né en 1943",
+  "pays": "Pologne",
+  "combat": "Syndicat Solidarność · Nobel de la paix 1983",
+  "confiance": "sure"
+ },
+ "figures-emancipation_vaclav-havel": {
+  "dates": "1936-2011",
+  "pays": "Tchécoslovaquie",
+  "combat": "Charte 77 · révolution de Velours (1989)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_aung-san-suu-kyi": {
+  "dates": "née en 1945",
+  "pays": "Birmanie",
+  "combat": "Opposition non violente à la junte · Nobel de la paix 1991",
+  "confiance": "sure"
+ },
+ "figures-emancipation_harvey-milk": {
+  "dates": "1930-1978",
+  "pays": "États-Unis",
+  "combat": "Premier élu ouvertement homosexuel de Californie",
+  "confiance": "sure"
+ },
+ "figures-emancipation_marsha-p-johnson": {
+  "dates": "1945-1992",
+  "pays": "États-Unis",
+  "combat": "Émeutes de Stonewall (1969) · droits des personnes trans",
+  "confiance": "sure"
+ },
+ "figures-emancipation_sylvia-rivera": {
+  "dates": "1951-2002",
+  "pays": "États-Unis",
+  "combat": "Émeutes de Stonewall (1969) · cofonde STAR avec Marsha P. Johnson",
+  "confiance": "sure"
+ },
+ "figures-emancipation_spartacus": {
+  "dates": "vers 100-71 av. J.-C.",
+  "pays": "Rome antique",
+  "combat": "Mène la révolte des esclaves (73-71 av. J.-C.)",
+  "confiance": "tranchee",
+  "note": "Naissance inconnue : « vers 100 av. J.-C. » par convention ; mort en 71 av. J.-C."
+ },
+ "figures-emancipation_zumbi-dos-palmares": {
+  "dates": "1655-1695",
+  "pays": "Brésil",
+  "combat": "Chef du quilombo des Palmares",
+  "confiance": "sure"
+ },
+ "figures-emancipation_solitude-vers-1772-1802": {
+  "dates": "vers 1772-1802",
+  "pays": "France (Guadeloupe)",
+  "combat": "Résiste au rétablissement de l'esclavage (1802)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_louis-delgres": {
+  "dates": "1766-1802",
+  "pays": "France (Guadeloupe)",
+  "combat": "Résiste au rétablissement de l'esclavage · « Vivre libre ou mourir » (1802)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_olaudah-equiano": {
+  "dates": "vers 1745-1797",
+  "pays": "Royaume-Uni",
+  "combat": "Ancien esclave, autobiographie abolitionniste (1789)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_john-brown": {
+  "dates": "1800-1859",
+  "pays": "États-Unis",
+  "combat": "Raid abolitionniste sur Harpers Ferry (1859)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_abbe-gregoire": {
+  "dates": "1750-1831",
+  "pays": "France",
+  "combat": "Émancipation des Juifs et abolition de l'esclavage (1794)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_bartolome-de-las-casas": {
+  "dates": "1484-1566",
+  "pays": "Espagne",
+  "combat": "Défense des Amérindiens · controverse de Valladolid (1550)",
+  "confiance": "tranchee",
+  "note": "Naissance datée 1474 ou 1484 selon les sources : 1484 retenu ; combat mené aux Amériques"
+ },
+ "figures-emancipation_tupac-amaru-ii": {
+  "dates": "1738-1781",
+  "pays": "Pérou",
+  "combat": "Grande révolte indigène contre les Espagnols (1780)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_hubertine-auclert": {
+  "dates": "1848-1914",
+  "pays": "France",
+  "combat": "Suffragette · droit de vote des femmes",
+  "confiance": "sure"
+ },
+ "figures-emancipation_betty-friedan": {
+  "dates": "1921-2006",
+  "pays": "États-Unis",
+  "combat": "La Femme mystifiée (1963) · fonde la NOW",
+  "confiance": "sure"
+ },
+ "figures-emancipation_gloria-steinem": {
+  "dates": "1934-2026",
+  "pays": "États-Unis",
+  "combat": "Féminisme · fonde le magazine Ms. (1972)",
+  "confiance": "tranchee",
+  "note": "Décès le 2 septembre 2026 annoncé par la description de la carte : retenu"
+ },
+ "figures-emancipation_john-lewis-homme-politique": {
+  "dates": "1940-2020",
+  "pays": "États-Unis",
+  "combat": "Droits civiques · marche de Selma (1965)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_thurgood-marshall": {
+  "dates": "1908-1993",
+  "pays": "États-Unis",
+  "combat": "Brown v. Board of Education (1954) · premier juge noir à la Cour suprême",
+  "confiance": "sure"
+ },
+ "figures-emancipation_ruby-bridges": {
+  "dates": "née en 1954",
+  "pays": "États-Unis",
+  "combat": "Première enfant noire dans une école blanche de La Nouvelle-Orléans (1960)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_claudette-colvin": {
+  "dates": "1939-2026",
+  "pays": "États-Unis",
+  "combat": "Refuse de céder sa place dans un bus neuf mois avant Rosa Parks (1955)",
+  "confiance": "tranchee",
+  "note": "Décès en janvier 2026 signalé par Wikipédia, retenu"
+ },
+ "figures-emancipation_bayard-rustin": {
+  "dates": "1912-1987",
+  "pays": "États-Unis",
+  "combat": "Organisateur de la marche sur Washington (1963)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_audre-lorde": {
+  "dates": "1934-1992",
+  "pays": "États-Unis",
+  "combat": "Poétesse féministe noire et lesbienne · Sister Outsider",
+  "confiance": "sure"
+ },
+ "figures-emancipation_eleanor-roosevelt": {
+  "dates": "1884-1962",
+  "pays": "États-Unis",
+  "combat": "Préside la rédaction de la Déclaration universelle des droits de l'homme (1948)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_helen-keller": {
+  "dates": "1880-1968",
+  "pays": "États-Unis",
+  "combat": "Sourde et aveugle · droits des personnes handicapées",
+  "confiance": "sure"
+ },
+ "figures-emancipation_liu-xiaobo": {
+  "dates": "1955-2017",
+  "pays": "Chine",
+  "combat": "Charte 08 · Nobel de la paix 2010 reçu en prison",
+  "confiance": "sure"
+ },
+ "figures-emancipation_alexei-navalny": {
+  "dates": "1976-2024",
+  "pays": "Russie",
+  "combat": "Opposant à Poutine · lutte anticorruption, mort en détention",
+  "confiance": "sure"
+ },
+ "figures-emancipation_nadia-murad": {
+  "dates": "née en 1993",
+  "pays": "Irak",
+  "combat": "Contre les violences sexuelles de guerre (Yézidis) · Nobel de la paix 2018",
+  "confiance": "sure"
+ },
+ "figures-emancipation_denis-mukwege": {
+  "dates": "né en 1955",
+  "pays": "RD Congo",
+  "combat": "Soigne les femmes violées · Nobel de la paix 2018",
+  "confiance": "sure"
+ },
+ "figures-emancipation_robert-badinter": {
+  "dates": "1928-2024",
+  "pays": "France",
+  "combat": "Abolition de la peine de mort (1981)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_greta-thunberg": {
+  "dates": "née en 2003",
+  "pays": "Suède",
+  "combat": "Grève de l'école pour le climat (2018)",
+  "confiance": "sure"
+ },
+ "figures-emancipation_chico-mendes": {
+  "dates": "1944-1988",
+  "pays": "Brésil",
+  "combat": "Défense de la forêt amazonienne et des seringueiros",
+  "confiance": "sure"
+ },
+ "figures-emancipation_jean-jaures": {
+  "dates": "1859-1914",
+  "pays": "France",
+  "combat": "Socialisme et pacifisme · fonde L'Humanité (1904)",
+  "confiance": "sure"
+ }
+}

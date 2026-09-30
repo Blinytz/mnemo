@@ -1,0 +1,206 @@
+{
+ "figures-resistance_jean-moulin": {
+  "dates": "1899-1943",
+  "pays": "France",
+  "action": "Unifie la Résistance intérieure (CNR)",
+  "confiance": "sure"
+ },
+ "figures-resistance_lucie-aubrac": {
+  "dates": "1912-2007",
+  "pays": "France",
+  "action": "Libération-Sud · Fait évader Raymond Aubrac en 1943",
+  "confiance": "sure"
+ },
+ "figures-resistance_missak-manouchian": {
+  "dates": "1909-1944",
+  "pays": "France",
+  "action": "Chef des FTP-MOI parisiens · L'Affiche rouge · Fusillé en 1944",
+  "confiance": "sure"
+ },
+ "figures-resistance_sophie-scholl": {
+  "dates": "1921-1943",
+  "pays": "Allemagne",
+  "action": "Rose blanche · Exécutée en 1943",
+  "confiance": "sure"
+ },
+ "figures-resistance_germaine-tillion": {
+  "dates": "1907-2008",
+  "pays": "France",
+  "action": "Réseau du musée de l'Homme · Déportée à Ravensbrück",
+  "confiance": "sure"
+ },
+ "figures-resistance_irena-sendler": {
+  "dates": "1910-2008",
+  "pays": "Pologne",
+  "action": "Sauve 2 500 enfants du ghetto de Varsovie (Żegota)",
+  "confiance": "tranchee",
+  "note": "Chiffre de 2 500 enfants traditionnel mais discuté par les historiens ; retenu car attendu en quiz."
+ },
+ "figures-resistance_raymond-aubrac": {
+  "dates": "1914-2012",
+  "pays": "France",
+  "action": "Libération-Sud · Arrêté à Caluire avec Jean Moulin, libéré par Lucie Aubrac",
+  "confiance": "sure"
+ },
+ "figures-resistance_pierre-brossolette": {
+  "dates": "1903-1944",
+  "pays": "France",
+  "action": "Mission Arquebuse-Brumaire · Se jette d'une fenêtre de la Gestapo",
+  "confiance": "sure"
+ },
+ "figures-resistance_honore-d-estienne-d-orves": {
+  "dates": "1901-1941",
+  "pays": "France",
+  "action": "Réseau Nemrod (France libre) · Fusillé au Mont-Valérien",
+  "confiance": "sure"
+ },
+ "figures-resistance_guy-moquet": {
+  "dates": "1924-1941",
+  "pays": "France",
+  "action": "Otage fusillé à Châteaubriant à 17 ans · Dernière lettre",
+  "confiance": "tranchee",
+  "note": "Arrêté en 1940 comme militant communiste, avant toute action armée ; son statut de résistant est débattu mais c'est la figure attendue."
+ },
+ "figures-resistance_danielle-casanova": {
+  "dates": "1909-1943",
+  "pays": "France",
+  "action": "Fonde l'Union des jeunes filles de France · Morte à Auschwitz",
+  "confiance": "sure"
+ },
+ "figures-resistance_berty-albrecht": {
+  "dates": "1893-1943",
+  "pays": "France",
+  "action": "Cofonde Combat avec Henri Frenay · Morte à Fresnes",
+  "confiance": "sure"
+ },
+ "figures-resistance_marie-madeleine-fourcade": {
+  "dates": "1909-1989",
+  "pays": "France",
+  "action": "Dirige le réseau Alliance (« l'Arche de Noé »)",
+  "confiance": "sure"
+ },
+ "figures-resistance_henri-frenay": {
+  "dates": "1905-1988",
+  "pays": "France",
+  "action": "Fonde le mouvement Combat",
+  "confiance": "sure"
+ },
+ "figures-resistance_genevieve-de-gaulle-anthonioz": {
+  "dates": "1920-2002",
+  "pays": "France",
+  "action": "Défense de la France · Déportée à Ravensbrück · Nièce du général",
+  "confiance": "sure"
+ },
+ "figures-resistance_colonel-fabien": {
+  "dates": "1919-1944",
+  "pays": "France",
+  "action": "Abat un militaire allemand au métro Barbès (août 1941)",
+  "confiance": "sure"
+ },
+ "figures-resistance_stephane-hessel": {
+  "dates": "1917-2013",
+  "pays": "France",
+  "action": "BCRA · Déporté à Buchenwald · Auteur d'« Indignez-vous ! »",
+  "confiance": "sure"
+ },
+ "figures-resistance_daniel-cordier": {
+  "dates": "1920-2020",
+  "pays": "France",
+  "action": "Secrétaire de Jean Moulin",
+  "confiance": "sure"
+ },
+ "figures-resistance_jean-cavailles": {
+  "dates": "1903-1944",
+  "pays": "France",
+  "action": "Cofonde Libération-Sud · Réseau Cohors · Fusillé à Arras",
+  "confiance": "sure"
+ },
+ "figures-resistance_marc-bloch": {
+  "dates": "1886-1944",
+  "pays": "France",
+  "action": "Franc-Tireur · Fusillé en 1944 · Auteur de « L'Étrange Défaite »",
+  "confiance": "sure"
+ },
+ "figures-resistance_olga-bancic": {
+  "dates": "1912-1944",
+  "pays": "France",
+  "action": "Seule femme du groupe Manouchian · Guillotinée à Stuttgart",
+  "confiance": "tranchee",
+  "note": "Roumaine d'origine, résistante en France (FTP-MOI) : pays retenu France ; jour de naissance incertain, année 1912 sûre."
+ },
+ "figures-resistance_jacques-bingen": {
+  "dates": "1908-1944",
+  "pays": "France",
+  "action": "Délégué de la France libre en zone nord · Se suicide après son arrestation",
+  "confiance": "sure"
+ },
+ "figures-resistance_claus-von-stauffenberg": {
+  "dates": "1907-1944",
+  "pays": "Allemagne",
+  "action": "Attentat du 20 juillet 1944 contre Hitler",
+  "confiance": "sure"
+ },
+ "figures-resistance_hans-scholl": {
+  "dates": "1918-1943",
+  "pays": "Allemagne",
+  "action": "Rose blanche · Exécuté en 1943",
+  "confiance": "sure"
+ },
+ "figures-resistance_witold-pilecki": {
+  "dates": "1901-1948",
+  "pays": "Pologne",
+  "action": "Se fait interner volontairement à Auschwitz pour renseigner",
+  "confiance": "sure"
+ },
+ "figures-resistance_jan-karski": {
+  "dates": "1914-2000",
+  "pays": "Pologne",
+  "action": "Courrier de l'Armia Krajowa · Alerte les Alliés sur le génocide des Juifs",
+  "confiance": "sure"
+ },
+ "figures-resistance_hannie-schaft": {
+  "dates": "1920-1945",
+  "pays": "Pays-Bas",
+  "action": "« La fille aux cheveux roux » · Fusillée en 1945",
+  "confiance": "sure"
+ },
+ "figures-resistance_nancy-wake": {
+  "dates": "1912-2011",
+  "pays": "France",
+  "action": "Agente du SOE · « La Souris blanche » · Maquis d'Auvergne",
+  "confiance": "tranchee",
+  "note": "Australienne (Néo-Zélandaise de naissance) : pays retenu France, où elle a résisté."
+ },
+ "figures-resistance_violette-szabo": {
+  "dates": "1921-1945",
+  "pays": "France",
+  "action": "Agente du SOE (section F) · Morte à Ravensbrück",
+  "confiance": "tranchee",
+  "note": "Agente britannique opérant en France : pays retenu France ; décès daté vers février 1945."
+ },
+ "figures-resistance_noor-inayat-khan": {
+  "dates": "1914-1944",
+  "pays": "France",
+  "action": "Opératrice radio du SOE à Paris · Exécutée à Dachau",
+  "confiance": "tranchee",
+  "note": "Agente britannique opérant en France : pays retenu France."
+ },
+ "figures-resistance_tom-morel": {
+  "dates": "1915-1944",
+  "pays": "France",
+  "action": "Commande le maquis des Glières",
+  "confiance": "sure"
+ },
+ "figures-resistance_pierre-de-benouville": {
+  "dates": "1914-2001",
+  "pays": "France",
+  "action": "Dirigeant du mouvement Combat",
+  "confiance": "sure"
+ },
+ "figures-resistance_josephine-baker": {
+  "dates": "1906-1975",
+  "pays": "France",
+  "action": "Contre-espionnage de la France libre · Entrée au Panthéon en 2021",
+  "confiance": "sure"
+ }
+}

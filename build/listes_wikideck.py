@@ -139,32 +139,47 @@ LISTES = {
                                         ('Fait marquant', 'fait')]),
     # Lot 6 : mythologies (ordre '-' = alphabetique sur le nom)
     'dieux-et-figures-mythologiques-grecques': dict(id='mythologie', nom='Mythologie grecque', icone='⚡', ordre=('liste', 'type', ['Olympien', 'Titan', 'Divinité primordiale', 'Divinité', 'Héros', 'Mortel', 'Nymphe', 'Muse', 'Créature']),
-        categorie='arts-culture',
+        categorie='mythologies',
         colonnes=[('Nom', None), ('Type', 'type'), ('Domaine', 'domaine'), ('Symbole', 'attribut'),
                   ('Équivalent romain', 'romain')]),
-    'mythologie-egyptienne': dict(id='mythologie_egyptienne', nom='Mythologie égyptienne', icone='☥', ordre='-', categorie='arts-culture',
+    'mythologie-egyptienne': dict(id='mythologie_egyptienne', nom='Mythologie égyptienne', icone='☥', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologie-nordique': dict(id='mythologie_nordique', nom='Mythologie nordique', icone='🪓', ordre='-', categorie='arts-culture',
+    'mythologie-nordique': dict(id='mythologie_nordique', nom='Mythologie nordique', icone='🪓', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologie-hindoue': dict(id='mythologie_hindoue', nom='Mythologie hindoue', icone='🪷', ordre='-', categorie='arts-culture',
+    'mythologie-hindoue': dict(id='mythologie_hindoue', nom='Mythologie hindoue', icone='🪷', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologie-celtique': dict(id='mythologie_celtique', nom='Mythologie celtique', icone='🍀', ordre='-', categorie='arts-culture',
+    'mythologie-celtique': dict(id='mythologie_celtique', nom='Mythologie celtique', icone='🍀', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologies-asie-est': dict(id='mythologies_asie_est', nom="Mythologies d'Asie de l'Est", icone='🐉', ordre='-', categorie='arts-culture',
+    'mythologies-asie-est': dict(id='mythologies_asie_est', nom="Mythologies d'Asie de l'Est", icone='🐉', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
     # Lot 7 : dernieres mythologies
-    'mythologies-slaves': dict(id='mythologies_slaves', nom="Mythologies slaves et baltes", icone='🌲', ordre='-', categorie='arts-culture',
+    'mythologies-slaves': dict(id='mythologies_slaves', nom="Mythologies slaves et baltes", icone='🌲', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologies-africaines': dict(id='mythologies_africaines', nom="Mythologies africaines", icone='🥁', ordre='-', categorie='arts-culture',
+    'mythologies-africaines': dict(id='mythologies_africaines', nom="Mythologies africaines", icone='🥁', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologies-mesoamericaines': dict(id='mythologies_mesoamericaines', nom="Mythologies mésoaméricaines et andines", icone='🐍', ordre='-', categorie='arts-culture',
+    'mythologies-mesoamericaines': dict(id='mythologies_mesoamericaines', nom="Mythologies mésoaméricaines et andines", icone='🐍', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologies-proche-orient': dict(id='mythologies_proche_orient', nom="Mythologies du Proche-Orient ancien", icone='🏺', ordre='-', categorie='arts-culture',
+    'mythologies-proche-orient': dict(id='mythologies_proche_orient', nom="Mythologies du Proche-Orient ancien", icone='🏺', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologies-oceanie-ameriques': dict(id='mythologies_oceanie_ameriques', nom="Mythologies océaniennes et amérindiennes", icone='🌊', ordre='-', categorie='arts-culture',
+    'mythologies-oceanie-ameriques': dict(id='mythologies_oceanie_ameriques', nom="Mythologies océaniennes et amérindiennes", icone='🌊', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
-    'mythologie-finnoise': dict(id='mythologie_finnoise', nom="Mythologie finnoise", icone='🦢', ordre='-', categorie='arts-culture',
+    'mythologie-finnoise': dict(id='mythologie_finnoise', nom="Mythologie finnoise", icone='🦢', ordre='-', categorie='mythologies',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    # Lot 8
+    'creatures-et-legendes': dict(id='creatures_legendaires', nom="Créatures légendaires", icone='🦄', ordre='-', categorie='mythologies',
+        colonnes=[('Créature', None), ('Origine', 'origine'), ('Description', 'description')]),
+    'lieux-legendaires': dict(id='lieux_legendaires', nom="Lieux légendaires", icone='🏰', ordre='-', categorie='mythologies',
+        colonnes=[('Lieu', None), ('Tradition ou œuvre', 'origine'), ('Description', 'description')]),
+    'objets-mythiques': dict(id='objets_mythiques', nom="Objets mythiques", icone='🗡️', ordre='-', categorie='mythologies',
+        colonnes=[('Objet', None), ('Tradition', 'origine'), ('Pouvoir ou rôle', 'role'), ('Possesseur', 'possesseur')]),
+    'evenements-mythiques': dict(id='evenements_mythiques', nom="Événements mythiques", icone='🌋', ordre='-', categorie='mythologies',
+        colonnes=[('Événement', None), ('Tradition', 'origine'), ('Description', 'description')]),
+    'figures-emancipation': dict(id='figures_emancipation', nom="Figures de l'émancipation", icone='✊', ordre=('chrono', 'dates'), categorie='histoire',
+        colonnes=[('Nom', None), ('Dates', 'dates'), ('Pays', 'pays'), ('Combat', 'combat')]),
+    'figures-resistance': dict(id='figures_resistance', nom="Figures de la Résistance", icone='🕯️', ordre=('chrono', 'dates'), categorie='histoire',
+        colonnes=[('Nom', None), ('Dates', 'dates'), ('Pays', 'pays'), ('Action', 'action')]),
+    'dirigeants-contemporains': dict(id='dirigeants_contemporains', nom="Dirigeants contemporains", icone='🎖️', ordre=('chrono', 'mandat'), categorie='histoire',
+        colonnes=[('Nom', None), ('Pays', 'pays'), ('Fonction', 'fonction'), ('Au pouvoir', 'mandat')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -226,7 +241,7 @@ def sans_accents(texte):
 def nom_affiche(c):
     # une fiche peut imposer son nom (cle « nom ») quand la carte se trompe de sujet
     # « Ophélie (Millais) » garde sa precision ; « Ratatouille (plat) » la perd
-    return re.sub(r' \((plat|gâteau|peinture|tableau|roman|peintre|philosophe|île|opéra|ballet|comédie musicale|suites|mythologie grecque|mythologie|arme|navigation|informatique|langue|monnaie|sonde|satellite|roi|apôtre|déesse|dieu)\)$', '', c['nom'])
+    return re.sub(r' \((plat|gâteau|peinture|tableau|roman|peintre|philosophe|île|opéra|ballet|comédie musicale|suites|mythologie grecque|mythologie|arme|navigation|informatique|langue|monnaie|sonde|satellite|roi|apôtre|déesse|dieu|folklore|créature|légende)\)$', '', c['nom'])
 
 
 def recadrer(c, cadrages):

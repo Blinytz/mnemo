@@ -1,0 +1,521 @@
+{
+ "dirigeants-contemporains_abraham-lincoln": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1861-1865",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_otto-von-bismarck": {
+  "pays": "Royaume de Prusse · Empire allemand",
+  "fonction": "Chancelier de l'Empire allemand",
+  "mandat": "1871-1890",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_mohandas-karamchand-gandhi": {
+  "pays": "Inde (Raj britannique)",
+  "fonction": "Chef du mouvement pour l'indépendance de l'Inde",
+  "mandat": "1915-1947",
+  "confiance": "tranchee",
+  "note": "Période d'action : du retour d'Afrique du Sud (1915) à l'indépendance (1947)"
+ },
+ "dirigeants-contemporains_chaka-roi-zoulou": {
+  "pays": "Royaume zoulou",
+  "fonction": "Roi des Zoulous",
+  "mandat": "1816-1828",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_haile-selassie-ier": {
+  "pays": "Éthiopie",
+  "fonction": "Empereur d'Éthiopie",
+  "mandat": "1930-1974",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_victoria-reine": {
+  "pays": "Royaume-Uni",
+  "fonction": "Reine du Royaume-Uni",
+  "mandat": "1837-1901",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_simon-bolivar": {
+  "pays": "Grande Colombie",
+  "fonction": "Président de la Grande Colombie",
+  "mandat": "1819-1830",
+  "confiance": "tranchee",
+  "note": "Aussi président de la Bolivie (1825) et dirigeant du Pérou (1824-1826)"
+ },
+ "dirigeants-contemporains_pierre-ii-empereur-du-bresil": {
+  "pays": "Empire du Brésil",
+  "fonction": "Empereur du Brésil",
+  "mandat": "1831-1889",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_george-washington": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1789-1797",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_maximilien-de-robespierre": {
+  "pays": "France (Première République)",
+  "fonction": "Membre du Comité de salut public",
+  "mandat": "1793-1794",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_toussaint-louverture": {
+  "pays": "Saint-Domingue",
+  "fonction": "Gouverneur de Saint-Domingue",
+  "mandat": "1801-1802",
+  "confiance": "tranchee",
+  "note": "Chef de la révolte dès 1791, général en chef en 1797, gouverneur à vie par la constitution de 1801"
+ },
+ "dirigeants-contemporains_giuseppe-garibaldi": {
+  "pays": "Italie",
+  "fonction": "Général du Risorgimento",
+  "mandat": "1848-1867",
+  "confiance": "tranchee",
+  "note": "Période des campagnes italiennes, de 1848 à Mentana ; l'expédition des Mille date de 1860"
+ },
+ "dirigeants-contemporains_sun-yat-sen": {
+  "pays": "République de Chine",
+  "fonction": "Président provisoire de la République de Chine",
+  "mandat": "1912",
+  "confiance": "tranchee",
+  "note": "Dirige ensuite le gouvernement de Canton par intermittence jusqu'en 1925"
+ },
+ "dirigeants-contemporains_napoleon-iii": {
+  "pays": "France (Second Empire)",
+  "fonction": "Empereur des Français",
+  "mandat": "1852-1870",
+  "confiance": "tranchee",
+  "note": "Auparavant président de la République de 1848 à 1852"
+ },
+ "dirigeants-contemporains_guillaume-ii-roi-des-pays-bas": {
+  "pays": "Pays-Bas",
+  "fonction": "Roi des Pays-Bas",
+  "mandat": "1840-1849",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_francois-joseph-ier": {
+  "pays": "Empire d'Autriche · Autriche-Hongrie",
+  "fonction": "Empereur d'Autriche",
+  "mandat": "1848-1916",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_nicolas-ii": {
+  "pays": "Empire russe",
+  "fonction": "Empereur de Russie",
+  "mandat": "1894-1917",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_leopold-ii-empereur-du-saint-empire": {
+  "pays": "Saint-Empire romain germanique",
+  "fonction": "Empereur du Saint-Empire",
+  "mandat": "1790-1792",
+  "confiance": "sure",
+  "nom": "Léopold II (Saint-Empire)"
+ },
+ "dirigeants-contemporains_georges-clemenceau": {
+  "pays": "France",
+  "fonction": "Président du Conseil",
+  "mandat": "1906-1909 · 1917-1920",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_vladimir-ilitch-lenine": {
+  "pays": "Russie soviétique · Union soviétique",
+  "fonction": "Président du Conseil des commissaires du peuple",
+  "mandat": "1917-1924",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_joseph-staline": {
+  "pays": "Union soviétique",
+  "fonction": "Dirigeant de l'Union soviétique",
+  "mandat": "1924-1953",
+  "confiance": "tranchee",
+  "note": "Secrétaire général du Parti dès 1922 ; seul maître du pays après la mort de Lénine (1924)"
+ },
+ "dirigeants-contemporains_adolf-hitler": {
+  "pays": "Allemagne (Troisième Reich)",
+  "fonction": "Chancelier puis Führer",
+  "mandat": "1933-1945",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_benito-mussolini": {
+  "pays": "Royaume d'Italie",
+  "fonction": "Président du Conseil",
+  "mandat": "1922-1943",
+  "confiance": "tranchee",
+  "note": "Puis chef de la République sociale italienne de 1943 à 1945"
+ },
+ "dirigeants-contemporains_francisco-franco": {
+  "pays": "Espagne",
+  "fonction": "Chef de l'État espagnol (Caudillo)",
+  "mandat": "1939-1975",
+  "confiance": "tranchee",
+  "note": "Chef de l'État dans le camp nationaliste dès octobre 1936 ; 1939 marque la fin de la guerre civile"
+ },
+ "dirigeants-contemporains_hirohito": {
+  "pays": "Japon",
+  "fonction": "Empereur du Japon",
+  "mandat": "1926-1989",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_winston-churchill": {
+  "pays": "Royaume-Uni",
+  "fonction": "Premier ministre",
+  "mandat": "1940-1945 · 1951-1955",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_theodore-roosevelt": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1901-1909",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_woodrow-wilson": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1913-1921",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_franklin-delano-roosevelt": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1933-1945",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_harry-s-truman": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1945-1953",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_dwight-d-eisenhower": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1953-1961",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_john-fitzgerald-kennedy": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1961-1963",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_meiji-empereur": {
+  "pays": "Empire du Japon",
+  "fonction": "Empereur du Japon",
+  "mandat": "1867-1912",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_cixi": {
+  "pays": "Empire chinois (dynastie Qing)",
+  "fonction": "Impératrice douairière et régente",
+  "mandat": "1861-1908",
+  "confiance": "tranchee",
+  "note": "Pouvoir exercé en régence ou en coulisse, avec des interruptions formelles"
+ },
+ "dirigeants-contemporains_mao-zedong": {
+  "pays": "République populaire de Chine",
+  "fonction": "Président du Parti communiste chinois",
+  "mandat": "1949-1976",
+  "confiance": "tranchee",
+  "note": "Mandat compté depuis la proclamation de la République populaire ; chef du Parti dès 1943, chef de l'État 1949-1959"
+ },
+ "dirigeants-contemporains_tchang-kai-chek": {
+  "pays": "République de Chine",
+  "fonction": "Président de la République de Chine",
+  "mandat": "1928-1931 · 1943-1949 · 1950-1975",
+  "confiance": "tranchee",
+  "note": "Président du gouvernement nationaliste puis de la République ; à Taïwan à partir de 1950"
+ },
+ "dirigeants-contemporains_ho-chi-minh": {
+  "pays": "Viêt Nam (Nord)",
+  "fonction": "Président de la République démocratique du Viêt Nam",
+  "mandat": "1945-1969",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_deng-xiaoping": {
+  "pays": "République populaire de Chine",
+  "fonction": "Dirigeant suprême de la Chine",
+  "mandat": "1978-1989",
+  "confiance": "tranchee",
+  "note": "Sans être chef de l'État ; quitte sa dernière fonction officielle (Commission militaire centrale) en 1989"
+ },
+ "dirigeants-contemporains_mustafa-kemal-ataturk": {
+  "pays": "Turquie",
+  "fonction": "Président de la République de Turquie",
+  "mandat": "1923-1938",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_gamal-abdel-nasser": {
+  "pays": "Égypte",
+  "fonction": "Président de l'Égypte",
+  "mandat": "1956-1970",
+  "confiance": "tranchee",
+  "note": "Dirigeant de fait dès 1954"
+ },
+ "dirigeants-contemporains_kwame-nkrumah": {
+  "pays": "Ghana",
+  "fonction": "Premier ministre puis président du Ghana",
+  "mandat": "1957-1966",
+  "confiance": "tranchee",
+  "note": "Chef du gouvernement de la Côte-de-l'Or dès 1952 ; président de 1960 à 1966"
+ },
+ "dirigeants-contemporains_patrice-lumumba": {
+  "pays": "République du Congo (Léopoldville)",
+  "fonction": "Premier ministre",
+  "mandat": "1960",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_thomas-sankara": {
+  "pays": "Haute-Volta · Burkina Faso",
+  "fonction": "Président du Burkina Faso",
+  "mandat": "1983-1987",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_nelson-mandela": {
+  "pays": "Afrique du Sud",
+  "fonction": "Président de l'Afrique du Sud",
+  "mandat": "1994-1999",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_menelik-ii": {
+  "pays": "Éthiopie",
+  "fonction": "Empereur d'Éthiopie",
+  "mandat": "1889-1913",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_david-ben-gourion": {
+  "pays": "Israël",
+  "fonction": "Premier ministre",
+  "mandat": "1948-1954 · 1955-1963",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_charles-de-gaulle": {
+  "pays": "France",
+  "fonction": "Président de la République",
+  "mandat": "1959-1969",
+  "confiance": "tranchee",
+  "note": "Auparavant chef du Gouvernement provisoire (1944-1946)"
+ },
+ "dirigeants-contemporains_fidel-castro": {
+  "pays": "Cuba",
+  "fonction": "Premier ministre puis président de Cuba",
+  "mandat": "1959-2008",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_jawaharlal-nehru": {
+  "pays": "Inde",
+  "fonction": "Premier ministre",
+  "mandat": "1947-1964",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_indira-gandhi": {
+  "pays": "Inde",
+  "fonction": "Première ministre",
+  "mandat": "1966-1977 · 1980-1984",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_pol-pot": {
+  "pays": "Kampuchéa démocratique (Cambodge)",
+  "fonction": "Dirigeant des Khmers rouges",
+  "mandat": "1975-1979",
+  "confiance": "tranchee",
+  "note": "Premier ministre en titre de 1976 à 1979 ; chef du parti dès 1963"
+ },
+ "dirigeants-contemporains_golda-meir": {
+  "pays": "Israël",
+  "fonction": "Première ministre",
+  "mandat": "1969-1974",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_margaret-thatcher": {
+  "pays": "Royaume-Uni",
+  "fonction": "Première ministre",
+  "mandat": "1979-1990",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_ronald-reagan": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1981-1989",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_mikhail-gorbatchev": {
+  "pays": "Union soviétique",
+  "fonction": "Secrétaire général du Parti communiste puis président de l'URSS",
+  "mandat": "1985-1991",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_juan-peron": {
+  "pays": "Argentine",
+  "fonction": "Président de l'Argentine",
+  "mandat": "1946-1955 · 1973-1974",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_klemens-wenzel-von-metternich": {
+  "pays": "Empire d'Autriche",
+  "fonction": "Ministre des Affaires étrangères puis chancelier",
+  "mandat": "1809-1848",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_charles-maurice-de-talleyrand-perigord": {
+  "pays": "France",
+  "fonction": "Ministre des Affaires étrangères",
+  "mandat": "1797-1807 · 1814-1815",
+  "confiance": "tranchee",
+  "note": "Brève interruption en 1799 ; président du Conseil en 1815"
+ },
+ "dirigeants-contemporains_camillo-cavour": {
+  "pays": "Royaume de Sardaigne · Royaume d'Italie",
+  "fonction": "Président du Conseil",
+  "mandat": "1852-1859 · 1860-1861",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_louis-philippe-ier": {
+  "pays": "France (monarchie de Juillet)",
+  "fonction": "Roi des Français",
+  "mandat": "1830-1848",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_alexandre-ii-empereur-de-russie": {
+  "pays": "Empire russe",
+  "fonction": "Empereur de Russie",
+  "mandat": "1855-1881",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_thomas-jefferson": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1801-1809",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_benito-juarez": {
+  "pays": "Mexique",
+  "fonction": "Président du Mexique",
+  "mandat": "1858-1872",
+  "confiance": "tranchee",
+  "note": "Président par intérim dès 1858, élu en 1861 ; pouvoir contesté pendant l'intervention française"
+ },
+ "dirigeants-contemporains_josip-broz-tito": {
+  "pays": "Yougoslavie",
+  "fonction": "Premier ministre puis président de la Yougoslavie",
+  "mandat": "1945-1980",
+  "confiance": "tranchee",
+  "note": "Chef du gouvernement dès 1945, président de 1953 à sa mort"
+ },
+ "dirigeants-contemporains_antonio-de-oliveira-salazar": {
+  "pays": "Portugal",
+  "fonction": "Président du Conseil",
+  "mandat": "1932-1968",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_konrad-adenauer": {
+  "pays": "Allemagne de l'Ouest (RFA)",
+  "fonction": "Chancelier fédéral",
+  "mandat": "1949-1963",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_willy-brandt": {
+  "pays": "Allemagne de l'Ouest (RFA)",
+  "fonction": "Chancelier fédéral",
+  "mandat": "1969-1974",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_helmut-kohl": {
+  "pays": "Allemagne de l'Ouest (RFA) · Allemagne réunifiée",
+  "fonction": "Chancelier fédéral",
+  "mandat": "1982-1998",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_francois-mitterrand": {
+  "pays": "France",
+  "fonction": "Président de la République",
+  "mandat": "1981-1995",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_boris-eltsine": {
+  "pays": "Russie",
+  "fonction": "Président de la Fédération de Russie",
+  "mandat": "1991-1999",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_richard-nixon": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "1969-1974",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_barack-obama": {
+  "pays": "États-Unis",
+  "fonction": "Président des États-Unis",
+  "mandat": "2009-2017",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_salvador-allende": {
+  "pays": "Chili",
+  "fonction": "Président du Chili",
+  "mandat": "1970-1973",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_augusto-pinochet": {
+  "pays": "Chili",
+  "fonction": "Chef de la junte puis président du Chili",
+  "mandat": "1973-1990",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_rouhollah-khomeini": {
+  "pays": "Iran",
+  "fonction": "Guide de la révolution",
+  "mandat": "1979-1989",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_saddam-hussein": {
+  "pays": "Irak",
+  "fonction": "Président de l'Irak",
+  "mandat": "1979-2003",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_mouammar-kadhafi": {
+  "pays": "Libye",
+  "fonction": "Guide de la révolution",
+  "mandat": "1969-2011",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_anouar-el-sadate": {
+  "pays": "Égypte",
+  "fonction": "Président de l'Égypte",
+  "mandat": "1970-1981",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_yasser-arafat": {
+  "pays": "Palestine",
+  "fonction": "Président de l'OLP puis de l'Autorité palestinienne",
+  "mandat": "1969-2004",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_kim-il-sung": {
+  "pays": "Corée du Nord",
+  "fonction": "Premier ministre puis président de la Corée du Nord",
+  "mandat": "1948-1994",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_lee-kuan-yew": {
+  "pays": "Singapour",
+  "fonction": "Premier ministre",
+  "mandat": "1959-1990",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_soekarno": {
+  "pays": "Indonésie",
+  "fonction": "Président de l'Indonésie",
+  "mandat": "1945-1967",
+  "confiance": "sure"
+ },
+ "dirigeants-contemporains_leopold-sedar-senghor": {
+  "pays": "Sénégal",
+  "fonction": "Président du Sénégal",
+  "mandat": "1960-1980",
+  "confiance": "sure"
+ }
+}

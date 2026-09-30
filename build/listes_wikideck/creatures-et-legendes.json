@@ -1,0 +1,274 @@
+{
+ "creatures-et-legendes_dragon-europeen": {
+  "origine": "Folklore européen",
+  "description": "Reptile ailé cracheur de feu gardant un trésor",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_dragon-oriental": {
+  "origine": "Mythologie chinoise",
+  "description": "Long serpent sans ailes, bienfaisant, maître des eaux et de la pluie",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_phenix": {
+  "origine": "Mythologie grecque (inspirée de l'Égypte)",
+  "description": "Oiseau qui renaît de ses cendres",
+  "confiance": "tranchee",
+  "note": "Mythe grec dérivé de l'oiseau Bénou égyptien ; on retient la mythologie grecque, attendue en quiz, en signalant l'Égypte"
+ },
+ "creatures-et-legendes_licorne": {
+  "origine": "Folklore européen",
+  "description": "Cheval blanc à corne unique au front",
+  "confiance": "tranchee",
+  "note": "Origine controversée (Ctésias, Inde, bestiaires) ; on retient l'Europe médiévale, cadre de l'image attendue"
+ },
+ "creatures-et-legendes_griffon-mythologie": {
+  "origine": "Antiquité (Proche-Orient et Grèce)",
+  "description": "Corps de lion, tête et ailes d'aigle",
+  "confiance": "tranchee",
+  "note": "Présent dans plusieurs cultures anciennes ; on retient l'Antiquité proche-orientale et grecque"
+ },
+ "creatures-et-legendes_kraken": {
+  "origine": "Folklore scandinave",
+  "description": "Pieuvre géante qui engloutit les navires",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_sirene-mythologie-grecque": {
+  "origine": "Mythologie grecque · Folklore européen",
+  "description": "Femme à queue de poisson dont le chant envoûte les marins",
+  "confiance": "tranchee",
+  "note": "Image vérifiée : femme à queue de poisson ; la sirène grecque était une femme-oiseau, la forme poisson vient du folklore médiéval"
+ },
+ "creatures-et-legendes_lycanthrope": {
+  "origine": "Folklore européen",
+  "description": "Homme changé en loup les nuits de pleine lune",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_vampire": {
+  "origine": "Folklore d'Europe de l'Est",
+  "description": "Mort-vivant qui se nourrit du sang des vivants",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_golem": {
+  "origine": "Tradition juive",
+  "description": "Être d'argile animé par un mot sacré",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_yeti": {
+  "origine": "Himalaya (Népal, Tibet)",
+  "description": "Abominable homme des neiges",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_bigfoot": {
+  "origine": "Amérique du Nord",
+  "description": "Grand primate velu des forêts, dit Sasquatch",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_monstre-du-loch-ness": {
+  "origine": "Écosse",
+  "description": "Monstre lacustre au long cou surnommé Nessie",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_chupacabra": {
+  "origine": "Porto Rico (Amérique latine)",
+  "description": "Bête qui suce le sang des chèvres",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_homme-papillon": {
+  "origine": "États-Unis (Virginie-Occidentale)",
+  "description": "Homme ailé aux yeux rouges vu à Point Pleasant",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_basilic-mythologie": {
+  "origine": "Antiquité gréco-romaine",
+  "description": "Roi des serpents qui tue d'un seul regard",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_salamandre-animal-legendaire": {
+  "origine": "Folklore européen (alchimie)",
+  "description": "Lézard qui vit dans le feu sans brûler",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_rokh": {
+  "origine": "Les Mille et Une Nuits",
+  "description": "Oiseau géant capable d'enlever un éléphant",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_fee": {
+  "origine": "Folklore européen",
+  "description": "Être féminin magique qui accorde des dons",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_elfe": {
+  "origine": "Mythologie nordique",
+  "description": "Être lumineux des forêts d'une grande beauté",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_gobelin-folklore": {
+  "origine": "Folklore médiéval européen",
+  "description": "Petite créature laide et malicieuse",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_ogre": {
+  "origine": "Contes populaires européens",
+  "description": "Géant qui dévore les enfants",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_bete-du-gevaudan": {
+  "origine": "France (Gévaudan, XVIIIe siècle)",
+  "description": "Bête tueuse qui terrorisa le Gévaudan de 1764 à 1767",
+  "confiance": "tranchee",
+  "note": "Animal réel (canidé) devenu légende ; on retient l'origine géographique et historique"
+ },
+ "creatures-et-legendes_tarasque": {
+  "origine": "Légende provençale (Tarascon)",
+  "description": "Monstre amphibie dompté par sainte Marthe",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_manticore": {
+  "origine": "Mythologie perse",
+  "description": "Lion à tête d'homme et queue de scorpion",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_cocatrix": {
+  "origine": "Bestiaires médiévaux européens",
+  "description": "Coq à queue de serpent qui tue du regard",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_hippogriffe": {
+  "origine": "Arioste (Roland furieux)",
+  "description": "Mi-cheval, mi-aigle",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_leviathan": {
+  "origine": "Bible",
+  "description": "Monstre marin colossal",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_behemoth": {
+  "origine": "Bible (Job)",
+  "description": "Monstre terrestre colossal",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_djinn": {
+  "origine": "Mythologie arabe préislamique",
+  "description": "Esprit fait de feu, génie des contes arabes",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_goule": {
+  "origine": "Folklore arabe préislamique",
+  "description": "Démon mangeur de cadavres qui hante les cimetières",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_bunyip": {
+  "origine": "Mythologie aborigène (Australie)",
+  "description": "Monstre des marais et des points d'eau",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_diable-de-jersey": {
+  "origine": "États-Unis (New Jersey)",
+  "description": "Créature ailée à tête de cheval et sabots des Pine Barrens",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_mokele-mbembe": {
+  "origine": "Bassin du Congo",
+  "description": "Cryptide semblable à un dinosaure sauropode",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_korrigan": {
+  "origine": "Folklore breton",
+  "description": "Lutin qui danse la nuit autour des menhirs",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_zombie": {
+  "origine": "Vaudou haïtien",
+  "description": "Mort ramené à la vie et asservi",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_momie": {
+  "origine": "Égypte antique",
+  "description": "Cadavre embaumé revenu à la vie",
+  "confiance": "tranchee",
+  "note": "L'article traite du corps embaumé réel ; on retient la créature du fantastique, attendue dans cette collection"
+ },
+ "creatures-et-legendes_gnome": {
+  "origine": "Folklore européen (Paracelse)",
+  "description": "Petit esprit de la terre gardien des trésors souterrains",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_melusine-fee": {
+  "origine": "Légende poitevine (médiévale)",
+  "description": "Fée qui devient mi-serpent le samedi",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_sorciere": {
+  "origine": "Folklore européen",
+  "description": "Femme pratiquant la magie, montée sur un balai",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_fantome": {
+  "origine": "Croyances universelles",
+  "description": "Esprit d'un mort qui apparaît aux vivants",
+  "confiance": "tranchee",
+  "note": "Croyance présente dans presque toutes les cultures ; pas d'origine unique"
+ },
+ "creatures-et-legendes_nain-creature-fantastique": {
+  "origine": "Mythologie nordique",
+  "description": "Petit forgeron barbu vivant sous terre",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_geant-mythologie": {
+  "origine": "Mythologie grecque · Mythologie nordique",
+  "description": "Humanoïde de taille colossale",
+  "confiance": "tranchee",
+  "note": "Figure présente dans de nombreuses traditions ; on retient les deux plus citées (Gigantes, Jötnar)"
+ },
+ "creatures-et-legendes_vouivre": {
+  "origine": "Héraldique et folklore britanniques",
+  "description": "Dragon à deux pattes et deux ailes",
+  "confiance": "tranchee",
+  "note": "Carte « Wyvern » pointant vers l'article Vouivre (folklore français, serpent ailé à escarboucle) ; la fiche suit le nom de la carte"
+ },
+ "creatures-et-legendes_croque-mitaine": {
+  "origine": "Folklore européen",
+  "description": "Monstre qui effraie les enfants désobéissants",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_dahu": {
+  "origine": "Montagnes françaises et suisses (Alpes, Jura)",
+  "description": "Animal aux pattes plus courtes d'un côté",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_dame-blanche-legende": {
+  "origine": "Folklore européen",
+  "description": "Apparition féminine vêtue de blanc",
+  "confiance": "tranchee",
+  "note": "Mythes de natures diverses ; on retient le fantôme féminin, souvent auto-stoppeuse au bord des routes"
+ },
+ "creatures-et-legendes_demon-esprit": {
+  "origine": "Religions et mythologies (grec daímōn)",
+  "description": "Esprit malfaisant ou tentateur",
+  "confiance": "tranchee",
+  "note": "Le daímōn grec pouvait être bienfaisant ; on retient le sens moderne, attendu en quiz"
+ },
+ "creatures-et-legendes_lutin": {
+  "origine": "Folklore français",
+  "description": "Petit être nocturne et farceur",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_serpent-de-mer": {
+  "origine": "Légendes marines (Scandinavie)",
+  "description": "Serpent géant des océans",
+  "confiance": "tranchee",
+  "note": "Figure présente dans plusieurs cultures maritimes ; on retient la Scandinavie (Jörmungandr, Pontoppidan)"
+ },
+ "creatures-et-legendes_succube": {
+  "origine": "Démonologie judéo-chrétienne",
+  "description": "Démon féminin qui séduit les hommes dans leur sommeil",
+  "confiance": "sure"
+ },
+ "creatures-et-legendes_lamia-mythologie": {
+  "origine": "Mythologie grecque",
+  "description": "Reine changée en monstre dévoreur d'enfants",
+  "confiance": "sure"
+ }
+}
