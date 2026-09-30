@@ -1,0 +1,407 @@
+{
+ "traites-et-textes-fondateurs_code-de-hammurabi": {
+  "date": "vers 1750 av. J.-C.",
+  "signataires": "Hammurabi, roi de Babylone",
+  "objet": "Recueil de lois babyloniennes gravé sur une stèle",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_magna-carta": {
+  "date": "15 juin 1215",
+  "signataires": "Jean sans Terre · barons anglais",
+  "objet": "Limite le pouvoir du roi d'Angleterre",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_edit-de-nantes": {
+  "date": "13 avril 1598",
+  "signataires": "Henri IV",
+  "objet": "Tolérance religieuse envers les protestants",
+  "confiance": "tranchee",
+  "note": "Date traditionnelle ; des historiens retiennent le 30 avril 1598"
+ },
+ "traites-et-textes-fondateurs_traites-de-westphalie": {
+  "date": "24 octobre 1648",
+  "signataires": "Saint-Empire · France · Suède · Espagne · Provinces-Unies",
+  "objet": "Met fin à la guerre de Trente Ans et à la guerre de Quatre-Vingts Ans",
+  "confiance": "tranchee",
+  "note": "Date des traités de Münster et d'Osnabrück ; la paix hispano-néerlandaise de Münster date du 30 janvier 1648"
+ },
+ "traites-et-textes-fondateurs_declaration-d-independance-des-etats-unis": {
+  "date": "4 juillet 1776",
+  "signataires": "Congrès continental · Thomas Jefferson (rédacteur)",
+  "objet": "Proclame l'indépendance des treize colonies américaines",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_constitution-des-etats-unis": {
+  "date": "17 septembre 1787",
+  "signataires": "Convention de Philadelphie",
+  "objet": "Fonde le gouvernement fédéral des États-Unis",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_declaration-des-droits-de-l-homme-et-du-citoyen-de-1789": {
+  "date": "26 août 1789",
+  "signataires": "Assemblée nationale constituante",
+  "objet": "Énonce les droits naturels et la souveraineté nationale",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_code-civil-france": {
+  "date": "21 mars 1804",
+  "signataires": "Napoléon Bonaparte",
+  "objet": "Unifie le droit civil français",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-versailles": {
+  "date": "28 juin 1919",
+  "signataires": "Allemagne · Alliés",
+  "objet": "Met fin à la Première Guerre mondiale",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_charte-des-nations-unies": {
+  "date": "26 juin 1945",
+  "signataires": "50 États réunis à San Francisco",
+  "objet": "Crée l'Organisation des Nations unies",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_declaration-universelle-des-droits-de-l-homme": {
+  "date": "10 décembre 1948",
+  "signataires": "Assemblée générale des Nations unies",
+  "objet": "Proclame les droits fondamentaux de tout être humain",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_conventions-de-geneve": {
+  "date": "12 août 1949",
+  "signataires": "États réunis à Genève",
+  "objet": "Protègent blessés, prisonniers et civils en temps de guerre",
+  "confiance": "tranchee",
+  "note": "Date des quatre conventions actuelles ; la première convention date du 22 août 1864"
+ },
+ "traites-et-textes-fondateurs_traite-instituant-la-communaute-economique-europeenne": {
+  "date": "25 mars 1957",
+  "signataires": "RFA · France · Italie · Belgique · Pays-Bas · Luxembourg",
+  "objet": "Crée la Communauté économique européenne",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-maastricht": {
+  "date": "7 février 1992",
+  "signataires": "Les douze États de la CEE",
+  "objet": "Crée l'Union européenne et prévoit la monnaie unique",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accords-de-camp-david": {
+  "date": "17 septembre 1978",
+  "signataires": "Anouar el-Sadate · Menahem Begin · Jimmy Carter (médiateur)",
+  "objet": "Prépare la paix entre l'Égypte et Israël",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accord-de-paris-sur-le-climat": {
+  "date": "12 décembre 2015",
+  "signataires": "Parties à la convention climat de l'ONU (COP21)",
+  "objet": "Contenir le réchauffement nettement sous 2 °C",
+  "confiance": "tranchee",
+  "note": "Date d'adoption à la COP21 ; signature ouverte le 22 avril 2016"
+ },
+ "traites-et-textes-fondateurs_protocole-de-kyoto": {
+  "date": "11 décembre 1997",
+  "signataires": "Parties à la convention climat de l'ONU (COP3)",
+  "objet": "Réduire les émissions de gaz à effet de serre des pays industrialisés",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-tordesillas": {
+  "date": "7 juin 1494",
+  "signataires": "Rois catholiques d'Espagne · Jean II de Portugal",
+  "objet": "Partage le Nouveau Monde entre l'Espagne et le Portugal",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_actes-de-navigation": {
+  "date": "9 octobre 1651",
+  "signataires": "Parlement d'Angleterre (Cromwell)",
+  "objet": "Réserve le commerce anglais aux navires anglais",
+  "confiance": "tranchee",
+  "note": "Date du premier acte ; la série court de 1651 à 1849"
+ },
+ "traites-et-textes-fondateurs_traite-sur-l-antarctique": {
+  "date": "1er décembre 1959",
+  "signataires": "12 États, dont États-Unis et URSS",
+  "objet": "Réserve l'Antarctique à des usages pacifiques et scientifiques",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-sur-la-non-proliferation-des-armes-nucleaires": {
+  "date": "1er juillet 1968",
+  "signataires": "États-Unis · Royaume-Uni · URSS, puis la plupart des États",
+  "objet": "Limite la prolifération des armes nucléaires",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_convention-de-vienne-sur-le-droit-des-traites": {
+  "date": "23 mai 1969",
+  "signataires": "Conférence des Nations unies à Vienne",
+  "objet": "Codifie les règles de conclusion et d'application des traités",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_charte-des-droits-de-1689": {
+  "date": "16 décembre 1689",
+  "signataires": "Parlement anglais · Guillaume III et Marie II",
+  "objet": "Limite le pouvoir royal et garantit les droits du Parlement",
+  "confiance": "tranchee",
+  "note": "Date de la loi ; la Déclaration des droits fut présentée aux souverains le 13 février 1689"
+ },
+ "traites-et-textes-fondateurs_habeas-corpus": {
+  "date": "27 mai 1679",
+  "signataires": "Parlement anglais · Charles II",
+  "objet": "Interdit la détention arbitraire sans jugement",
+  "confiance": "tranchee",
+  "note": "Habeas Corpus Act de 1679 retenu ; l'article décrit la notion juridique, plus ancienne"
+ },
+ "traites-et-textes-fondateurs_edit-de-milan": {
+  "date": "313",
+  "signataires": "Constantin Ier · Licinius",
+  "objet": "Accorde la liberté de culte aux chrétiens",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-verdun": {
+  "date": "août 843",
+  "signataires": "Lothaire Ier · Louis le Germanique · Charles le Chauve",
+  "objet": "Partage l'Empire carolingien en trois royaumes",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-troyes": {
+  "date": "21 mai 1420",
+  "signataires": "Henri V d'Angleterre · Charles VI de France",
+  "objet": "Fait d'Henri V l'héritier du trône de France",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_paix-d-augsbourg": {
+  "date": "25 septembre 1555",
+  "signataires": "Ferdinand Ier (pour Charles Quint) · princes luthériens",
+  "objet": "Chaque prince choisit la religion de ses sujets (cujus regio, ejus religio)",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_congres-de-vienne": {
+  "date": "9 juin 1815",
+  "signataires": "Autriche · Royaume-Uni · Prusse · Russie · France",
+  "objet": "Réorganise l'Europe après la chute de Napoléon",
+  "confiance": "tranchee",
+  "note": "Date de l'Acte final ; le congrès siège de septembre 1814 à juin 1815"
+ },
+ "traites-et-textes-fondateurs_convention-relative-aux-droits-de-l-enfant": {
+  "date": "20 novembre 1989",
+  "signataires": "Assemblée générale des Nations unies",
+  "objet": "Reconnaît les droits propres de l'enfant",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_charte-du-manden": {
+  "date": "1236",
+  "signataires": "Soundiata Keïta",
+  "objet": "Proclame des droits fondamentaux dans l'Empire du Mali",
+  "confiance": "tranchee",
+  "note": "Tradition orale ; la date de 1236 (Kouroukan Fouga) est la plus citée, 1222 est parfois avancé"
+ },
+ "traites-et-textes-fondateurs_traite-de-paris-1783": {
+  "date": "3 septembre 1783",
+  "signataires": "États-Unis · Grande-Bretagne",
+  "objet": "Reconnaît l'indépendance des États-Unis",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traites-d-utrecht": {
+  "date": "11 avril 1713",
+  "signataires": "France · Grande-Bretagne · Provinces-Unies · Espagne",
+  "objet": "Met fin à la guerre de Succession d'Espagne",
+  "confiance": "tranchee",
+  "note": "Date des principaux traités ; la série s'étend de 1713 à 1715"
+ },
+ "traites-et-textes-fondateurs_traite-de-brest-litovsk": {
+  "date": "3 mars 1918",
+  "signataires": "Russie bolchevique · Empires centraux",
+  "objet": "Sort la Russie de la Première Guerre mondiale",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-paix-egypto-hittite": {
+  "date": "vers 1259 av. J.-C.",
+  "signataires": "Ramsès II · Hattusili III",
+  "objet": "Plus ancien traité de paix connu, entre l'Égypte et les Hittites",
+  "confiance": "tranchee",
+  "note": "Date selon la chronologie la plus courante ; d'autres placent le traité vers 1269 av. J.-C."
+ },
+ "traites-et-textes-fondateurs_accords-de-munich": {
+  "date": "30 septembre 1938",
+  "signataires": "Hitler · Chamberlain · Daladier · Mussolini",
+  "objet": "Cède les Sudètes tchécoslovaques à l'Allemagne",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_pacte-germano-sovietique": {
+  "date": "23 août 1939",
+  "signataires": "Joachim von Ribbentrop · Viatcheslav Molotov",
+  "objet": "Non-agression et partage secret de l'Europe de l'Est",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_conference-de-yalta": {
+  "date": "11 février 1945",
+  "signataires": "Roosevelt · Churchill · Staline",
+  "objet": "Organise l'Europe et le monde d'après-guerre",
+  "confiance": "tranchee",
+  "note": "Conférence du 4 au 11 février 1945 ; date de la signature des accords"
+ },
+ "traites-et-textes-fondateurs_accords-d-evian": {
+  "date": "18 mars 1962",
+  "signataires": "Gouvernement français · GPRA",
+  "objet": "Cessez-le-feu et indépendance de l'Algérie",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accords-d-oslo": {
+  "date": "13 septembre 1993",
+  "signataires": "Yitzhak Rabin · Yasser Arafat",
+  "objet": "Reconnaissance mutuelle et autonomie palestinienne",
+  "confiance": "tranchee",
+  "note": "Oslo I signé à Washington ; Oslo II date du 28 septembre 1995"
+ },
+ "traites-et-textes-fondateurs_traite-de-l-elysee": {
+  "date": "22 janvier 1963",
+  "signataires": "Charles de Gaulle · Konrad Adenauer",
+  "objet": "Scelle la réconciliation franco-allemande",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accord-de-schengen": {
+  "date": "14 juin 1985",
+  "signataires": "RFA · France · Belgique · Pays-Bas · Luxembourg",
+  "objet": "Supprime les contrôles aux frontières intérieures",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-l-atlantique-nord": {
+  "date": "4 avril 1949",
+  "signataires": "12 pays occidentaux",
+  "objet": "Crée une alliance militaire défensive, l'OTAN",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accords-de-bretton-woods": {
+  "date": "22 juillet 1944",
+  "signataires": "44 nations alliées",
+  "objet": "Fonde le système monétaire international, le FMI et la Banque mondiale",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_plan-marshall": {
+  "date": "5 juin 1947",
+  "signataires": "George Marshall · États-Unis",
+  "objet": "Aide américaine à la reconstruction de l'Europe",
+  "confiance": "tranchee",
+  "note": "Date du discours d'annonce ; la loi est signée par Truman le 3 avril 1948"
+ },
+ "traites-et-textes-fondateurs_loi-du-9-decembre-1905-concernant-la-separation-des-eglises-et-de-l-etat": {
+  "date": "9 décembre 1905",
+  "signataires": "Parlement français · Aristide Briand (rapporteur)",
+  "objet": "Sépare les Églises et l'État en France",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_code-noir": {
+  "date": "mars 1685",
+  "signataires": "Louis XIV",
+  "objet": "Réglemente l'esclavage dans les colonies françaises",
+  "confiance": "tranchee",
+  "note": "Édit de 1685 retenu ; l'article couvre des textes de 1685 à 1724"
+ },
+ "traites-et-textes-fondateurs_ordonnance-de-villers-cotterets": {
+  "date": "août 1539",
+  "signataires": "François Ier",
+  "objet": "Impose le français dans les actes officiels",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_concordat-de-1801": {
+  "date": "15 juillet 1801",
+  "signataires": "Napoléon Bonaparte · Pie VII",
+  "objet": "Règle les relations entre la France et l'Église catholique",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_decret-d-abolition-de-l-esclavage-du-27-avril-1848": {
+  "date": "27 avril 1848",
+  "signataires": "Gouvernement provisoire · Victor Schœlcher",
+  "objet": "Abolit l'esclavage dans les colonies françaises",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_declaration-des-droits-de-la-femme-et-de-la-citoyenne": {
+  "date": "septembre 1791",
+  "signataires": "Olympe de Gouges",
+  "objet": "Réclame l'égalité des droits entre femmes et hommes",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_manifeste-du-parti-communiste": {
+  "date": "février 1848",
+  "signataires": "Karl Marx · Friedrich Engels",
+  "objet": "Programme de la Ligue des communistes",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_loi-des-douze-tables": {
+  "date": "vers 450 av. J.-C.",
+  "signataires": "Décemvirs romains",
+  "objet": "Premier droit écrit de Rome",
+  "confiance": "tranchee",
+  "note": "Rédaction entre 451 et 449 av. J.-C."
+ },
+ "traites-et-textes-fondateurs_code-de-justinien": {
+  "date": "529",
+  "signataires": "Justinien Ier · Tribonien",
+  "objet": "Compile les constitutions impériales romaines",
+  "confiance": "tranchee",
+  "note": "Première édition ; la seconde, seule conservée, date de 534"
+ },
+ "traites-et-textes-fondateurs_loi-salique": {
+  "date": "vers 510",
+  "signataires": "Clovis",
+  "objet": "Code de lois des Francs saliens",
+  "confiance": "tranchee",
+  "note": "Rédaction datée entre 507 et 511"
+ },
+ "traites-et-textes-fondateurs_bulle-d-or-1356": {
+  "date": "10 janvier 1356",
+  "signataires": "Charles IV",
+  "objet": "Fixe l'élection de l'empereur par sept princes-électeurs",
+  "confiance": "tranchee",
+  "note": "Promulguée à Nuremberg ; complétée à Metz le 25 décembre 1356"
+ },
+ "traites-et-textes-fondateurs_declaration-balfour-de-1917": {
+  "date": "2 novembre 1917",
+  "signataires": "Arthur Balfour",
+  "objet": "Soutient un foyer national juif en Palestine",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_accords-sykes-picot": {
+  "date": "16 mai 1916",
+  "signataires": "Mark Sykes · François Georges-Picot",
+  "objet": "Partage secret du Moyen-Orient entre France et Royaume-Uni",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_conference-de-berlin": {
+  "date": "26 février 1885",
+  "signataires": "14 puissances, sous l'égide de Bismarck",
+  "objet": "Fixe les règles du partage de l'Afrique",
+  "confiance": "tranchee",
+  "note": "Date de l'Acte général ; conférence ouverte le 15 novembre 1884"
+ },
+ "traites-et-textes-fondateurs_traite-de-waitangi": {
+  "date": "6 février 1840",
+  "signataires": "Couronne britannique · chefs maoris",
+  "objet": "Établit la souveraineté britannique en Nouvelle-Zélande",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_vente-de-la-louisiane": {
+  "date": "30 avril 1803",
+  "signataires": "France de Bonaparte · États-Unis de Jefferson",
+  "objet": "Cède la Louisiane française aux États-Unis",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_traite-de-nankin": {
+  "date": "29 août 1842",
+  "signataires": "Royaume-Uni · Chine des Qing",
+  "objet": "Met fin à la première guerre de l'opium et cède Hong Kong",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_protocole-de-montreal": {
+  "date": "16 septembre 1987",
+  "signataires": "États parties à la convention de Vienne",
+  "objet": "Élimine les substances qui appauvrissent la couche d'ozone",
+  "confiance": "sure"
+ },
+ "traites-et-textes-fondateurs_conference-sur-la-securite-et-la-cooperation-en-europe": {
+  "date": "1er août 1975",
+  "signataires": "35 États de la CSCE",
+  "objet": "Inviolabilité des frontières et respect des droits de l'homme",
+  "confiance": "tranchee",
+  "note": "Carte sur l'Acte final d'Helsinki ; l'article décrit la CSCE"
+ }
+}

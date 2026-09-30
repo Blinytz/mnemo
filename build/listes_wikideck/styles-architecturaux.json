@@ -1,0 +1,204 @@
+{
+ "styles-architecturaux_bauhaus": {
+  "periode": "1919-1933",
+  "origine": "Allemagne (Weimar)",
+  "edifice": "Bauhaus de Dessau",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_architecture-de-la-grece-antique": {
+  "periode": "VIIe-Ier siècle av. J.-C.",
+  "origine": "Grèce",
+  "edifice": "Parthénon",
+  "confiance": "tranchee",
+  "note": "Bornes : premiers temples de pierre à la fin de l'époque hellénistique."
+ },
+ "styles-architecturaux_architecture-romaine": {
+  "periode": "IIe siècle av. J.-C.-IVe siècle",
+  "origine": "Rome (Italie)",
+  "edifice": "Colisée",
+  "confiance": "tranchee",
+  "note": "Bornes retenues : essor du béton romain jusqu'à la fin de l'Empire d'Occident."
+ },
+ "styles-architecturaux_architecture-byzantine": {
+  "periode": "IVe-XVe siècle",
+  "origine": "Constantinople (Empire byzantin)",
+  "edifice": "Basilique Sainte-Sophie (Istanbul)",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_art-roman": {
+  "periode": "XIe-XIIe siècle",
+  "origine": "Europe occidentale",
+  "edifice": "Basilique Sainte-Madeleine de Vézelay",
+  "confiance": "tranchee",
+  "note": "L'article prolonge jusqu'au XIIIe siècle ; origine partagée entre France, Italie du Nord et Catalogne."
+ },
+ "styles-architecturaux_architecture-gothique": {
+  "periode": "XIIe-XVIe siècle",
+  "origine": "Île-de-France",
+  "edifice": "Basilique de Saint-Denis",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_architecture-islamique": {
+  "periode": "VIIe-XIXe siècle",
+  "origine": "Proche-Orient (Arabie, Syrie)",
+  "edifice": "Dôme du Rocher (Jérusalem)",
+  "confiance": "tranchee",
+  "note": "Style toujours vivant ; édifice fondateur retenu plutôt que l'Alhambra ou la Grande Mosquée de Damas."
+ },
+ "styles-architecturaux_art-mudejar": {
+  "periode": "XIIe-XVIe siècle",
+  "origine": "Espagne",
+  "edifice": "Alcazar de Séville",
+  "confiance": "tranchee",
+  "note": "Palais de Pierre Ier dans l'Alcazar ; les tours de Teruel sont un autre exemple type."
+ },
+ "styles-architecturaux_architecture-de-la-renaissance": {
+  "periode": "XVe-XVIe siècle",
+  "origine": "Italie (Florence)",
+  "edifice": "Coupole de Santa Maria del Fiore (Florence)",
+  "confiance": "tranchee",
+  "note": "Coupole de Brunelleschi, acte fondateur ; en France on citerait Chambord."
+ },
+ "styles-architecturaux_architecture-baroque": {
+  "periode": "XVIIe-XVIIIe siècle",
+  "origine": "Italie (Rome)",
+  "edifice": "Place Saint-Pierre de Rome",
+  "confiance": "tranchee",
+  "note": "Colonnade du Bernin retenue ; l'église du Gesù est aussi citée."
+ },
+ "styles-architecturaux_rococo": {
+  "periode": "XVIIIe siècle",
+  "origine": "France",
+  "edifice": "Église de pèlerinage de Wies (Bavière)",
+  "confiance": "tranchee",
+  "note": "Né en France (style rocaille), épanoui en Europe centrale ; en France on citerait l'hôtel de Soubise."
+ },
+ "styles-architecturaux_architecture-classique": {
+  "periode": "XVIIe-XVIIIe siècle",
+  "origine": "France",
+  "edifice": "Château de Versailles",
+  "confiance": "tranchee",
+  "note": "Carte lue comme le classicisme français ; la colonnade du Louvre est l'autre exemple type."
+ },
+ "styles-architecturaux_palladianisme": {
+  "periode": "XVIe-XVIIIe siècle",
+  "origine": "Italie (Vénétie)",
+  "edifice": "Villa Rotonda (Vicence)",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_architecture-neo-classique": {
+  "periode": "XVIIIe-XIXe siècle",
+  "origine": "Europe (France, Italie, Royaume-Uni)",
+  "edifice": "Panthéon de Paris",
+  "confiance": "tranchee",
+  "note": "Courant européen sans foyer unique ; environ 1750-1830."
+ },
+ "styles-architecturaux_style-neogothique": {
+  "periode": "XVIIIe-XIXe siècle",
+  "origine": "Angleterre",
+  "edifice": "Palais de Westminster",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_style-beaux-arts": {
+  "periode": "1830-1920",
+  "origine": "France (Paris)",
+  "edifice": "Opéra Garnier",
+  "confiance": "tranchee",
+  "note": "Bornes élargies : l'Opéra Garnier (1861-1875) précède 1880 ; 1880-1920 ne vaut que pour les États-Unis"
+ },
+ "styles-architecturaux_architecture-victorienne": {
+  "periode": "1837-1901",
+  "origine": "Royaume-Uni",
+  "edifice": "Gare de St Pancras (Londres)",
+  "confiance": "tranchee",
+  "note": "Règne de Victoria ; édifice choisi pour ne pas doublonner le néogothique."
+ },
+ "styles-architecturaux_art-nouveau": {
+  "periode": "1890-1914",
+  "origine": "Belgique (Bruxelles)",
+  "edifice": "Hôtel Tassel (Bruxelles)",
+  "confiance": "tranchee",
+  "note": "Foyers multiples (Bruxelles, Nancy, Paris, Vienne) ; l'hôtel Tassel (1893) est l'acte fondateur en architecture."
+ },
+ "styles-architecturaux_art-deco": {
+  "periode": "1910-1939",
+  "origine": "France (Paris)",
+  "edifice": "Chrysler Building (New York)",
+  "confiance": "tranchee",
+  "note": "Nom issu de l'Exposition de Paris de 1925."
+ },
+ "styles-architecturaux_ecole-de-chicago-architecture": {
+  "periode": "1880-1910",
+  "origine": "États-Unis (Chicago)",
+  "edifice": "Home Insurance Building (Chicago)",
+  "confiance": "tranchee",
+  "note": "Considéré comme le premier gratte-ciel (1885), démoli en 1931."
+ },
+ "styles-architecturaux_style-international": {
+  "periode": "1920-1970",
+  "origine": "Europe occidentale",
+  "edifice": "Villa Savoye (Poissy)",
+  "confiance": "tranchee",
+  "note": "Nom donné à New York en 1932 ; le Seagram Building est l'autre exemple type."
+ },
+ "styles-architecturaux_architecture-organique": {
+  "periode": "1900-1960",
+  "origine": "États-Unis",
+  "edifice": "Maison sur la cascade (Fallingwater)",
+  "confiance": "tranchee",
+  "note": "Bornes approximatives de l'œuvre de Frank Lloyd Wright."
+ },
+ "styles-architecturaux_brutalisme": {
+  "periode": "1950-1975",
+  "origine": "Royaume-Uni",
+  "edifice": "Cité radieuse (Marseille)",
+  "confiance": "tranchee",
+  "note": "Terme britannique (Smithson, Banham) inspiré du béton brut de Le Corbusier."
+ },
+ "styles-architecturaux_postmodernisme-architecture": {
+  "periode": "1960-1990",
+  "origine": "États-Unis",
+  "edifice": "Maison Vanna Venturi (Philadelphie)",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_deconstructivisme": {
+  "periode": "1980-2000",
+  "origine": "États-Unis (exposition du MoMA, 1988)",
+  "edifice": "Musée Guggenheim de Bilbao",
+  "confiance": "tranchee",
+  "note": "Mouvement aussi européen (Tschumi, Hadid) ; le style perdure après 2000."
+ },
+ "styles-architecturaux_architecture-high-tech": {
+  "periode": "1970-1990",
+  "origine": "Royaume-Uni",
+  "edifice": "Centre Pompidou (Paris)",
+  "confiance": "tranchee",
+  "note": "Bornes approximatives ; Lloyd's Building est l'autre exemple type."
+ },
+ "styles-architecturaux_architecture-moghole": {
+  "periode": "XVIe-XVIIIe siècle",
+  "origine": "Inde (Empire moghol)",
+  "edifice": "Taj Mahal",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_architecture-khmere": {
+  "periode": "IXe-XVe siècle",
+  "origine": "Cambodge",
+  "edifice": "Angkor Vat",
+  "confiance": "sure"
+ },
+ "styles-architecturaux_architecture-japonaise": {
+  "periode": "VIe-XIXe siècle",
+  "origine": "Japon",
+  "edifice": "Château de Himeji",
+  "confiance": "tranchee",
+  "note": "Architecture traditionnelle de l'arrivée du bouddhisme à Meiji ; le Hōryū-ji est l'autre exemple type."
+ },
+ "styles-architecturaux_pan-de-bois": {
+  "periode": "XVe-XVIIe siècle",
+  "origine": "Europe du Nord-Ouest",
+  "edifice": "Maison Kammerzell (Strasbourg)",
+  "confiance": "tranchee",
+  "note": "Technique connue depuis l'Antiquité ; apogée retenue à la fin du Moyen Âge et à la Renaissance."
+ }
+}

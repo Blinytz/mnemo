@@ -1,0 +1,216 @@
+{
+ "pilotes-f1-champions-du-monde_giuseppe-farina": {
+  "nationalite": "Italien",
+  "titres": "1950",
+  "ecurie": "Alfa Romeo",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_juan-manuel-fangio": {
+  "nationalite": "Argentin",
+  "titres": "1951 · 1954 · 1955 · 1956 · 1957",
+  "ecurie": "Alfa Romeo · Ferrari · Maserati · Mercedes",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_alberto-ascari": {
+  "nationalite": "Italien",
+  "titres": "1952 · 1953",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_mike-hawthorn": {
+  "nationalite": "Britannique",
+  "titres": "1958",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jack-brabham": {
+  "nationalite": "Australien",
+  "titres": "1959 · 1960 · 1966",
+  "ecurie": "Brabham · Cooper",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_phil-hill": {
+  "nationalite": "Américain",
+  "titres": "1961",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_graham-hill": {
+  "nationalite": "Britannique",
+  "titres": "1962 · 1968",
+  "ecurie": "BRM · Lotus",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jim-clark": {
+  "nationalite": "Britannique",
+  "titres": "1963 · 1965",
+  "ecurie": "Lotus",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_john-surtees": {
+  "nationalite": "Britannique",
+  "titres": "1964",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_denny-hulme": {
+  "nationalite": "Néo-Zélandais",
+  "titres": "1967",
+  "ecurie": "Brabham",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jackie-stewart": {
+  "nationalite": "Britannique",
+  "titres": "1969 · 1971 · 1973",
+  "ecurie": "Matra · Tyrrell",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jochen-rindt": {
+  "nationalite": "Autrichien",
+  "titres": "1970",
+  "ecurie": "Lotus",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_emerson-fittipaldi": {
+  "nationalite": "Brésilien",
+  "titres": "1972 · 1974",
+  "ecurie": "Lotus · McLaren",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_niki-lauda": {
+  "nationalite": "Autrichien",
+  "titres": "1975 · 1977 · 1984",
+  "ecurie": "Ferrari · McLaren",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_james-hunt": {
+  "nationalite": "Britannique",
+  "titres": "1976",
+  "ecurie": "McLaren",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_mario-andretti": {
+  "nationalite": "Américain",
+  "titres": "1978",
+  "ecurie": "Lotus",
+  "confiance": "tranchee",
+  "note": "Né en Istrie italienne, naturalisé ; titre acquis sous licence américaine."
+ },
+ "pilotes-f1-champions-du-monde_jody-scheckter": {
+  "nationalite": "Sud-Africain",
+  "titres": "1979",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_alan-jones": {
+  "nationalite": "Australien",
+  "titres": "1980",
+  "ecurie": "Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_nelson-piquet": {
+  "nationalite": "Brésilien",
+  "titres": "1981 · 1983 · 1987",
+  "ecurie": "Brabham · Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_keke-rosberg": {
+  "nationalite": "Finlandais",
+  "titres": "1982",
+  "ecurie": "Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_alain-prost": {
+  "nationalite": "Français",
+  "titres": "1985 · 1986 · 1989 · 1993",
+  "ecurie": "McLaren · Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_ayrton-senna": {
+  "nationalite": "Brésilien",
+  "titres": "1988 · 1990 · 1991",
+  "ecurie": "McLaren",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_nigel-mansell": {
+  "nationalite": "Britannique",
+  "titres": "1992",
+  "ecurie": "Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_michael-schumacher": {
+  "nationalite": "Allemand",
+  "titres": "1994 · 1995 · 2000 · 2001 · 2002 · 2003 · 2004",
+  "ecurie": "Benetton · Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_damon-hill": {
+  "nationalite": "Britannique",
+  "titres": "1996",
+  "ecurie": "Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jacques-villeneuve": {
+  "nationalite": "Canadien",
+  "titres": "1997",
+  "ecurie": "Williams",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_mika-hakkinen": {
+  "nationalite": "Finlandais",
+  "titres": "1998 · 1999",
+  "ecurie": "McLaren",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_fernando-alonso": {
+  "nationalite": "Espagnol",
+  "titres": "2005 · 2006",
+  "ecurie": "Renault",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_kimi-raikkonen": {
+  "nationalite": "Finlandais",
+  "titres": "2007",
+  "ecurie": "Ferrari",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_lewis-hamilton": {
+  "nationalite": "Britannique",
+  "titres": "2008 · 2014 · 2015 · 2017 · 2018 · 2019 · 2020",
+  "ecurie": "McLaren · Mercedes",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_jenson-button": {
+  "nationalite": "Britannique",
+  "titres": "2009",
+  "ecurie": "Brawn GP",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_sebastian-vettel": {
+  "nationalite": "Allemand",
+  "titres": "2010 · 2011 · 2012 · 2013",
+  "ecurie": "Red Bull",
+  "confiance": "sure"
+ },
+ "pilotes-f1-champions-du-monde_nico-rosberg": {
+  "nationalite": "Allemand",
+  "titres": "2016",
+  "ecurie": "Mercedes",
+  "confiance": "tranchee",
+  "note": "Double nationalité germano-finlandaise ; il courait sous licence allemande."
+ },
+ "pilotes-f1-champions-du-monde_max-verstappen": {
+  "nationalite": "Néerlandais",
+  "titres": "2021 · 2022 · 2023 · 2024",
+  "ecurie": "Red Bull",
+  "confiance": "tranchee",
+  "note": "Belgo-néerlandais selon la fiche ; il court sous licence néerlandaise."
+ },
+ "pilotes-f1-champions-du-monde_lando-norris": {
+  "nationalite": "Britannique",
+  "titres": "2025",
+  "ecurie": "McLaren",
+  "confiance": "tranchee",
+  "note": "Titre 2025 repris de la fiche Wikipédia ; écurie McLaren, celle où il court depuis 2019."
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "sites-antiques_acropole-d-athenes": {
+  "pays": "Grèce",
+  "civilisation": "Grèce antique",
+  "epoque": "Ve siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_stonehenge": {
+  "pays": "Royaume-Uni",
+  "civilisation": "Néolithique britannique",
+  "epoque": "vers 3000-1500 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_teotihuacan": {
+  "pays": "Mexique",
+  "civilisation": "Civilisation de Teotihuacan",
+  "epoque": "Ier-VIe siècle",
+  "confiance": "tranchee",
+  "note": "Apogée vers 100-550 ; pyramide du Soleil vers 200 ; bâtisseurs d'identité ethnique inconnue, antérieurs aux Aztèques."
+ },
+ "sites-antiques_forum-romain": {
+  "pays": "Italie",
+  "civilisation": "Rome antique",
+  "epoque": "VIIe siècle av. J.-C.-IVe siècle",
+  "confiance": "tranchee",
+  "note": "Aménagé dès la Rome royale ; monuments ajoutés jusqu'au IVe siècle."
+ },
+ "sites-antiques_armee-de-terre-cuite": {
+  "pays": "Chine",
+  "civilisation": "Dynastie Qin",
+  "epoque": "IIIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_pantheon-rome": {
+  "pays": "Italie",
+  "civilisation": "Rome antique",
+  "epoque": "IIe siècle",
+  "confiance": "tranchee",
+  "note": "Édifice actuel reconstruit sous Hadrien vers 125 ; premier Panthéon d'Agrippa en 27 av. J.-C."
+ },
+ "sites-antiques_karnak": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "vers 2000-30 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Chantier du Moyen Empire aux Ptolémées ; apogée au Nouvel Empire (salle hypostyle, XIIIe siècle av. J.-C.)."
+ },
+ "sites-antiques_vallee-des-rois": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "XVIe-XIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_abou-simbel": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "XIIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Temples de Ramsès II ; l'article pointe vers la ville moderne. Déplacés en 1964-1968."
+ },
+ "sites-antiques_palmyre": {
+  "pays": "Syrie",
+  "civilisation": "Palmyréniens (Empire romain)",
+  "epoque": "Ier-IIIe siècle",
+  "confiance": "tranchee",
+  "note": "Oasis habitée bien avant ; apogée monumentale sous domination romaine jusqu'à Zénobie (272)."
+ },
+ "sites-antiques_moai": {
+  "pays": "Chili",
+  "civilisation": "Rapanui",
+  "epoque": "XIIIe-XVIe siècle",
+  "confiance": "tranchee",
+  "note": "Datations débattues, environ 1250-1500.",
+  "nom": "Moaïs de l'île de Pâques"
+ },
+ "sites-antiques_sphinx-de-gizeh": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "vers 2500 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Attribué à Khéphren (IVe dynastie), attribution généralement admise."
+ },
+ "sites-antiques_meroe": {
+  "pays": "Soudan",
+  "civilisation": "Royaume de Koush",
+  "epoque": "IIIe siècle av. J.-C.-IVe siècle",
+  "confiance": "tranchee",
+  "note": "La nécropole à pyramides date d'environ 300 av. J.-C. à 350 ; la ville est plus ancienne."
+ },
+ "sites-antiques_deir-el-bahari": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "XVe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Retenu : temple d'Hatchepsout ; le temple de Montouhotep II (XXIe siècle av. J.-C.) y est plus ancien."
+ },
+ "sites-antiques_persepolis": {
+  "pays": "Iran",
+  "civilisation": "Perses achéménides",
+  "epoque": "VIe-IVe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_ziggurat-d-ur": {
+  "pays": "Irak",
+  "civilisation": "Sumériens",
+  "epoque": "XXIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_porte-d-ishtar": {
+  "pays": "Irak",
+  "civilisation": "Babyloniens",
+  "epoque": "VIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Érigée sous Nabuchodonosor II vers 575 av. J.-C. ; reconstituée au Pergamonmuseum de Berlin."
+ },
+ "sites-antiques_baalbek": {
+  "pays": "Liban",
+  "civilisation": "Rome antique",
+  "epoque": "Ier-IIIe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_massada": {
+  "pays": "Israël",
+  "civilisation": "Judée hérodienne",
+  "epoque": "Ier siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Forteresse d'Hérode le Grand ; siège romain en 73-74."
+ },
+ "sites-antiques_ephese": {
+  "pays": "Turquie",
+  "civilisation": "Grèce antique",
+  "epoque": "VIe siècle av. J.-C.-IIe siècle",
+  "confiance": "tranchee",
+  "note": "Cité ionienne (Artémision, VIe siècle av. J.-C.) puis romaine (bibliothèque de Celsus, IIe siècle)."
+ },
+ "sites-antiques_pompei": {
+  "pays": "Italie",
+  "civilisation": "Rome antique",
+  "epoque": "Ier siècle",
+  "confiance": "tranchee",
+  "note": "Fondation osque vers le VIe siècle av. J.-C. ; ville romaine ensevelie en 79."
+ },
+ "sites-antiques_delphes": {
+  "pays": "Grèce",
+  "civilisation": "Grèce antique",
+  "epoque": "VIIIe-IVe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Rayonnement de l'oracle ; temple d'Apollon actuel du IVe siècle av. J.-C."
+ },
+ "sites-antiques_olympie": {
+  "pays": "Grèce",
+  "civilisation": "Grèce antique",
+  "epoque": "VIIIe-Ve siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Premiers Jeux en 776 av. J.-C. ; temple de Zeus au Ve siècle av. J.-C."
+ },
+ "sites-antiques_mycenes": {
+  "pays": "Grèce",
+  "civilisation": "Civilisation mycénienne",
+  "epoque": "XVIe-XIIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_cnossos": {
+  "pays": "Grèce",
+  "civilisation": "Civilisation minoenne",
+  "epoque": "vers 1900-1400 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_leptis-magna": {
+  "pays": "Libye",
+  "civilisation": "Rome antique",
+  "epoque": "IIe-IIIe siècle",
+  "confiance": "tranchee",
+  "note": "Fondation phénicienne ; apogée sous Septime Sévère, natif de la ville."
+ },
+ "sites-antiques_grand-zimbabwe": {
+  "pays": "Zimbabwe",
+  "civilisation": "Shonas",
+  "epoque": "XIe-XVe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_alignements-de-carnac": {
+  "pays": "France",
+  "civilisation": "Néolithique armoricain",
+  "epoque": "vers 4500-3300 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Datations approximatives selon les files de menhirs."
+ },
+ "sites-antiques_newgrange": {
+  "pays": "Irlande",
+  "civilisation": "Néolithique irlandais",
+  "epoque": "vers 3200 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_skara-brae": {
+  "pays": "Royaume-Uni",
+  "civilisation": "Néolithique britannique",
+  "epoque": "vers 3200-2500 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_grotte-de-lascaux": {
+  "pays": "France",
+  "civilisation": "Paléolithique supérieur (Magdalénien)",
+  "epoque": "vers 17 000 ans avant le présent",
+  "confiance": "tranchee",
+  "note": "Datation classique ; certaines études récentes remontent à environ 21 000 ans.",
+  "tri": "-15000"
+ },
+ "sites-antiques_gobekli-tepe": {
+  "pays": "Turquie",
+  "civilisation": "Néolithique précéramique",
+  "epoque": "vers 9500-8000 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_mohenjo-daro": {
+  "pays": "Pakistan",
+  "civilisation": "Civilisation de l'Indus",
+  "epoque": "vers 2500-1900 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_ajanta": {
+  "pays": "Inde",
+  "civilisation": "Inde bouddhique (Satavahana puis Vakataka)",
+  "epoque": "IIe siècle av. J.-C.-Ve siècle",
+  "confiance": "tranchee",
+  "note": "L'article pointe vers le village ; les grottes se répartissent en deux phases, la seconde vers 460-480."
+ },
+ "sites-antiques_tikal": {
+  "pays": "Guatemala",
+  "civilisation": "Mayas",
+  "epoque": "IIIe-IXe siècle",
+  "confiance": "tranchee",
+  "note": "Période classique retenue ; site occupé dès le VIe siècle av. J.-C."
+ },
+ "sites-antiques_palenque": {
+  "pays": "Mexique",
+  "civilisation": "Mayas",
+  "epoque": "VIIe siècle",
+  "confiance": "tranchee",
+  "note": "Apogée sous Pakal le Grand (temple des Inscriptions) ; occupation du IIIe au IXe siècle."
+ },
+ "sites-antiques_geoglyphes-de-nazca": {
+  "pays": "Pérou",
+  "civilisation": "Nazcas",
+  "epoque": "vers 500 av. J.-C.-500",
+  "confiance": "tranchee",
+  "note": "Fourchette de l'UNESCO, incluant des tracés paracas plus anciens."
+ },
+ "sites-antiques_saqsaywaman": {
+  "pays": "Pérou",
+  "civilisation": "Incas",
+  "epoque": "XVe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_troie": {
+  "pays": "Turquie",
+  "civilisation": "Troyens (âge du bronze anatolien)",
+  "epoque": "XIIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Niveau associé à la guerre de Troie (Troie VI-VIIa) ; site occupé de 3000 av. J.-C. à l'époque byzantine."
+ },
+ "sites-antiques_babylone": {
+  "pays": "Irak",
+  "civilisation": "Babyloniens",
+  "epoque": "XVIIIe-VIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "De Hammurabi à Nabuchodonosor II ; ville mentionnée dès le IIIe millénaire."
+ },
+ "sites-antiques_jericho": {
+  "pays": "Palestine",
+  "civilisation": "Néolithique du Levant",
+  "epoque": "vers 9000 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Tour néolithique vers 8000 av. J.-C. ; site en Cisjordanie sous administration palestinienne."
+ },
+ "sites-antiques_catal-hoyuk": {
+  "pays": "Turquie",
+  "civilisation": "Néolithique anatolien",
+  "epoque": "vers 7400-6000 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_hattusa": {
+  "pays": "Turquie",
+  "civilisation": "Hittites",
+  "epoque": "XVIIe-XIIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_pergame": {
+  "pays": "Turquie",
+  "civilisation": "Grèce hellénistique (Attalides)",
+  "epoque": "IIIe-IIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_jerash": {
+  "pays": "Jordanie",
+  "civilisation": "Rome antique",
+  "epoque": "Ier-IIIe siècle",
+  "confiance": "tranchee",
+  "note": "Fondation hellénistique ; apogée romaine au sein de la Décapole."
+ },
+ "sites-antiques_saqqarah": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "vers 2650 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "Date de la pyramide de Djéser ; nécropole utilisée de 3000 av. J.-C. à l'époque romaine."
+ },
+ "sites-antiques_temple-d-amon-louxor": {
+  "pays": "Égypte",
+  "civilisation": "Égypte antique",
+  "epoque": "XIVe-XIIIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_phil": {
+  "pays": "Égypte",
+  "civilisation": "Égypte ptolémaïque",
+  "epoque": "IVe siècle av. J.-C.-IIIe siècle",
+  "confiance": "tranchee",
+  "note": "Kiosque de Nectanébo Ier, temple d'Isis surtout ptolémaïque ; monuments déplacés sur Agilkia (1972-1980)."
+ },
+ "sites-antiques_herculanum": {
+  "pays": "Italie",
+  "civilisation": "Rome antique",
+  "epoque": "Ier siècle",
+  "confiance": "tranchee",
+  "note": "Ville ensevelie avec Pompéi en 79."
+ },
+ "sites-antiques_mur-d-hadrien": {
+  "pays": "Royaume-Uni",
+  "civilisation": "Rome antique",
+  "epoque": "IIe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_copan": {
+  "pays": "Honduras",
+  "civilisation": "Mayas",
+  "epoque": "Ve-IXe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_chan-chan": {
+  "pays": "Pérou",
+  "civilisation": "Chimús",
+  "epoque": "IXe-XVe siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_monte-alban": {
+  "pays": "Mexique",
+  "civilisation": "Zapotèques",
+  "epoque": "vers 500 av. J.-C.-800",
+  "confiance": "sure"
+ },
+ "sites-antiques_caral": {
+  "pays": "Pérou",
+  "civilisation": "Civilisation de Caral (Norte Chico)",
+  "epoque": "vers 3000-1800 av. J.-C.",
+  "confiance": "sure"
+ },
+ "sites-antiques_sigiriya": {
+  "pays": "Sri Lanka",
+  "civilisation": "Cinghalais (royaume d'Anurâdhapura)",
+  "epoque": "Ve siècle",
+  "confiance": "sure"
+ },
+ "sites-antiques_bagan": {
+  "pays": "Birmanie",
+  "civilisation": "Royaume de Pagan",
+  "epoque": "XIe-XIIIe siècle",
+  "confiance": "sure"
+ }
+}

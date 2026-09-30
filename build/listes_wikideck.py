@@ -180,6 +180,32 @@ LISTES = {
         colonnes=[('Nom', None), ('Dates', 'dates'), ('Pays', 'pays'), ('Action', 'action')]),
     'dirigeants-contemporains': dict(id='dirigeants_contemporains', nom="Dirigeants contemporains", icone='🎖️', ordre=('chrono', 'mandat'), categorie='histoire',
         colonnes=[('Nom', None), ('Pays', 'pays'), ('Fonction', 'fonction'), ('Au pouvoir', 'mandat')]),
+    # Lot 9
+    'auteurs-modernes': dict(id='auteurs_modernes', nom="Auteurs modernes", icone='✍️', ordre=('chrono', 'dates'), categorie='arts-culture',
+        colonnes=[('Nom', None), ('Dates', 'dates'), ('Nationalité', 'nationalite'), ('Œuvres majeures', 'oeuvres'), ('Prix', 'prix')]),
+    'personnages-litterature': dict(id='personnages_litterature', nom="Personnages de littérature", icone='🎭', ordre='-', categorie='arts-culture',
+        colonnes=[('Personnage', None), ('Œuvre', 'oeuvre'), ('Auteur', 'auteur')]),
+    'traites-et-textes-fondateurs': dict(id='traites', nom="Traités et textes fondateurs", icone='📜', ordre=('chrono', 'date'), categorie='histoire',
+        colonnes=[('Texte', None), ('Date', 'date'), ('Auteurs ou signataires', 'signataires'), ("Ce qu'il établit", 'objet')]),
+    'sites-antiques': dict(id='sites_antiques', nom="Sites antiques", icone='🪨', ordre=('chrono', 'epoque'), categorie='histoire',
+        colonnes=[('Site', None), ('Pays', 'pays'), ('Civilisation', 'civilisation'), ('Époque', 'epoque')]),
+    'styles-architecturaux': dict(id='styles_architecturaux', nom="Styles architecturaux", icone='🏗️', ordre=('chrono', 'periode'), categorie='arts-culture',
+        colonnes=[('Style', None), ('Période', 'periode'), ('Origine', 'origine'), ('Édifice type', 'edifice')]),
+    'fleuves-mers-et-oceans': dict(id='fleuves_mers_oceans', nom="Fleuves, mers et océans", icone='🌊', ordre=('liste', 'type', ['Océan', 'Mer', 'Golfe', 'Détroit', 'Canal', 'Fleuve', 'Rivière', 'Chute', 'Lac', 'Cap', 'Autre']), categorie='geographie', remplace=['fleuves_monde', 'mers_oceans'],
+        colonnes=[('Nom', None), ('Type', 'type'), ('Pays ou région', 'pays'), ('Repère', 'repere')]),
+    # Lot 10 : listes Memo existantes refaites depuis WikiDeck
+    'elements-chimiques': dict(id='elements', nom="Éléments chimiques", icone='⚗️', ordre=('chrono', 'z'), categorie='sciences-nature',
+        colonnes=[('Élément', None), ('Symbole', 'symbole'), ('Numéro atomique', 'z'), ('Famille', 'famille')]),
+    'constellations': dict(id='constellations', nom="Constellations", icone='✨', ordre='-', categorie='sciences-nature',
+        colonnes=[('Constellation', None), ('Hémisphère', 'hemisphere'), ('Étoile principale', 'etoile'), ('Représente', 'represente')]),
+    'pilotes-f1-champions-du-monde': dict(id='f1_champions', nom="Champions du monde de F1", icone='🏎️', ordre=('chrono', 'titres'), categorie='sports-loisirs',
+        colonnes=[('Pilote', None), ('Nationalité', 'nationalite'), ('Titres', 'titres'), ('Écurie', 'ecurie')]),
+    'coupes-du-monde-fifa': dict(id='coupes_monde', nom="Coupes du monde de football", icone='⚽', ordre=('chrono', 'annee'), categorie='sports-loisirs',
+        colonnes=[('Édition', None), ('Année', 'annee'), ('Pays organisateur', 'organisateur'), ('Vainqueur', 'vainqueur'), ('Finale', 'finale')]),
+    'jeux-olympiques': dict(id='jo_ete', nom="Jeux olympiques d'été", icone='🏅', ordre=('chrono', 'annee'), categorie='sports-loisirs',
+        colonnes=[('Édition', None), ('Année', 'annee'), ('Ville', 'ville'), ('Pays', 'pays'), ('Fait marquant', 'fait')]),
+    'jeux-olympiques-hiver': dict(id='jo_hiver', nom="Jeux olympiques d'hiver", icone='⛷️', ordre=('chrono', 'annee'), categorie='sports-loisirs',
+        colonnes=[('Édition', None), ('Année', 'annee'), ('Ville', 'ville'), ('Pays', 'pays'), ('Fait marquant', 'fait')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -339,6 +365,8 @@ def poser_dans_html(listes, grands, essai):
             f"   Chaque liste remplace celle de même identifiant, ou s'ajoute. */\n"
             f"const WIKIDECK_LISTS = {json.dumps(listes, ensure_ascii=False)};\n"
             f"const WIKIDECK_LIST_IDS = new Set(WIKIDECK_LISTS.map(l => l.id));\n"
+        f"const WIKIDECK_RETIRED = {json.dumps(sorted({r for c in LISTES.values() if c.get('relue', True) for r in c.get('remplace', [])}))};\n"
+            f"for (const r of WIKIDECK_RETIRED) {{ const i = DEFAULT_LISTS.findIndex(x => x.id === r); if (i >= 0) DEFAULT_LISTS.splice(i, 1); }}\n"
             f"for (const l of WIKIDECK_LISTS) {{\n"
             f"  const i = DEFAULT_LISTS.findIndex(x => x.id === l.id);\n"
             f"  if (i >= 0) DEFAULT_LISTS[i] = l; else DEFAULT_LISTS.push(l);\n"

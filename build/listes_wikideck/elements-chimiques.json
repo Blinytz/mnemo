@@ -1,0 +1,727 @@
+{
+ "elements-chimiques_hydrogene": {
+  "symbole": "H",
+  "z": "1",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_helium": {
+  "symbole": "He",
+  "z": "2",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_lithium": {
+  "symbole": "Li",
+  "z": "3",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_beryllium": {
+  "symbole": "Be",
+  "z": "4",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_bore": {
+  "symbole": "B",
+  "z": "5",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_carbone": {
+  "symbole": "C",
+  "z": "6",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_azote": {
+  "symbole": "N",
+  "z": "7",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_oxygene": {
+  "symbole": "O",
+  "z": "8",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_fluor": {
+  "symbole": "F",
+  "z": "9",
+  "famille": "Halogène",
+  "confiance": "sure"
+ },
+ "elements-chimiques_neon": {
+  "symbole": "Ne",
+  "z": "10",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_sodium": {
+  "symbole": "Na",
+  "z": "11",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_magnesium": {
+  "symbole": "Mg",
+  "z": "12",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_aluminium": {
+  "symbole": "Al",
+  "z": "13",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_silicium": {
+  "symbole": "Si",
+  "z": "14",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_phosphore": {
+  "symbole": "P",
+  "z": "15",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_soufre": {
+  "symbole": "S",
+  "z": "16",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_chlore": {
+  "symbole": "Cl",
+  "z": "17",
+  "famille": "Halogène",
+  "confiance": "sure"
+ },
+ "elements-chimiques_argon": {
+  "symbole": "Ar",
+  "z": "18",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_potassium": {
+  "symbole": "K",
+  "z": "19",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_calcium": {
+  "symbole": "Ca",
+  "z": "20",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_scandium": {
+  "symbole": "Sc",
+  "z": "21",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_titane": {
+  "symbole": "Ti",
+  "z": "22",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_vanadium": {
+  "symbole": "V",
+  "z": "23",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_chrome": {
+  "symbole": "Cr",
+  "z": "24",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_manganese": {
+  "symbole": "Mn",
+  "z": "25",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_fer": {
+  "symbole": "Fe",
+  "z": "26",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_cobalt": {
+  "symbole": "Co",
+  "z": "27",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_nickel": {
+  "symbole": "Ni",
+  "z": "28",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_cuivre": {
+  "symbole": "Cu",
+  "z": "29",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_zinc": {
+  "symbole": "Zn",
+  "z": "30",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Groupe 12 : parfois classé métal pauvre (Wikipédia en français) ; retenu métal de transition, usage scolaire courant"
+ },
+ "elements-chimiques_gallium": {
+  "symbole": "Ga",
+  "z": "31",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_germanium": {
+  "symbole": "Ge",
+  "z": "32",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_arsenic": {
+  "symbole": "As",
+  "z": "33",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_selenium": {
+  "symbole": "Se",
+  "z": "34",
+  "famille": "Non-métal",
+  "confiance": "sure"
+ },
+ "elements-chimiques_brome": {
+  "symbole": "Br",
+  "z": "35",
+  "famille": "Halogène",
+  "confiance": "sure"
+ },
+ "elements-chimiques_krypton": {
+  "symbole": "Kr",
+  "z": "36",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_rubidium": {
+  "symbole": "Rb",
+  "z": "37",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_strontium": {
+  "symbole": "Sr",
+  "z": "38",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_yttrium": {
+  "symbole": "Y",
+  "z": "39",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_zirconium": {
+  "symbole": "Zr",
+  "z": "40",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_niobium": {
+  "symbole": "Nb",
+  "z": "41",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_molybdene": {
+  "symbole": "Mo",
+  "z": "42",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_technetium": {
+  "symbole": "Tc",
+  "z": "43",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_ruthenium": {
+  "symbole": "Ru",
+  "z": "44",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_rhodium": {
+  "symbole": "Rh",
+  "z": "45",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_palladium": {
+  "symbole": "Pd",
+  "z": "46",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_argent": {
+  "symbole": "Ag",
+  "z": "47",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_cadmium": {
+  "symbole": "Cd",
+  "z": "48",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Groupe 12 : parfois classé métal pauvre ; retenu métal de transition"
+ },
+ "elements-chimiques_indium": {
+  "symbole": "In",
+  "z": "49",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_etain": {
+  "symbole": "Sn",
+  "z": "50",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_antimoine": {
+  "symbole": "Sb",
+  "z": "51",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_tellure": {
+  "symbole": "Te",
+  "z": "52",
+  "famille": "Métalloïde",
+  "confiance": "sure"
+ },
+ "elements-chimiques_iode": {
+  "symbole": "I",
+  "z": "53",
+  "famille": "Halogène",
+  "confiance": "sure"
+ },
+ "elements-chimiques_xenon": {
+  "symbole": "Xe",
+  "z": "54",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_cesium": {
+  "symbole": "Cs",
+  "z": "55",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_baryum": {
+  "symbole": "Ba",
+  "z": "56",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_lanthane": {
+  "symbole": "La",
+  "z": "57",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_cerium": {
+  "symbole": "Ce",
+  "z": "58",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_praseodyme": {
+  "symbole": "Pr",
+  "z": "59",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_neodyme": {
+  "symbole": "Nd",
+  "z": "60",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_promethium": {
+  "symbole": "Pm",
+  "z": "61",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_samarium": {
+  "symbole": "Sm",
+  "z": "62",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_europium": {
+  "symbole": "Eu",
+  "z": "63",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_gadolinium": {
+  "symbole": "Gd",
+  "z": "64",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_terbium": {
+  "symbole": "Tb",
+  "z": "65",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_dysprosium": {
+  "symbole": "Dy",
+  "z": "66",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_holmium": {
+  "symbole": "Ho",
+  "z": "67",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_erbium": {
+  "symbole": "Er",
+  "z": "68",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_thulium": {
+  "symbole": "Tm",
+  "z": "69",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_ytterbium": {
+  "symbole": "Yb",
+  "z": "70",
+  "famille": "Lanthanide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_lutecium": {
+  "symbole": "Lu",
+  "z": "71",
+  "famille": "Lanthanide",
+  "confiance": "tranchee",
+  "note": "Parfois placé dans le groupe 3 comme métal de transition ; retenu lanthanide, comme la carte"
+ },
+ "elements-chimiques_hafnium": {
+  "symbole": "Hf",
+  "z": "72",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_tantale-chimie": {
+  "symbole": "Ta",
+  "z": "73",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_tungstene": {
+  "symbole": "W",
+  "z": "74",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_rhenium": {
+  "symbole": "Re",
+  "z": "75",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_osmium": {
+  "symbole": "Os",
+  "z": "76",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_iridium": {
+  "symbole": "Ir",
+  "z": "77",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_platine": {
+  "symbole": "Pt",
+  "z": "78",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_or": {
+  "symbole": "Au",
+  "z": "79",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_mercure-chimie": {
+  "symbole": "Hg",
+  "z": "80",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Groupe 12 : parfois classé métal pauvre ; retenu métal de transition"
+ },
+ "elements-chimiques_thallium": {
+  "symbole": "Tl",
+  "z": "81",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_plomb": {
+  "symbole": "Pb",
+  "z": "82",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_bismuth": {
+  "symbole": "Bi",
+  "z": "83",
+  "famille": "Métal pauvre",
+  "confiance": "sure"
+ },
+ "elements-chimiques_polonium": {
+  "symbole": "Po",
+  "z": "84",
+  "famille": "Métal pauvre",
+  "confiance": "tranchee",
+  "note": "Parfois classé métalloïde ; retenu métal pauvre, comme la carte"
+ },
+ "elements-chimiques_astate": {
+  "symbole": "At",
+  "z": "85",
+  "famille": "Halogène",
+  "confiance": "tranchee",
+  "note": "Groupe 17 ; parfois classé métalloïde ou métal ; retenu halogène"
+ },
+ "elements-chimiques_radon": {
+  "symbole": "Rn",
+  "z": "86",
+  "famille": "Gaz noble",
+  "confiance": "sure"
+ },
+ "elements-chimiques_francium": {
+  "symbole": "Fr",
+  "z": "87",
+  "famille": "Métal alcalin",
+  "confiance": "sure"
+ },
+ "elements-chimiques_radium": {
+  "symbole": "Ra",
+  "z": "88",
+  "famille": "Métal alcalino-terreux",
+  "confiance": "sure"
+ },
+ "elements-chimiques_actinium": {
+  "symbole": "Ac",
+  "z": "89",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_thorium": {
+  "symbole": "Th",
+  "z": "90",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_protactinium": {
+  "symbole": "Pa",
+  "z": "91",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_uranium": {
+  "symbole": "U",
+  "z": "92",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_neptunium": {
+  "symbole": "Np",
+  "z": "93",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_plutonium": {
+  "symbole": "Pu",
+  "z": "94",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_americium": {
+  "symbole": "Am",
+  "z": "95",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_curium": {
+  "symbole": "Cm",
+  "z": "96",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_berkelium": {
+  "symbole": "Bk",
+  "z": "97",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_californium": {
+  "symbole": "Cf",
+  "z": "98",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_einsteinium": {
+  "symbole": "Es",
+  "z": "99",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_fermium": {
+  "symbole": "Fm",
+  "z": "100",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_mendelevium": {
+  "symbole": "Md",
+  "z": "101",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_nobelium": {
+  "symbole": "No",
+  "z": "102",
+  "famille": "Actinide",
+  "confiance": "sure"
+ },
+ "elements-chimiques_lawrencium": {
+  "symbole": "Lr",
+  "z": "103",
+  "famille": "Actinide",
+  "confiance": "tranchee",
+  "note": "Parfois placé dans le groupe 3 comme métal de transition ; retenu actinide"
+ },
+ "elements-chimiques_rutherfordium": {
+  "symbole": "Rf",
+  "z": "104",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_dubnium": {
+  "symbole": "Db",
+  "z": "105",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_seaborgium": {
+  "symbole": "Sg",
+  "z": "106",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_bohrium": {
+  "symbole": "Bh",
+  "z": "107",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_hassium": {
+  "symbole": "Hs",
+  "z": "108",
+  "famille": "Métal de transition",
+  "confiance": "sure"
+ },
+ "elements-chimiques_meitnerium": {
+  "symbole": "Mt",
+  "z": "109",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_darmstadtium": {
+  "symbole": "Ds",
+  "z": "110",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_roentgenium": {
+  "symbole": "Rg",
+  "z": "111",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_copernicium": {
+  "symbole": "Cn",
+  "z": "112",
+  "famille": "Métal de transition",
+  "confiance": "tranchee",
+  "note": "Groupe 12, famille prédite ; parfois classé métal pauvre, voire volatil comme un gaz noble"
+ },
+ "elements-chimiques_nihonium": {
+  "symbole": "Nh",
+  "z": "113",
+  "famille": "Métal pauvre",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_flerovium": {
+  "symbole": "Fl",
+  "z": "114",
+  "famille": "Métal pauvre",
+  "confiance": "tranchee",
+  "note": "Famille prédite ; possiblement assez volatil"
+ },
+ "elements-chimiques_moscovium": {
+  "symbole": "Mc",
+  "z": "115",
+  "famille": "Métal pauvre",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_livermorium": {
+  "symbole": "Lv",
+  "z": "116",
+  "famille": "Métal pauvre",
+  "confiance": "tranchee",
+  "note": "Propriétés chimiques non établies ; famille prédite"
+ },
+ "elements-chimiques_tennesse": {
+  "symbole": "Ts",
+  "z": "117",
+  "famille": "Halogène",
+  "confiance": "tranchee",
+  "note": "Groupe 17, famille prédite ; comportement probablement métalloïde"
+ },
+ "elements-chimiques_oganesson": {
+  "symbole": "Og",
+  "z": "118",
+  "famille": "Gaz noble",
+  "confiance": "tranchee",
+  "note": "Groupe 18, famille prédite ; probablement solide et réactif, contrairement aux gaz nobles"
+ }
+}

@@ -1,0 +1,547 @@
+{
+ "fleuves-mers-et-oceans_nil": {
+  "type": "Fleuve",
+  "pays": "Égypte · Soudan · Ouganda",
+  "repere": "6 650 km · Mer Méditerranée",
+  "confiance": "tranchee",
+  "note": "Longueur débattue (6 650 à 6 700 km) ; 6 650 km est le chiffre classique"
+ },
+ "fleuves-mers-et-oceans_amazone-fleuve": {
+  "type": "Fleuve",
+  "pays": "Pérou · Colombie · Brésil",
+  "repere": "6 400 km · Océan Atlantique · premier débit mondial",
+  "confiance": "tranchee",
+  "note": "Longueur débattue (6 400 à 7 000 km) ; 6 400 km retenu"
+ },
+ "fleuves-mers-et-oceans_yangtse": {
+  "type": "Fleuve",
+  "pays": "Chine",
+  "repere": "6 300 km · Mer de Chine orientale",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mississippi-fleuve": {
+  "type": "Fleuve",
+  "pays": "États-Unis",
+  "repere": "3 730 km · Golfe du Mexique",
+  "confiance": "tranchee",
+  "note": "3 730 à 3 770 km selon les sources ; 6 275 km avec le Missouri"
+ },
+ "fleuves-mers-et-oceans_danube": {
+  "type": "Fleuve",
+  "pays": "Europe centrale et orientale (10 pays)",
+  "repere": "2 850 km · Mer Noire",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_gange": {
+  "type": "Fleuve",
+  "pays": "Inde · Bangladesh",
+  "repere": "2 510 km · Golfe du Bengale",
+  "confiance": "tranchee",
+  "note": "2 510 ou 2 525 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_indus": {
+  "type": "Fleuve",
+  "pays": "Chine · Inde · Pakistan",
+  "repere": "3 180 km · Mer d'Arabie",
+  "confiance": "tranchee",
+  "note": "3 180 à 3 200 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_rhin": {
+  "type": "Fleuve",
+  "pays": "Suisse · Allemagne · Pays-Bas",
+  "repere": "1 233 km · Mer du Nord",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_volga": {
+  "type": "Fleuve",
+  "pays": "Russie",
+  "repere": "Plus long fleuve d'Europe · 3 530 km · Mer Caspienne",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_congo-fleuve": {
+  "type": "Fleuve",
+  "pays": "RD Congo · République du Congo · Angola",
+  "repere": "4 700 km · Océan Atlantique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_niger-fleuve": {
+  "type": "Fleuve",
+  "pays": "Mali · Niger · Nigeria",
+  "repere": "4 180 km · Golfe de Guinée",
+  "confiance": "tranchee",
+  "note": "Prend sa source en Guinée ; trois pays principaux retenus"
+ },
+ "fleuves-mers-et-oceans_mekong": {
+  "type": "Fleuve",
+  "pays": "Chine · Laos · Viêt Nam",
+  "repere": "4 350 km · Mer de Chine méridionale",
+  "confiance": "tranchee",
+  "note": "4 350 à 4 900 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_tigre": {
+  "type": "Fleuve",
+  "pays": "Turquie · Syrie · Irak",
+  "repere": "1 900 km · Chatt-el-Arab (golfe Persique)",
+  "confiance": "tranchee",
+  "note": "Carte liée à l'article sur l'animal ; fiche établie d'après le nom ; 1 850 à 1 900 km"
+ },
+ "fleuves-mers-et-oceans_euphrate": {
+  "type": "Fleuve",
+  "pays": "Turquie · Syrie · Irak",
+  "repere": "2 780 km · Chatt-el-Arab (golfe Persique)",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_loire": {
+  "type": "Fleuve",
+  "pays": "France",
+  "repere": "1 006 km · Océan Atlantique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_seine": {
+  "type": "Fleuve",
+  "pays": "France",
+  "repere": "775 km · Manche",
+  "confiance": "tranchee",
+  "note": "774,76 km selon la mesure récente ; 776 ou 777 km souvent cité"
+ },
+ "fleuves-mers-et-oceans_amour-fleuve": {
+  "type": "Fleuve",
+  "pays": "Russie · Chine",
+  "repere": "4 354 km · Mer d'Okhotsk",
+  "confiance": "tranchee",
+  "note": "Longueur avec l'Argoun ; 2 824 km depuis la confluence"
+ },
+ "fleuves-mers-et-oceans_zambeze": {
+  "type": "Fleuve",
+  "pays": "Zambie · Zimbabwe · Mozambique",
+  "repere": "2 574 km · Océan Indien",
+  "confiance": "tranchee",
+  "note": "2 574 ou 2 750 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_colorado-fleuve": {
+  "type": "Fleuve",
+  "pays": "États-Unis · Mexique",
+  "repere": "2 330 km · Golfe de Californie",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_rio-grande-fleuve": {
+  "type": "Fleuve",
+  "pays": "États-Unis · Mexique",
+  "repere": "3 030 km · Golfe du Mexique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-mediterranee": {
+  "type": "Mer",
+  "pays": "Europe · Afrique · Asie",
+  "repere": "2,5 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-rouge": {
+  "type": "Mer",
+  "pays": "Égypte · Soudan · Arabie saoudite",
+  "repere": "438 000 km² · reliée à la Méditerranée par le canal de Suez",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-morte": {
+  "type": "Lac",
+  "pays": "Israël · Jordanie · Cisjordanie",
+  "repere": "Point le plus bas des terres émergées · environ 430 m sous le niveau de la mer",
+  "confiance": "tranchee",
+  "note": "Niveau en baisse constante ; environ 430 m retenu"
+ },
+ "fleuves-mers-et-oceans_mer-noire": {
+  "type": "Mer",
+  "pays": "Turquie · Ukraine · Russie",
+  "repere": "436 000 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-caspienne": {
+  "type": "Lac",
+  "pays": "Russie · Kazakhstan · Iran",
+  "repere": "Plus grand lac du monde · 371 000 km²",
+  "confiance": "tranchee",
+  "note": "Lac salé fermé classé Lac ; superficie variable selon le niveau"
+ },
+ "fleuves-mers-et-oceans_mer-des-caraibes": {
+  "type": "Mer",
+  "pays": "Amérique centrale · Antilles · Amérique du Sud",
+  "repere": "2,75 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-baltique": {
+  "type": "Mer",
+  "pays": "Europe du Nord",
+  "repere": "364 800 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-d-aral": {
+  "type": "Lac",
+  "pays": "Kazakhstan · Ouzbékistan",
+  "repere": "68 000 km² en 1960 · asséchée à 90 %",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-de-corail": {
+  "type": "Mer",
+  "pays": "Australie · Papouasie-Nouvelle-Guinée · Nouvelle-Calédonie",
+  "repere": "4,8 millions de km² · abrite la Grande Barrière de corail",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_ocean-atlantique": {
+  "type": "Océan",
+  "pays": "Amériques · Europe · Afrique",
+  "repere": "Deuxième plus grand océan · 106 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_ocean-pacifique": {
+  "type": "Océan",
+  "pays": "Asie · Océanie · Amériques",
+  "repere": "Plus grand océan · 165 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_ocean-indien": {
+  "type": "Océan",
+  "pays": "Afrique · Asie · Océanie",
+  "repere": "Troisième plus grand océan · 75 millions de km²",
+  "confiance": "tranchee",
+  "note": "70 à 75 millions de km² selon l'inclusion des mers bordières"
+ },
+ "fleuves-mers-et-oceans_ocean-arctique": {
+  "type": "Océan",
+  "pays": "Europe · Asie · Amérique du Nord",
+  "repere": "Plus petit océan · 14 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_ocean-austral": {
+  "type": "Océan",
+  "pays": "Antarctique",
+  "repere": "Entoure l'Antarctique au sud du 60e parallèle · 20 millions de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_lac-baikal": {
+  "type": "Lac",
+  "pays": "Russie (Sibérie)",
+  "repere": "Lac le plus profond du monde · 1 642 m",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_lac-victoria": {
+  "type": "Lac",
+  "pays": "Ouganda · Kenya · Tanzanie",
+  "repere": "Plus grand lac d'Afrique · 68 100 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_lac-titicaca": {
+  "type": "Lac",
+  "pays": "Pérou · Bolivie",
+  "repere": "Plus haut lac navigable · 3 812 m d'altitude",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
+  "type": "Lac",
+  "pays": "Canada · États-Unis",
+  "repere": "5 lacs · 244 000 km² · Supérieur, Michigan, Huron, Érié, Ontario",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_chutes-victoria": {
+  "type": "Chute",
+  "pays": "Zambie · Zimbabwe",
+  "repere": "108 m de haut · 1 700 m de large · sur le Zambèze",
+  "confiance": "tranchee",
+  "note": "Reclassée Chute ; hauteur en tête du repère"
+ },
+ "fleuves-mers-et-oceans_chutes-du-niagara": {
+  "type": "Chute",
+  "pays": "Canada · États-Unis",
+  "repere": "51 m de haut · sur la rivière Niagara, entre les lacs Érié et Ontario",
+  "confiance": "tranchee",
+  "note": "Reclassées Chute"
+ },
+ "fleuves-mers-et-oceans_chutes-d-iguazu": {
+  "type": "Chute",
+  "pays": "Argentine · Brésil",
+  "repere": "Jusqu'à 82 m de haut · 275 cascades sur 2,7 km · rivière Iguazú",
+  "confiance": "tranchee",
+  "note": "Reclassées Chute ; hauteur ajoutée (60 à 82 m selon les sauts)"
+ },
+ "fleuves-mers-et-oceans_fosse-des-mariannes": {
+  "type": "Autre",
+  "pays": "Océan Pacifique (îles Mariannes)",
+  "repere": "Point le plus profond des océans · environ 11 000 m (10 994 m)",
+  "confiance": "tranchee",
+  "note": "Reclassée Autre ; profondeur mesurée entre 10 920 et 11 034 m"
+ },
+ "fleuves-mers-et-oceans_grande-barriere-de-corail": {
+  "type": "Autre",
+  "pays": "Australie",
+  "repere": "Plus grand récif corallien du monde · 2 300 km de long · mer de Corail",
+  "confiance": "tranchee",
+  "note": "Reclassée Autre (récif) ; longueur donnée entre 2 300 et 2 600 km"
+ },
+ "fleuves-mers-et-oceans_detroit-de-gibraltar": {
+  "type": "Détroit",
+  "pays": "Espagne · Maroc",
+  "repere": "Relie l'Atlantique à la Méditerranée · 14 km au plus étroit",
+  "confiance": "tranchee",
+  "note": "Reclassé Détroit"
+ },
+ "fleuves-mers-et-oceans_canal-de-suez": {
+  "type": "Canal",
+  "pays": "Égypte",
+  "repere": "193 km · relie la Méditerranée à la mer Rouge · ouvert en 1869",
+  "confiance": "tranchee",
+  "note": "Reclassé Canal ; 164 km à l'ouverture, 193 km aujourd'hui"
+ },
+ "fleuves-mers-et-oceans_canal-de-panama": {
+  "type": "Canal",
+  "pays": "Panama",
+  "repere": "80 km · relie l'océan Atlantique à l'océan Pacifique · ouvert en 1914",
+  "confiance": "tranchee",
+  "note": "Reclassé Canal ; 77 à 82 km selon le point de mesure"
+ },
+ "fleuves-mers-et-oceans_fleuve-saint-laurent": {
+  "type": "Fleuve",
+  "pays": "Canada · États-Unis",
+  "repere": "1 197 km · Golfe du Saint-Laurent (océan Atlantique)",
+  "confiance": "tranchee",
+  "note": "Longueur depuis le lac Ontario ; 3 058 km avec le système des Grands Lacs"
+ },
+ "fleuves-mers-et-oceans_orenoque": {
+  "type": "Fleuve",
+  "pays": "Venezuela · Colombie",
+  "repere": "2 140 km · Océan Atlantique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_rio-parana": {
+  "type": "Fleuve",
+  "pays": "Brésil · Paraguay · Argentine",
+  "repere": "4 880 km · Río de la Plata",
+  "confiance": "tranchee",
+  "note": "Longueur avec le Paranaíba ; environ 3 998 km sans"
+ },
+ "fleuves-mers-et-oceans_missouri-riviere": {
+  "type": "Rivière",
+  "pays": "États-Unis",
+  "repere": "3 767 km · Mississippi (plus long affluent)",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_tamise": {
+  "type": "Fleuve",
+  "pays": "Royaume-Uni (Angleterre)",
+  "repere": "346 km · Mer du Nord",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_tibre": {
+  "type": "Fleuve",
+  "pays": "Italie",
+  "repere": "405 km · Mer Tyrrhénienne",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_po": {
+  "type": "Fleuve",
+  "pays": "Italie",
+  "repere": "652 km · Mer Adriatique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_elbe-fleuve": {
+  "type": "Fleuve",
+  "pays": "République tchèque · Allemagne",
+  "repere": "1 094 km · Mer du Nord",
+  "confiance": "tranchee",
+  "note": "1 091 à 1 165 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_dniepr": {
+  "type": "Fleuve",
+  "pays": "Russie · Biélorussie · Ukraine",
+  "repere": "2 200 km · Mer Noire",
+  "confiance": "tranchee",
+  "note": "2 200 à 2 290 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_rhone": {
+  "type": "Fleuve",
+  "pays": "Suisse · France",
+  "repere": "812 km · Mer Méditerranée",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_garonne": {
+  "type": "Fleuve",
+  "pays": "Espagne · France",
+  "repere": "529 km · Océan Atlantique (estuaire de la Gironde)",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_tage": {
+  "type": "Fleuve",
+  "pays": "Espagne · Portugal",
+  "repere": "Plus long fleuve ibérique · 1 007 km · Océan Atlantique",
+  "confiance": "tranchee",
+  "note": "1 007 ou 1 038 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_ienissei": {
+  "type": "Fleuve",
+  "pays": "Russie · Mongolie",
+  "repere": "5 539 km avec l'Angara · Mer de Kara",
+  "confiance": "tranchee",
+  "note": "Système Ienisseï-Angara-Selenga, chiffre usuel des classements ; 3 487 km depuis Kyzyl"
+ },
+ "fleuves-mers-et-oceans_ob": {
+  "type": "Fleuve",
+  "pays": "Russie",
+  "repere": "5 410 km avec l'Irtych · Mer de Kara (golfe de l'Ob)",
+  "confiance": "tranchee",
+  "note": "Système Ob-Irtych, chiffre usuel des classements ; 3 650 km pour l'Ob seul"
+ },
+ "fleuves-mers-et-oceans_lena": {
+  "type": "Fleuve",
+  "pays": "Russie (Sibérie)",
+  "repere": "4 400 km · Mer des Laptev",
+  "confiance": "tranchee",
+  "note": "4 294 à 4 400 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_jourdain": {
+  "type": "Fleuve",
+  "pays": "Israël · Jordanie · Syrie",
+  "repere": "251 km · Mer Morte",
+  "confiance": "tranchee",
+  "note": "251 km en ligne directe, 360 km avec les méandres ; sources au Liban et en Syrie"
+ },
+ "fleuves-mers-et-oceans_brahmapoutre": {
+  "type": "Fleuve",
+  "pays": "Chine · Inde · Bangladesh",
+  "repere": "2 900 km · Golfe du Bengale",
+  "confiance": "tranchee",
+  "note": "2 840 à 2 900 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_fleuve-jaune": {
+  "type": "Fleuve",
+  "pays": "Chine",
+  "repere": "5 464 km · Mer de Bohai",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_okavango": {
+  "type": "Fleuve",
+  "pays": "Angola · Namibie · Botswana",
+  "repere": "1 600 km · Delta de l'Okavango (sans débouché maritime)",
+  "confiance": "tranchee",
+  "note": "1 600 à 1 700 km selon les sources"
+ },
+ "fleuves-mers-et-oceans_senegal-fleuve": {
+  "type": "Fleuve",
+  "pays": "Mali · Mauritanie · Sénégal",
+  "repere": "1 750 km · Océan Atlantique",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-du-nord": {
+  "type": "Mer",
+  "pays": "Royaume-Uni · Norvège · Pays-Bas",
+  "repere": "575 000 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_manche-mer": {
+  "type": "Mer",
+  "pays": "France · Royaume-Uni",
+  "repere": "75 000 km² · 34 km au pas de Calais",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-egee": {
+  "type": "Mer",
+  "pays": "Grèce · Turquie",
+  "repere": "214 000 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-adriatique": {
+  "type": "Mer",
+  "pays": "Italie · Croatie · Albanie",
+  "repere": "138 600 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_mer-des-sargasses": {
+  "type": "Mer",
+  "pays": "Atlantique Nord (Bermudes)",
+  "repere": "Seule mer sans côtes",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_golfe-du-mexique": {
+  "type": "Golfe",
+  "pays": "États-Unis · Mexique · Cuba",
+  "repere": "1,55 million de km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_golfe-persique": {
+  "type": "Golfe",
+  "pays": "Iran · Arabie saoudite · Émirats arabes unis",
+  "repere": "251 000 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_leman": {
+  "type": "Lac",
+  "pays": "Suisse · France",
+  "repere": "Plus grand lac alpin · 580 km²",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_lac-tanganyika": {
+  "type": "Lac",
+  "pays": "Tanzanie · RD Congo · Burundi",
+  "repere": "Deuxième lac le plus profond du monde · 1 470 m",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_lac-tchad": {
+  "type": "Lac",
+  "pays": "Tchad · Nigeria · Cameroun",
+  "repere": "Surface passée de 25 000 km² (1960) à moins de 2 500 km²",
+  "confiance": "tranchee",
+  "note": "Quatre pays riverains (avec le Niger) ; trois retenus, surface très variable"
+ },
+ "fleuves-mers-et-oceans_loch-ness": {
+  "type": "Lac",
+  "pays": "Royaume-Uni (Écosse)",
+  "repere": "Plus grand volume d'eau douce de Grande-Bretagne · 230 m de profondeur",
+  "confiance": "sure"
+ },
+ "fleuves-mers-et-oceans_salto-angel": {
+  "type": "Chute",
+  "pays": "Venezuela",
+  "repere": "979 m de haut · plus haute chute d'eau du monde",
+  "confiance": "tranchee",
+  "note": "Reclassée Chute ; 807 m de chute ininterrompue"
+ },
+ "fleuves-mers-et-oceans_bosphore": {
+  "type": "Détroit",
+  "pays": "Turquie",
+  "repere": "Relie la mer Noire à la mer de Marmara · 30 km de long",
+  "confiance": "tranchee",
+  "note": "Reclassé Détroit"
+ },
+ "fleuves-mers-et-oceans_detroit-de-bering": {
+  "type": "Détroit",
+  "pays": "Russie · États-Unis",
+  "repere": "Sépare l'Asie de l'Amérique · 82 km au plus étroit",
+  "confiance": "tranchee",
+  "note": "Reclassé Détroit"
+ },
+ "fleuves-mers-et-oceans_detroit-de-magellan": {
+  "type": "Détroit",
+  "pays": "Chili",
+  "repere": "Relie l'Atlantique au Pacifique · 570 km de long",
+  "confiance": "tranchee",
+  "note": "Reclassé Détroit"
+ },
+ "fleuves-mers-et-oceans_cap-horn": {
+  "type": "Cap",
+  "pays": "Chili",
+  "repere": "Extrémité sud de l'Amérique · jonction Atlantique et Pacifique",
+  "confiance": "tranchee",
+  "note": "Reclassé Cap"
+ },
+ "fleuves-mers-et-oceans_triangle-des-bermudes": {
+  "type": "Autre",
+  "pays": "Bermudes · Floride · Porto Rico",
+  "repere": "Atlantique Nord · légende des disparitions de navires et d'avions",
+  "confiance": "tranchee",
+  "note": "Reclassé Autre (zone légendaire de l'Atlantique)"
+ },
+ "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
+  "type": "Cap",
+  "pays": "Afrique du Sud",
+  "repere": "Doublé par Bartolomeu Dias en 1488 · route des Indes",
+  "confiance": "tranchee",
+  "note": "Reclassé Cap"
+ }
+}

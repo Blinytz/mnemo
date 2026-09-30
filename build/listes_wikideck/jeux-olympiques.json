@@ -1,0 +1,215 @@
+{
+ "jeux-olympiques_jeux-olympiques-de-1896": {
+  "annee": "1896",
+  "ville": "Athènes",
+  "pays": "Grèce",
+  "fait": "Premiers Jeux olympiques modernes",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-de-1900": {
+  "annee": "1900",
+  "ville": "Paris",
+  "pays": "France",
+  "fait": "Premiers Jeux ouverts aux femmes",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-de-1904": {
+  "annee": "1904",
+  "ville": "Saint-Louis",
+  "pays": "États-Unis",
+  "fait": "Premiers Jeux hors d'Europe",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-de-1908": {
+  "annee": "1908",
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "fait": "Le marathon est couru pour la première fois sur 42,195 km",
+  "confiance": "tranchee",
+  "note": "La distance de 42,195 km n'a été fixée officiellement qu'en 1921, mais elle vient de ce marathon de Londres."
+ },
+ "jeux-olympiques_jeux-olympiques-de-1912": {
+  "annee": "1912",
+  "ville": "Stockholm",
+  "pays": "Suède",
+  "fait": "Jim Thorpe sacré au pentathlon et au décathlon",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-de-1920": {
+  "annee": "1920",
+  "ville": "Anvers",
+  "pays": "Belgique",
+  "fait": "Premier drapeau olympique et premier serment des athlètes",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1924": {
+  "annee": "1924",
+  "ville": "Paris",
+  "pays": "France",
+  "fait": "Johnny Weissmuller remporte 3 médailles d'or en natation",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1928": {
+  "annee": "1928",
+  "ville": "Amsterdam",
+  "pays": "Pays-Bas",
+  "fait": "Première flamme olympique",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1932": {
+  "annee": "1932",
+  "ville": "Los Angeles",
+  "pays": "États-Unis",
+  "fait": "Premier village olympique",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1936": {
+  "annee": "1936",
+  "ville": "Berlin",
+  "pays": "Allemagne",
+  "fait": "Jesse Owens remporte 4 médailles d'or",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1948": {
+  "annee": "1948",
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "fait": "Fanny Blankers-Koen remporte 4 médailles d'or",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1952": {
+  "annee": "1952",
+  "ville": "Helsinki",
+  "pays": "Finlande",
+  "fait": "Emil Zátopek gagne le 5 000 m, le 10 000 m et le marathon",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1956": {
+  "annee": "1956",
+  "ville": "Melbourne",
+  "pays": "Australie",
+  "fait": "Premiers Jeux dans l'hémisphère Sud",
+  "confiance": "tranchee",
+  "note": "Les épreuves d'équitation se sont tenues à Stockholm (Suède) en juin 1956, quarantaine australienne oblige ; seule Melbourne retenue comme ville hôte."
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1960": {
+  "annee": "1960",
+  "ville": "Rome",
+  "pays": "Italie",
+  "fait": "Abebe Bikila gagne le marathon pieds nus",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1964": {
+  "annee": "1964",
+  "ville": "Tokyo",
+  "pays": "Japon",
+  "fait": "Premiers Jeux en Asie",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1968": {
+  "annee": "1968",
+  "ville": "Mexico",
+  "pays": "Mexique",
+  "fait": "Poing levé de Tommie Smith et John Carlos",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1972": {
+  "annee": "1972",
+  "ville": "Munich",
+  "pays": "Allemagne de l'Ouest",
+  "fait": "Prise d'otages des athlètes israéliens",
+  "confiance": "tranchee",
+  "note": "RFA ; on retient « Allemagne de l'Ouest » plutôt que l'Allemagne actuelle."
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1976": {
+  "annee": "1976",
+  "ville": "Montréal",
+  "pays": "Canada",
+  "fait": "Nadia Comăneci obtient le premier 10 en gymnastique",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1980": {
+  "annee": "1980",
+  "ville": "Moscou",
+  "pays": "URSS",
+  "fait": "Boycott des États-Unis",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1984": {
+  "annee": "1984",
+  "ville": "Los Angeles",
+  "pays": "États-Unis",
+  "fait": "Boycott de l'URSS et du bloc de l'Est",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1988": {
+  "annee": "1988",
+  "ville": "Séoul",
+  "pays": "Corée du Sud",
+  "fait": "Ben Johnson disqualifié pour dopage",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1992": {
+  "annee": "1992",
+  "ville": "Barcelone",
+  "pays": "Espagne",
+  "fait": "La « Dream Team » américaine de basket",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-1996": {
+  "annee": "1996",
+  "ville": "Atlanta",
+  "pays": "États-Unis",
+  "fait": "Jeux du centenaire, endeuillés par un attentat",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2000": {
+  "annee": "2000",
+  "ville": "Sydney",
+  "pays": "Australie",
+  "fait": "Cathy Freeman remporte le 400 m",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2004": {
+  "annee": "2004",
+  "ville": "Athènes",
+  "pays": "Grèce",
+  "fait": "Retour des Jeux à Athènes, berceau de l'olympisme moderne",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2008": {
+  "annee": "2008",
+  "ville": "Pékin",
+  "pays": "Chine",
+  "fait": "Michael Phelps remporte 8 médailles d'or",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2012": {
+  "annee": "2012",
+  "ville": "Londres",
+  "pays": "Royaume-Uni",
+  "fait": "Londres, première ville hôte des Jeux d'été pour la 3e fois",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2016": {
+  "annee": "2016",
+  "ville": "Rio de Janeiro",
+  "pays": "Brésil",
+  "fait": "Premiers Jeux en Amérique du Sud",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2020": {
+  "annee": "2020",
+  "ville": "Tokyo",
+  "pays": "Japon",
+  "fait": "Reportés à 2021 à cause du Covid-19",
+  "confiance": "sure"
+ },
+ "jeux-olympiques_jeux-olympiques-d-ete-de-2024": {
+  "annee": "2024",
+  "ville": "Paris",
+  "pays": "France",
+  "fait": "Cérémonie d'ouverture sur la Seine",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,1461 @@
+{
+ "auteurs-modernes_marcel-proust": {
+  "dates": "1871-1922",
+  "nationalite": "Français",
+  "oeuvres": "À la recherche du temps perdu · Du côté de chez Swann · À l'ombre des jeunes filles en fleurs",
+  "prix": "Goncourt 1919",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_franz-kafka": {
+  "dates": "1883-1924",
+  "nationalite": "Austro-hongrois",
+  "oeuvres": "La Métamorphose · Le Procès · Le Château",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Austro-hongrois comme l'article (né à Prague, de langue allemande, tchécoslovaque à sa mort) ; « Tchèque » aussi admissible"
+ },
+ "auteurs-modernes_james-joyce": {
+  "dates": "1882-1941",
+  "nationalite": "Irlandais",
+  "oeuvres": "Ulysse · Gens de Dublin · Finnegans Wake",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_virginia-woolf": {
+  "dates": "1882-1941",
+  "nationalite": "Britannique",
+  "oeuvres": "Mrs Dalloway · Vers le phare · Orlando",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_d-h-lawrence": {
+  "dates": "1885-1930",
+  "nationalite": "Britannique",
+  "oeuvres": "L'Amant de lady Chatterley · Amants et Fils · Femmes amoureuses",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_thomas-mann": {
+  "dates": "1875-1955",
+  "nationalite": "Allemand",
+  "oeuvres": "Les Buddenbrook · La Montagne magique · La Mort à Venise",
+  "prix": "Nobel 1929",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_hermann-hesse": {
+  "dates": "1877-1962",
+  "nationalite": "Allemand",
+  "oeuvres": "Siddhartha · Le Loup des steppes · Le Jeu des perles de verre",
+  "prix": "Nobel 1946",
+  "confiance": "tranchee",
+  "note": "Allemand retenu (nationalité de naissance, usage courant) ; naturalisé suisse en 1924"
+ },
+ "auteurs-modernes_f-scott-fitzgerald": {
+  "dates": "1896-1940",
+  "nationalite": "Américain",
+  "oeuvres": "Gatsby le Magnifique · Tendre est la nuit · L'Envers du paradis",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_ernest-hemingway": {
+  "dates": "1899-1961",
+  "nationalite": "Américain",
+  "oeuvres": "Le Vieil Homme et la Mer · L'Adieu aux armes · Pour qui sonne le glas",
+  "prix": "Pulitzer 1953 · Nobel 1954",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_william-faulkner": {
+  "dates": "1897-1962",
+  "nationalite": "Américain",
+  "oeuvres": "Le Bruit et la Fureur · Tandis que j'agonise · Lumière d'août",
+  "prix": "Nobel 1949 · Pulitzer 1955",
+  "confiance": "tranchee",
+  "note": "Nobel au titre de 1949 (remis en 1950) ; second Pulitzer posthume en 1963 non listé"
+ },
+ "auteurs-modernes_john-steinbeck": {
+  "dates": "1902-1968",
+  "nationalite": "Américain",
+  "oeuvres": "Les Raisins de la colère · Des souris et des hommes · À l'est d'Éden",
+  "prix": "Pulitzer 1940 · Nobel 1962",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_george-orwell": {
+  "dates": "1903-1950",
+  "nationalite": "Britannique",
+  "oeuvres": "1984 · La Ferme des animaux · Hommage à la Catalogne",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_aldous-huxley": {
+  "dates": "1894-1963",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Meilleur des mondes · Les Portes de la perception · Île",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_agatha-christie": {
+  "dates": "1890-1976",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Crime de l'Orient-Express · Ils étaient dix · Le Meurtre de Roger Ackroyd",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_j-r-r-tolkien": {
+  "dates": "1892-1973",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Seigneur des anneaux · Le Hobbit · Le Silmarillion",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_c-s-lewis": {
+  "dates": "1898-1963",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Monde de Narnia · Tactique du diable · La Trilogie cosmique",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_h-p-lovecraft": {
+  "dates": "1890-1937",
+  "nationalite": "Américain",
+  "oeuvres": "L'Appel de Cthulhu · Les Montagnes hallucinées · Le Cauchemar d'Innsmouth",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_albert-camus": {
+  "dates": "1913-1960",
+  "nationalite": "Français",
+  "oeuvres": "L'Étranger · La Peste · La Chute",
+  "prix": "Nobel 1957",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jean-paul-sartre": {
+  "dates": "1905-1980",
+  "nationalite": "Français",
+  "oeuvres": "La Nausée · Huis clos · L'Être et le Néant",
+  "prix": "Nobel 1964 (refusé)",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_simone-de-beauvoir": {
+  "dates": "1908-1986",
+  "nationalite": "Française",
+  "oeuvres": "Le Deuxième Sexe · Les Mandarins · Mémoires d'une jeune fille rangée",
+  "prix": "Goncourt 1954",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_gabriel-garcia-marquez": {
+  "dates": "1927-2014",
+  "nationalite": "Colombien",
+  "oeuvres": "Cent ans de solitude · L'Amour aux temps du choléra · Chronique d'une mort annoncée",
+  "prix": "Nobel 1982",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jorge-luis-borges": {
+  "dates": "1899-1986",
+  "nationalite": "Argentin",
+  "oeuvres": "Fictions · L'Aleph · Le Livre de sable",
+  "prix": "Cervantes 1979",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_julio-cortazar": {
+  "dates": "1914-1984",
+  "nationalite": "Argentin",
+  "oeuvres": "Marelle · Les Armes secrètes · Cronopes et Fameux",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_pablo-neruda": {
+  "dates": "1904-1973",
+  "nationalite": "Chilien",
+  "oeuvres": "Le Chant général · Vingt poèmes d'amour et une chanson désespérée · J'avoue que j'ai vécu",
+  "prix": "Nobel 1971",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_isabel-allende": {
+  "dates": "née en 1942",
+  "nationalite": "Chilienne",
+  "oeuvres": "La Maison aux esprits · Eva Luna · Paula",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Chilienne retenue (naturalisée américaine en 1993) ; prix national chilien hors liste des grands prix"
+ },
+ "auteurs-modernes_milan-kundera": {
+  "dates": "1929-2023",
+  "nationalite": "Tchèque",
+  "oeuvres": "L'Insoutenable Légèreté de l'être · La Plaisanterie · La vie est ailleurs",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Tchèque retenu, naturalisé français en 1981 ; Médicis étranger hors liste des grands prix"
+ },
+ "auteurs-modernes_umberto-eco": {
+  "dates": "1932-2016",
+  "nationalite": "Italien",
+  "oeuvres": "Le Nom de la rose · Le Pendule de Foucault · L'Œuvre ouverte",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Strega, Médicis étranger)"
+ },
+ "auteurs-modernes_italo-calvino": {
+  "dates": "1923-1985",
+  "nationalite": "Italien",
+  "oeuvres": "Le Baron perché · Les Villes invisibles · Si par une nuit d'hiver un voyageur",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun grand prix international ; prix italiens (Viareggio 1957) non retenus faute de certitude"
+ },
+ "auteurs-modernes_toni-morrison": {
+  "dates": "1931-2019",
+  "nationalite": "Américaine",
+  "oeuvres": "Beloved · L'Œil le plus bleu · Sula",
+  "prix": "Pulitzer 1988 · Nobel 1993",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_maya-angelou": {
+  "dates": "1928-2014",
+  "nationalite": "Américaine",
+  "oeuvres": "Je sais pourquoi chante l'oiseau en cage · Tant que je serai noire",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_kurt-vonnegut": {
+  "dates": "1922-2007",
+  "nationalite": "Américain",
+  "oeuvres": "Abattoir 5 · Le Berceau du chat · Le Breakfast du champion",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_philip-k-dick": {
+  "dates": "1928-1982",
+  "nationalite": "Américain",
+  "oeuvres": "Le Maître du Haut Château · Les androïdes rêvent-ils de moutons électriques ? · Ubik",
+  "prix": "Hugo 1963",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_isaac-asimov": {
+  "dates": "1920-1992",
+  "nationalite": "Américain",
+  "oeuvres": "Fondation · Les Robots · Les dieux eux-mêmes",
+  "prix": "Hugo 1966 · Nebula 1972 · Hugo 1973",
+  "confiance": "tranchee",
+  "note": "Né en Russie, naturalisé américain ; Hugo 1966 pour le cycle Fondation, Nebula et Hugo pour Les dieux eux-mêmes"
+ },
+ "auteurs-modernes_ray-bradbury": {
+  "dates": "1920-2012",
+  "nationalite": "Américain",
+  "oeuvres": "Fahrenheit 451 · Chroniques martiennes · L'Homme illustré",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Mention spéciale Pulitzer 2007 non retenue comme prix"
+ },
+ "auteurs-modernes_arthur-c-clarke": {
+  "dates": "1917-2008",
+  "nationalite": "Britannique",
+  "oeuvres": "2001 : l'Odyssée de l'espace · Rendez-vous avec Rama · Les Enfants d'Icare",
+  "prix": "Nebula 1973 · Hugo 1974",
+  "confiance": "tranchee",
+  "note": "Prix retenus pour Rendez-vous avec Rama"
+ },
+ "auteurs-modernes_ursula-k-le-guin": {
+  "dates": "1929-2018",
+  "nationalite": "Américaine",
+  "oeuvres": "Terremer · La Main gauche de la nuit · Les Dépossédés",
+  "prix": "Hugo 1970 · Nebula 1970",
+  "confiance": "tranchee",
+  "note": "Prix de La Main gauche de la nuit (Nebula remis en 1970 au titre de 1969) ; Les Dépossédés doublé en 1975"
+ },
+ "auteurs-modernes_stephen-king": {
+  "dates": "né en 1947",
+  "nationalite": "Américain",
+  "oeuvres": "Shining · Ça · Carrie",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix de genre (Bram Stoker, World Fantasy) non retenus comme grands prix littéraires"
+ },
+ "auteurs-modernes_j-k-rowling": {
+  "dates": "née en 1965",
+  "nationalite": "Britannique",
+  "oeuvres": "Harry Potter · Une place à prendre · Les Enquêtes de Cormoran Strike",
+  "prix": "Hugo 2001",
+  "confiance": "tranchee",
+  "note": "Hugo pour Harry Potter et la Coupe de feu"
+ },
+ "auteurs-modernes_george-r-r-martin": {
+  "dates": "né en 1948",
+  "nationalite": "Américain",
+  "oeuvres": "Le Trône de fer · Riverdream · Armageddon Rag",
+  "prix": "Hugo 1975 · Nebula 1980",
+  "confiance": "tranchee",
+  "note": "Prix pour des nouvelles (Chanson pour Lya, Les Rois des sables)"
+ },
+ "auteurs-modernes_terry-pratchett": {
+  "dates": "1948-2015",
+  "nationalite": "Britannique",
+  "oeuvres": "Les Annales du Disque-monde · De bons présages · Le Peuple",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (médaille Carnegie)"
+ },
+ "auteurs-modernes_neil-gaiman": {
+  "dates": "né en 1960",
+  "nationalite": "Britannique",
+  "oeuvres": "American Gods · Coraline · Sandman",
+  "prix": "Hugo 2002 · Hugo 2009",
+  "confiance": "tranchee",
+  "note": "Newbery hors liste retiré ; Hugo pour American Gods puis L'Étrange Vie de Nobody Owens"
+ },
+ "auteurs-modernes_douglas-adams": {
+  "dates": "1952-2001",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Guide du voyageur galactique · Le Dernier Restaurant avant la fin du monde · Dirk Gently, détective holistique",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_haruki-murakami": {
+  "dates": "né en 1949",
+  "nationalite": "Japonais",
+  "oeuvres": "Kafka sur le rivage · 1Q84 · La Ballade de l'impossible",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Franz Kafka, Princesse des Asturies)"
+ },
+ "auteurs-modernes_yukio-mishima": {
+  "dates": "1925-1970",
+  "nationalite": "Japonais",
+  "oeuvres": "Le Pavillon d'or · Confession d'un masque · La Mer de la fertilité",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_kenzaburo-oe": {
+  "dates": "1935-2023",
+  "nationalite": "Japonais",
+  "oeuvres": "Une affaire personnelle · Le Jeu du siècle · Dites-nous comment survivre à notre folie",
+  "prix": "Nobel 1994",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Akutagawa)"
+ },
+ "auteurs-modernes_naguib-mahfouz": {
+  "dates": "1911-2006",
+  "nationalite": "Égyptien",
+  "oeuvres": "Trilogie du Caire · Les Fils de la médina · Passage des miracles",
+  "prix": "Nobel 1988",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_chinua-achebe": {
+  "dates": "1930-2013",
+  "nationalite": "Nigérian",
+  "oeuvres": "Tout s'effondre · La Flèche de Dieu · Le Malaise",
+  "prix": "Man Booker International 2007",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_wole-soyinka": {
+  "dates": "né en 1934",
+  "nationalite": "Nigérian",
+  "oeuvres": "La Mort et l'Écuyer du roi · Aké, les années d'enfance · Le Lion et la Perle",
+  "prix": "Nobel 1986",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_salman-rushdie": {
+  "dates": "né en 1947",
+  "nationalite": "Britannique",
+  "oeuvres": "Les Enfants de minuit · Les Versets sataniques · Le Couteau",
+  "prix": "Booker 1981",
+  "confiance": "tranchee",
+  "note": "Britannique retenu (né indien, naturalisé américain en 2016)"
+ },
+ "auteurs-modernes_kazuo-ishiguro": {
+  "dates": "né en 1954",
+  "nationalite": "Britannique",
+  "oeuvres": "Les Vestiges du jour · Auprès de moi toujours · Klara et le Soleil",
+  "prix": "Booker 1989 · Nobel 2017",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_margaret-atwood": {
+  "dates": "née en 1939",
+  "nationalite": "Canadienne",
+  "oeuvres": "La Servante écarlate · Le Tueur aveugle · Les Testaments",
+  "prix": "Booker 2000 · Booker 2019",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_alice-munro": {
+  "dates": "1931-2024",
+  "nationalite": "Canadienne",
+  "oeuvres": "Fugitives · Trop de bonheur · Rien que la vie",
+  "prix": "Man Booker International 2009 · Nobel 2013",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_vladimir-nabokov": {
+  "dates": "1899-1977",
+  "nationalite": "Américain",
+  "oeuvres": "Lolita · Feu pâle · Ada ou l'Ardeur",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Américain comme l'article (naturalisé en 1945, né russe)"
+ },
+ "auteurs-modernes_michel-houellebecq": {
+  "dates": "né en 1956",
+  "nationalite": "Français",
+  "oeuvres": "Les Particules élémentaires · La Carte et le Territoire · Soumission",
+  "prix": "Goncourt 2010",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_amelie-nothomb": {
+  "dates": "née en 1966",
+  "nationalite": "Belge",
+  "oeuvres": "Stupeur et Tremblements · Hygiène de l'assassin · Premier Sang",
+  "prix": "Renaudot 2021",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_marguerite-yourcenar": {
+  "dates": "1903-1987",
+  "nationalite": "Française",
+  "oeuvres": "Mémoires d'Hadrien · L'Œuvre au noir · Le Coup de grâce",
+  "prix": "Femina 1968",
+  "confiance": "tranchee",
+  "note": "Française retenue (née à Bruxelles, naturalisée américaine en 1947)"
+ },
+ "auteurs-modernes_marguerite-duras": {
+  "dates": "1914-1996",
+  "nationalite": "Française",
+  "oeuvres": "L'Amant · Un barrage contre le Pacifique · Moderato cantabile",
+  "prix": "Goncourt 1984",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_colette": {
+  "dates": "1873-1954",
+  "nationalite": "Française",
+  "oeuvres": "Claudine à l'école · Le Blé en herbe · Gigi",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_romain-gary": {
+  "dates": "1914-1980",
+  "nationalite": "Français",
+  "oeuvres": "La Promesse de l'aube · Les Racines du ciel · La Vie devant soi",
+  "prix": "Goncourt 1956 · Goncourt 1975",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_boris-vian": {
+  "dates": "1920-1959",
+  "nationalite": "Français",
+  "oeuvres": "L'Écume des jours · J'irai cracher sur vos tombes · L'Arrache-cœur",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_georges-perec": {
+  "dates": "1936-1982",
+  "nationalite": "Français",
+  "oeuvres": "La Vie mode d'emploi · Les Choses · La Disparition",
+  "prix": "Renaudot 1965",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis 1978)"
+ },
+ "auteurs-modernes_raymond-queneau": {
+  "dates": "1903-1976",
+  "nationalite": "Français",
+  "oeuvres": "Zazie dans le métro · Exercices de style · Cent mille milliards de poèmes",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_guillaume-apollinaire": {
+  "dates": "1880-1918",
+  "nationalite": "Français",
+  "oeuvres": "Alcools · Calligrammes · Le Poète assassiné",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_rainer-maria-rilke": {
+  "dates": "1875-1926",
+  "nationalite": "Autrichien",
+  "oeuvres": "Lettres à un jeune poète · Élégies de Duino · Les Cahiers de Malte Laurids Brigge",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Autrichien retenu (austro-hongrois de naissance, né à Prague)"
+ },
+ "auteurs-modernes_t-s-eliot": {
+  "dates": "1888-1965",
+  "nationalite": "Américano-britannique",
+  "oeuvres": "La Terre vaine · Meurtre dans la cathédrale · Quatre Quatuors",
+  "prix": "Nobel 1948",
+  "confiance": "tranchee",
+  "note": "Américain naturalisé britannique en 1927"
+ },
+ "auteurs-modernes_william-butler-yeats": {
+  "dates": "1865-1939",
+  "nationalite": "Irlandais",
+  "oeuvres": "La Tour · Les Cygnes sauvages à Coole · Cathleen ni Houlihan",
+  "prix": "Nobel 1923",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_federico-garcia-lorca": {
+  "dates": "1898-1936",
+  "nationalite": "Espagnol",
+  "oeuvres": "Noces de sang · La Maison de Bernarda Alba · Romancero gitan",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_octavio-paz": {
+  "dates": "1914-1998",
+  "nationalite": "Mexicain",
+  "oeuvres": "Le Labyrinthe de la solitude · Pierre de soleil · L'Arc et la Lyre",
+  "prix": "Cervantes 1981 · Nobel 1990",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_lu-xun-ecrivain": {
+  "dates": "1881-1936",
+  "nationalite": "Chinois",
+  "oeuvres": "La Véritable Histoire d'Ah Q · Le Journal d'un fou · Cris",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_mo-yan": {
+  "dates": "né en 1955",
+  "nationalite": "Chinois",
+  "oeuvres": "Le Clan du sorgho rouge · Beaux seins, belles fesses · Grenouilles",
+  "prix": "Nobel 2012",
+  "confiance": "tranchee",
+  "note": "Naissance incertaine, 1955 retenu ; prix Mao Dun hors liste retiré"
+ },
+ "auteurs-modernes_rabindranath-tagore": {
+  "dates": "1861-1941",
+  "nationalite": "Indien",
+  "oeuvres": "Gitanjali · La Maison et le Monde · Le Jardinier d'amour",
+  "prix": "Nobel 1913",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_munshi-premchand": {
+  "dates": "1880-1936",
+  "nationalite": "Indien",
+  "oeuvres": "Godaan · Nirmala · Le Linceul",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Titres français peu fixés : translittérations et traduction usuelle retenues"
+ },
+ "auteurs-modernes_khalil-gibran": {
+  "dates": "1883-1931",
+  "nationalite": "Libanais",
+  "oeuvres": "Le Prophète · Le Jardin du prophète · Les Ailes brisées",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Libanais retenu (usage francophone) ; libano-américain selon l'article"
+ },
+ "auteurs-modernes_ngugi-wa-thiong-o": {
+  "dates": "1938-2025",
+  "nationalite": "Kényan",
+  "oeuvres": "Enfant, ne pleure pas · Et le blé jaillira · Pétales de sang",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun grand prix retenu (Lotus 1973, Nonino, Park Kyong-ni jugés secondaires) ; décès de 2025 pris dans l'article"
+ },
+ "auteurs-modernes_mariama-ba": {
+  "dates": "1929-1981",
+  "nationalite": "Sénégalaise",
+  "oeuvres": "Une si longue lettre · Un chant écarlate",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Noma)"
+ },
+ "auteurs-modernes_nawal-el-saadawi": {
+  "dates": "1931-2021",
+  "nationalite": "Égyptienne",
+  "oeuvres": "Ferdaous, une voix en enfer · Mémoires d'une femme docteur · La Face cachée d'Ève",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_antoine-de-saint-exupery": {
+  "dates": "1900-1944",
+  "nationalite": "Français",
+  "oeuvres": "Le Petit Prince · Vol de nuit · Terre des hommes",
+  "prix": "Femina 1931",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_andre-gide": {
+  "dates": "1869-1951",
+  "nationalite": "Français",
+  "oeuvres": "Les Faux-monnayeurs · Les Nourritures terrestres · La Symphonie pastorale",
+  "prix": "Nobel 1947",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_louis-ferdinand-celine": {
+  "dates": "1894-1961",
+  "nationalite": "Français",
+  "oeuvres": "Voyage au bout de la nuit · Mort à crédit · D'un château l'autre",
+  "prix": "Renaudot 1932",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_andre-malraux": {
+  "dates": "1901-1976",
+  "nationalite": "Français",
+  "oeuvres": "La Condition humaine · L'Espoir · Antimémoires",
+  "prix": "Goncourt 1933",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_francois-mauriac": {
+  "dates": "1885-1970",
+  "nationalite": "Français",
+  "oeuvres": "Thérèse Desqueyroux · Le Nœud de vipères · Génitrix",
+  "prix": "Nobel 1952",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_jean-giono": {
+  "dates": "1895-1970",
+  "nationalite": "Français",
+  "oeuvres": "Regain · Le Hussard sur le toit · Un roi sans divertissement",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun grand prix retenu (prix Brentano 1929 et Prince-Pierre-de-Monaco jugés secondaires ; juré Goncourt, non lauréat)"
+ },
+ "auteurs-modernes_jean-cocteau": {
+  "dates": "1889-1963",
+  "nationalite": "Français",
+  "oeuvres": "Les Enfants terribles · Orphée · La Machine infernale",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_samuel-beckett": {
+  "dates": "1906-1989",
+  "nationalite": "Irlandais",
+  "oeuvres": "En attendant Godot · Fin de partie · Oh les beaux jours",
+  "prix": "Nobel 1969",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_eugene-ionesco": {
+  "dates": "1909-1994",
+  "nationalite": "Franco-roumain",
+  "oeuvres": "La Cantatrice chauve · Rhinocéros · Le roi se meurt",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Franco-roumain comme l'article ; Grand prix national du théâtre 1969 non retenu comme prix littéraire"
+ },
+ "auteurs-modernes_jean-genet": {
+  "dates": "1910-1986",
+  "nationalite": "Français",
+  "oeuvres": "Les Bonnes · Notre-Dame-des-Fleurs · Journal du voleur",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix national des lettres)"
+ },
+ "auteurs-modernes_nathalie-sarraute": {
+  "dates": "1900-1999",
+  "nationalite": "Française",
+  "oeuvres": "Tropismes · Enfance · L'Ère du soupçon",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_alain-robbe-grillet": {
+  "dates": "1922-2008",
+  "nationalite": "Français",
+  "oeuvres": "Les Gommes · La Jalousie · Le Voyeur",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (prix des critiques)"
+ },
+ "auteurs-modernes_michel-tournier": {
+  "dates": "1924-2016",
+  "nationalite": "Français",
+  "oeuvres": "Vendredi ou les Limbes du Pacifique · Le Roi des Aulnes · Les Météores",
+  "prix": "Goncourt 1970",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_j-m-g-le-clezio": {
+  "dates": "né en 1940",
+  "nationalite": "Français",
+  "oeuvres": "Le Procès-verbal · Désert · Le Chercheur d'or",
+  "prix": "Renaudot 1963 · Nobel 2008",
+  "confiance": "tranchee",
+  "note": "Français retenu ; binational franco-mauricien"
+ },
+ "auteurs-modernes_patrick-modiano": {
+  "dates": "né en 1945",
+  "nationalite": "Français",
+  "oeuvres": "Rue des Boutiques obscures · Dora Bruder · La Place de l'étoile",
+  "prix": "Goncourt 1978 · Nobel 2014",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_annie-ernaux": {
+  "dates": "née en 1940",
+  "nationalite": "Française",
+  "oeuvres": "La Place · Les Années · L'Événement",
+  "prix": "Renaudot 1984 · Nobel 2022",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_louis-aragon": {
+  "dates": "1897-1982",
+  "nationalite": "Français",
+  "oeuvres": "Les Yeux d'Elsa · Aurélien · Le Paysan de Paris",
+  "prix": "Renaudot 1936",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_paul-eluard": {
+  "dates": "1895-1952",
+  "nationalite": "Français",
+  "oeuvres": "Capitale de la douleur · Liberté · L'Amour la poésie",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jacques-prevert": {
+  "dates": "1900-1977",
+  "nationalite": "Français",
+  "oeuvres": "Paroles · Les Enfants du paradis · Spectacle",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_georges-simenon": {
+  "dates": "1903-1989",
+  "nationalite": "Belge",
+  "oeuvres": "Les Enquêtes du commissaire Maigret · Le Chat · Les Fiançailles de M. Hire",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_marcel-pagnol": {
+  "dates": "1895-1974",
+  "nationalite": "Français",
+  "oeuvres": "La Gloire de mon père · Le Château de ma mère · Marius",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_mikhail-boulgakov": {
+  "dates": "1891-1940",
+  "nationalite": "Russe",
+  "oeuvres": "Le Maître et Marguerite · Cœur de chien · La Garde blanche",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_alexandre-soljenitsyne": {
+  "dates": "1918-2008",
+  "nationalite": "Russe",
+  "oeuvres": "L'Archipel du Goulag · Une journée d'Ivan Denissovitch · Le Pavillon des cancéreux",
+  "prix": "Nobel 1970",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_boris-pasternak": {
+  "dates": "1890-1960",
+  "nationalite": "Russe",
+  "oeuvres": "Le Docteur Jivago · Ma sœur la vie · Sauf-conduit",
+  "prix": "Nobel 1958 (refusé sous la contrainte)",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_maxime-gorki": {
+  "dates": "1868-1936",
+  "nationalite": "Russe",
+  "oeuvres": "La Mère · Les Bas-fonds · Enfance",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_vladimir-maiakovski": {
+  "dates": "1893-1930",
+  "nationalite": "Russe",
+  "oeuvres": "Le Nuage en pantalon · La Punaise · Les Bains",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_anna-akhmatova": {
+  "dates": "1889-1966",
+  "nationalite": "Russe",
+  "oeuvres": "Requiem · Poème sans héros · Le Rosaire",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_bertolt-brecht": {
+  "dates": "1898-1956",
+  "nationalite": "Allemand",
+  "oeuvres": "L'Opéra de quat'sous · Mère Courage et ses enfants · La Résistible Ascension d'Arturo Ui",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_stefan-zweig": {
+  "dates": "1881-1942",
+  "nationalite": "Autrichien",
+  "oeuvres": "Le Joueur d'échecs · Lettre d'une inconnue · Le Monde d'hier",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_gunter-grass": {
+  "dates": "1927-2015",
+  "nationalite": "Allemand",
+  "oeuvres": "Le Tambour · Le Turbot · En crabe",
+  "prix": "Nobel 1999",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Büchner)"
+ },
+ "auteurs-modernes_erich-maria-remarque": {
+  "dates": "1898-1970",
+  "nationalite": "Allemand",
+  "oeuvres": "À l'Ouest, rien de nouveau · Les Camarades · Arc de triomphe",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Allemand retenu (déchu en 1938, naturalisé américain en 1947)"
+ },
+ "auteurs-modernes_robert-musil": {
+  "dates": "1880-1942",
+  "nationalite": "Autrichien",
+  "oeuvres": "L'Homme sans qualités · Les Désarrois de l'élève Törless · Trois femmes",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Kleist)"
+ },
+ "auteurs-modernes_paul-celan": {
+  "dates": "1920-1970",
+  "nationalite": "Roumain",
+  "oeuvres": "Fugue de mort · Pavot et Mémoire · La Rose de personne",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Roumain de naissance retenu, naturalisé français en 1955 ; Büchner hors liste retiré"
+ },
+ "auteurs-modernes_j-d-salinger": {
+  "dates": "1919-2010",
+  "nationalite": "Américain",
+  "oeuvres": "L'Attrape-cœurs · Nouvelles · Franny et Zooey",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_harper-lee": {
+  "dates": "1926-2016",
+  "nationalite": "Américaine",
+  "oeuvres": "Ne tirez pas sur l'oiseau moqueur · Va et poste une sentinelle",
+  "prix": "Pulitzer 1961",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jack-kerouac": {
+  "dates": "1922-1969",
+  "nationalite": "Américain",
+  "oeuvres": "Sur la route · Les Clochards célestes · Big Sur",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_cormac-mccarthy": {
+  "dates": "1933-2023",
+  "nationalite": "Américain",
+  "oeuvres": "La Route · Non, ce pays n'est pas pour le vieil homme · Méridien de sang",
+  "prix": "Pulitzer 2007",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (National Book Award)"
+ },
+ "auteurs-modernes_philip-roth": {
+  "dates": "1933-2018",
+  "nationalite": "Américain",
+  "oeuvres": "Portnoy et son complexe · Pastorale américaine · La Tache",
+  "prix": "Pulitzer 1998 · Man Booker International 2011",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_saul-bellow": {
+  "dates": "1915-2005",
+  "nationalite": "Américain",
+  "oeuvres": "Herzog · Les Aventures d'Augie March · Le Don de Humboldt",
+  "prix": "Pulitzer 1976 · Nobel 1976",
+  "confiance": "tranchee",
+  "note": "Américain retenu (né au Canada, canado-américain selon l'article)"
+ },
+ "auteurs-modernes_truman-capote": {
+  "dates": "1924-1984",
+  "nationalite": "Américain",
+  "oeuvres": "De sang-froid · Petit Déjeuner chez Tiffany · Les Domaines hantés",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_tennessee-williams": {
+  "dates": "1911-1983",
+  "nationalite": "Américain",
+  "oeuvres": "Un tramway nommé Désir · La Chatte sur un toit brûlant · La Ménagerie de verre",
+  "prix": "Pulitzer 1948 · Pulitzer 1955",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_arthur-miller": {
+  "dates": "1915-2005",
+  "nationalite": "Américain",
+  "oeuvres": "Mort d'un commis voyageur · Les Sorcières de Salem · Vu du pont",
+  "prix": "Pulitzer 1949",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_eugene-o-neill": {
+  "dates": "1888-1953",
+  "nationalite": "Américain",
+  "oeuvres": "Le Deuil sied à Électre · Long voyage du jour à la nuit · Désir sous les ormes",
+  "prix": "Pulitzer 1920 · Nobel 1936",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_james-baldwin-ecrivain": {
+  "dates": "1924-1987",
+  "nationalite": "Américain",
+  "oeuvres": "La Conversion · La Chambre de Giovanni · La prochaine fois, le feu",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_sylvia-plath": {
+  "dates": "1932-1963",
+  "nationalite": "Américaine",
+  "oeuvres": "La Cloche de détresse · Ariel · Journaux",
+  "prix": "Pulitzer 1982",
+  "confiance": "tranchee",
+  "note": "Pulitzer posthume pour ses Poèmes complets"
+ },
+ "auteurs-modernes_robert-frost": {
+  "dates": "1874-1963",
+  "nationalite": "Américain",
+  "oeuvres": "Le Chemin non emprunté · Halte près des bois un soir de neige · New Hampshire",
+  "prix": "Pulitzer 1924 · 1931 · 1937 · 1943",
+  "confiance": "tranchee",
+  "note": "Titres de poèmes : traductions usuelles retenues"
+ },
+ "auteurs-modernes_langston-hughes": {
+  "dates": "1901-1967",
+  "nationalite": "Américain",
+  "oeuvres": "The Weary Blues · Le Nègre parle des fleuves · Montage of a Dream Deferred",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Titres originaux gardés faute de traductions françaises établies"
+ },
+ "auteurs-modernes_graham-greene": {
+  "dates": "1904-1991",
+  "nationalite": "Britannique",
+  "oeuvres": "La Puissance et la Gloire · Le Troisième Homme · Le Fond du problème",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (James Tait Black, Jérusalem)"
+ },
+ "auteurs-modernes_e-m-forster": {
+  "dates": "1879-1970",
+  "nationalite": "Britannique",
+  "oeuvres": "Route des Indes · Chambre avec vue · Howards End",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (James Tait Black, Femina Vie heureuse)"
+ },
+ "auteurs-modernes_fernando-pessoa": {
+  "dates": "1888-1935",
+  "nationalite": "Portugais",
+  "oeuvres": "Le Livre de l'intranquillité · Message · Bureau de tabac",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jose-saramago": {
+  "dates": "1922-2010",
+  "nationalite": "Portugais",
+  "oeuvres": "L'Aveuglement · L'Évangile selon Jésus-Christ · Le Radeau de pierre",
+  "prix": "Nobel 1998",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Camões)"
+ },
+ "auteurs-modernes_mario-vargas-llosa": {
+  "dates": "1936-2025",
+  "nationalite": "Péruvien",
+  "oeuvres": "La Ville et les Chiens · La Fête au bouc · Conversation à La Catedral",
+  "prix": "Cervantes 1994 · Nobel 2010",
+  "confiance": "tranchee",
+  "note": "Péruvien retenu (naturalisé espagnol en 1993) ; décès de 2025 pris dans l'article"
+ },
+ "auteurs-modernes_juan-rulfo": {
+  "dates": "1917-1986",
+  "nationalite": "Mexicain",
+  "oeuvres": "Pedro Páramo · Le Llano en flammes",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (prix national mexicain, Prince des Asturies)"
+ },
+ "auteurs-modernes_roberto-bolano": {
+  "dates": "1953-2003",
+  "nationalite": "Chilien",
+  "oeuvres": "2666 · Les Détectives sauvages · Étoile distante",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Herralde, Rómulo Gallegos)"
+ },
+ "auteurs-modernes_jorge-amado": {
+  "dates": "1912-2001",
+  "nationalite": "Brésilien",
+  "oeuvres": "Gabriela, girofle et cannelle · Dona Flor et ses deux maris · Capitaines des sables",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Camões)"
+ },
+ "auteurs-modernes_miguel-de-unamuno": {
+  "dates": "1864-1936",
+  "nationalite": "Espagnol",
+  "oeuvres": "Brouillard · Du sentiment tragique de la vie · Saint Manuel le Bon, martyr",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_luigi-pirandello": {
+  "dates": "1867-1936",
+  "nationalite": "Italien",
+  "oeuvres": "Six personnages en quête d'auteur · Feu Mathias Pascal · Henri IV",
+  "prix": "Nobel 1934",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_primo-levi": {
+  "dates": "1919-1987",
+  "nationalite": "Italien",
+  "oeuvres": "Si c'est un homme · La Trêve · Le Système périodique",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Campiello, Strega)"
+ },
+ "auteurs-modernes_alberto-moravia": {
+  "dates": "1907-1990",
+  "nationalite": "Italien",
+  "oeuvres": "Les Indifférents · Le Mépris · L'Ennui",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Strega, Viareggio)"
+ },
+ "auteurs-modernes_orhan-pamuk": {
+  "dates": "né en 1952",
+  "nationalite": "Turc",
+  "oeuvres": "Mon nom est Rouge · Neige · Le Musée de l'innocence",
+  "prix": "Nobel 2006",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis étranger)"
+ },
+ "auteurs-modernes_ismail-kadare": {
+  "dates": "1936-2024",
+  "nationalite": "Albanais",
+  "oeuvres": "Le Général de l'armée morte · Avril brisé · Le Palais des rêves",
+  "prix": "Man Booker International 2005",
+  "confiance": "tranchee",
+  "note": "Albanais retenu (naturalisé français) ; Neustadt hors liste retiré"
+ },
+ "auteurs-modernes_yasunari-kawabata": {
+  "dates": "1899-1972",
+  "nationalite": "Japonais",
+  "oeuvres": "Pays de neige · Mille Grues · Le Grondement de la montagne",
+  "prix": "Nobel 1968",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_liu-cixin": {
+  "dates": "né en 1963",
+  "nationalite": "Chinois",
+  "oeuvres": "Le Problème à trois corps · La Forêt sombre · La Mort immortelle",
+  "prix": "Hugo 2015",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_han-kang": {
+  "dates": "née en 1970",
+  "nationalite": "Sud-coréenne",
+  "oeuvres": "La Végétarienne · Celui qui revient · Impossibles adieux",
+  "prix": "Man Booker International 2016 · Nobel 2024",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis étranger)"
+ },
+ "auteurs-modernes_amos-oz": {
+  "dates": "1939-2018",
+  "nationalite": "Israélien",
+  "oeuvres": "Une histoire d'amour et de ténèbres · Mon Michaël · Judas",
+  "prix": "Femina étranger 1988",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Goethe)"
+ },
+ "auteurs-modernes_chimamanda-ngozi-adichie": {
+  "dates": "née en 1977",
+  "nationalite": "Nigériane",
+  "oeuvres": "L'Autre Moitié du soleil · Americanah · Nous sommes tous des féministes",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Orange, National Book Critics Circle)"
+ },
+ "auteurs-modernes_svetlana-alexievitch": {
+  "dates": "née en 1948",
+  "nationalite": "Biélorusse",
+  "oeuvres": "La guerre n'a pas un visage de femme · La Supplication · La Fin de l'homme rouge",
+  "prix": "Nobel 2015",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis essai)"
+ },
+ "auteurs-modernes_enid-blyton": {
+  "dates": "1897-1968",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Club des Cinq · Oui-Oui · Le Clan des Sept",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_roald-dahl": {
+  "dates": "1916-1990",
+  "nationalite": "Britannique",
+  "oeuvres": "Charlie et la Chocolaterie · Matilda · Le Bon Gros Géant",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_astrid-lindgren": {
+  "dates": "1907-2002",
+  "nationalite": "Suédoise",
+  "oeuvres": "Fifi Brindacier · Les Frères Cœur-de-Lion · Ronya, fille de brigand",
+  "prix": "Hans Christian Andersen 1958",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_tove-jansson": {
+  "dates": "1914-2001",
+  "nationalite": "Finlandaise",
+  "oeuvres": "Les Moomins · Le Livre d'un été · Moomin et la comète",
+  "prix": "Hans Christian Andersen 1966",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_michael-ende": {
+  "dates": "1929-1995",
+  "nationalite": "Allemand",
+  "oeuvres": "L'Histoire sans fin · Momo · Jim Bouton",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (prix allemand de littérature jeunesse)"
+ },
+ "auteurs-modernes_alan-alexander-milne": {
+  "dates": "1882-1956",
+  "nationalite": "Britannique",
+  "oeuvres": "Winnie l'ourson · La Maison de Winnie l'ourson · Le Mystère de la maison rouge",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_beatrix-potter": {
+  "dates": "1866-1943",
+  "nationalite": "Britannique",
+  "oeuvres": "Pierre Lapin · Sophie Canétang · Jérémie Pêche-à-la-ligne",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_frank-herbert": {
+  "dates": "1920-1986",
+  "nationalite": "Américain",
+  "oeuvres": "Dune · Le Messie de Dune · Les Enfants de Dune",
+  "prix": "Nebula 1965 · Hugo 1966",
+  "confiance": "tranchee",
+  "note": "Nebula au titre de 1965 (remis en 1966)"
+ },
+ "auteurs-modernes_stanis-aw-lem": {
+  "dates": "1921-2006",
+  "nationalite": "Polonais",
+  "oeuvres": "Solaris · La Cybériade · Le Congrès de futurologie",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun grand prix international retenu (prix d'État polonais et autrichien jugés secondaires)"
+ },
+ "auteurs-modernes_robert-a-heinlein": {
+  "dates": "1907-1988",
+  "nationalite": "Américain",
+  "oeuvres": "En terre étrangère · Étoiles, garde-à-vous ! · Révolte sur la Lune",
+  "prix": "Hugo 1960 · Hugo 1962 · Hugo 1967",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_ian-fleming": {
+  "dates": "1908-1964",
+  "nationalite": "Britannique",
+  "oeuvres": "James Bond · Casino Royale · Chitty Chitty Bang Bang",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_john-le-carre": {
+  "dates": "1931-2020",
+  "nationalite": "Britannique",
+  "oeuvres": "L'Espion qui venait du froid · La Taupe · La Constance du jardinier",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Gold Dagger, Edgar)"
+ },
+ "auteurs-modernes_raymond-chandler": {
+  "dates": "1888-1959",
+  "nationalite": "Américain",
+  "oeuvres": "Le Grand Sommeil · Adieu, ma jolie · Sur un air de navaja",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Edgar)"
+ },
+ "auteurs-modernes_paul-valery": {
+  "dates": "1871-1945",
+  "nationalite": "Français",
+  "oeuvres": "Le Cimetière marin · La Jeune Parque · Monsieur Teste",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_paul-claudel": {
+  "dates": "1868-1955",
+  "nationalite": "Français",
+  "oeuvres": "Le Soulier de satin · L'Annonce faite à Marie · Partage de midi",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_aime-cesaire": {
+  "dates": "1913-2008",
+  "nationalite": "Français",
+  "oeuvres": "Cahier d'un retour au pays natal · Discours sur le colonialisme · La Tragédie du roi Christophe",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_blaise-cendrars": {
+  "dates": "1887-1961",
+  "nationalite": "Suisse",
+  "oeuvres": "La Prose du Transsibérien · L'Or · Moravagine",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Suisse de naissance retenu, naturalisé français en 1916 ; prix de la Ville de Paris hors liste retiré"
+ },
+ "auteurs-modernes_francoise-sagan": {
+  "dates": "1935-2004",
+  "nationalite": "Française",
+  "oeuvres": "Bonjour tristesse · Aimez-vous Brahms... · Un certain sourire",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix des critiques hors liste retiré ; titre corrigé (trois points de suspension)"
+ },
+ "auteurs-modernes_joseph-kessel": {
+  "dates": "1898-1979",
+  "nationalite": "Français",
+  "oeuvres": "Belle de jour · L'Armée des ombres · Le Lion",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_georges-bernanos": {
+  "dates": "1888-1948",
+  "nationalite": "Français",
+  "oeuvres": "Journal d'un curé de campagne · Sous le soleil de Satan · Dialogues des carmélites",
+  "prix": "Femina 1929",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix du roman de l'Académie française)"
+ },
+ "auteurs-modernes_rene-barjavel": {
+  "dates": "1911-1985",
+  "nationalite": "Français",
+  "oeuvres": "Ravage · La Nuit des temps · Le Voyageur imprudent",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (prix des libraires)"
+ },
+ "auteurs-modernes_pierre-boulle": {
+  "dates": "1912-1994",
+  "nationalite": "Français",
+  "oeuvres": "La Planète des singes · Le Pont de la rivière Kwaï",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Sainte-Beuve)"
+ },
+ "auteurs-modernes_maurice-leblanc": {
+  "dates": "1864-1941",
+  "nationalite": "Français",
+  "oeuvres": "Arsène Lupin, gentleman-cambrioleur · L'Aiguille creuse · Le Bouchon de cristal",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_gaston-leroux": {
+  "dates": "1868-1927",
+  "nationalite": "Français",
+  "oeuvres": "Le Mystère de la chambre jaune · Le Fantôme de l'Opéra · Le Parfum de la dame en noir",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_george-bernard-shaw": {
+  "dates": "1856-1950",
+  "nationalite": "Irlandais",
+  "oeuvres": "Pygmalion · Sainte Jeanne · Le Héros et le Soldat",
+  "prix": "Nobel 1925",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_seamus-heaney": {
+  "dates": "1939-2013",
+  "nationalite": "Irlandais",
+  "oeuvres": "Nord · Mort d'un naturaliste · Station Island",
+  "prix": "Nobel 1995",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_doris-lessing": {
+  "dates": "1919-2013",
+  "nationalite": "Britannique",
+  "oeuvres": "Le Carnet d'or · L'herbe chante · Les Enfants de la violence",
+  "prix": "Nobel 2007",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis étranger)"
+ },
+ "auteurs-modernes_thomas-pynchon": {
+  "dates": "né en 1937",
+  "nationalite": "Américain",
+  "oeuvres": "L'Arc-en-ciel de la gravité · Vente à la criée du lot 49 · V.",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (National Book Award)"
+ },
+ "auteurs-modernes_paul-auster": {
+  "dates": "1947-2024",
+  "nationalite": "Américain",
+  "oeuvres": "Trilogie new-yorkaise · Moon Palace · 4 3 2 1",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Médicis étranger, Prince des Asturies)"
+ },
+ "auteurs-modernes_edith-wharton": {
+  "dates": "1862-1937",
+  "nationalite": "Américaine",
+  "oeuvres": "Le Temps de l'innocence · Ethan Frome · Chez les heureux du monde",
+  "prix": "Pulitzer 1921",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_pearl-buck": {
+  "dates": "1892-1973",
+  "nationalite": "Américaine",
+  "oeuvres": "La Terre chinoise · Pavillon de femmes · Les Fils de Wang Lung",
+  "prix": "Pulitzer 1932 · Nobel 1938",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_allen-ginsberg": {
+  "dates": "1926-1997",
+  "nationalite": "Américain",
+  "oeuvres": "Howl · Kaddish · La Chute de l'Amérique",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (National Book Award)"
+ },
+ "auteurs-modernes_charles-bukowski": {
+  "dates": "1920-1994",
+  "nationalite": "Américain",
+  "oeuvres": "Contes de la folie ordinaire · Women · Factotum",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_heinrich-boll": {
+  "dates": "1917-1985",
+  "nationalite": "Allemand",
+  "oeuvres": "Portrait de groupe avec dame · Opinions d'un clown · L'Honneur perdu de Katharina Blum",
+  "prix": "Nobel 1972",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Büchner)"
+ },
+ "auteurs-modernes_patrick-suskind": {
+  "dates": "né en 1949",
+  "nationalite": "Allemand",
+  "oeuvres": "Le Parfum · La Contrebasse · Le Pigeon",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_elias-canetti": {
+  "dates": "1905-1994",
+  "nationalite": "Britannique",
+  "oeuvres": "Auto-da-fé · Masse et Puissance · La Langue sauvée",
+  "prix": "Nobel 1981",
+  "confiance": "tranchee",
+  "note": "Britannique retenu (naturalisé en 1952), né en Bulgarie ; Büchner hors liste retiré"
+ },
+ "auteurs-modernes_friedrich-durrenmatt": {
+  "dates": "1921-1990",
+  "nationalite": "Suisse",
+  "oeuvres": "La Visite de la vieille dame · Les Physiciens · La Promesse",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix Schiller)"
+ },
+ "auteurs-modernes_knut-hamsun": {
+  "dates": "1859-1952",
+  "nationalite": "Norvégien",
+  "oeuvres": "La Faim · L'Éveil de la glèbe · Pan",
+  "prix": "Nobel 1920",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_selma-lagerlof": {
+  "dates": "1858-1940",
+  "nationalite": "Suédoise",
+  "oeuvres": "Le Merveilleux Voyage de Nils Holgersson · La Saga de Gösta Berling · Jérusalem",
+  "prix": "Nobel 1909",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_karel-capek": {
+  "dates": "1890-1938",
+  "nationalite": "Tchèque",
+  "oeuvres": "R.U.R. · La Guerre des salamandres · La Mère",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_nikos-kazantzakis": {
+  "dates": "1883-1957",
+  "nationalite": "Grec",
+  "oeuvres": "Alexis Zorba · La Dernière Tentation · Le Christ recrucifié",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_nadine-gordimer": {
+  "dates": "1923-2014",
+  "nationalite": "Sud-africaine",
+  "oeuvres": "Le Conservateur · Fille de Burger · Ceux de July",
+  "prix": "Booker 1974 · Nobel 1991",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_j-m-coetzee": {
+  "dates": "né en 1940",
+  "nationalite": "Sud-africain",
+  "oeuvres": "Disgrâce · En attendant les barbares · Michael K, sa vie, son temps",
+  "prix": "Booker 1983 · Booker 1999 · Nobel 2003",
+  "confiance": "tranchee",
+  "note": "Sud-africain retenu, usage attendu ; naturalisé australien en 2006 (l'article dit australien)"
+ },
+ "auteurs-modernes_kateb-yacine": {
+  "dates": "1929-1989",
+  "nationalite": "Algérien",
+  "oeuvres": "Nedjma · Le Cercle des représailles · Le Polygone étoilé",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Grand prix national des lettres)"
+ },
+ "auteurs-modernes_tahar-ben-jelloun": {
+  "dates": "né en 1944",
+  "nationalite": "Marocain",
+  "oeuvres": "La Nuit sacrée · L'Enfant de sable · Partir",
+  "prix": "Goncourt 1987",
+  "confiance": "tranchee",
+  "note": "Marocain retenu ; franco-marocain selon l'article"
+ },
+ "auteurs-modernes_mahmoud-darwich": {
+  "dates": "1941-2008",
+  "nationalite": "Palestinien",
+  "oeuvres": "Plus rares sont les roses · Une mémoire pour l'oubli · Murale",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun retenu (prix Lotus, Lénine pour la paix, Lannan jugés secondaires ou non littéraires)"
+ },
+ "auteurs-modernes_paulo-coelho": {
+  "dates": "né en 1947",
+  "nationalite": "Brésilien",
+  "oeuvres": "L'Alchimiste · Onze Minutes · Veronika décide de mourir",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_clarice-lispector": {
+  "dates": "1920-1977",
+  "nationalite": "Brésilienne",
+  "oeuvres": "La Passion selon G.H. · L'Heure de l'étoile · Près du cœur sauvage",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Graça Aranha)"
+ },
+ "auteurs-modernes_carlos-fuentes": {
+  "dates": "1928-2012",
+  "nationalite": "Mexicain",
+  "oeuvres": "La Mort d'Artemio Cruz · Terra Nostra · La Plus Limpide Région",
+  "prix": "Cervantes 1987",
+  "confiance": "tranchee",
+  "note": "Prix hors liste des grands prix retirés (Rómulo Gallegos)"
+ },
+ "auteurs-modernes_ruben-dario": {
+  "dates": "1867-1916",
+  "nationalite": "Nicaraguayen",
+  "oeuvres": "Azul · Proses profanes · Chants de vie et d'espérance",
+  "prix": "Aucun",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_gabriela-mistral": {
+  "dates": "1889-1957",
+  "nationalite": "Chilienne",
+  "oeuvres": "Désolation · Tendresse · Pressoir",
+  "prix": "Nobel 1945",
+  "confiance": "sure"
+ },
+ "auteurs-modernes_jun-ichiro-tanizaki": {
+  "dates": "1886-1965",
+  "nationalite": "Japonais",
+  "oeuvres": "Éloge de l'ombre · Quatre Sœurs · La Confession impudique",
+  "prix": "Aucun",
+  "confiance": "tranchee",
+  "note": "Aucun grand prix international retenu (prix Mainichi, ordre de la Culture 1949 jugés secondaires)"
+ },
+ "auteurs-modernes_ryunosuke-akutagawa": {
+  "dates": "1892-1927",
+  "nationalite": "Japonais",
+  "oeuvres": "Rashōmon · Dans le fourré · Kappa",
+  "prix": "Aucun",
+  "confiance": "sure"
+ }
+}

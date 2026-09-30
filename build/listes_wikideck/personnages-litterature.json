@@ -1,0 +1,508 @@
+{
+ "personnages-litterature_sherlock-holmes": {
+  "oeuvre": "Cycle de Sherlock Holmes",
+  "auteur": "Arthur Conan Doyle",
+  "confiance": "sure"
+ },
+ "personnages-litterature_dracula": {
+  "oeuvre": "Dracula",
+  "auteur": "Bram Stoker",
+  "confiance": "sure"
+ },
+ "personnages-litterature_monstre-de-frankenstein": {
+  "oeuvre": "Frankenstein",
+  "auteur": "Mary Shelley",
+  "confiance": "sure"
+ },
+ "personnages-litterature_l-etrange-cas-du-docteur-jekyll-et-de-mister-hyde": {
+  "oeuvre": "L'Étrange Cas du docteur Jekyll et de M. Hyde",
+  "auteur": "Robert Louis Stevenson",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-portrait-de-dorian-gray": {
+  "oeuvre": "Le Portrait de Dorian Gray",
+  "auteur": "Oscar Wilde",
+  "confiance": "sure"
+ },
+ "personnages-litterature_robinson-crusoe": {
+  "oeuvre": "Robinson Crusoé",
+  "auteur": "Daniel Defoe",
+  "confiance": "sure"
+ },
+ "personnages-litterature_les-voyages-de-gulliver": {
+  "oeuvre": "Les Voyages de Gulliver",
+  "auteur": "Jonathan Swift",
+  "confiance": "sure"
+ },
+ "personnages-litterature_don-quichotte": {
+  "oeuvre": "Don Quichotte",
+  "auteur": "Miguel de Cervantès",
+  "confiance": "sure"
+ },
+ "personnages-litterature_d-artagnan": {
+  "oeuvre": "Les Trois Mousquetaires",
+  "auteur": "Alexandre Dumas",
+  "confiance": "tranchee",
+  "note": "L'article pointe vers le d'Artagnan historique ; le personnage traverse toute la trilogie des Mousquetaires, on retient le premier roman."
+ },
+ "personnages-litterature_jean-valjean": {
+  "oeuvre": "Les Misérables",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_quasimodo-personnage": {
+  "oeuvre": "Notre-Dame de Paris",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-comte-de-monte-cristo": {
+  "oeuvre": "Le Comte de Monte-Cristo",
+  "auteur": "Alexandre Dumas",
+  "confiance": "sure"
+ },
+ "personnages-litterature_capitaine-nemo": {
+  "oeuvre": "Vingt Mille Lieues sous les mers",
+  "auteur": "Jules Verne",
+  "confiance": "sure"
+ },
+ "personnages-litterature_phileas-fogg": {
+  "oeuvre": "Le Tour du monde en quatre-vingts jours",
+  "auteur": "Jules Verne",
+  "confiance": "sure"
+ },
+ "personnages-litterature_cyrano-de-bergerac-rostand": {
+  "oeuvre": "Cyrano de Bergerac",
+  "auteur": "Edmond Rostand",
+  "confiance": "sure"
+ },
+ "personnages-litterature_alice-alice-au-pays-des-merveilles": {
+  "oeuvre": "Alice au pays des merveilles",
+  "auteur": "Lewis Carroll",
+  "confiance": "sure"
+ },
+ "personnages-litterature_chapelier-fou-comics": {
+  "oeuvre": "Alice au pays des merveilles",
+  "auteur": "Lewis Carroll",
+  "confiance": "tranchee",
+  "note": "L'article pointe vers le méchant de DC Comics ; on retient le Chapelier de Lewis Carroll, qui l'a inspiré."
+ },
+ "personnages-litterature_peter-pan": {
+  "oeuvre": "Peter Pan",
+  "auteur": "J. M. Barrie",
+  "confiance": "sure"
+ },
+ "personnages-litterature_capitaine-crochet": {
+  "oeuvre": "Peter Pan",
+  "auteur": "J. M. Barrie",
+  "confiance": "sure"
+ },
+ "personnages-litterature_tarzan": {
+  "oeuvre": "Tarzan, seigneur de la jungle",
+  "auteur": "Edgar Rice Burroughs",
+  "confiance": "tranchee",
+  "note": "Héros d'une longue série ; on retient le premier roman (1912)."
+ },
+ "personnages-litterature_un-chant-de-noel": {
+  "oeuvre": "Un chant de Noël",
+  "auteur": "Charles Dickens",
+  "confiance": "sure"
+ },
+ "personnages-litterature_oliver-twist": {
+  "oeuvre": "Oliver Twist",
+  "auteur": "Charles Dickens",
+  "confiance": "sure"
+ },
+ "personnages-litterature_long-john-silver": {
+  "oeuvre": "L'Île au trésor",
+  "auteur": "Robert Louis Stevenson",
+  "confiance": "sure"
+ },
+ "personnages-litterature_frodon-sacquet": {
+  "oeuvre": "Le Seigneur des anneaux",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "sure"
+ },
+ "personnages-litterature_gandalf": {
+  "oeuvre": "Le Seigneur des anneaux",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "tranchee",
+  "note": "Présent aussi dans Le Hobbit ; on retient l'œuvre la plus connue."
+ },
+ "personnages-litterature_aragorn": {
+  "oeuvre": "Le Seigneur des anneaux",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "sure"
+ },
+ "personnages-litterature_gollum": {
+  "oeuvre": "Le Seigneur des anneaux",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "tranchee",
+  "note": "Apparaît d'abord dans Le Hobbit ; on retient l'œuvre la plus connue."
+ },
+ "personnages-litterature_harry-potter": {
+  "oeuvre": "Harry Potter",
+  "auteur": "J. K. Rowling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_hermione-granger": {
+  "oeuvre": "Harry Potter",
+  "auteur": "J. K. Rowling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_ron-weasley": {
+  "oeuvre": "Harry Potter",
+  "auteur": "J. K. Rowling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_daenerys-targaryen": {
+  "oeuvre": "Le Trône de fer",
+  "auteur": "George R. R. Martin",
+  "confiance": "sure"
+ },
+ "personnages-litterature_aslan-narnia": {
+  "oeuvre": "Le Monde de Narnia",
+  "auteur": "C. S. Lewis",
+  "confiance": "sure"
+ },
+ "personnages-litterature_cthulhu": {
+  "oeuvre": "L'Appel de Cthulhu",
+  "auteur": "H. P. Lovecraft",
+  "confiance": "tranchee",
+  "note": "Entité reprise dans tout le mythe de Cthulhu ; on retient la nouvelle de 1928 qui l'introduit."
+ },
+ "personnages-litterature_conan-le-barbare": {
+  "oeuvre": "Cycle de Conan",
+  "auteur": "Robert E. Howard",
+  "confiance": "tranchee",
+  "note": "Héros de nouvelles sans œuvre dominante ; on retient le cycle."
+ },
+ "personnages-litterature_elric-de-melnibone": {
+  "oeuvre": "Cycle d'Elric",
+  "auteur": "Michael Moorcock",
+  "confiance": "sure"
+ },
+ "personnages-litterature_b-612-le-petit-prince": {
+  "oeuvre": "Le Petit Prince",
+  "auteur": "Antoine de Saint-Exupéry",
+  "confiance": "tranchee",
+  "note": "L'article pointe vers l'astéroïde B 612 ; on s'en tient au personnage, sans doute possible."
+ },
+ "personnages-litterature_arsene-lupin": {
+  "oeuvre": "Arsène Lupin, gentleman-cambrioleur",
+  "auteur": "Maurice Leblanc",
+  "confiance": "tranchee",
+  "note": "Titre avec trait d'union, comme l'édition originale ; premier recueil (1907) retenu"
+ },
+ "personnages-litterature_hercule-poirot": {
+  "oeuvre": "Le Crime de l'Orient-Express",
+  "auteur": "Agatha Christie",
+  "confiance": "tranchee",
+  "note": "Héros d'une trentaine de romans ; on retient le plus célèbre."
+ },
+ "personnages-litterature_commissaire-maigret": {
+  "oeuvre": "Les Enquêtes du commissaire Maigret",
+  "auteur": "Georges Simenon",
+  "confiance": "tranchee",
+  "note": "Plus de cent romans et nouvelles sans titre dominant ; on retient la série."
+ },
+ "personnages-litterature_hamlet-personnage": {
+  "oeuvre": "Hamlet",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_faust": {
+  "oeuvre": "Faust",
+  "auteur": "Johann Wolfgang von Goethe",
+  "confiance": "tranchee",
+  "note": "Mythe traité aussi par Marlowe ; on retient la version de Goethe, la plus attendue."
+ },
+ "personnages-litterature_capitaine-achab": {
+  "oeuvre": "Moby Dick",
+  "auteur": "Herman Melville",
+  "confiance": "sure"
+ },
+ "personnages-litterature_rodion-raskolnikov": {
+  "oeuvre": "Crime et Châtiment",
+  "auteur": "Fiodor Dostoïevski",
+  "confiance": "sure"
+ },
+ "personnages-litterature_javert": {
+  "oeuvre": "Les Misérables",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_paul-atreides": {
+  "oeuvre": "Dune",
+  "auteur": "Frank Herbert",
+  "confiance": "sure"
+ },
+ "personnages-litterature_emma-bovary": {
+  "oeuvre": "Madame Bovary",
+  "auteur": "Gustave Flaubert",
+  "confiance": "sure"
+ },
+ "personnages-litterature_anna-karenine": {
+  "oeuvre": "Anna Karénine",
+  "auteur": "Léon Tolstoï",
+  "confiance": "sure"
+ },
+ "personnages-litterature_meursault": {
+  "oeuvre": "L'Étranger",
+  "auteur": "Albert Camus",
+  "confiance": "sure"
+ },
+ "personnages-litterature_romeo-et-juliette": {
+  "oeuvre": "Roméo et Juliette",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_harpagon": {
+  "oeuvre": "L'Avare",
+  "auteur": "Molière",
+  "confiance": "sure"
+ },
+ "personnages-litterature_don-juan": {
+  "oeuvre": "Dom Juan",
+  "auteur": "Molière",
+  "confiance": "tranchee",
+  "note": "Mythe créé par Tirso de Molina (1630) ; la carte dit « Dom Juan », graphie de la pièce de Molière, qu'on retient."
+ },
+ "personnages-litterature_gargantua": {
+  "oeuvre": "Gargantua",
+  "auteur": "François Rabelais",
+  "confiance": "sure"
+ },
+ "personnages-litterature_eugene-de-rastignac": {
+  "oeuvre": "Le Père Goriot",
+  "auteur": "Honoré de Balzac",
+  "confiance": "tranchee",
+  "note": "Reparaît dans d'autres romans de La Comédie humaine ; on retient Le Père Goriot."
+ },
+ "personnages-litterature_julien-sorel": {
+  "oeuvre": "Le Rouge et le Noir",
+  "auteur": "Stendhal",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-petit-nicolas": {
+  "oeuvre": "Le Petit Nicolas",
+  "auteur": "René Goscinny",
+  "confiance": "tranchee",
+  "note": "Texte de Goscinny, dessins de Jean-Jacques Sempé ; on retient l'auteur du texte."
+ },
+ "personnages-litterature_cosette": {
+  "oeuvre": "Les Misérables",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_gavroche": {
+  "oeuvre": "Les Misérables",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_la-esmeralda-personnage": {
+  "oeuvre": "Notre-Dame de Paris",
+  "auteur": "Victor Hugo",
+  "confiance": "sure"
+ },
+ "personnages-litterature_porthos": {
+  "oeuvre": "Les Trois Mousquetaires",
+  "auteur": "Alexandre Dumas",
+  "confiance": "sure"
+ },
+ "personnages-litterature_aramis": {
+  "oeuvre": "Les Trois Mousquetaires",
+  "auteur": "Alexandre Dumas",
+  "confiance": "sure"
+ },
+ "personnages-litterature_milady-de-winter": {
+  "oeuvre": "Les Trois Mousquetaires",
+  "auteur": "Alexandre Dumas",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-petit-chaperon-rouge": {
+  "oeuvre": "Le Petit Chaperon rouge",
+  "auteur": "Charles Perrault",
+  "confiance": "tranchee",
+  "note": "Conte de tradition orale, repris aussi par les frères Grimm ; on retient la version de Perrault (1697)."
+ },
+ "personnages-litterature_la-barbe-bleue": {
+  "oeuvre": "La Barbe bleue",
+  "auteur": "Charles Perrault",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-maitre-chat-ou-le-chat-botte": {
+  "oeuvre": "Le Chat botté",
+  "auteur": "Charles Perrault",
+  "confiance": "tranchee",
+  "note": "Conte connu aussi chez Straparola et Grimm ; on retient Perrault."
+ },
+ "personnages-litterature_heidi-roman": {
+  "oeuvre": "Heidi",
+  "auteur": "Johanna Spyri",
+  "confiance": "sure"
+ },
+ "personnages-litterature_fifi-brindacier": {
+  "oeuvre": "Fifi Brindacier",
+  "auteur": "Astrid Lindgren",
+  "confiance": "sure"
+ },
+ "personnages-litterature_mowgli": {
+  "oeuvre": "Le Livre de la jungle",
+  "auteur": "Rudyard Kipling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_winnie-l-ourson": {
+  "oeuvre": "Winnie l'ourson",
+  "auteur": "A. A. Milne",
+  "confiance": "sure"
+ },
+ "personnages-litterature_babar": {
+  "oeuvre": "Histoire de Babar, le petit éléphant",
+  "auteur": "Jean de Brunhoff",
+  "confiance": "tranchee",
+  "note": "Histoire imaginée par Cécile de Brunhoff, album signé Jean de Brunhoff ; on retient le premier album (1931)."
+ },
+ "personnages-litterature_le-merveilleux-voyage-de-nils-holgersson-a-travers-la-suede": {
+  "oeuvre": "Le Merveilleux Voyage de Nils Holgersson à travers la Suède",
+  "auteur": "Selma Lagerlöf",
+  "confiance": "sure"
+ },
+ "personnages-litterature_bilbon-sacquet": {
+  "oeuvre": "Le Hobbit",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "sure"
+ },
+ "personnages-litterature_sauron": {
+  "oeuvre": "Le Seigneur des anneaux",
+  "auteur": "J. R. R. Tolkien",
+  "confiance": "sure"
+ },
+ "personnages-litterature_albus-dumbledore": {
+  "oeuvre": "Harry Potter",
+  "auteur": "J. K. Rowling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_voldemort": {
+  "oeuvre": "Harry Potter",
+  "auteur": "J. K. Rowling",
+  "confiance": "sure"
+ },
+ "personnages-litterature_jon-snow": {
+  "oeuvre": "Le Trône de fer",
+  "auteur": "George R. R. Martin",
+  "confiance": "sure"
+ },
+ "personnages-litterature_tyrion-lannister": {
+  "oeuvre": "Le Trône de fer",
+  "auteur": "George R. R. Martin",
+  "confiance": "sure"
+ },
+ "personnages-litterature_holden-caulfield": {
+  "oeuvre": "L'Attrape-cœurs",
+  "auteur": "J. D. Salinger",
+  "confiance": "sure"
+ },
+ "personnages-litterature_jay-gatsby": {
+  "oeuvre": "Gatsby le Magnifique",
+  "auteur": "Francis Scott Fitzgerald",
+  "confiance": "sure"
+ },
+ "personnages-litterature_scarlett-o-hara": {
+  "oeuvre": "Autant en emporte le vent",
+  "auteur": "Margaret Mitchell",
+  "confiance": "sure"
+ },
+ "personnages-litterature_jane-eyre-personnage": {
+  "oeuvre": "Jane Eyre",
+  "auteur": "Charlotte Brontë",
+  "confiance": "sure"
+ },
+ "personnages-litterature_elizabeth-bennet": {
+  "oeuvre": "Orgueil et Préjugés",
+  "auteur": "Jane Austen",
+  "confiance": "sure"
+ },
+ "personnages-litterature_robin-des-bois": {
+  "oeuvre": "Ballades de Robin des Bois",
+  "auteur": "Anonyme",
+  "confiance": "tranchee",
+  "note": "Légende médiévale sans œuvre de référence ; on retient les ballades anonymes d'origine."
+ },
+ "personnages-litterature_tom-sawyer": {
+  "oeuvre": "Les Aventures de Tom Sawyer",
+  "auteur": "Mark Twain",
+  "confiance": "sure"
+ },
+ "personnages-litterature_les-aventures-de-huckleberry-finn": {
+  "oeuvre": "Les Aventures de Huckleberry Finn",
+  "auteur": "Mark Twain",
+  "confiance": "sure"
+ },
+ "personnages-litterature_katniss-everdeen": {
+  "oeuvre": "Hunger Games",
+  "auteur": "Suzanne Collins",
+  "confiance": "sure"
+ },
+ "personnages-litterature_lisbeth-salander": {
+  "oeuvre": "Millénium",
+  "auteur": "Stieg Larsson",
+  "confiance": "sure"
+ },
+ "personnages-litterature_docteur-watson": {
+  "oeuvre": "Cycle de Sherlock Holmes",
+  "auteur": "Arthur Conan Doyle",
+  "confiance": "sure"
+ },
+ "personnages-litterature_professeur-moriarty": {
+  "oeuvre": "Cycle de Sherlock Holmes",
+  "auteur": "Arthur Conan Doyle",
+  "confiance": "sure"
+ },
+ "personnages-litterature_miss-marple": {
+  "oeuvre": "L'Affaire Protheroe",
+  "auteur": "Agatha Christie",
+  "confiance": "tranchee",
+  "note": "Héroïne de douze romans sans titre dominant ; on retient le premier (1930)."
+ },
+ "personnages-litterature_rouletabille": {
+  "oeuvre": "Le Mystère de la chambre jaune",
+  "auteur": "Gaston Leroux",
+  "confiance": "sure"
+ },
+ "personnages-litterature_macbeth-personnage": {
+  "oeuvre": "Macbeth",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_othello-personnage": {
+  "oeuvre": "Othello",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_le-roi-lear": {
+  "oeuvre": "Le Roi Lear",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_iago": {
+  "oeuvre": "Othello",
+  "auteur": "William Shakespeare",
+  "confiance": "sure"
+ },
+ "personnages-litterature_les-souffrances-du-jeune-werther": {
+  "oeuvre": "Les Souffrances du jeune Werther",
+  "auteur": "Johann Wolfgang von Goethe",
+  "confiance": "sure"
+ },
+ "personnages-litterature_mephistopheles": {
+  "oeuvre": "Faust",
+  "auteur": "Johann Wolfgang von Goethe",
+  "confiance": "tranchee",
+  "note": "Démon du folklore allemand, présent aussi chez Marlowe ; on retient le Faust de Goethe."
+ },
+ "personnages-litterature_athos": {
+  "oeuvre": "Les Trois Mousquetaires",
+  "auteur": "Alexandre Dumas",
+  "confiance": "sure"
+ }
+}

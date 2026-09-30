@@ -1,0 +1,545 @@
+{
+ "constellations_andromede-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Alpheratz",
+  "represente": "La princesse Andromède",
+  "confiance": "sure"
+ },
+ "constellations_machine-pneumatique": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Antliae",
+  "represente": "La machine pneumatique",
+  "confiance": "sure"
+ },
+ "constellations_paon-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Peacock (Alpha Pavonis)",
+  "represente": "Un paon",
+  "confiance": "sure"
+ },
+ "constellations_verseau": {
+  "hemisphere": "Sud",
+  "etoile": "Sadalsuud (Bêta Aquarii)",
+  "represente": "Un porteur d'eau",
+  "confiance": "tranchee",
+  "note": "Bêta Aquarii dépasse de peu Sadalmelik (Alpha) ; constellation majoritairement australe qui effleure l'équateur"
+ },
+ "constellations_aigle-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Altaïr",
+  "represente": "L'aigle de Zeus",
+  "confiance": "sure"
+ },
+ "constellations_autel-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Bêta Arae",
+  "represente": "Un autel",
+  "confiance": "sure"
+ },
+ "constellations_belier-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Hamal",
+  "represente": "Un bélier (celui de la Toison d'or)",
+  "confiance": "sure"
+ },
+ "constellations_cocher-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Capella",
+  "represente": "Un cocher (conducteur de char)",
+  "confiance": "sure"
+ },
+ "constellations_bouvier-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Arcturus",
+  "represente": "Un bouvier (gardien de bœufs)",
+  "confiance": "sure"
+ },
+ "constellations_burin-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Caeli",
+  "represente": "Un burin de graveur",
+  "confiance": "sure"
+ },
+ "constellations_girafe-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Bêta Camelopardalis",
+  "represente": "Une girafe",
+  "confiance": "sure"
+ },
+ "constellations_cancer-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Tarf (Bêta Cancri)",
+  "represente": "Un crabe",
+  "confiance": "tranchee",
+  "note": "Tarf est la plus brillante ; Acubens (Alpha) est plus citée de nom et l'amas de la Crèche est l'objet phare"
+ },
+ "constellations_chiens-de-chasse": {
+  "hemisphere": "Nord",
+  "etoile": "Cor Caroli",
+  "represente": "Les chiens de chasse du Bouvier",
+  "confiance": "sure"
+ },
+ "constellations_grand-chien": {
+  "hemisphere": "Sud",
+  "etoile": "Sirius",
+  "represente": "Un grand chien (chien d'Orion)",
+  "confiance": "sure"
+ },
+ "constellations_petit-chien-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Procyon",
+  "represente": "Un petit chien (chien d'Orion)",
+  "confiance": "sure"
+ },
+ "constellations_capricorne-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Deneb Algedi",
+  "represente": "Une chèvre à queue de poisson",
+  "confiance": "sure"
+ },
+ "constellations_carene-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Canopus",
+  "represente": "La carène du navire Argo",
+  "confiance": "sure"
+ },
+ "constellations_cassiopee-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Schedar",
+  "represente": "La reine Cassiopée",
+  "confiance": "tranchee",
+  "note": "Gamma Cassiopeiae, variable, la dépasse parfois ; Schedar est la réponse d'usage"
+ },
+ "constellations_centaure-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha du Centaure",
+  "represente": "Un centaure (Chiron)",
+  "confiance": "sure"
+ },
+ "constellations_cephee-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Alderamin",
+  "represente": "Le roi Céphée",
+  "confiance": "sure"
+ },
+ "constellations_baleine-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Diphda · Mira",
+  "represente": "Le monstre marin Céto",
+  "confiance": "tranchee",
+  "note": "Diphda (Bêta Ceti) est la plus brillante ; Mira, variable, est la plus célèbre"
+ },
+ "constellations_cameleon-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Chamaeleontis",
+  "represente": "Un caméléon",
+  "confiance": "sure"
+ },
+ "constellations_compas-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Circini",
+  "represente": "Un compas de géomètre",
+  "confiance": "sure"
+ },
+ "constellations_colombe-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Phact",
+  "represente": "La colombe de Noé",
+  "confiance": "sure"
+ },
+ "constellations_chevelure-de-berenice": {
+  "hemisphere": "Nord",
+  "etoile": "Bêta Comae Berenices",
+  "represente": "La chevelure de la reine Bérénice",
+  "confiance": "sure"
+ },
+ "constellations_couronne-australe": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Coronae Australis",
+  "represente": "Une couronne",
+  "confiance": "tranchee",
+  "note": "Alpha et Bêta ont un éclat quasi identique (4,1)"
+ },
+ "constellations_couronne-boreale": {
+  "hemisphere": "Nord",
+  "etoile": "Alphecca (Gemma)",
+  "represente": "La couronne d'Ariane",
+  "confiance": "sure"
+ },
+ "constellations_corbeau-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Gienah (Gamma Corvi)",
+  "represente": "Un corbeau",
+  "confiance": "sure"
+ },
+ "constellations_coupe-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Delta Crateris",
+  "represente": "Une coupe",
+  "confiance": "sure"
+ },
+ "constellations_croix-du-sud": {
+  "hemisphere": "Sud",
+  "etoile": "Acrux",
+  "represente": "Une croix",
+  "confiance": "sure"
+ },
+ "constellations_cygne-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Deneb",
+  "represente": "Un cygne",
+  "confiance": "sure"
+ },
+ "constellations_dauphin-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Rotanev (Bêta Delphini)",
+  "represente": "Un dauphin",
+  "confiance": "sure"
+ },
+ "constellations_dorade-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Doradus",
+  "represente": "Une dorade (poisson)",
+  "confiance": "sure"
+ },
+ "constellations_dragon-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Eltanin · Thuban",
+  "represente": "Le dragon Ladon",
+  "confiance": "tranchee",
+  "note": "Eltanin (Gamma Draconis) est la plus brillante ; Thuban, ancienne étoile polaire, est la plus célèbre"
+ },
+ "constellations_petit-cheval": {
+  "hemisphere": "Nord",
+  "etoile": "Kitalpha",
+  "represente": "Un petit cheval (poulain)",
+  "confiance": "sure"
+ },
+ "constellations_eridan-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Achernar",
+  "represente": "Le fleuve Éridan",
+  "confiance": "sure"
+ },
+ "constellations_fourneau-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Fornacis",
+  "represente": "Un fourneau de chimiste",
+  "confiance": "sure"
+ },
+ "constellations_gemeaux": {
+  "hemisphere": "Nord",
+  "etoile": "Pollux",
+  "represente": "Les jumeaux Castor et Pollux",
+  "confiance": "sure"
+ },
+ "constellations_grue-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alnair",
+  "represente": "Une grue (oiseau)",
+  "confiance": "sure"
+ },
+ "constellations_hercule-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Kornephoros (Bêta Herculis)",
+  "represente": "Le héros Hercule",
+  "confiance": "sure"
+ },
+ "constellations_horloge-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Horologii",
+  "represente": "Une horloge à balancier",
+  "confiance": "sure"
+ },
+ "constellations_hydre-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alphard",
+  "represente": "L'Hydre de Lerne",
+  "confiance": "tranchee",
+  "note": "Aussi vue comme un simple serpent d'eau ; la tête dépasse l'équateur mais l'essentiel est austral"
+ },
+ "constellations_hydre-male": {
+  "hemisphere": "Sud",
+  "etoile": "Bêta Hydri",
+  "represente": "Un serpent d'eau mâle",
+  "confiance": "sure"
+ },
+ "constellations_indien-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Indi",
+  "represente": "Un Indien (Amérindien)",
+  "confiance": "sure"
+ },
+ "constellations_lezard-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Alpha Lacertae",
+  "represente": "Un lézard",
+  "confiance": "sure"
+ },
+ "constellations_lion-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Régulus",
+  "represente": "Le lion de Némée",
+  "confiance": "sure"
+ },
+ "constellations_petit-lion": {
+  "hemisphere": "Nord",
+  "etoile": "Praecipua (46 Leonis Minoris)",
+  "represente": "Un petit lion",
+  "confiance": "sure"
+ },
+ "constellations_lievre-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Arneb",
+  "represente": "Un lièvre",
+  "confiance": "sure"
+ },
+ "constellations_balance-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Zubeneschamali (Bêta Librae)",
+  "represente": "Une balance",
+  "confiance": "sure"
+ },
+ "constellations_loup-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Lupi",
+  "represente": "Un loup",
+  "confiance": "sure"
+ },
+ "constellations_lynx-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Alpha Lyncis",
+  "represente": "Un lynx",
+  "confiance": "sure"
+ },
+ "constellations_lyre-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Véga",
+  "represente": "La lyre d'Orphée",
+  "confiance": "sure"
+ },
+ "constellations_table-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Mensae",
+  "represente": "La montagne de la Table (Le Cap)",
+  "confiance": "sure"
+ },
+ "constellations_microscope-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Gamma Microscopii",
+  "represente": "Un microscope",
+  "confiance": "sure"
+ },
+ "constellations_licorne-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Bêta Monocerotis",
+  "represente": "Une licorne",
+  "confiance": "sure"
+ },
+ "constellations_mouche-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Muscae",
+  "represente": "Une mouche",
+  "confiance": "sure"
+ },
+ "constellations_octant-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Nu Octantis · Sigma Octantis",
+  "represente": "Un octant (instrument de navigation)",
+  "confiance": "tranchee",
+  "note": "Nu Octantis est la plus brillante ; Sigma Octantis, étoile polaire du Sud, est la plus connue"
+ },
+ "constellations_ophiuchus": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Rasalhague",
+  "represente": "Le guérisseur Asclépios tenant un serpent",
+  "confiance": "tranchee",
+  "note": "S'étend de part et d'autre de l'équateur, surtout au sud ; certaines sources le classent au nord"
+ },
+ "constellations_orion-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Rigel · Bételgeuse",
+  "represente": "Le chasseur Orion",
+  "confiance": "tranchee",
+  "note": "Rigel est en général la plus brillante ; Bételgeuse, variable, est aussi célèbre"
+ },
+ "constellations_pegase-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Enif",
+  "represente": "Le cheval ailé Pégase",
+  "confiance": "sure"
+ },
+ "constellations_persee-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Mirfak · Algol",
+  "represente": "Le héros Persée",
+  "confiance": "tranchee",
+  "note": "Mirfak est la plus brillante ; Algol, étoile variable, est la plus célèbre"
+ },
+ "constellations_phenix-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Ankaa",
+  "represente": "Un phénix",
+  "confiance": "sure"
+ },
+ "constellations_peintre-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Pictoris",
+  "represente": "Le chevalet du peintre",
+  "confiance": "sure"
+ },
+ "constellations_poissons-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Alpherg (Êta Piscium)",
+  "represente": "Deux poissons reliés par un cordon",
+  "confiance": "tranchee",
+  "note": "Chevauche l'équateur, surtout au nord ; Alrescha (Alpha) est plus citée de nom"
+ },
+ "constellations_poisson-austral": {
+  "hemisphere": "Sud",
+  "etoile": "Fomalhaut",
+  "represente": "Un poisson",
+  "confiance": "sure"
+ },
+ "constellations_poupe-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Naos (Zêta Puppis)",
+  "represente": "La poupe du navire Argo",
+  "confiance": "sure"
+ },
+ "constellations_boussole-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Pyxidis",
+  "represente": "Une boussole de marine",
+  "confiance": "sure"
+ },
+ "constellations_reticule-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Reticuli",
+  "represente": "Le réticule d'un oculaire",
+  "confiance": "sure"
+ },
+ "constellations_sagittaire-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Kaus Australis",
+  "represente": "Un centaure archer",
+  "confiance": "sure"
+ },
+ "constellations_scorpion-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Antarès",
+  "represente": "Le scorpion qui tua Orion",
+  "confiance": "sure"
+ },
+ "constellations_sculpteur-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Sculptoris",
+  "represente": "L'atelier du sculpteur",
+  "confiance": "sure"
+ },
+ "constellations_ecu-de-sobieski": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Scuti",
+  "represente": "Le bouclier du roi Jean III Sobieski",
+  "confiance": "sure"
+ },
+ "constellations_serpent-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Unukalhai",
+  "represente": "Le serpent tenu par le Serpentaire",
+  "confiance": "tranchee",
+  "note": "Seule constellation en deux parties (tête et queue), à cheval sur l'équateur"
+ },
+ "constellations_sextant-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "Alpha Sextantis",
+  "represente": "Le sextant d'Hevelius",
+  "confiance": "sure"
+ },
+ "constellations_taureau-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Aldébaran",
+  "represente": "Un taureau (Zeus enlevant Europe)",
+  "confiance": "sure"
+ },
+ "constellations_telescope-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Telescopii",
+  "represente": "Un télescope",
+  "confiance": "sure"
+ },
+ "constellations_triangle-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Bêta Trianguli",
+  "represente": "Un triangle",
+  "confiance": "sure"
+ },
+ "constellations_triangle-austral": {
+  "hemisphere": "Sud",
+  "etoile": "Atria",
+  "represente": "Un triangle",
+  "confiance": "sure"
+ },
+ "constellations_toucan-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Tucanae",
+  "represente": "Un toucan",
+  "confiance": "sure"
+ },
+ "constellations_grande-ourse": {
+  "hemisphere": "Nord",
+  "etoile": "Alioth",
+  "represente": "Une grande ourse (la nymphe Callisto)",
+  "confiance": "tranchee",
+  "note": "Alioth devance Dubhe d'un rien ; le Grand Chariot est l'astérisme connu"
+ },
+ "constellations_petite-ourse": {
+  "hemisphere": "Nord",
+  "etoile": "Polaris (étoile polaire)",
+  "represente": "Une petite ourse",
+  "confiance": "sure"
+ },
+ "constellations_voiles-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Gamma Velorum (Regor)",
+  "represente": "Les voiles du navire Argo",
+  "confiance": "sure"
+ },
+ "constellations_vierge-constellation": {
+  "hemisphere": "Équateur (visible des deux)",
+  "etoile": "L'Épi (Spica)",
+  "represente": "Une vierge tenant un épi (Astrée)",
+  "confiance": "tranchee",
+  "note": "À cheval sur l'équateur ; l'identité mythologique varie (Astrée, Déméter, Perséphone)"
+ },
+ "constellations_poisson-volant-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Bêta Volantis",
+  "represente": "Un poisson volant",
+  "confiance": "sure"
+ },
+ "constellations_petit-renard": {
+  "hemisphere": "Nord",
+  "etoile": "Anser (Alpha Vulpeculae)",
+  "represente": "Un petit renard tenant une oie",
+  "confiance": "sure"
+ },
+ "constellations_oiseau-de-paradis-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Alpha Apodis",
+  "represente": "Un oiseau de paradis",
+  "confiance": "sure"
+ },
+ "constellations_regle-constellation": {
+  "hemisphere": "Sud",
+  "etoile": "Gamma² Normae",
+  "represente": "Une équerre et une règle",
+  "confiance": "sure"
+ },
+ "constellations_fleche-constellation": {
+  "hemisphere": "Nord",
+  "etoile": "Gamma Sagittae",
+  "represente": "Une flèche",
+  "confiance": "sure"
+ }
+}
