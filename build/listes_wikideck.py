@@ -152,6 +152,19 @@ LISTES = {
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
     'mythologies-asie-est': dict(id='mythologies_asie_est', nom="Mythologies d'Asie de l'Est", icone='🐉', ordre='-', categorie='arts-culture',
         colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    # Lot 7 : dernieres mythologies
+    'mythologies-slaves': dict(id='mythologies_slaves', nom="Mythologies slaves et baltes", icone='🌲', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologies-africaines': dict(id='mythologies_africaines', nom="Mythologies africaines", icone='🥁', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologies-mesoamericaines': dict(id='mythologies_mesoamericaines', nom="Mythologies mésoaméricaines et andines", icone='🐍', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologies-proche-orient': dict(id='mythologies_proche_orient', nom="Mythologies du Proche-Orient ancien", icone='🏺', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologies-oceanie-ameriques': dict(id='mythologies_oceanie_ameriques', nom="Mythologies océaniennes et amérindiennes", icone='🌊', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologie-finnoise': dict(id='mythologie_finnoise', nom="Mythologie finnoise", icone='🦢', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -213,7 +226,7 @@ def sans_accents(texte):
 def nom_affiche(c):
     # une fiche peut imposer son nom (cle « nom ») quand la carte se trompe de sujet
     # « Ophélie (Millais) » garde sa precision ; « Ratatouille (plat) » la perd
-    return re.sub(r' \((plat|gâteau|peinture|tableau|roman|peintre|philosophe|île|opéra|ballet|comédie musicale|suites|mythologie grecque|mythologie|arme|navigation|informatique|langue|monnaie|sonde|satellite|roi|apôtre)\)$', '', c['nom'])
+    return re.sub(r' \((plat|gâteau|peinture|tableau|roman|peintre|philosophe|île|opéra|ballet|comédie musicale|suites|mythologie grecque|mythologie|arme|navigation|informatique|langue|monnaie|sonde|satellite|roi|apôtre|déesse|dieu)\)$', '', c['nom'])
 
 
 def recadrer(c, cadrages):
@@ -228,6 +241,20 @@ def recadrer(c, cadrages):
         x0, y0 = cad['cx'] * iw - cw / 2, cad['cy'] * ih - ch / 2
         return im.crop((round(x0), round(y0), round(x0 + cw), round(y0 + ch)))
     return Image.open(WIKIDECK / c['imageUrl']).convert('RGB')
+
+
+CACHE_FICHIER = MEMO / 'build' / '.cache_images.json'
+CACHE = json.loads(CACHE_FICHIER.read_text(encoding='utf-8')) if CACHE_FICHIER.exists() else {}
+
+
+def signature(c, cadrages):
+    """Empreinte de ce qui determine l'image : cadrage et fichier source (taille, date)."""
+    col, f = c['id'].split('_', 1)
+    orig = WIKIDECK / 'images' / 'originaux' / col / f'{f}.webp'
+    src = orig if orig.exists() else WIKIDECK / c['imageUrl']
+    st = src.stat() if src.exists() else None
+    return json.dumps([cadrages.get(c['id']), str(src.name), st.st_size if st else 0,
+                       int(st.st_mtime) if st else 0], sort_keys=True)
 
 
 def ecrire_images(lid, cle, im, essai):
@@ -264,7 +291,13 @@ def construire(slug, cadrages, essai):
     for i, c in enumerate(cartes, 1):
         t = textes[c['id']]
         cle = c['id'].split('_', 1)[1]
-        tf, ff = ecrire_images(cfg['id'], cle, recadrer(c, cadrages), essai)
+        empreinte = signature(c, cadrages)
+        tf, ff = f"thumbs/{cfg['id']}/{cle}.webp", f"full/{cfg['id']}/{cle}.webp"
+        deja = CACHE.get(f"{cfg['id']}/{cle}") == empreinte and (MEMO / tf).exists() and (MEMO / ff).exists()
+        if not deja:
+            tf, ff = ecrire_images(cfg['id'], cle, recadrer(c, cadrages), essai)
+            if not essai:
+                CACHE[f"{cfg['id']}/{cle}"] = empreinte
         grands[cle] = ff
         ligne = [str(i), tf]
         for lib, k in cfg['colonnes']:
@@ -338,6 +371,8 @@ def main():
         grands[liste['id']] = g
         print(f"  {liste['name']:<22} {len(liste['rows'])} lignes")
     poser_dans_html(listes, grands, essai)
+    if not essai:
+        CACHE_FICHIER.write_text(json.dumps(CACHE, ensure_ascii=False), encoding='utf-8')
 
 
 if __name__ == '__main__':

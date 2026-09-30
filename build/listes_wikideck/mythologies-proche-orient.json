@@ -1,0 +1,283 @@
+{
+ "mythologies-proche-orient_gilgamesh": {
+  "role": "Roi héroïque d'Uruk (Mésopotamie)",
+  "attribut": "Plante de jouvence · Quête de l'immortalité",
+  "parente": "Fils de la déesse Ninsun et du roi Lugalbanda",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_didon": {
+  "role": "Reine fondatrice de Carthage (Phénicie)",
+  "attribut": "Peau de bœuf découpée en lanières (ruse de Byrsa)",
+  "parente": "Sœur de Pygmalion, roi de Tyr",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_marduk": {
+  "role": "Dieu tutélaire de Babylone (Mésopotamie)",
+  "attribut": "Dragon Mushkhushshu · Bêche (marru)",
+  "parente": "Fils d'Ea (Enki) · Père de Nabû",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_ishtar": {
+  "role": "Déesse de l'amour et de la guerre (Mésopotamie)",
+  "attribut": "Étoile à huit branches · Lion",
+  "parente": "Fille de Sîn · Sœur de Shamash et d'Ereshkigal",
+  "confiance": "tranchee",
+  "note": "Généalogie variable (parfois fille d'An) : retenu la filiation lunaire, la plus citée pour Ishtar babylonienne."
+ },
+ "mythologies-proche-orient_enlil": {
+  "role": "Roi des dieux, dieu du vent et de l'air (Mésopotamie)",
+  "attribut": "Tiare à cornes · Tablette des destins",
+  "parente": "Fils d'An · Époux de Ninlil",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_an-dieu": {
+  "role": "Dieu du ciel, père des dieux (Mésopotamie)",
+  "attribut": "Tiare à cornes",
+  "parente": "Père d'Enlil · Époux d'Antu",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_tiamat": {
+  "role": "Déesse des eaux salées primordiales (Babylone)",
+  "attribut": "Monstre marin du chaos (dragon)",
+  "parente": "Épouse d'Apsû · Mère et épouse de Kingu",
+  "confiance": "tranchee",
+  "note": "Son apparence n'est pas décrite précisément dans l'Enuma Elish : retenu l'image du dragon marin, attendue en quiz."
+ },
+ "mythologies-proche-orient_ereshkigal": {
+  "role": "Reine des Enfers (Mésopotamie)",
+  "attribut": "Aucun",
+  "parente": "Sœur aînée d'Inanna (Ishtar) · Épouse de Nergal",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_ninurta": {
+  "role": "Dieu guerrier et agraire (Mésopotamie)",
+  "attribut": "Massue parlante Sharur",
+  "parente": "Fils d'Enlil",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_nergal": {
+  "role": "Dieu des Enfers, de la guerre et de la peste (Mésopotamie)",
+  "attribut": "Cimeterre · Masse à tête de lion",
+  "parente": "Époux d'Ereshkigal",
+  "confiance": "tranchee",
+  "note": "Plusieurs armes lui sont prêtées : retenu le cimeterre et la masse léonine, les plus fréquents sur les sceaux et kudurrus."
+ },
+ "mythologies-proche-orient_sin": {
+  "role": "Dieu de la Lune (Mésopotamie)",
+  "attribut": "Croissant de lune",
+  "parente": "Fils d'Enlil et de Ninlil · Père de Shamash et d'Ishtar",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_shamash": {
+  "role": "Dieu du Soleil et de la justice (Mésopotamie)",
+  "attribut": "Disque solaire · Scie",
+  "parente": "Fils de Sîn · Frère d'Ishtar",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_dumuzi": {
+  "role": "Dieu berger de la végétation et de l'abondance (Mésopotamie)",
+  "attribut": "Troupeaux · Houlette de berger",
+  "parente": "Époux d'Inanna (Ishtar) · Frère de Geshtinanna",
+  "confiance": "tranchee",
+  "note": "Pas d'emblème canonique : retenu sa fonction de berger, seule image attendue en quiz."
+ },
+ "mythologies-proche-orient_enkidu": {
+  "role": "Homme sauvage devenu compagnon de Gilgamesh (Mésopotamie)",
+  "attribut": "Aucun",
+  "parente": "Façonné dans l'argile par la déesse Aruru",
+  "confiance": "tranchee",
+  "note": "Il n'a pas de parents : retenu sa création par Aruru comme lien d'origine le plus connu."
+ },
+ "mythologies-proche-orient_humbaba": {
+  "role": "Géant gardien de la Forêt des Cèdres (Mésopotamie)",
+  "attribut": "Visage fait d'entrailles · Sept auras terrifiantes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_adad": {
+  "role": "Dieu de l'orage et de la pluie (Mésopotamie)",
+  "attribut": "Foudre à trois pointes · Taureau",
+  "parente": "Fils d'An · Époux de Shala",
+  "confiance": "tranchee",
+  "note": "Parfois dit fils d'Enlil : retenu la filiation d'An, la plus courante dans les listes divines."
+ },
+ "mythologies-proche-orient_lamashtu": {
+  "role": "Démone tuant femmes enceintes et nouveau-nés (Mésopotamie)",
+  "attribut": "Tête de lionne · Allaite un chien et un porc",
+  "parente": "Fille d'An",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_ahura-mazda": {
+  "role": "Dieu suprême du zoroastrisme (Perse)",
+  "attribut": "Disque ailé (Faravahar) · Feu sacré",
+  "parente": "Fils de Zurvan · Frère jumeau d'Ahriman (zervanisme)",
+  "confiance": "tranchee",
+  "note": "L'identification du Faravahar à Ahura Mazda est discutée, et la fratrie avec Ahriman n'existe qu'en zervanisme : retenu les deux, attendus en quiz."
+ },
+ "mythologies-proche-orient_ahriman": {
+  "role": "Esprit du mal et des ténèbres du zoroastrisme (Perse)",
+  "attribut": "Ténèbres · Mensonge (druj)",
+  "parente": "Fils de Zurvan · Frère jumeau d'Ahura Mazda (zervanisme)",
+  "confiance": "tranchee",
+  "note": "Sans iconographie fixe : retenu les ténèbres et le mensonge, ses domaines ; parenté valable seulement en zervanisme."
+ },
+ "mythologies-proche-orient_mithra": {
+  "role": "Dieu du contrat, de la lumière et du soleil (Perse)",
+  "attribut": "Taureau sacrifié · Bonnet phrygien (mithraïsme romain)",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "La tauroctonie et le bonnet phrygien viennent du mithraïsme romain, précisé dans l'attribut ; le Mithra iranien est surtout garant des contrats."
+ },
+ "mythologies-proche-orient_anahita": {
+  "role": "Déesse des eaux, de la fertilité et de la guerre (Perse)",
+  "attribut": "Char tiré par quatre chevaux · Manteau de peaux de castor",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_zervan": {
+  "role": "Dieu du temps infini (zervanisme, Perse)",
+  "attribut": "Aucun",
+  "parente": "Père d'Ahura Mazda et d'Ahriman",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_verethragna": {
+  "role": "Dieu de la victoire (Perse)",
+  "attribut": "Dix incarnations dont le sanglier et le faucon",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_simorgh-mythologie": {
+  "role": "Oiseau fabuleux et bienveillant (Perse)",
+  "attribut": "Plumes guérisseuses · Arbre de toutes les semences",
+  "parente": "Mère adoptive de Zal, père de Rostam",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_rostam": {
+  "role": "Plus grand héros du Livre des Rois (Perse)",
+  "attribut": "Cheval Rakhsh · Peau de léopard",
+  "parente": "Fils de Zal et de Roudabeh · Père de Sohrab",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_zahhak": {
+  "role": "Roi-démon tyrannique (Perse)",
+  "attribut": "Deux serpents poussant sur les épaules",
+  "parente": "Fils de Mardas",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_fereydoun": {
+  "role": "Roi mythique vainqueur de Zahhak (Perse)",
+  "attribut": "Massue à tête de bœuf",
+  "parente": "Père de Salm, Tur et Iraj",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_djamchid": {
+  "role": "Roi mythique de l'âge d'or (Perse)",
+  "attribut": "Coupe de Jamshid (Jam-e Jam)",
+  "parente": "Fils de Tahmouras (Livre des Rois)",
+  "confiance": "tranchee",
+  "note": "L'article traite du prénom mais renvoie au roi légendaire, retenu ici ; l'Avesta le dit fils de Vivanghvant, retenu la version du Livre des Rois."
+ },
+ "mythologies-proche-orient_baal": {
+  "role": "Dieu de l'orage et de la fertilité (Canaan, Ougarit)",
+  "attribut": "Foudre · Massue",
+  "parente": "Fils de Dagan · Frère d'Anat",
+  "confiance": "tranchee",
+  "note": "Baal est un titre porté par plusieurs dieux : retenu le Baal (Hadad) d'Ougarit et sa filiation avec Dagan, la plus citée."
+ },
+ "mythologies-proche-orient_astarte": {
+  "role": "Déesse de l'amour, de la fertilité et de la guerre (Phénicie, Canaan)",
+  "attribut": "Étoile · Lion · Colombe",
+  "parente": "Parèdre de Baal",
+  "confiance": "tranchee",
+  "note": "Parèdre variable selon les cités (Baal, Melqart, Eshmoun) : retenu Baal, le plus attendu."
+ },
+ "mythologies-proche-orient_melqart": {
+  "role": "Dieu tutélaire de Tyr (Phénicie)",
+  "attribut": "Hache · Assimilé à Héraclès",
+  "parente": "Parèdre d'Astarté",
+  "confiance": "tranchee",
+  "note": "Iconographie rare (stèle à la hache) : retenu la hache et l'assimilation à Héraclès, repères des quiz."
+ },
+ "mythologies-proche-orient_ea-dieu": {
+  "role": "Dieu des eaux douces (Abzu) et de la sagesse (Mésopotamie)",
+  "attribut": "Eaux jaillissantes avec poissons · Chèvre-poisson",
+  "parente": "Père de Marduk",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_nabu": {
+  "role": "Dieu du savoir et de l'écriture (Mésopotamie)",
+  "attribut": "Calame · Tablette",
+  "parente": "Fils de Marduk et de Sarpanitu",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_assur-dieu": {
+  "role": "Dieu tutélaire d'Assur et de l'Assyrie (Mésopotamie)",
+  "attribut": "Disque ailé",
+  "parente": "Époux de Mullissu (Ninlil)",
+  "confiance": "tranchee",
+  "note": "L'attribution du disque ailé à Assur est discutée (parfois Shamash) : retenu car c'est l'image attendue en quiz."
+ },
+ "mythologies-proche-orient_lilith": {
+  "role": "Démone de la nuit (tradition juive, origine mésopotamienne)",
+  "attribut": "Chouette · Longue chevelure",
+  "parente": "Première femme d'Adam (légende juive)",
+  "confiance": "tranchee",
+  "note": "La chouette vient surtout du relief Burney, dont l'identification est discutée : retenu comme attribut le plus répandu."
+ },
+ "mythologies-proche-orient_pazuzu": {
+  "role": "Roi des démons du vent, protecteur contre Lamashtu (Mésopotamie)",
+  "attribut": "Quatre ailes · Tête grimaçante et serres d'aigle",
+  "parente": "Fils du dieu Hanbi",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_lamassu": {
+  "role": "Génie protecteur des portes (Mésopotamie, Assyrie)",
+  "attribut": "Taureau ailé à tête humaine",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_uta-napishtim": {
+  "role": "Survivant du Déluge rendu immortel (Mésopotamie)",
+  "attribut": "Grand bateau · Colombe, hirondelle et corbeau",
+  "parente": "Fils d'Ubar-Tutu",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_kingu": {
+  "role": "Chef de l'armée de Tiamat (Babylone)",
+  "attribut": "Tablette des destins",
+  "parente": "Fils et époux de Tiamat",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_asherah": {
+  "role": "Déesse mère (Canaan, Ougarit)",
+  "attribut": "Poteau sacré (ashérah) · Arbre",
+  "parente": "Épouse d'El",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_moloch": {
+  "role": "Divinité liée aux sacrifices d'enfants par le feu (Bible, Canaan)",
+  "attribut": "Statue de bronze à tête de taureau · Feu",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "On débat encore s'il s'agit d'un dieu ou d'un type de sacrifice, et la statue taurine vient de traditions tardives : retenu l'image attendue en quiz."
+ },
+ "mythologies-proche-orient_anat": {
+  "role": "Déesse guerrière (Canaan, Ougarit)",
+  "attribut": "Armes · Carnage des ennemis",
+  "parente": "Sœur de Baal",
+  "confiance": "tranchee",
+  "note": "Pas d'emblème canonique et lien exact avec Baal discuté (sœur, parfois amante) : retenu sœur, le lien des textes d'Ougarit."
+ },
+ "mythologies-proche-orient_sohrab": {
+  "role": "Héros du Livre des Rois tué par son père (Perse)",
+  "attribut": "Brassard de reconnaissance",
+  "parente": "Fils de Rostam et de Tahmineh",
+  "confiance": "sure"
+ },
+ "mythologies-proche-orient_kaveh": {
+  "role": "Forgeron révolté contre Zahhak (Perse)",
+  "attribut": "Tablier de cuir devenu étendard (Derafsh Kaviani)",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "mythologies-mesoamericaines_quetzalcoatl": {
+  "role": "Serpent à plumes, dieu du vent et du savoir (Aztèques)",
+  "attribut": "Serpent à plumes",
+  "parente": "Frère et rival de Tezcatlipoca",
+  "confiance": "tranchee",
+  "note": "Parenté variable selon les sources (aussi fils de Mixcoatl comme roi toltèque) ; retenu le duel avec Tezcatlipoca, le plus attendu en quiz."
+ },
+ "mythologies-mesoamericaines_huitzilopochtli": {
+  "role": "Dieu du soleil et de la guerre (Aztèques)",
+  "attribut": "Colibri",
+  "parente": "Fils de Coatlicue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_tlaloc": {
+  "role": "Dieu de la pluie (Aztèques)",
+  "attribut": "Yeux cerclés et crocs",
+  "parente": "Époux de Chalchiuhtlicue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_xochiquetzal": {
+  "role": "Déesse de l'amour, de la beauté et des fleurs (Aztèques)",
+  "attribut": "Fleurs et plumes de quetzal",
+  "parente": "Épouse de Tlaloc",
+  "confiance": "tranchee",
+  "note": "Épouse de Tlaloc enlevée par Tezcatlipoca, parfois jumelle de Xochipilli ; retenu Tlaloc, version la plus citée."
+ },
+ "mythologies-mesoamericaines_kukulkan": {
+  "role": "Serpent à plumes (Mayas)",
+  "attribut": "Serpent à plumes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_tezcatlipoca": {
+  "role": "Dieu de la nuit, du destin et de la guerre (Aztèques)",
+  "attribut": "Miroir fumant",
+  "parente": "Frère et rival de Quetzalcóatl",
+  "confiance": "tranchee",
+  "note": "Les quatre fils d'Ometeotl varient selon les codex ; retenu la fraternité rivale avec Quetzalcóatl, la plus connue."
+ },
+ "mythologies-mesoamericaines_xipe-totec": {
+  "role": "Dieu du renouveau et de la végétation (Aztèques)",
+  "attribut": "Peau humaine écorchée",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Parfois compté parmi les quatre fils d'Ometeotl (Tezcatlipoca rouge), filiation trop savante pour un quiz : retenu Aucune connue."
+ },
+ "mythologies-mesoamericaines_mictlantecuhtli": {
+  "role": "Dieu de la mort et seigneur du Mictlan (Aztèques)",
+  "attribut": "Squelette",
+  "parente": "Époux de Mictecacihuatl",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_coatlicue": {
+  "role": "Déesse de la terre, mère des dieux (Aztèques)",
+  "attribut": "Jupe de serpents",
+  "parente": "Mère de Huitzilopochtli",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_chalchiuhtlicue": {
+  "role": "Déesse des eaux douces (Aztèques)",
+  "attribut": "Jupe de jade",
+  "parente": "Épouse de Tlaloc",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_xolotl": {
+  "role": "Dieu du crépuscule, guide des morts (Aztèques)",
+  "attribut": "Chien",
+  "parente": "Jumeau de Quetzalcóatl",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_ehecatl": {
+  "role": "Dieu du vent (Aztèques)",
+  "attribut": "Masque à bec rouge",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_coyolxauhqui": {
+  "role": "Déesse de la lune (Aztèques)",
+  "attribut": "Grelots sur les joues",
+  "parente": "Sœur de Huitzilopochtli",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_tonatiuh": {
+  "role": "Dieu du soleil (Aztèques)",
+  "attribut": "Disque solaire",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_itzamna": {
+  "role": "Dieu créateur, du ciel et de l'écriture (Mayas)",
+  "attribut": "Vieillard au nez busqué",
+  "parente": "Époux d'Ixchel",
+  "confiance": "tranchee",
+  "note": "Couple Itzamna et Ixchel discuté par les mayanistes mais répandu ; retenu plutôt que « fils de Hunab Ku », filiation d'origine coloniale."
+ },
+ "mythologies-mesoamericaines_ixchel": {
+  "role": "Déesse de la lune et de l'accouchement (Mayas)",
+  "attribut": "Lapin",
+  "parente": "Épouse d'Itzamna",
+  "confiance": "tranchee",
+  "note": "Le lapin lunaire appartient à la jeune déesse de la lune souvent confondue avec Ixchel ; retenu car c'est l'attribut attendu en quiz."
+ },
+ "mythologies-mesoamericaines_chac": {
+  "role": "Dieu de la pluie (Mayas)",
+  "attribut": "Hache de foudre",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_ah-puch": {
+  "role": "Dieu de la mort (Mayas)",
+  "attribut": "Squelette",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_hunahpu-et-ixbalanque": {
+  "role": "Héros jumeau du Popol Vuh (Mayas)",
+  "attribut": "Sarbacane",
+  "parente": "Jumeau d'Ixbalanqué",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_hunahpu-et-ixbalanque-b": {
+  "role": "Héros jumeau du Popol Vuh (Mayas)",
+  "attribut": "Jaguar",
+  "parente": "Jumeau de Hunahpú",
+  "confiance": "tranchee",
+  "note": "Les deux jumeaux portent la sarbacane ; retenu le jaguar, contenu dans son nom (« jeune jaguar »), pour le distinguer de Hunahpú."
+ },
+ "mythologies-mesoamericaines_vucub-caquix": {
+  "role": "Oiseau démon, faux soleil vaincu par les jumeaux (Mayas)",
+  "attribut": "Ara",
+  "parente": "Père de Zipacna et Cabracan",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_camazotz": {
+  "role": "Dieu chauve-souris (Mayas)",
+  "attribut": "Chauve-souris",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_viracocha": {
+  "role": "Dieu créateur (Incas)",
+  "attribut": "Vieillard barbu",
+  "parente": "Père d'Inti",
+  "confiance": "tranchee",
+  "note": "Généalogie variable selon les chroniqueurs ; retenu Viracocha père d'Inti, version la plus courante."
+ },
+ "mythologies-mesoamericaines_inti": {
+  "role": "Dieu du soleil (Incas)",
+  "attribut": "Disque solaire à visage humain",
+  "parente": "Époux de Mama Quilla",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_mama-quilla": {
+  "role": "Déesse de la lune (Incas)",
+  "attribut": "Disque d'argent",
+  "parente": "Épouse d'Inti",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_pachamama": {
+  "role": "Terre-Mère (Andes)",
+  "attribut": "Aucun",
+  "parente": "Épouse de Pachacamac",
+  "confiance": "tranchee",
+  "note": "Couple attesté dans certaines traditions seulement ; retenu car c'est le lien le plus cité."
+ },
+ "mythologies-mesoamericaines_illapa": {
+  "role": "Dieu de la foudre et de la pluie (Incas)",
+  "attribut": "Fronde",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_manco-capac": {
+  "role": "Fondateur mythique de Cuzco et de la dynastie (Incas)",
+  "attribut": "Bâton d'or",
+  "parente": "Époux et frère de Mama Ocllo",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_aiapaec": {
+  "role": "Dieu principal, le décapiteur (Moches)",
+  "attribut": "Crocs de félin",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Iconographie riche (couteau tumi, ceinture de serpents) ; retenu la bouche à crocs de félin, trait le plus constant."
+ },
+ "mythologies-mesoamericaines_mayahuel": {
+  "role": "Déesse de l'agave (Aztèques)",
+  "attribut": "Agave",
+  "parente": "Mère des 400 lapins",
+  "confiance": "tranchee",
+  "note": "Parentés concurrentes (Patecatl, Ehecatl) ; retenu les Centzon Totochtin, lien le plus connu."
+ },
+ "mythologies-mesoamericaines_mixcoatl": {
+  "role": "Dieu de la chasse et de la Voie lactée (Aztèques)",
+  "attribut": "Arc et flèches",
+  "parente": "Père de Quetzalcóatl",
+  "confiance": "tranchee",
+  "note": "Père du roi toltèque Ce Acatl Topiltzin Quetzalcóatl plus que du dieu ; retenu tel quel car c'est la réponse attendue."
+ },
+ "mythologies-mesoamericaines_tlazolteotl": {
+  "role": "Déesse de la purification et de la sexualité (Aztèques)",
+  "attribut": "Mangeuse d'immondices",
+  "parente": "Mère de Centeotl",
+  "confiance": "tranchee",
+  "note": "Épithète retenue faute d'attribut visuel simple ; Centeotl a aussi Xochiquetzal pour mère selon d'autres sources."
+ },
+ "mythologies-mesoamericaines_centeotl": {
+  "role": "Dieu du maïs (Aztèques)",
+  "attribut": "Épi de maïs",
+  "parente": "Fils de Tlazolteotl",
+  "confiance": "tranchee",
+  "note": "L'article le dit dieu du feu, ce qui est une erreur : Centeotl est le dieu du maïs ; mère aussi donnée comme Xochiquetzal."
+ },
+ "mythologies-mesoamericaines_itzpapalotl": {
+  "role": "Déesse guerrière de Tamoanchan (Aztèques)",
+  "attribut": "Papillon d'obsidienne",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_k-inich-ajaw": {
+  "role": "Dieu du soleil (Mayas)",
+  "attribut": "Glyphe kin",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Parfois lu comme une forme d'Itzamna ; retenu le glyphe kin (fleur à quatre pétales), sa marque iconographique classique."
+ },
+ "mythologies-mesoamericaines_ixtab": {
+  "role": "Déesse du suicide (Mayas)",
+  "attribut": "Corde de pendaison",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-mesoamericaines_pachacamac-dieu": {
+  "role": "Dieu créateur de la côte du Pérou (Andes)",
+  "attribut": "Aucun",
+  "parente": "Fils d'Inti et de Mama Quilla",
+  "confiance": "tranchee",
+  "note": "Filiation donnée par l'article, mais les versions divergent (frère d'Inti, époux de Pachamama) ; retenu celle de l'article."
+ },
+ "mythologies-mesoamericaines_mama-ocllo": {
+  "role": "Mère fondatrice, déesse du tissage (Incas)",
+  "attribut": "Fuseau",
+  "parente": "Épouse et sœur de Manco Cápac",
+  "confiance": "sure"
+ }
+}

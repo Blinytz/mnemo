@@ -1,0 +1,209 @@
+{
+ "mythologies-africaines_anansi": {
+  "role": "Araignée rusée, maître des contes (Akan)",
+  "attribut": "Araignée · Calebasse des histoires",
+  "parente": "Fils de Nyame (selon certains contes)",
+  "confiance": "tranchee",
+  "note": "La filiation varie selon les contes ; retenu le lien avec Nyame, à qui Anansi achète les histoires, le plus attendu en quiz."
+ },
+ "mythologies-africaines_olorun": {
+  "role": "Dieu suprême, maître du ciel (Yoruba)",
+  "attribut": "Aucun",
+  "parente": "Père d'Obatala (selon certaines traditions)",
+  "confiance": "tranchee",
+  "note": "Olorun n'a ni culte ni sanctuaire propre ; retenue la paternité d'Obatala, fréquente mais non universelle."
+ },
+ "mythologies-africaines_obatala": {
+  "role": "Orisha de la création des humains et de la pureté (Yoruba)",
+  "attribut": "Blanc · Tissu blanc",
+  "parente": "Frère aîné d'Oduduwa",
+  "confiance": "tranchee",
+  "note": "Les traditions divergent sur le lien avec Oduduwa (frère ou rival) ; retenue la version de l'article."
+ },
+ "mythologies-africaines_shango": {
+  "role": "Orisha du tonnerre et de la foudre (Yoruba)",
+  "attribut": "Hache double (oshe) · Rouge et blanc",
+  "parente": "Époux d'Oya, Oshun et Oba",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_ogun-divinite": {
+  "role": "Orisha du fer, de la guerre et des forgerons (Yoruba)",
+  "attribut": "Machette · Outils de fer",
+  "parente": "Frère de Shango",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_eshu": {
+  "role": "Messager et gardien des carrefours, fripon (Yoruba)",
+  "attribut": "Carrefours · Rouge et noir",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_oshun": {
+  "role": "Orisha des eaux douces, de l'amour et de la fertilité (Yoruba)",
+  "attribut": "Jaune et or · Miroir · Rivière Osun",
+  "parente": "Épouse de Shango",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_iemanja": {
+  "role": "Mère des eaux, orisha de la mer et de la maternité (Yoruba)",
+  "attribut": "Bleu et blanc · Coquillages · Éventail",
+  "parente": "Mère de nombreux orishas",
+  "confiance": "tranchee",
+  "note": "Rivière Ogun au Nigeria, mer dans la diaspora ; retenu le rôle maritime et maternel, le plus connu (Brésil, Cuba)."
+ },
+ "mythologies-africaines_oya": {
+  "role": "Orisha du vent, des tempêtes et des cimetières (Yoruba)",
+  "attribut": "Chasse-mouches · Fleuve Niger · Neuf couleurs",
+  "parente": "Épouse de Shango",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_orunmila": {
+  "role": "Orisha de la sagesse et de la divination Ifá (Yoruba)",
+  "attribut": "Plateau d'Ifá · Noix de palme · Vert et jaune",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_nyame": {
+  "role": "Dieu suprême du ciel, créateur (Akan)",
+  "attribut": "Symbole adinkra Gye Nyame",
+  "parente": "Époux d'Asase Ya",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_asase-ya": {
+  "role": "Déesse de la terre et de la fertilité (Akan)",
+  "attribut": "Terre · Jeudi, jour de repos des champs",
+  "parente": "Épouse de Nyame",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_mami-wata": {
+  "role": "Esprit des eaux, de la beauté et de la richesse (Afrique de l'Ouest et centrale)",
+  "attribut": "Sirène · Serpent · Miroir et peigne",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_papa-legba": {
+  "role": "Gardien des carrefours et messager des dieux (Fon, vaudou)",
+  "attribut": "Canne · Pipe · Carrefours",
+  "parente": "Fils cadet de Mawu-Lisa",
+  "confiance": "tranchee",
+  "note": "Filiation propre au mythe fon ; en Haïti on retient surtout le vieillard à la canne qui ouvre la barrière."
+ },
+ "mythologies-africaines_damballa": {
+  "role": "Lwa serpent de la fécondité et de la sagesse (vaudou)",
+  "attribut": "Couleuvre ou boa · Blanc · Œuf",
+  "parente": "Époux d'Ayida-Wedo",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_nyambe": {
+  "role": "Dieu suprême, éternité du cosmos (Bassa, Cameroun)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Homonyme du dieu suprême des Lozi de Zambie ; retenue la définition bassa de l'article de la carte."
+ },
+ "mythologies-africaines_amma-divinite": {
+  "role": "Dieu suprême créateur (Dogon)",
+  "attribut": "Œuf du monde",
+  "parente": "Créateur des Nommo",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_unkulunkulu": {
+  "role": "Premier ancêtre, dieu créateur (Zoulou)",
+  "attribut": "Roseaux (uhlanga), d'où il est issu",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_tanit": {
+  "role": "Déesse principale de Carthage (Puniques)",
+  "attribut": "Signe de Tanit · Croissant de lune",
+  "parente": "Parèdre de Baal Hammon",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_anzar": {
+  "role": "Dieu de la pluie (Berbères)",
+  "attribut": "Pluie · Poupée Taghonja (rite)",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Le rite de la « fiancée d'Anzar » est bien attesté mais la fiancée n'est pas nommée de façon constante ; parenté laissée vide."
+ },
+ "mythologies-africaines_bumba-dieu": {
+  "role": "Dieu créateur qui vomit le monde (Kuba, Bushongo)",
+  "attribut": "Soleil, lune et étoiles vomis",
+  "parente": "Père de Nyonye Ngana, Chonganda et Chedi Bumba",
+  "confiance": "tranchee",
+  "note": "Les trois fils figurent dans la version recueillie par Torday ; retenue car la plus citée."
+ },
+ "mythologies-africaines_olokun": {
+  "role": "Orisha des profondeurs de l'océan et de la richesse (Yoruba)",
+  "attribut": "Océan profond · Perles et corail",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Genre et parenté varient (lien avec Yemoja à Cuba, fils d'Osanobua chez les Edo) ; parenté laissée vide."
+ },
+ "mythologies-africaines_babalu-aye": {
+  "role": "Orisha de la variole et des maladies (Yoruba)",
+  "attribut": "Béquilles et chiens · Habit de paille · Saint Lazare",
+  "parente": "Fils de Nanã (au Brésil)",
+  "confiance": "tranchee",
+  "note": "Filiation propre au candomblé ; retenue car la plus répandue, le syncrétisme avec saint Lazare vient de Cuba."
+ },
+ "mythologies-africaines_oshossi": {
+  "role": "Orisha de la chasse et des chasseurs (Yoruba)",
+  "attribut": "Arc et flèche",
+  "parente": "Frère cadet d'Ogun",
+  "confiance": "tranchee",
+  "note": "L'article hésite entre frère et fils d'Ogun ; retenu frère, version dominante."
+ },
+ "mythologies-africaines_heviosso": {
+  "role": "Vodoun du tonnerre (Fon, Bénin)",
+  "attribut": "Hache de foudre · Bélier",
+  "parente": "Fils de Mawu-Lisa",
+  "confiance": "tranchee",
+  "note": "Filiation selon le mythe fon ; Heviosso est l'équivalent de Shango chez les Yoruba."
+ },
+ "mythologies-africaines_sakpata": {
+  "role": "Vodoun de la variole et de la terre (Fon, Bénin)",
+  "attribut": "Balai sacré · Paille",
+  "parente": "Fils aîné de Mawu-Lisa",
+  "confiance": "tranchee",
+  "note": "Filiation selon le mythe fon rapporté par Herskovits ; retenue car la plus citée."
+ },
+ "mythologies-africaines_nzambi-divinite": {
+  "role": "Dieu créateur suprême (Kongo)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_nommo": {
+  "role": "Génies ancestraux des eaux (Dogon)",
+  "attribut": "Êtres amphibies jumeaux",
+  "parente": "Créés par Amma",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_kaggen": {
+  "role": "Dieu créateur et fripon (San)",
+  "attribut": "Mante religieuse · Éland",
+  "parente": "Époux de la Daman",
+  "confiance": "tranchee",
+  "note": "L'article lié désigne à tort une île norvégienne ; fiche rédigée pour le Kaang des San, épouse daman selon les récits /Xam."
+ },
+ "mythologies-africaines_mwari": {
+  "role": "Dieu suprême créateur (Shona)",
+  "attribut": "Oracle des monts Matopo · Pluie",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-africaines_leza": {
+  "role": "Dieu suprême du ciel et de la pluie (Tonga, Ila, Bemba de Zambie)",
+  "attribut": "Pluie · Foudre",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "L'article lié désigne à tort une rivière espagnole ; fiche rédigée pour le dieu Leza d'Afrique australe."
+ },
+ "mythologies-africaines_tokoloshe": {
+  "role": "Esprit nain malfaisant lié à l'eau (Zoulou, Xhosa)",
+  "attribut": "Galet avalé pour devenir invisible · Lit surélevé sur briques",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ }
+}

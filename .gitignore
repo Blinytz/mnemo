@@ -8,6 +8,7 @@
 __pycache__/
 *.py[cod]
 build/.cache.pkl
+build/.cache_images.json
 *.tmp
 *.bak
 

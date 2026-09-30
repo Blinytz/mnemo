@@ -1,0 +1,219 @@
+{
+ "mythologies-oceanie-ameriques_coyote-mythologie": {
+  "role": "Décepteur et héros culturel (Amérindiens de l'Ouest)",
+  "attribut": "Ruse et gloutonnerie",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_wendigo": {
+  "role": "Esprit cannibale (Algonquiens)",
+  "attribut": "Faim insatiable de chair humaine",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_maui-mythologie": {
+  "role": "Demi-dieu farceur et héros culturel (Polynésie)",
+  "attribut": "Hameçon magique",
+  "parente": "Fils de Hina (Hawaï) · de Taranga (Maoris)",
+  "confiance": "tranchee",
+  "note": "La mère varie selon les îles : Hina à Hawaï, Taranga chez les Maoris ; les deux sont données, faute de version unique."
+ },
+ "mythologies-oceanie-ameriques_pelee": {
+  "role": "Déesse des volcans et du feu (Hawaï)",
+  "attribut": "Volcan Kīlauea",
+  "parente": "Fille de Haumea · sœur de Hiʻiaka",
+  "confiance": "tranchee",
+  "note": "L'article lié décrit Pélée, héros grec, et non la déesse hawaïenne : fiche établie pour Pele d'après le nom de la carte."
+ },
+ "mythologies-oceanie-ameriques_tane": {
+  "role": "Dieu des forêts et des oiseaux (Maoris)",
+  "attribut": "Arbres de la forêt",
+  "parente": "Fils de Rangi et Papa",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_tangaroa-mythologie": {
+  "role": "Dieu de la mer et des poissons (Polynésie)",
+  "attribut": "Poissons",
+  "parente": "Fils de Rangi et Papa (Maoris)",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_rangi-et-papa": {
+  "role": "Couple primordial du Ciel et de la Terre (Maoris)",
+  "attribut": "Étreinte rompue par leurs enfants",
+  "parente": "Parents de Tāne, Tangaroa et Tū",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_hina-divinite": {
+  "role": "Déesse de la Lune (Polynésie)",
+  "attribut": "Lune",
+  "parente": "Mère de Māui (Hawaï)",
+  "confiance": "tranchee",
+  "note": "Hina a de nombreux conjoints et enfants selon les îles ; retenu : mère de Māui, lien le plus connu (à Hawaï elle est aussi l'épouse de Kū)."
+ },
+ "mythologies-oceanie-ameriques_kane": {
+  "role": "Dieu créateur, de la lumière et de l'eau douce (Hawaï)",
+  "attribut": "Eau vive (wai ola)",
+  "parente": "Frère de Kanaloa",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_kanaloa-divinite": {
+  "role": "Dieu de l'océan et des profondeurs (Hawaï)",
+  "attribut": "Pieuvre",
+  "parente": "Frère de Kāne",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_lono": {
+  "role": "Dieu de la fertilité, de la pluie et de l'agriculture (Hawaï)",
+  "attribut": "Fête du Makahiki",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Aucune parenté stable dans les sources courantes ; attribut retenu : le Makahiki, lié à l'accueil de James Cook pris pour Lono."
+ },
+ "mythologies-oceanie-ameriques_ku": {
+  "role": "Dieu de la guerre (Hawaï)",
+  "attribut": "Effigie de plumes de Kamehameha (Kūkaʻilimoku)",
+  "parente": "Époux de Hina",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_tawhirimatea": {
+  "role": "Dieu des vents et des tempêtes (Maoris)",
+  "attribut": "Vents et nuages",
+  "parente": "Fils de Rangi et Papa",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_hine-nui-te-po": {
+  "role": "Déesse de la nuit et de la mort (Maoris)",
+  "attribut": "Monde souterrain (mort de Māui)",
+  "parente": "Fille et épouse de Tāne",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_serpent-arc-en-ciel": {
+  "role": "Être ancestral créateur, maître des eaux (Aborigènes d'Australie)",
+  "attribut": "Arc-en-ciel et points d'eau",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_wakan-tanka": {
+  "role": "Grand Mystère, principe sacré (Lakotas)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_oiseau-tonnerre": {
+  "role": "Esprit du tonnerre (Amérindiens d'Amérique du Nord)",
+  "attribut": "Ailes qui font le tonnerre, regard qui lance les éclairs",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_kokopelli": {
+  "role": "Esprit de fertilité (Hopis, Sud-Ouest des États-Unis)",
+  "attribut": "Flûte et dos bossu",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_sedna-roi-d-irlande": {
+  "role": "Déesse de la mer et des animaux marins (Inuits)",
+  "attribut": "Doigts coupés devenus phoques et baleines",
+  "parente": "Fille d'Anguta",
+  "confiance": "tranchee",
+  "note": "L'article lié décrit des rois d'Irlande, pas la déesse inuite : fiche établie pour Sedna ; le père est nommé Anguta dans la version la plus répandue."
+ },
+ "mythologies-oceanie-ameriques_nanabozo": {
+  "role": "Esprit farceur et héros culturel (Anishinaabe)",
+  "attribut": "Grand Lièvre",
+  "parente": "Petit-fils de Nokomis",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_glouscap": {
+  "role": "Héros culturel et transformateur (Micmacs, Wabanakis)",
+  "attribut": "Aucun",
+  "parente": "Frère jumeau de Malsum",
+  "confiance": "tranchee",
+  "note": "Malsum vient surtout des récits recueillis par Leland ; retenu car c'est le lien le plus cité, attribut laissé à Aucun faute d'objet emblématique."
+ },
+ "mythologies-oceanie-ameriques_femme-bison-blanc": {
+  "role": "Femme sacrée messagère (Lakotas)",
+  "attribut": "Calumet sacré",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_iktomi": {
+  "nom": "Ictinike",
+  "role": "Esprit fripon (Omahas, Poncas)",
+  "attribut": "Ruse · Chassé du ciel pour ses tromperies",
+  "parente": "Fils du dieu Soleil",
+  "confiance": "tranchee",
+  "note": "Figure apparentée à Iktomi des Lakotas mais distincte ; filiation solaire rapportée par Lewis Spence, seul lien de parenté couramment cité."
+ },
+ "mythologies-oceanie-ameriques_amaru": {
+  "role": "Serpent mythique du monde souterrain et des eaux (Andes, Incas)",
+  "attribut": "Serpent ailé ou bicéphale",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "L'apparence varie (serpent à deux têtes, ailé, mêlé de lama ou de félin) ; retenu : serpent ailé ou bicéphale, formes les plus décrites."
+ },
+ "mythologies-oceanie-ameriques_tiki": {
+  "role": "Premier homme et figure sculptée (Polynésie)",
+  "attribut": "Statue ou pendentif à figure humaine",
+  "parente": "Créé par Tāne (Maoris)",
+  "confiance": "tranchee",
+  "note": "Le mot désigne surtout un objet sculpté ; la figure mythologique est le premier homme, créé par Tāne dans une version maorie répandue."
+ },
+ "mythologies-oceanie-ameriques_rongo": {
+  "role": "Dieu de la paix et de l'agriculture (Maoris)",
+  "attribut": "Patate douce (kūmara)",
+  "parente": "Fils de Rangi et Papa",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_tumatauenga": {
+  "role": "Dieu de la guerre et des humains (Maoris)",
+  "attribut": "Visage en colère",
+  "parente": "Fils de Rangi et Papa",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_baiame": {
+  "role": "Dieu créateur du ciel (Aborigènes du sud-est de l'Australie)",
+  "attribut": "Cérémonie d'initiation bora",
+  "parente": "Époux de Birrahgnooloo",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_yowie": {
+  "role": "Créature légendaire (Australie)",
+  "attribut": "Homme sauvage velu, le « Bigfoot australien »",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "L'article évoque un monstre mi-lézard mi-fourmi, mais le Yowie est surtout connu comme hominidé velu ; retenu : ce dernier, attendu en quiz."
+ },
+ "mythologies-oceanie-ameriques_iktomi-b": {
+  "role": "Esprit farceur araignée (Lakotas)",
+  "attribut": "Araignée et sa toile",
+  "parente": "Fils d'Inyan (le Rocher)",
+  "confiance": "tranchee",
+  "note": "Fils d'Inyan selon la cosmologie lakota recueillie par Walker, version la plus citée ; l'autre carte porte sur Ictinike des Omahas."
+ },
+ "mythologies-oceanie-ameriques_gitche-manitou": {
+  "role": "Grand Esprit créateur (Anishinaabe)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_skin-walker": {
+  "role": "Sorcier métamorphe malveillant (Navajos)",
+  "attribut": "Peau d'animal revêtue",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-oceanie-ameriques_tupa": {
+  "role": "Dieu du tonnerre (Guaranis)",
+  "attribut": "Tonnerre et éclairs",
+  "parente": "Époux d'Arasy",
+  "confiance": "tranchee",
+  "note": "L'article lié décrit une ville brésilienne, pas le dieu : fiche établie pour Tupã ; épouse Arasy selon la version guaranie la plus citée."
+ },
+ "mythologies-oceanie-ameriques_curupira": {
+  "role": "Esprit gardien de la forêt (folklore brésilien)",
+  "attribut": "Pieds tournés vers l'arrière et cheveux roux",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ }
+}

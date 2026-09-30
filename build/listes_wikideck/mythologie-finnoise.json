@@ -1,0 +1,121 @@
+{
+ "mythologie-finnoise_vainamoinen": {
+  "role": "Barde et héros principal du Kalevala",
+  "attribut": "Kantele",
+  "parente": "Fils d'Ilmatar",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_ilmarinen": {
+  "role": "Forgeron éternel du Kalevala",
+  "attribut": "Sampo",
+  "parente": "Gendre de Louhi",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_lemminkainen": {
+  "role": "Héros guerrier et séducteur du Kalevala",
+  "attribut": "Cygne de Tuonela",
+  "parente": "Époux de Kyllikki",
+  "confiance": "tranchee",
+  "note": "Attribut retenu : le cygne de Tuonela qu'il tente d'abattre avant d'être tué, épisode le plus célèbre (Sibelius) ; parenté : Kyllikki plutôt que sa mère restée anonyme."
+ },
+ "mythologie-finnoise_louhi": {
+  "role": "Reine sorcière de Pohjola",
+  "attribut": "Sampo",
+  "parente": "Mère de la Vierge de Pohjola",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_ukko-ylijumala": {
+  "role": "Dieu suprême du ciel et du tonnerre",
+  "attribut": "Ukonvasara (marteau)",
+  "parente": "Époux d'Akka",
+  "confiance": "tranchee",
+  "note": "Ukonvasara est tantôt décrit comme hache, tantôt comme marteau : « marteau » retenu, forme la plus citée ; l'épouse Akka est aussi nommée Rauni selon les sources."
+ },
+ "mythologie-finnoise_kullervo": {
+  "role": "Héros tragique du Kalevala",
+  "attribut": "Épée",
+  "parente": "Fils de Kalervo",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_tapio": {
+  "role": "Dieu des forêts",
+  "attribut": "Tapiola",
+  "parente": "Époux de Mielikki",
+  "confiance": "tranchee",
+  "note": "Pas d'objet emblématique : retenu son royaume forestier Tapiola, repère attendu en quiz (poème symphonique de Sibelius)."
+ },
+ "mythologie-finnoise_mielikki": {
+  "role": "Déesse des forêts et de la chasse",
+  "attribut": "Ours",
+  "parente": "Épouse de Tapio",
+  "confiance": "tranchee",
+  "note": "Attribut retenu : l'ours, dont elle aurait façonné la création ; certains récits en font la belle-fille et non l'épouse de Tapio, l'épouse reste la version courante."
+ },
+ "mythologie-finnoise_tuonela": {
+  "role": "Royaume des morts",
+  "attribut": "Cygne de Tuonela",
+  "parente": "Aucune connue",
+  "confiance": "sure",
+  "note": "Lieu et non figure : domaine de Tuoni, gardé par une rivière où nage le cygne noir."
+ },
+ "mythologie-finnoise_ahti-mythologie": {
+  "role": "Dieu de la mer et de la pêche",
+  "attribut": "Ahtola (palais sous-marin)",
+  "parente": "Époux de Vellamo",
+  "confiance": "tranchee",
+  "note": "Retenu le palais sous-marin d'Ahtola plutôt que sa barbe de mousse, repère plus stable d'une source à l'autre."
+ },
+ "mythologie-finnoise_joukahainen": {
+  "role": "Jeune barde rival de Väinämöinen",
+  "attribut": "Arbalète",
+  "parente": "Frère d'Aino",
+  "confiance": "tranchee",
+  "note": "Attribut retenu : l'arbalète avec laquelle il abat la monture de Väinämöinen ; parenté sûre (il promet sa sœur Aino)."
+ },
+ "mythologie-finnoise_pohjola": {
+  "role": "Pays mythique du Nord",
+  "attribut": "Sampo",
+  "parente": "Aucune connue",
+  "confiance": "sure",
+  "note": "Lieu et non figure : royaume gouverné par Louhi, où est gardé le Sampo."
+ },
+ "mythologie-finnoise_ilmatar": {
+  "role": "Déesse primordiale de l'air",
+  "attribut": "Œufs de canard",
+  "parente": "Mère de Väinämöinen",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_hiisi": {
+  "role": "Génie malfaisant et lieu sacré",
+  "attribut": "Élan de Hiisi",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Terme collectif (lieux sacrés puis mauvais esprits) sans filiation fixe ; attribut retenu : l'élan de Hiisi chassé par Lemminkäinen."
+ },
+ "mythologie-finnoise_kalevala": {
+  "role": "Épopée nationale finlandaise",
+  "attribut": "Elias Lönnrot",
+  "parente": "Aucune connue",
+  "confiance": "sure",
+  "note": "Œuvre et non figure : l'attribut donne son compilateur (éditions de 1835 et 1849)."
+ },
+ "mythologie-finnoise_tuoni": {
+  "role": "Dieu des morts",
+  "attribut": "Tuonela",
+  "parente": "Époux de Tuonetar",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_surma-mythologie": {
+  "role": "Monstre de la mort violente, gardien de Tuonela",
+  "attribut": "Regard pétrifiant",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-finnoise_kantele": {
+  "role": "Instrument à cordes pincées traditionnel",
+  "attribut": "Mâchoire de brochet",
+  "parente": "Aucune connue",
+  "confiance": "sure",
+  "note": "Objet et non figure : Väinämöinen façonne le premier kantele avec la mâchoire d'un brochet géant."
+ }
+}

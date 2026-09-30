@@ -1,0 +1,228 @@
+{
+ "mythologies-slaves_peroun": {
+  "role": "Dieu du tonnerre et de la guerre (Slaves)",
+  "attribut": "Hache · Chêne",
+  "parente": "Époux de Dodola",
+  "confiance": "tranchee",
+  "note": "Épouse choisie d'après l'article (Dodola) ; Mokoch dans d'autres reconstructions, filiation de Svarog non attestée."
+ },
+ "mythologies-slaves_veles-mythologie": {
+  "role": "Dieu du bétail, de la magie et des enfers (Slaves)",
+  "attribut": "Serpent · Bétail",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Filiation de Rod écartée (reconstruction moderne) ; sa rivalité avec Péroun n'est pas une parenté."
+ },
+ "mythologies-slaves_baba-yaga": {
+  "role": "Sorcière du folklore slave",
+  "attribut": "Isba sur pattes de poulet · Mortier et pilon",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_roussalka": {
+  "role": "Esprit féminin des eaux (Slaves)",
+  "attribut": "Longs cheveux · Rivières et lacs",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_svarog": {
+  "role": "Dieu du feu céleste et de la forge (Slaves)",
+  "attribut": "Marteau · Forge",
+  "parente": "Père de Dajbog",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_mokoch": {
+  "role": "Déesse de la terre mère et des femmes (Slaves)",
+  "attribut": "Fuseau · Filage",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Union avec Péroun seulement reconstruite par les chercheurs, donc non retenue."
+ },
+ "mythologies-slaves_dajbog": {
+  "role": "Dieu du soleil et de la prospérité (Slaves)",
+  "attribut": "Soleil",
+  "parente": "Fils de Svarog",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_stribog": {
+  "role": "Dieu des vents (Slaves)",
+  "attribut": "Vents",
+  "parente": "Grand-père des vents",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_lada-mythologie": {
+  "role": "Déesse du printemps, de l'amour et du mariage (Slaves)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Divinité contestée (construction savante) ; aucun symbole ni lien de parenté solide retenu."
+ },
+ "mythologies-slaves_yarilo": {
+  "role": "Dieu du printemps et de la fertilité (Slaves)",
+  "attribut": "Cheval blanc · Gerbe de blé",
+  "parente": "Fils de Péroun",
+  "confiance": "tranchee",
+  "note": "Filiation issue des reconstructions (Ivanov et Toporov), retenue car la plus citée."
+ },
+ "mythologies-slaves_tchernobog": {
+  "role": "Dieu noir du malheur et des ténèbres (Slaves)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Rôle de dieu lunaire donné par l'article écarté ; son opposition à Bielobog n'est pas une parenté."
+ },
+ "mythologies-slaves_belbog": {
+  "role": "Dieu blanc de la lumière et du bien (Slaves)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Existence douteuse, déduite par symétrie avec Tchernobog ; aucun attribut retenu."
+ },
+ "mythologies-slaves_domovoi": {
+  "role": "Esprit protecteur de la maison (Slaves)",
+  "attribut": "Poêle de l'isba",
+  "parente": "Époux de la Kikimora",
+  "confiance": "tranchee",
+  "note": "Union donnée par certaines traditions seulement ; retenue car c'est le lien le plus attendu."
+ },
+ "mythologies-slaves_liechi": {
+  "role": "Esprit de la forêt (Slaves)",
+  "attribut": "Change de taille · Égare les voyageurs",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Attribut choisi parmi ses traits les plus cités (taille variable, vêtements à l'envers)."
+ },
+ "mythologies-slaves_vodianoi": {
+  "role": "Esprit masculin des eaux (Slaves)",
+  "attribut": "Vieillard barbu · Moulins",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_kikimora-mythologie": {
+  "role": "Esprit féminin de la maison (Slaves)",
+  "attribut": "Filage nocturne",
+  "parente": "Épouse du Domovoï",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_bannik": {
+  "role": "Esprit des bains (Slaves)",
+  "attribut": "Bania (étuve)",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_kochtchei": {
+  "role": "Sorcier immortel des contes russes",
+  "attribut": "Mort cachée dans une aiguille, dans un œuf",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_zmei": {
+  "role": "Dragon du folklore slave",
+  "attribut": "Trois têtes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_alkonost": {
+  "role": "Oiseau de la joie du folklore russe",
+  "attribut": "Tête de femme · Corps d'oiseau",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_sirin": {
+  "role": "Oiseau de la tristesse du folklore russe",
+  "attribut": "Tête de femme · Corps d'oiseau",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_oiseau-de-feu": {
+  "role": "Oiseau merveilleux du folklore slave",
+  "attribut": "Plumes lumineuses",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_perkunas": {
+  "role": "Dieu du tonnerre (Baltes)",
+  "attribut": "Hache · Chêne",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Liens familiaux variables selon les dainas lettones et lituaniennes, donc aucun retenu."
+ },
+ "mythologies-slaves_laima": {
+  "role": "Déesse du destin (Baltes)",
+  "attribut": "Tilleul",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Tilleul retenu comme arbre sacré le plus associé ; sœurs Dēkla et Kārta non retenues, tradition variable."
+ },
+ "mythologies-slaves_morana-deesse": {
+  "role": "Déesse de l'hiver et de la mort (Slaves)",
+  "attribut": "Effigie de paille noyée au printemps",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_triglav-mythologie": {
+  "role": "Dieu à trois têtes (Slaves de la Baltique)",
+  "attribut": "Trois têtes · Yeux bandés",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Identification à Svarog donnée par l'article écartée : Triglav est vénéré comme dieu propre à Szczecin."
+ },
+ "mythologies-slaves_svantovit": {
+  "role": "Dieu de la guerre et de l'abondance (Slaves de Rügen)",
+  "attribut": "Quatre visages · Corne à boire · Cheval blanc",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_rod-mythologie": {
+  "role": "Dieu de la lignée et du destin (Slaves)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Rôle de dieu créateur suprême issu de reconstructions ; les Rojanitsy l'accompagnent sans parenté attestée."
+ },
+ "mythologies-slaves_wili": {
+  "role": "Nymphes des forêts et des eaux (Slaves du Sud)",
+  "attribut": "Longs cheveux · Rondes dansées",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Attributs choisis parmi les plus constants du folklore et du ballet Giselle."
+ },
+ "mythologies-slaves_gamaioun": {
+  "role": "Oiseau prophétique du folklore russe",
+  "attribut": "Tête de femme · Corps d'oiseau",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_ilya-mouromets": {
+  "role": "Bogatyr, héros des bylines russes",
+  "attribut": "Cheval Bourouchka · Masse d'armes",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Attribut choisi entre son cheval et ses trente-trois ans d'immobilité, autres repères de quiz."
+ },
+ "mythologies-slaves_sadko-mythologie": {
+  "role": "Marchand joueur de gousli (byline de Novgorod)",
+  "attribut": "Gousli",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_vassilissa-la-tres-belle": {
+  "role": "Héroïne du conte russe Vassilissa la Très Belle (Afanassiev)",
+  "attribut": "Poupée magique donnée par sa mère mourante",
+  "parente": "Fille d'un marchand · Belle-fille d'une marâtre aux deux filles",
+  "confiance": "tranchee",
+  "note": "L'image montre la fillette à la poupée devant l'isba de Baba Yaga : fiche du conte d'Afanassiev, où sa marâtre et ses filles l'envoient chez la sorcière, et non de la Princesse-Grenouille."
+ },
+ "mythologies-slaves_ivan-tsarevitch": {
+  "role": "Prince héros du folklore russe",
+  "attribut": "Loup gris",
+  "parente": "Fils du tsar",
+  "confiance": "sure"
+ },
+ "mythologies-slaves_saule": {
+  "role": "Déesse du Soleil (Baltes)",
+  "attribut": "Soleil · Char",
+  "parente": "Épouse de Mēness (la Lune)",
+  "confiance": "sure"
+ }
+}
