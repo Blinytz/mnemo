@@ -1,0 +1,332 @@
+{
+ "mythologies-asie-est_amaterasu": {
+  "role": "Déesse du soleil (Japon)",
+  "attribut": "Miroir Yata no Kagami",
+  "parente": "Fille d'Izanagi",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_susanoo": {
+  "role": "Dieu des tempêtes et de la mer (Japon)",
+  "attribut": "Épée Kusanagi (tirée de l'Orochi)",
+  "parente": "Frère d'Amaterasu",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_tsukuyomi": {
+  "role": "Dieu de la Lune et de la nuit (Japon)",
+  "attribut": "Aucun",
+  "parente": "Frère d'Amaterasu",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_izanagi": {
+  "role": "Dieu créateur du Japon (Japon)",
+  "attribut": "Lance céleste Ame-no-nuboko",
+  "parente": "Frère et époux d'Izanami",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_izanami": {
+  "role": "Déesse de la création et de la mort (Japon)",
+  "attribut": "Lance céleste Ame-no-nuboko",
+  "parente": "Sœur et épouse d'Izanagi",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_inari-divinite-japonaise": {
+  "role": "Divinité du riz et de la prospérité (Japon)",
+  "attribut": "Renards messagers · Torii vermillon",
+  "parente": "Assimilée à Uka-no-Mitama, fille de Susanoo",
+  "confiance": "tranchee",
+  "note": "Identification à Uka-no-Mitama retenue, la plus répandue dans les sanctuaires Inari."
+ },
+ "mythologies-asie-est_pangu": {
+  "role": "Géant créateur du monde (Chine)",
+  "attribut": "Hache séparant le ciel et la terre · Œuf cosmique",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_nuwa": {
+  "role": "Déesse créatrice de l'humanité (Chine)",
+  "attribut": "Corps de serpent · Pierres de cinq couleurs réparant le ciel",
+  "parente": "Sœur et épouse de Fuxi",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_kappa-mythologie": {
+  "role": "Yōkai des rivières (Japon)",
+  "attribut": "Coupelle d'eau sur le crâne · Concombre",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_oni": {
+  "role": "Démon ogre, yōkai (Japon)",
+  "attribut": "Massue de fer kanabō · Cornes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_tengu-folklore": {
+  "role": "Esprit des montagnes, yōkai (Japon)",
+  "attribut": "Long nez rouge · Éventail de plumes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_renard-dans-la-culture-japonaise": {
+  "role": "Renard surnaturel, messager d'Inari (Japon)",
+  "attribut": "Queues multiples, jusqu'à neuf",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_raiden-divinite": {
+  "role": "Dieu du tonnerre (Japon)",
+  "attribut": "Tambours taiko",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_fujin-divinite": {
+  "role": "Dieu du vent (Japon)",
+  "attribut": "Sac de vents",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_hachiman": {
+  "role": "Dieu de la guerre et des archers (Japon)",
+  "attribut": "Arc · Colombe messagère",
+  "parente": "Fils de l'impératrice Jingū (en tant qu'empereur Ōjin)",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_ebisu-divinite": {
+  "role": "Dieu des pêcheurs et du commerce (Japon)",
+  "attribut": "Daurade · Canne à pêche",
+  "parente": "Assimilé à Hiruko, fils d'Izanagi et d'Izanami",
+  "confiance": "tranchee",
+  "note": "Identification à Hiruko retenue, la plus citée ; Kotoshironushi écarté."
+ },
+ "mythologies-asie-est_benzaiten": {
+  "role": "Déesse des arts, de l'eau et de l'éloquence (Japon)",
+  "attribut": "Luth biwa",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_daikokuten": {
+  "role": "Dieu de la richesse et des récoltes (Japon)",
+  "attribut": "Maillet de la fortune · Sacs de riz",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_kagutsuchi": {
+  "role": "Dieu du feu (Japon)",
+  "attribut": "Flammes (brûle sa mère à la naissance)",
+  "parente": "Fils d'Izanagi et d'Izanami",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_okuninushi": {
+  "role": "Dieu de la terre et du pays d'Izumo (Japon)",
+  "attribut": "Lièvre blanc d'Inaba",
+  "parente": "Descendant de Susanoo, époux de sa fille Suseri-hime",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_ryujin": {
+  "role": "Dieu dragon de la mer (Japon)",
+  "attribut": "Joyaux des marées · Palais Ryūgū-jō",
+  "parente": "Père de la princesse Otohime",
+  "confiance": "tranchee",
+  "note": "Filiation populaire retenue : Otohime est la fille du roi dragon Ryūjin."
+ },
+ "mythologies-asie-est_yamata-no-orochi": {
+  "role": "Serpent géant à huit têtes (Japon)",
+  "attribut": "Huit têtes et huit queues · Épée Kusanagi dans une queue",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_empereur-de-jade": {
+  "role": "Souverain du Ciel (Chine)",
+  "attribut": "Robe impériale · Tablette de cour hu",
+  "parente": "Époux de la Reine-mère Wangmu (tradition populaire)",
+  "confiance": "tranchee",
+  "note": "Iconographie la plus représentée ; union avec Wangmu retenue d'après la tradition populaire."
+ },
+ "mythologies-asie-est_fuxi": {
+  "role": "Héros civilisateur, premier des Trois Augustes (Chine)",
+  "attribut": "Huit trigrammes (bagua) · Équerre",
+  "parente": "Frère et époux de Nuwa",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_shennong": {
+  "role": "Dieu de l'agriculture et de la médecine (Chine)",
+  "attribut": "Herbes médicinales · Charrue",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_xiwangmu": {
+  "role": "Reine-mère de l'Ouest, déesse de l'immortalité (Chine)",
+  "attribut": "Pêches d'immortalité · Mont Kunlun",
+  "parente": "Parèdre du Roi-père de l'Est (Dongwanggong)",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_chang-e": {
+  "role": "Déesse de la Lune (Chine)",
+  "attribut": "Lapin de jade · Élixir d'immortalité",
+  "parente": "Épouse de Houyi",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_sun-wukong": {
+  "role": "Roi des singes (Chine)",
+  "attribut": "Bâton magique Ruyi Jingu Bang · Nuage à culbute",
+  "parente": "Né d'un rocher, sans parents",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_nezha": {
+  "role": "Enfant guerrier protecteur (Chine)",
+  "attribut": "Roues de vent et de feu · Anneau Qiankun · Lance de feu",
+  "parente": "Fils de Li Jing",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_guanyin": {
+  "role": "Bodhisattva de la compassion (Chine)",
+  "attribut": "Vase d'eau pure · Branche de saule",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_roi-dragon": {
+  "role": "Dieu dragon des eaux et de la pluie (Chine)",
+  "attribut": "Perle · Palais sous-marin",
+  "parente": "Quatre frères des quatre mers (Ao Guang en tête)",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_qilin": {
+  "role": "Chimère de bon augure (Chine)",
+  "attribut": "Corne unique · Corps écailleux",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_fenghuang": {
+  "role": "Oiseau de bon augure, emblème de l'impératrice (Chine)",
+  "attribut": "Plumes de cinq couleurs",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_tangun": {
+  "role": "Fondateur légendaire de Gojoseon (Corée)",
+  "attribut": "Aucun",
+  "parente": "Fils de Hwanung et de la femme-ourse Ungnyeo",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_houyi": {
+  "role": "Archer divin (Chine)",
+  "attribut": "Arc et flèches (abat neuf soleils)",
+  "parente": "Époux de Chang'e",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_yu-le-grand": {
+  "role": "Dompteur des crues, fondateur des Xia (Chine)",
+  "attribut": "Maîtrise des eaux · Neuf tripodes",
+  "parente": "Fils de Gun",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_huangdi": {
+  "role": "Souverain civilisateur, ancêtre des Chinois (Chine)",
+  "attribut": "Couleur jaune · Élément terre",
+  "parente": "Fils de Shaodian",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_zhong-kui": {
+  "role": "Chasseur de démons (Chine)",
+  "attribut": "Épée · Barbe noire hirsute · Chauves-souris",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_guan-yu": {
+  "role": "Dieu de la guerre et de la loyauté (Chine)",
+  "attribut": "Hallebarde du Dragon vert · Visage rouge",
+  "parente": "Frère juré de Liu Bei et Zhang Fei",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_huit-immortels": {
+  "role": "Groupe d'immortels taoïstes (Chine)",
+  "attribut": "Objets propres à chacun : gourde, éventail, épée, flûte, etc.",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_mazu": {
+  "role": "Déesse de la mer, protectrice des marins (Chine)",
+  "attribut": "Gardiens Qianliyan et Shunfeng'er",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_nian": {
+  "role": "Monstre du Nouvel An (Chine)",
+  "attribut": "Craint le rouge, le bruit et les pétards",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_jiangshi": {
+  "role": "Mort-vivant sautillant (Chine)",
+  "attribut": "Talisman de papier sur le front · Costume de mandarin Qing",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_zhu-bajie": {
+  "role": "Cochon disciple du moine Xuanzang (Chine)",
+  "attribut": "Râteau à neuf dents",
+  "parente": "Condisciple de Sun Wukong",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_budai": {
+  "role": "Bouddha rieur, dieu du bonheur (Japon et Chine)",
+  "attribut": "Sac de toile · Gros ventre",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_kshitigarbha": {
+  "role": "Bodhisattva protecteur des enfants et des voyageurs (Japon)",
+  "attribut": "Bâton de pèlerin shakujō · Joyau · Bavoir rouge",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_nyctereutes": {
+  "role": "Chien viverrin métamorphe, yōkai (Japon)",
+  "attribut": "Feuille sur la tête · Ventre rebondi · Bouteille de saké",
+  "parente": "Aucune connue",
+  "confiance": "sure",
+  "note": "La page désigne le genre zoologique du chien viverrin ; la fiche porte sur le tanuki du folklore japonais."
+ },
+ "mythologies-asie-est_yuki-onna": {
+  "role": "Femme des neiges, yōkai (Japon)",
+  "attribut": "Kimono blanc · Souffle glacé",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_onamazu": {
+  "role": "Poisson-chat géant des séismes (Japon)",
+  "attribut": "Pierre kaname-ishi du dieu Kashima",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_momotaro": {
+  "role": "Héros vainqueur des oni (Japon)",
+  "attribut": "Pêche · Kibi dango · Chien, singe et faisan",
+  "parente": "Fils adoptif d'un vieux couple",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_urashima-taro": {
+  "role": "Pêcheur héros du conte (Japon)",
+  "attribut": "Tortue · Coffret tamatebako",
+  "parente": "Époux de la princesse Otohime",
+  "confiance": "tranchee",
+  "note": "Mariage avec Otohime retenu, présent dans la plupart des versions."
+ },
+ "mythologies-asie-est_renard-a-neuf-queues": {
+  "role": "Renard à neuf queues (Corée, Chine, Japon)",
+  "attribut": "Neuf queues · Perle de renard",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_dokkaebi": {
+  "role": "Lutin farceur (Corée)",
+  "attribut": "Massue magique bangmangi",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologies-asie-est_xiezhi": {
+  "role": "Bête justicière gardienne contre le feu (Corée, origine chinoise)",
+  "attribut": "Corne unique",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,797 @@
+{
+ "dieux-et-figures-mythologiques-grecques_zagreus": {
+  "type": "Divinité",
+  "domaine": "Dionysos orphique · Démembré par les Titans",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Tradition orphique : fils de Zeus et Perséphone, déchiré par les Titans puis renaissant en Dionysos."
+ },
+ "dieux-et-figures-mythologiques-grecques_hades": {
+  "type": "Divinité",
+  "domaine": "Dieu des Enfers · Richesses souterraines",
+  "attribut": "Casque d'invisibilité · Cerbère",
+  "romain": "Pluton",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_persephone": {
+  "type": "Divinité",
+  "domaine": "Reine des Enfers · Retour du printemps",
+  "attribut": "Grenade · Épis de blé",
+  "romain": "Proserpine",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_nyx": {
+  "type": "Divinité primordiale",
+  "domaine": "Nuit",
+  "attribut": "Aucun",
+  "romain": "Nox",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_chaos-cosmogonie": {
+  "type": "Divinité primordiale",
+  "domaine": "Vide originel",
+  "attribut": "Aucun",
+  "romain": "Chaos",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_erebe": {
+  "type": "Divinité primordiale",
+  "domaine": "Ténèbres",
+  "attribut": "Aucun",
+  "romain": "Erebus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_zeus": {
+  "type": "Olympien",
+  "domaine": "Roi des dieux · Ciel · Foudre",
+  "attribut": "Foudre · Aigle · Égide",
+  "romain": "Jupiter",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_poseidon": {
+  "type": "Olympien",
+  "domaine": "Mer · Séismes · Chevaux",
+  "attribut": "Trident · Cheval",
+  "romain": "Neptune",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hera": {
+  "type": "Olympien",
+  "domaine": "Reine des dieux · Mariage",
+  "attribut": "Paon · Diadème",
+  "romain": "Junon",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_athena": {
+  "type": "Olympien",
+  "domaine": "Sagesse · Stratégie guerrière · Artisanat",
+  "attribut": "Chouette · Égide · Olivier",
+  "romain": "Minerve",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_ares": {
+  "type": "Olympien",
+  "domaine": "Guerre · Violence",
+  "attribut": "Lance · Casque · Bouclier",
+  "romain": "Mars",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_aphrodite": {
+  "type": "Olympien",
+  "domaine": "Amour · Beauté",
+  "attribut": "Colombe · Coquille · Myrte",
+  "romain": "Vénus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_apollon": {
+  "type": "Olympien",
+  "domaine": "Arts · Musique · Lumière · Prophétie",
+  "attribut": "Lyre · Arc · Laurier",
+  "romain": "Apollon",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_artemis": {
+  "type": "Olympien",
+  "domaine": "Chasse · Nature sauvage · Lune",
+  "attribut": "Arc · Carquois · Biche",
+  "romain": "Diane",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_dionysos": {
+  "type": "Olympien",
+  "domaine": "Vigne · Vin · Fête · Théâtre",
+  "attribut": "Thyrse · Vigne · Canthare",
+  "romain": "Bacchus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_demeter": {
+  "type": "Olympien",
+  "domaine": "Agriculture · Moissons",
+  "attribut": "Épis de blé · Torche",
+  "romain": "Cérès",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hermes": {
+  "type": "Olympien",
+  "domaine": "Messager des dieux · Commerce · Voyageurs · Voleurs",
+  "attribut": "Caducée · Sandales ailées · Pétase",
+  "romain": "Mercure",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hestia": {
+  "type": "Olympien",
+  "domaine": "Foyer · Feu sacré",
+  "attribut": "Foyer · Flamme",
+  "romain": "Vesta",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hecate": {
+  "type": "Divinité",
+  "domaine": "Magie · Carrefours · Lune",
+  "attribut": "Torches · Clés",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Trivia n'est qu'une épithète, les Romains disent Hécate : pas d'équivalent enseigné."
+ },
+ "dieux-et-figures-mythologiques-grecques_selene": {
+  "type": "Divinité",
+  "domaine": "Lune",
+  "attribut": "Croissant de lune · Char",
+  "romain": "Luna",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_eris": {
+  "type": "Divinité",
+  "domaine": "Discorde",
+  "attribut": "Pomme d'or de la discorde",
+  "romain": "Discordia",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_nemesis": {
+  "type": "Divinité",
+  "domaine": "Juste vengeance divine · Châtiment de la démesure",
+  "attribut": "Roue · Griffon",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Les Romains gardent le nom Némésis ; Invidia écarté. Roue et griffon retenus comme attributs."
+ },
+ "dieux-et-figures-mythologiques-grecques_moros-mythologie": {
+  "type": "Divinité",
+  "domaine": "Destin funeste · Mort violente",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_cronos": {
+  "type": "Titan",
+  "domaine": "Roi des Titans · Dévore ses enfants",
+  "attribut": "Faucille (harpè)",
+  "romain": "Saturne",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_promethee": {
+  "type": "Titan",
+  "domaine": "Vole le feu pour le donner aux hommes",
+  "attribut": "Feu volé · Aigle qui lui ronge le foie",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_typhon-mythologie": {
+  "type": "Créature",
+  "domaine": "Monstre ennemi de Zeus · Vents violents",
+  "attribut": "Cent têtes de serpent",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_meduse-mythologie": {
+  "type": "Créature",
+  "domaine": "Gorgone au regard pétrifiant · Tuée par Persée",
+  "attribut": "Chevelure de serpents · Regard pétrifiant",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_scylla-monstre": {
+  "type": "Créature",
+  "domaine": "Monstre marin du détroit de Messine",
+  "attribut": "Six têtes · Chiens à la ceinture",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_achille": {
+  "type": "Héros",
+  "domaine": "Plus grand guerrier grec de Troie · Tue Hector",
+  "attribut": "Talon vulnérable · Bouclier forgé par Héphaïstos",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_patrocle": {
+  "type": "Héros",
+  "domaine": "Compagnon d'Achille · Tué par Hector",
+  "attribut": "Armure d'Achille",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_sisyphe": {
+  "type": "Mortel",
+  "domaine": "Roi de Corinthe · Pousse éternellement un rocher",
+  "attribut": "Rocher",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_orphee": {
+  "type": "Héros",
+  "domaine": "Poète musicien · Descend aux Enfers chercher Eurydice",
+  "attribut": "Lyre",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_eurydice": {
+  "type": "Nymphe",
+  "domaine": "Épouse d'Orphée · Morte d'une morsure de serpent",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_charon-mythologie": {
+  "type": "Divinité",
+  "domaine": "Passeur des âmes aux Enfers",
+  "attribut": "Barque · Obole",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_cerbere": {
+  "type": "Créature",
+  "domaine": "Chien gardien des Enfers",
+  "attribut": "Trois têtes",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hypnos": {
+  "type": "Divinité",
+  "domaine": "Sommeil",
+  "attribut": "Pavot · Ailes",
+  "romain": "Somnus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_thanatos": {
+  "type": "Divinité",
+  "domaine": "Mort",
+  "attribut": "Torche renversée · Ailes",
+  "romain": "Mors",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_erinyes": {
+  "type": "Divinité",
+  "domaine": "Vengeance des crimes de sang",
+  "attribut": "Serpents · Fouets · Torches",
+  "romain": "Furies",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_gaia": {
+  "type": "Divinité primordiale",
+  "domaine": "Terre mère",
+  "attribut": "Aucun",
+  "romain": "Tellus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_ouranos": {
+  "type": "Divinité primordiale",
+  "domaine": "Ciel étoilé",
+  "attribut": "Aucun",
+  "romain": "Caelus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_rhea-mythologie": {
+  "type": "Titan",
+  "domaine": "Mère des dieux · Fertilité",
+  "attribut": "Pierre emmaillotée",
+  "romain": "Ops",
+  "confiance": "tranchee",
+  "note": "Pas d'attribut iconographique propre : on retient la pierre donnée à Cronos, trait le plus attendu."
+ },
+ "dieux-et-figures-mythologiques-grecques_atlas-mythologie": {
+  "type": "Titan",
+  "domaine": "Porte la voûte céleste",
+  "attribut": "Voûte céleste sur les épaules",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_chronos": {
+  "type": "Divinité primordiale",
+  "domaine": "Temps",
+  "attribut": "Sablier",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Sablier retenu (allégorie du Temps) ; la faux, héritée de Cronos, est retirée."
+ },
+ "dieux-et-figures-mythologiques-grecques_styx": {
+  "type": "Nymphe",
+  "domaine": "Fleuve des Enfers · Garante du serment des dieux",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_helios": {
+  "type": "Divinité",
+  "domaine": "Soleil",
+  "attribut": "Char solaire · Couronne de rayons",
+  "romain": "Sol",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hephaistos": {
+  "type": "Olympien",
+  "domaine": "Feu · Forge · Métallurgie",
+  "attribut": "Marteau · Enclume · Tenailles",
+  "romain": "Vulcain",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_eros": {
+  "type": "Divinité",
+  "domaine": "Amour · Désir",
+  "attribut": "Arc · Flèches · Ailes",
+  "romain": "Cupidon",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_pan": {
+  "type": "Divinité",
+  "domaine": "Bergers · Troupeaux · Nature sauvage",
+  "attribut": "Syrinx (flûte de Pan) · Cornes et pattes de bouc",
+  "romain": "Faunus",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_asclepios": {
+  "type": "Divinité",
+  "domaine": "Médecine",
+  "attribut": "Bâton au serpent",
+  "romain": "Esculape",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_muses": {
+  "type": "Muse",
+  "domaine": "Arts et savoirs · Neuf filles de Zeus et Mnémosyne",
+  "attribut": "Aucun",
+  "romain": "Camènes",
+  "confiance": "tranchee",
+  "note": "Camènes : équivalent romain usuel des Muses. Pas d'attribut commun, chacune a le sien."
+ },
+ "dieux-et-figures-mythologiques-grecques_heracles": {
+  "type": "Héros",
+  "domaine": "Douze travaux",
+  "attribut": "Massue · Peau du lion de Némée",
+  "romain": "Hercule",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_ulysse": {
+  "type": "Héros",
+  "domaine": "Roi d'Ithaque · Ruse du cheval de Troie · Odyssée",
+  "attribut": "Arc · Pilos (bonnet de marin)",
+  "romain": "Ulysse",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_persee": {
+  "type": "Héros",
+  "domaine": "Tue la Méduse · Délivre Andromède",
+  "attribut": "Tête de Méduse · Harpè · Sandales ailées",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_thesee": {
+  "type": "Héros",
+  "domaine": "Tue le Minotaure · Roi d'Athènes",
+  "attribut": "Fil d'Ariane · Massue",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_jason": {
+  "type": "Héros",
+  "domaine": "Chef des Argonautes · Conquête de la Toison d'or",
+  "attribut": "Toison d'or · Navire Argo · Sandale unique",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_bellerophon": {
+  "type": "Héros",
+  "domaine": "Tue la Chimère",
+  "attribut": "Pégase · Bride d'or",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_icare": {
+  "type": "Mortel",
+  "domaine": "Vole trop près du Soleil et chute",
+  "attribut": "Ailes de plumes et de cire",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_dedale": {
+  "type": "Mortel",
+  "domaine": "Architecte du Labyrinthe · Inventeur",
+  "attribut": "Ailes · Labyrinthe",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_dipe": {
+  "type": "Héros",
+  "domaine": "Résout l'énigme du Sphinx · Tue son père et épouse sa mère",
+  "attribut": "Pieds percés (d'où son nom)",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hector": {
+  "type": "Héros",
+  "domaine": "Champion de Troie · Tué par Achille",
+  "attribut": "Casque à panache",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_paris": {
+  "type": "Mortel",
+  "domaine": "Prince troyen · Jugement de Pâris · Enlève Hélène",
+  "attribut": "Pomme d'or · Arc",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_helene-mythologie": {
+  "type": "Mortel",
+  "domaine": "Plus belle femme du monde · Cause de la guerre de Troie",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_agamemnon": {
+  "type": "Héros",
+  "domaine": "Roi de Mycènes · Chef des Grecs devant Troie",
+  "attribut": "Sceptre",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_cassandre": {
+  "type": "Mortel",
+  "domaine": "Prophétesse troyenne que nul ne croit",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_pandore": {
+  "type": "Mortel",
+  "domaine": "Première femme · Libère les maux du monde",
+  "attribut": "Jarre (boîte de Pandore)",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_narcisse-mythologie": {
+  "type": "Mortel",
+  "domaine": "Amoureux de son propre reflet",
+  "attribut": "Fleur de narcisse · Reflet dans l'eau",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_ariane-mythologie": {
+  "type": "Mortel",
+  "domaine": "Aide Thésée à sortir du Labyrinthe · Épouse de Dionysos",
+  "attribut": "Fil d'Ariane · Couronne",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_penelope": {
+  "type": "Mortel",
+  "domaine": "Épouse fidèle d'Ulysse",
+  "attribut": "Métier à tisser · Toile défaite chaque nuit",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_circe": {
+  "type": "Divinité",
+  "domaine": "Magicienne · Change les compagnons d'Ulysse en porcs",
+  "attribut": "Baguette · Philtres",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_antigone-montpellier": {
+  "type": "Mortel",
+  "domaine": "Fille d'Œdipe · Enterre son frère Polynice malgré Créon",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Fiche pour l'héroïne, fille d'Œdipe (l'image montre l'héroïne, le lien visait un quartier de Montpellier).",
+  "nom": "Antigone"
+ },
+ "dieux-et-figures-mythologiques-grecques_minotaure": {
+  "type": "Créature",
+  "domaine": "Homme à tête de taureau du Labyrinthe · Tué par Thésée",
+  "attribut": "Tête de taureau",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_pegase": {
+  "type": "Créature",
+  "domaine": "Cheval ailé · Monture de Bellérophon",
+  "attribut": "Ailes",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hydre-de-lerne": {
+  "type": "Créature",
+  "domaine": "Serpent à têtes multiples · 2e travail d'Héraclès",
+  "attribut": "Têtes qui repoussent",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_chimere-mythologie": {
+  "type": "Créature",
+  "domaine": "Monstre crachant le feu · Tuée par Bellérophon",
+  "attribut": "Lion · Chèvre · Serpent",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_sirene-mythologie-grecque": {
+  "type": "Créature",
+  "domaine": "Charment les marins par leur chant",
+  "attribut": "Corps d'oiseau à tête de femme · Chant",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_polypheme": {
+  "type": "Créature",
+  "domaine": "Cyclope aveuglé par Ulysse · Fils de Poséidon",
+  "attribut": "Œil unique",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_sphinx": {
+  "type": "Créature",
+  "domaine": "Pose une énigme aux voyageurs de Thèbes",
+  "attribut": "Corps de lion · Tête de femme · Ailes",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_arachne": {
+  "type": "Mortel",
+  "domaine": "Tisserande changée en araignée par Athéna",
+  "attribut": "Toile · Araignée",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_charybde": {
+  "type": "Créature",
+  "domaine": "Tourbillon qui engloutit les navires · Face à Scylla",
+  "attribut": "Tourbillon",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_chiron-mythologie": {
+  "type": "Créature",
+  "domaine": "Centaure sage · Précepteur d'Achille, Asclépios et Jason",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_harpies": {
+  "type": "Créature",
+  "domaine": "Ravisseuses · Tourmentent Phinée",
+  "attribut": "Corps d'oiseau · Visage de femme",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hebe": {
+  "type": "Divinité",
+  "domaine": "Jeunesse · Échansonne des dieux",
+  "attribut": "Coupe · Aiguière",
+  "romain": "Juventas",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_themis": {
+  "type": "Titan",
+  "domaine": "Justice · Loi divine",
+  "attribut": "Balance",
+  "romain": "Justitia",
+  "confiance": "tranchee",
+  "note": "Justitia retenue : équivalent usuel dans les tableaux scolaires, bien que proche aussi de Dikè."
+ },
+ "dieux-et-figures-mythologiques-grecques_mnemosyne": {
+  "type": "Titan",
+  "domaine": "Mémoire · Mère des Muses",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "tranchee",
+  "note": "Moneta n'est qu'une traduction ponctuelle : aucun équivalent romain enseigné."
+ },
+ "dieux-et-figures-mythologiques-grecques_ocean-mythologie": {
+  "type": "Titan",
+  "domaine": "Fleuve qui encercle le monde · Père des Océanides",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_hyperion-mythologie": {
+  "type": "Titan",
+  "domaine": "Lumière · Père d'Hélios, Séléné et Éos",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_leto": {
+  "type": "Titan",
+  "domaine": "Mère d'Apollon et d'Artémis",
+  "attribut": "Aucun",
+  "romain": "Latone",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_maia-pleiade": {
+  "type": "Nymphe",
+  "domaine": "Aînée des Pléiades · Mère d'Hermès",
+  "attribut": "Aucun",
+  "romain": "Maia",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_nike": {
+  "type": "Divinité",
+  "domaine": "Victoire",
+  "attribut": "Ailes · Couronne de laurier · Palme",
+  "romain": "Victoria",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_iris-mythologie": {
+  "type": "Divinité",
+  "domaine": "Messagère des dieux · Arc-en-ciel",
+  "attribut": "Arc-en-ciel · Ailes · Caducée",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_eos": {
+  "type": "Divinité",
+  "domaine": "Aurore",
+  "attribut": "Doigts de rose · Char",
+  "romain": "Aurore",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_atalante": {
+  "type": "Héros",
+  "domaine": "Chasseresse · Course perdue à cause des pommes d'or",
+  "attribut": "Pommes d'or · Arc",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_medee-mythologie": {
+  "type": "Mortel",
+  "domaine": "Magicienne · Aide Jason · Tue ses enfants",
+  "attribut": "Philtres · Chaudron",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_andromede-mythologie": {
+  "type": "Mortel",
+  "domaine": "Princesse enchaînée à un rocher · Sauvée par Persée",
+  "attribut": "Chaînes · Rocher",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_adonis-mythologie": {
+  "type": "Mortel",
+  "domaine": "Jeune homme aimé d'Aphrodite · Tué par un sanglier",
+  "attribut": "Anémone",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_dioscures": {
+  "type": "Héros",
+  "domaine": "Jumeaux protecteurs des marins · Constellation des Gémeaux",
+  "attribut": "Chevaux · Bonnet étoilé",
+  "romain": "Castor et Pollux",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_midas": {
+  "type": "Mortel",
+  "domaine": "Roi de Phrygie · Change en or tout ce qu'il touche",
+  "attribut": "Oreilles d'âne · Toucher d'or",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_ajax-fils-de-telamon": {
+  "type": "Héros",
+  "domaine": "Géant guerrier de Troie · Se suicide après avoir perdu les armes d'Achille",
+  "attribut": "Grand bouclier",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_enee": {
+  "type": "Héros",
+  "domaine": "Troyen ancêtre des Romains · Énéide",
+  "attribut": "Anchise porté sur les épaules",
+  "romain": "Énée",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_priam": {
+  "type": "Mortel",
+  "domaine": "Dernier roi de Troie",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_andromaque": {
+  "type": "Mortel",
+  "domaine": "Épouse d'Hector",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_electre": {
+  "type": "Mortel",
+  "domaine": "Pousse Oreste à venger Agamemnon",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_oreste": {
+  "type": "Héros",
+  "domaine": "Venge son père en tuant Clytemnestre · Poursuivi par les Érinyes",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_clytemnestre": {
+  "type": "Mortel",
+  "domaine": "Tue son époux Agamemnon",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_iphigenie": {
+  "type": "Mortel",
+  "domaine": "Sacrifiée par son père Agamemnon à Aulis",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_phedre-mythologie": {
+  "type": "Mortel",
+  "domaine": "Épouse de Thésée · Éprise de son beau-fils Hippolyte",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_centaure": {
+  "type": "Créature",
+  "domaine": "Être mi-homme mi-cheval",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_cyclope": {
+  "type": "Créature",
+  "domaine": "Géants à un œil · Forgent la foudre de Zeus",
+  "attribut": "Œil unique",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_gorgones": {
+  "type": "Créature",
+  "domaine": "Trois sœurs monstrueuses : Méduse · Sthéno · Euryale",
+  "attribut": "Chevelure de serpents · Regard pétrifiant",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_satyre": {
+  "type": "Créature",
+  "domaine": "Compagnon de Dionysos · Ivresse · Désir",
+  "attribut": "Oreilles et queue de cheval",
+  "romain": "Faune",
+  "confiance": "tranchee",
+  "note": "Faune : assimilation romaine usuelle. Traits chevalins retenus (forme archaïque)."
+ },
+ "dieux-et-figures-mythologiques-grecques_nymphe": {
+  "type": "Nymphe",
+  "domaine": "Divinité mineure de la nature",
+  "attribut": "Aucun",
+  "romain": "Aucun",
+  "confiance": "sure"
+ },
+ "dieux-et-figures-mythologiques-grecques_talos-crete": {
+  "type": "Créature",
+  "domaine": "Géant de bronze gardien de la Crète",
+  "attribut": "Corps de bronze · Veine unique à la cheville",
+  "romain": "Aucun",
+  "confiance": "sure"
+ }
+}

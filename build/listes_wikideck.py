@@ -137,6 +137,21 @@ LISTES = {
                               categorie='sciences-nature',
                               colonnes=[('Mission ou engin', None), ('Date', 'date'), ('Pays ou agence', 'pays'),
                                         ('Fait marquant', 'fait')]),
+    # Lot 6 : mythologies (ordre '-' = alphabetique sur le nom)
+    'dieux-et-figures-mythologiques-grecques': dict(id='mythologie', nom='Mythologie grecque', icone='⚡', ordre=('liste', 'type', ['Olympien', 'Titan', 'Divinité primordiale', 'Divinité', 'Héros', 'Mortel', 'Nymphe', 'Muse', 'Créature']),
+        categorie='arts-culture',
+        colonnes=[('Nom', None), ('Type', 'type'), ('Domaine', 'domaine'), ('Symbole', 'attribut'),
+                  ('Équivalent romain', 'romain')]),
+    'mythologie-egyptienne': dict(id='mythologie_egyptienne', nom='Mythologie égyptienne', icone='☥', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologie-nordique': dict(id='mythologie_nordique', nom='Mythologie nordique', icone='🪓', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologie-hindoue': dict(id='mythologie_hindoue', nom='Mythologie hindoue', icone='🪷', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologie-celtique': dict(id='mythologie_celtique', nom='Mythologie celtique', icone='🍀', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
+    'mythologies-asie-est': dict(id='mythologies_asie_est', nom="Mythologies d'Asie de l'Est", icone='🐉', ordre='-', categorie='arts-culture',
+        colonnes=[('Nom', None), ('Rôle ou domaine', 'role'), ('Attribut ou symbole', 'attribut'), ('Parenté', 'parente')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -191,13 +206,14 @@ def nombre(texte):
 
 def sans_accents(texte):
     """Cle de tri alphabetique : « Île-de-France » avec les I, pas apres le Z."""
-    return ''.join(ch for ch in unicodedata.normalize('NFD', texte or '') if not unicodedata.combining(ch)).lower()
+    texte = (texte or '').replace('Æ', 'Ae').replace('æ', 'ae').replace('Œ', 'Oe').replace('œ', 'oe')
+    return ''.join(ch for ch in unicodedata.normalize('NFD', texte) if not unicodedata.combining(ch)).lower()
 
 
 def nom_affiche(c):
     # une fiche peut imposer son nom (cle « nom ») quand la carte se trompe de sujet
     # « Ophélie (Millais) » garde sa precision ; « Ratatouille (plat) » la perd
-    return re.sub(r' \((plat|gâteau|peinture|tableau)\)$', '', c['nom'])
+    return re.sub(r' \((plat|gâteau|peinture|tableau|roman|peintre|philosophe|île|opéra|ballet|comédie musicale|suites|mythologie grecque|mythologie|arme|navigation|informatique|langue|monnaie|sonde|satellite|roi|apôtre)\)$', '', c['nom'])
 
 
 def recadrer(c, cadrages):
@@ -233,7 +249,12 @@ def construire(slug, cadrages, essai):
     cartes = [c for c in json.loads((WIKIDECK / 'data' / f'{slug}.json').read_text(encoding='utf-8'))['cartes']
               if c['id'] in textes]
     # ordre : ('chrono', <cle de date>) ou <cle> pour un tri alphabetique sur cette colonne
-    if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'altitude':
+    if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'liste':
+        rangs = cfg['ordre'][2]
+        cartes.sort(key=lambda c: (rangs.index(textes[c['id']].get(cfg['ordre'][1]))
+                                   if textes[c['id']].get(cfg['ordre'][1]) in rangs else len(rangs),
+                                   sans_accents(c['nom'])))
+    elif isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'altitude':
         cartes.sort(key=lambda c: (-nombre(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
     elif isinstance(cfg['ordre'], tuple):
         cartes.sort(key=lambda c: (float(textes[c['id']]['tri']) if textes[c['id']].get('tri') else annee(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))

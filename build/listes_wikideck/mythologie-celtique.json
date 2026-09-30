@@ -1,0 +1,313 @@
+{
+ "mythologie-celtique_dagda": {
+  "role": "Dieu père, abondance et druidisme (Irlande)",
+  "attribut": "Chaudron d'abondance · Massue · Harpe",
+  "parente": "Père de Brigit et d'Óengus",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_morrigan": {
+  "role": "Déesse de la guerre et de la souveraineté (Irlande)",
+  "attribut": "Corneille",
+  "parente": "Sœur de Badb et de Macha · union avec le Dagda à Samain",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_lug-dieu": {
+  "role": "Dieu polytechnicien, maître de tous les arts (Irlande, Gaule)",
+  "attribut": "Lance · Fronde",
+  "parente": "Petit-fils de Balor · père de Cúchulainn",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_brigit": {
+  "role": "Déesse de la poésie, de la forge et de la guérison (Irlande)",
+  "attribut": "Feu sacré · Fête d'Imbolc",
+  "parente": "Fille du Dagda · épouse du Fomoire Bres",
+  "confiance": "tranchee",
+  "note": "Fiche centrée sur la déesse ; le feu et Imbolc lui sont propres avant d'être repris par la sainte."
+ },
+ "mythologie-celtique_cernunnos": {
+  "role": "Dieu cornu de la nature et de l'abondance (Gaule)",
+  "attribut": "Bois de cerf · Torque · Serpent à tête de bélier",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_banshee": {
+  "role": "Messagère de mort, fée de l'Autre Monde (Irlande)",
+  "attribut": "Lamentation annonçant une mort",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_leprechaun": {
+  "role": "Lutin cordonnier farceur (folklore irlandais)",
+  "attribut": "Chaudron d'or au pied de l'arc-en-ciel · Chaussure",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_selkie": {
+  "role": "Femme-phoque (Écosse, Orcades, Shetland)",
+  "attribut": "Peau de phoque",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_kelpie": {
+  "role": "Cheval des eaux qui noie ses cavaliers (Écosse)",
+  "attribut": "Cheval ruisselant · Bride",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_nuada": {
+  "role": "Roi des Tuatha Dé Danann (Irlande)",
+  "attribut": "Bras d'argent · Épée invincible",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Généalogie trop variable selon les textes pour une question de quiz : aucune parenté retenue."
+ },
+ "mythologie-celtique_ogmios": {
+  "role": "Dieu de l'éloquence et champion (Gaule, Irlande)",
+  "attribut": "Chaînes reliant sa langue aux oreilles des auditeurs · Écriture oghamique · Massue",
+  "parente": "Frère du Dagda (Ogme)",
+  "confiance": "tranchee",
+  "note": "Fraternité avec le Dagda retenue, version la plus citée pour l'Ogme irlandais."
+ },
+ "mythologie-celtique_danu-hindouisme": {
+  "role": "Déesse mère des Tuatha Dé Danann (Irlande)",
+  "attribut": "Fertilité de la terre · Eaux et rivières",
+  "parente": "Mère des Tuatha Dé Danann",
+  "confiance": "tranchee",
+  "note": "Fiche recentrée sur la Danu irlandaise que montre l'image, et non sur la Danu hindoue de la page liée.",
+  "nom": "Danu"
+ },
+ "mythologie-celtique_boann": {
+  "role": "Déesse de la rivière Boyne (Irlande)",
+  "attribut": "La Boyne · Puits de Segais",
+  "parente": "Mère d'Óengus, conçu avec le Dagda",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_manannan-mac-lir": {
+  "role": "Dieu de la mer et de l'Autre Monde (Irlande, île de Man)",
+  "attribut": "Cheval Enbarr · Manteau d'invisibilité · Épée Fragarach",
+  "parente": "Fils de Lir",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_oengus": {
+  "role": "Dieu de l'amour et de la jeunesse (Irlande)",
+  "attribut": "Oiseaux nés de ses baisers · Brú na Bóinne",
+  "parente": "Fils du Dagda et de Boann",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_cuchulainn": {
+  "role": "Héros du cycle d'Ulster (Irlande)",
+  "attribut": "Lance Gáe Bulga · Fureur guerrière (riastrad)",
+  "parente": "Fils de Lug et de Deichtine",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_fionn-mac-cumhaill": {
+  "role": "Chef des Fianna, cycle fenian (Irlande)",
+  "attribut": "Saumon de la connaissance · Pouce de sagesse",
+  "parente": "Père d'Oisín",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_medb": {
+  "role": "Reine de Connacht, cycle d'Ulster (Irlande)",
+  "attribut": "Taureau brun de Cooley",
+  "parente": "Épouse d'Ailill mac Máta",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_balor": {
+  "role": "Roi des Fomoires (Irlande)",
+  "attribut": "Œil destructeur",
+  "parente": "Grand-père de Lug",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_epona": {
+  "role": "Déesse des chevaux (Gaule)",
+  "attribut": "Cheval · Jument · Corne d'abondance",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_taranis-mythologie": {
+  "role": "Dieu du ciel et de l'orage (Gaule)",
+  "attribut": "Roue · Foudre",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_teutates": {
+  "role": "Dieu de la tribu (Gaule)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_belenos": {
+  "role": "Dieu de la lumière et de la guérison, assimilé à Apollon (Gaule)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_arawn": {
+  "role": "Roi d'Annwn, l'Autre Monde (Galles)",
+  "attribut": "Meute de chiens blancs aux oreilles rouges",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_rhiannon": {
+  "role": "Reine et déesse cavalière (Galles)",
+  "attribut": "Cheval blanc · Oiseaux de Rhiannon",
+  "parente": "Épouse de Pwyll · mère de Pryderi",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_roi-arthur": {
+  "role": "Roi de Bretagne (légende arthurienne)",
+  "attribut": "Excalibur · Table ronde",
+  "parente": "Fils d'Uther Pendragon et d'Ygraine",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_merlin": {
+  "role": "Enchanteur et prophète (légende arthurienne)",
+  "attribut": "Prophéties · Forêt de Brocéliande",
+  "parente": "Fils d'un démon et d'une mortelle",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_fee-morgane": {
+  "role": "Fée magicienne (légende arthurienne)",
+  "attribut": "Avalon · Val sans retour",
+  "parente": "Demi-sœur d'Arthur",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_fee-viviane": {
+  "role": "Dame du Lac (légende arthurienne)",
+  "attribut": "Lac · Excalibur",
+  "parente": "Mère adoptive de Lancelot",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_lancelot-du-lac": {
+  "role": "Chevalier de la Table ronde (légende arthurienne)",
+  "attribut": "Amour de Guenièvre · Charrette",
+  "parente": "Fils du roi Ban de Bénoïc · père de Galaad",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_guenievre": {
+  "role": "Reine de Bretagne (légende arthurienne)",
+  "attribut": "Aucun",
+  "parente": "Épouse d'Arthur",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_perceval": {
+  "role": "Chevalier de la quête du Graal (légende arthurienne)",
+  "attribut": "Saint-Graal · Lance qui saigne",
+  "parente": "Père de Lohengrin (tradition allemande)",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_tristan-et-iseut": {
+  "role": "Amants tragiques, légende médiévale (Cornouailles)",
+  "attribut": "Philtre d'amour",
+  "parente": "Tristan, neveu du roi Marc, époux d'Iseut",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_gauvain": {
+  "role": "Chevalier de la Table ronde (légende arthurienne)",
+  "attribut": "Chevalier vert · Force croissant avec le soleil",
+  "parente": "Neveu d'Arthur",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_mordred": {
+  "role": "Chevalier traître (légende arthurienne)",
+  "attribut": "Bataille de Camlann",
+  "parente": "Fils d'Arthur et de Morgause",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_ossian": {
+  "role": "Barde légendaire (Irlande, Écosse)",
+  "attribut": "Poèmes publiés par Macpherson",
+  "parente": "Fils de Fionn mac Cumhaill (Fingal)",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_deirdre": {
+  "role": "Héroïne tragique du cycle d'Ulster (Irlande)",
+  "attribut": "Beauté fatale",
+  "parente": "Amante de Naoise",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_macha-mythologie-celtique": {
+  "role": "Déesse de la souveraineté et des chevaux (Irlande)",
+  "attribut": "Course contre les chevaux du roi · Malédiction des Ulates",
+  "parente": "Épouse de Crunnchu",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_bodb": {
+  "role": "Déesse de la guerre et des massacres (Irlande)",
+  "attribut": "Corneille",
+  "parente": "Sœur de la Morrigan et de Macha",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_goibniu": {
+  "role": "Dieu forgeron des Tuatha Dé Danann (Irlande)",
+  "attribut": "Marteau · Festin d'immortalité",
+  "parente": "Frère de Credne et de Luchta",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_diancecht": {
+  "role": "Dieu médecin des Tuatha Dé Danann (Irlande)",
+  "attribut": "Bras d'argent de Nuada · Source de santé",
+  "parente": "Père de Miach et d'Airmed",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_oidheadh-chloinne-lir": {
+  "role": "Récit du cycle mythologique (Irlande)",
+  "attribut": "Cygnes",
+  "parente": "Enfants de Lir, maudits par leur belle-mère Aífe",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_tuatha-de-danann": {
+  "role": "Peuple des dieux (Irlande)",
+  "attribut": "Quatre trésors : pierre de Fál · lance de Lug · épée de Nuada · chaudron du Dagda",
+  "parente": "Descendants de la déesse Danu",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_fomoires": {
+  "role": "Peuple démoniaque du chaos (Irlande)",
+  "attribut": "Aucun",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_bran-le-beni": {
+  "role": "Roi géant de l'île de Bretagne (Galles)",
+  "attribut": "Tête coupée parlante · Chaudron de résurrection",
+  "parente": "Fils de Llŷr · frère de Branwen",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_taliesin": {
+  "role": "Barde (Galles)",
+  "attribut": "Front brillant · Poésie",
+  "parente": "Renaît de Ceridwen",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_ceridwen": {
+  "role": "Enchanteresse (Galles)",
+  "attribut": "Chaudron de science",
+  "parente": "Mère de Morfran et de Creirwy",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_blodeuwedd": {
+  "role": "Femme créée de fleurs (Galles)",
+  "attribut": "Fleurs · Chouette",
+  "parente": "Épouse de Lleu Llaw Gyffes",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_gwydion": {
+  "role": "Magicien (Galles)",
+  "attribut": "Métamorphoses · Magie",
+  "parente": "Neveu de Math · oncle de Lleu",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_esus": {
+  "role": "Dieu (Gaule)",
+  "attribut": "Bûcheron coupant un arbre · Taureau aux trois grues",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-celtique_sucellos": {
+  "role": "Dieu au maillet (Gaule)",
+  "attribut": "Maillet · Pot (olla)",
+  "parente": "Compagnon de Nantosuelta",
+  "confiance": "sure"
+ }
+}

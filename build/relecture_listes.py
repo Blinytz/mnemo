@@ -34,7 +34,12 @@ def liste(slug, cadrages):
     cartes = [c for c in json.loads((L.WIKIDECK / 'data' / f'{slug}.json').read_text(encoding='utf-8'))['cartes']
               if c['id'] in textes]
     manquantes = len(textes) - len(cartes)
-    if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'altitude':
+    if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'liste':
+        rangs = cfg['ordre'][2]
+        cartes.sort(key=lambda c: (rangs.index(textes[c['id']].get(cfg['ordre'][1]))
+                                   if textes[c['id']].get(cfg['ordre'][1]) in rangs else len(rangs),
+                                   L.sans_accents(c['nom'])))
+    elif isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'altitude':
         cartes.sort(key=lambda c: (-L.nombre(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))
     elif isinstance(cfg['ordre'], tuple):
         cartes.sort(key=lambda c: (float(textes[c['id']]['tri']) if textes[c['id']].get('tri') else L.annee(textes[c['id']].get(cfg['ordre'][1], '')), c['nom']))

@@ -1,0 +1,262 @@
+{
+ "mythologie-egyptienne_re": {
+  "role": "Dieu du soleil",
+  "attribut": "Tête de faucon · Disque solaire et uræus",
+  "parente": "Père de Maât",
+  "confiance": "tranchee",
+  "note": "Shou et Tefnout reviennent à Atoum (fiche dédiée) ; Maât fille de Rê évite le doublon"
+ },
+ "mythologie-egyptienne_osiris": {
+  "role": "Dieu des morts et de la résurrection",
+  "attribut": "Peau verte · Momie coiffée de la couronne atef · Crosse et fléau",
+  "parente": "Époux d'Isis",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_isis": {
+  "role": "Déesse de la magie et de la protection",
+  "attribut": "Coiffe en forme de trône · Ailes déployées",
+  "parente": "Épouse d'Osiris",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_horus": {
+  "role": "Dieu du ciel et de la royauté",
+  "attribut": "Tête de faucon · Œil oudjat",
+  "parente": "Fils d'Osiris et d'Isis",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_anubis": {
+  "role": "Dieu des embaumeurs et des nécropoles",
+  "attribut": "Tête de chacal",
+  "parente": "Fils d'Osiris et de Nephthys",
+  "confiance": "tranchee",
+  "note": "Filiation de Plutarque, la plus enseignée"
+ },
+ "mythologie-egyptienne_seth": {
+  "role": "Dieu du désordre, de l'orage et du désert",
+  "attribut": "Tête d'animal séthien (museau effilé, oreilles tronquées)",
+  "parente": "Frère et meurtrier d'Osiris",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_thot": {
+  "role": "Dieu de l'écriture, du savoir et de la lune",
+  "attribut": "Tête d'ibis · Babouin · Palette de scribe",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Aucune filiation dominante"
+ },
+ "mythologie-egyptienne_hathor": {
+  "role": "Déesse de l'amour, de la musique et de la joie",
+  "attribut": "Cornes de vache enserrant le disque solaire · Tête de vache",
+  "parente": "Épouse d'Horus",
+  "confiance": "tranchee",
+  "note": "Union avec Horus d'Edfou, la plus citée"
+ },
+ "mythologie-egyptienne_sekhmet": {
+  "role": "Déesse de la guerre, des épidémies et de la guérison",
+  "attribut": "Tête de lionne · Disque solaire",
+  "parente": "Épouse de Ptah",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_bastet": {
+  "role": "Déesse du foyer, de la joie et de la maternité",
+  "attribut": "Tête de chat · Sistre",
+  "parente": "Fille de Rê",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_ptah": {
+  "role": "Dieu créateur de Memphis et des artisans",
+  "attribut": "Homme momiforme au crâne rasé · Sceptre ouas",
+  "parente": "Époux de Sekhmet",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_amon": {
+  "role": "Dieu de Thèbes, roi des dieux (Amon-Rê)",
+  "attribut": "Couronne à deux hautes plumes · Bélier",
+  "parente": "Époux de Mout",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_nout": {
+  "role": "Déesse du ciel",
+  "attribut": "Femme arquée au-dessus de la terre, corps étoilé",
+  "parente": "Épouse de Geb",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_geb": {
+  "role": "Dieu de la Terre",
+  "attribut": "Homme allongé sous Nout · Oie sur la tête",
+  "parente": "Époux de Nout",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_shou": {
+  "role": "Dieu de l'air",
+  "attribut": "Plume d'autruche sur la tête · Bras levés soutenant Nout",
+  "parente": "Fils d'Atoum",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_tefnout": {
+  "role": "Déesse de l'humidité",
+  "attribut": "Tête de lionne",
+  "parente": "Sœur jumelle et épouse de Shou",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_nephtys": {
+  "role": "Déesse protectrice des morts",
+  "attribut": "Coiffe hiéroglyphique (maison surmontée d'une corbeille)",
+  "parente": "Sœur d'Isis et épouse de Seth",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_maat": {
+  "role": "Déesse de la vérité, de la justice et de l'ordre cosmique",
+  "attribut": "Plume d'autruche sur la tête",
+  "parente": "Fille de Rê",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_sobek": {
+  "role": "Dieu crocodile du Nil et de la fertilité",
+  "attribut": "Tête de crocodile",
+  "parente": "Fils de Neith",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_khnoum": {
+  "role": "Dieu potier créateur et gardien des sources du Nil",
+  "attribut": "Tête de bélier · Tour de potier",
+  "parente": "Époux de Satis",
+  "confiance": "tranchee",
+  "note": "Satis, parèdre d'Éléphantine, la plus enseignée"
+ },
+ "mythologie-egyptienne_khonsou": {
+  "role": "Dieu de la Lune",
+  "attribut": "Homme momiforme à mèche de l'enfance · Croissant et disque lunaires",
+  "parente": "Fils d'Amon et de Mout",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_apophis": {
+  "role": "Serpent du chaos et ennemi de Rê",
+  "attribut": "Serpent géant",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_ammout": {
+  "role": "Dévoreuse des cœurs lors de la pesée",
+  "attribut": "Tête de crocodile, avant-corps de lion, arrière-train d'hippopotame",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_bes": {
+  "role": "Dieu protecteur du foyer, des naissances et du sommeil",
+  "attribut": "Nain grimaçant représenté de face · Coiffe de plumes",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_nekhbet": {
+  "role": "Déesse protectrice de la Haute-Égypte",
+  "attribut": "Vautour · Couronne blanche",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_ouadjet": {
+  "role": "Déesse protectrice de la Basse-Égypte",
+  "attribut": "Cobra dressé (uræus) · Couronne rouge",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_serket": {
+  "role": "Déesse protectrice contre les venins",
+  "attribut": "Scorpion sur la tête",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Aucune filiation enseignée"
+ },
+ "mythologie-egyptienne_anoukis": {
+  "role": "Déesse de la cataracte et du Nil",
+  "attribut": "Haute couronne de plumes (roseaux)",
+  "parente": "Fille de Khnoum et de Satis",
+  "confiance": "tranchee",
+  "note": "Fille dans la triade d'Éléphantine, version la plus courante"
+ },
+ "mythologie-egyptienne_benou": {
+  "role": "Oiseau sacré, âme de Rê et symbole de renaissance",
+  "attribut": "Héron cendré coiffé de la couronne atef",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Oiseau sacré, sans parenté"
+ },
+ "mythologie-egyptienne_atoum": {
+  "role": "Dieu créateur d'Héliopolis, soleil couchant",
+  "attribut": "Homme coiffé de la double couronne (pschent)",
+  "parente": "Père de Shou et de Tefnout",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_aton": {
+  "role": "Disque solaire, dieu unique d'Akhenaton",
+  "attribut": "Disque solaire aux rayons terminés par des mains",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_mout": {
+  "role": "Déesse mère de Thèbes",
+  "attribut": "Coiffe de vautour · Double couronne",
+  "parente": "Épouse d'Amon",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_neith": {
+  "role": "Déesse de la guerre, de la chasse et du tissage",
+  "attribut": "Couronne rouge · Arc et flèches croisées",
+  "parente": "Mère de Sobek",
+  "confiance": "tranchee",
+  "note": "Maternité de Sobek, la plus citée"
+ },
+ "mythologie-egyptienne_taouret": {
+  "role": "Déesse protectrice des femmes enceintes et des naissances",
+  "attribut": "Hippopotame debout au ventre gonflé",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Aucune union dominante"
+ },
+ "mythologie-egyptienne_min-dieu": {
+  "role": "Dieu de la fertilité et des pistes du désert",
+  "attribut": "Dieu ithyphallique · Fouet levé · Coiffe à deux plumes",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Aucune filiation établie"
+ },
+ "mythologie-egyptienne_montou": {
+  "role": "Dieu de la guerre de Thèbes",
+  "attribut": "Tête de faucon · Disque solaire et deux plumes",
+  "parente": "Époux de Râttaouy",
+  "confiance": "tranchee",
+  "note": "Râttaouy, parèdre thébaine principale"
+ },
+ "mythologie-egyptienne_hapy": {
+  "role": "Dieu de la crue du Nil",
+  "attribut": "Homme ventru aux seins pendants · Touffe de papyrus sur la tête",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_heqet": {
+  "role": "Déesse des naissances et de la fécondité",
+  "attribut": "Tête de grenouille",
+  "parente": "Épouse de Khnoum",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_nefertoum": {
+  "role": "Dieu du parfum et du lotus primordial",
+  "attribut": "Fleur de lotus sur la tête",
+  "parente": "Fils de Ptah et de Sekhmet",
+  "confiance": "sure"
+ },
+ "mythologie-egyptienne_oupouaout": {
+  "role": "Dieu ouvreur des chemins, guide des morts",
+  "attribut": "Tête de loup · Étendard",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Loup, lecture la plus répandue ; sans parenté établie"
+ },
+ "mythologie-egyptienne_apis": {
+  "role": "Taureau sacré de Memphis, héraut de Ptah",
+  "attribut": "Taureau noir tacheté · Disque solaire entre les cornes",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Animal sacré, sans parenté"
+ }
+}

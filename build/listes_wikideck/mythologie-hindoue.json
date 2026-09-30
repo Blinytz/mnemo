@@ -1,0 +1,327 @@
+{
+ "mythologie-hindoue_brahma": {
+  "role": "Dieu créateur (Trimurti)",
+  "attribut": "Quatre têtes · Cygne Hamsa · Lotus",
+  "parente": "Époux de Sarasvati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_vishnou": {
+  "role": "Dieu protecteur (Trimurti)",
+  "attribut": "Conque · Disque Sudarshana · Aigle Garuda",
+  "parente": "Époux de Lakshmi",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_shiva": {
+  "role": "Dieu destructeur et transformateur (Trimurti)",
+  "attribut": "Trident · Troisième œil · Taureau Nandi",
+  "parente": "Époux de Parvati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_ganesh": {
+  "role": "Dieu à tête d'éléphant, lève les obstacles",
+  "attribut": "Tête d'éléphant · Rat",
+  "parente": "Fils de Shiva et Parvati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_hanuman": {
+  "role": "Dieu singe, dévot de Rama (Ramayana)",
+  "attribut": "Singe · Massue",
+  "parente": "Fils de Vayu et d'Anjana",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_dourga": {
+  "role": "Déesse guerrière, victorieuse du démon-buffle",
+  "attribut": "Lion ou tigre · Dix bras armés",
+  "parente": "Forme de Parvati, épouse de Shiva",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_kali": {
+  "role": "Déesse du temps et de la destruction",
+  "attribut": "Peau sombre · Langue tirée · Collier de têtes",
+  "parente": "Forme de Parvati, épouse de Shiva",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_lakshmi": {
+  "role": "Déesse de la prospérité et de la fortune",
+  "attribut": "Lotus · Pièces d'or · Éléphants",
+  "parente": "Épouse de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_sarasvati-deesse": {
+  "role": "Déesse de la connaissance, des arts et de la musique",
+  "attribut": "Vina · Cygne · Lotus blanc",
+  "parente": "Épouse de Brahma",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_indra": {
+  "role": "Roi des dieux, dieu de l'orage (védique)",
+  "attribut": "Foudre vajra · Éléphant Airavata",
+  "parente": "Époux de Shachi (Indrani)",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_krishna": {
+  "role": "Huitième avatar de Vishnou",
+  "attribut": "Flûte · Peau bleue · Plume de paon",
+  "parente": "Fils de Vasudeva et Devaki",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_rama": {
+  "role": "Septième avatar de Vishnou, héros du Ramayana",
+  "attribut": "Arc et flèches",
+  "parente": "Époux de Sita",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_parvati": {
+  "role": "Déesse mère, de l'amour et de la dévotion",
+  "attribut": "Lion ou tigre · Lotus",
+  "parente": "Épouse de Shiva",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_karttikeya": {
+  "role": "Dieu de la guerre, chef de l'armée divine",
+  "attribut": "Paon · Lance vel · Six têtes",
+  "parente": "Fils de Shiva et Parvati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_agni-dieu": {
+  "role": "Dieu du feu sacrificiel",
+  "attribut": "Bélier · Deux têtes · Flammes",
+  "parente": "Époux de Svaha",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_varuna": {
+  "role": "Dieu des eaux et de l'ordre cosmique",
+  "attribut": "Makara · Nœud coulant",
+  "parente": "Fils d'Aditi et de Kashyapa",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_vayou": {
+  "role": "Dieu du vent",
+  "attribut": "Antilope · Étendard",
+  "parente": "Père de Hanuman et de Bhima",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_surya": {
+  "role": "Dieu du Soleil",
+  "attribut": "Char à sept chevaux · Lotus",
+  "parente": "Fils d'Aditi et de Kashyapa",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_yama": {
+  "role": "Dieu et juge des morts",
+  "attribut": "Buffle · Nœud coulant · Massue",
+  "parente": "Fils de Surya",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_kubera": {
+  "role": "Dieu des richesses, roi des Yakshas",
+  "attribut": "Sac de trésors · Mangouste",
+  "parente": "Demi-frère de Ravana",
+  "confiance": "tranchee",
+  "note": "Mangouste crachant des joyaux retenue : image la plus répandue de Kubera ; demi-frère de Ravana par leur père Vishrava."
+ },
+ "mythologie-hindoue_ganga-deesse": {
+  "role": "Déesse du Gange, fleuve sacré",
+  "attribut": "Makara · Vase",
+  "parente": "Mère de Bhishma",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_nandi-mythologie": {
+  "role": "Taureau, monture et gardien de Shiva",
+  "attribut": "Taureau blanc",
+  "parente": "Fils de Kashyapa et Surabhi",
+  "confiance": "tranchee",
+  "note": "Filiation Kashyapa et Surabhi conservée, conforme au texte de la carte ; la tradition du sage Shilada existe aussi."
+ },
+ "mythologie-hindoue_garuda": {
+  "role": "Roi des oiseaux, monture de Vishnou",
+  "attribut": "Homme-oiseau · Aigle",
+  "parente": "Fils de Kashyapa et Vinata",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_naga": {
+  "role": "Êtres serpents divins, gardiens des trésors",
+  "attribut": "Cobra · Corps mi-humain mi-serpent",
+  "parente": "Descendants de Kashyapa et Kadru",
+  "confiance": "tranchee",
+  "note": "Catégorie d'êtres : parenté formulée au pluriel, les nagas étant la descendance de Kashyapa et Kadru."
+ },
+ "mythologie-hindoue_ravana": {
+  "role": "Roi démon de Lanka, ennemi de Rama",
+  "attribut": "Dix têtes · Vingt bras",
+  "parente": "Frère de Kumbhakarna et Vibhishana",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_sita": {
+  "role": "Épouse de Rama, héroïne du Ramayana",
+  "attribut": "Aucun",
+  "parente": "Épouse de Rama",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_arjuna": {
+  "role": "Héros archer du Mahabharata",
+  "attribut": "Arc Gandiva · Char mené par Krishna",
+  "parente": "Fils d'Indra et de Kunti",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_draupadi": {
+  "role": "Épouse commune des cinq Pandava",
+  "attribut": "Aucun",
+  "parente": "Fille de Drupada",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_bhima": {
+  "role": "Le plus fort des Pandava",
+  "attribut": "Massue",
+  "parente": "Fils de Vayu et de Kunti",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_karna": {
+  "role": "Héros archer du Mahabharata, allié des Kaurava",
+  "attribut": "Armure et boucles d'oreilles divines",
+  "parente": "Fils de Surya et de Kunti",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_narasimha": {
+  "role": "Quatrième avatar de Vishnou",
+  "attribut": "Homme à tête de lion · Griffes",
+  "parente": "Avatar de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_kurma": {
+  "role": "Deuxième avatar de Vishnou",
+  "attribut": "Tortue · Mont Mandara",
+  "parente": "Avatar de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_vamana": {
+  "role": "Cinquième avatar de Vishnou",
+  "attribut": "Brahmane nain · Ombrelle · Trois pas",
+  "parente": "Fils d'Aditi et de Kashyapa",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_airavata": {
+  "role": "Éléphant blanc, monture d'Indra",
+  "attribut": "Éléphant blanc · Plusieurs défenses",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_matsya": {
+  "role": "Premier avatar de Vishnou",
+  "attribut": "Poisson · Sauve Manu du déluge",
+  "parente": "Avatar de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_varaha": {
+  "role": "Troisième avatar de Vishnou",
+  "attribut": "Sanglier · Soulève la Terre",
+  "parente": "Avatar de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_parashurama": {
+  "role": "Sixième avatar de Vishnou",
+  "attribut": "Hache",
+  "parente": "Fils de Jamadagni et Renuka",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_kalki": {
+  "role": "Dixième avatar de Vishnou, à venir",
+  "attribut": "Cheval blanc · Épée",
+  "parente": "Avatar de Vishnou",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_lakshmana": {
+  "role": "Frère et compagnon d'exil de Rama",
+  "attribut": "Arc",
+  "parente": "Fils de Dasharatha et Sumitra",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_bhishma": {
+  "role": "Doyen des Kuru, grand-oncle des Pandava",
+  "attribut": "Vœu de célibat · Lit de flèches",
+  "parente": "Fils de Shantanu et Ganga",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_duryodhana": {
+  "role": "Aîné des Kaurava, ennemi des Pandava",
+  "attribut": "Massue",
+  "parente": "Fils de Dhritarashtra et Gandhari",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_yudhishthira": {
+  "role": "Aîné des Pandava, roi juste",
+  "attribut": "Lance",
+  "parente": "Fils de Dharma (Yama) et de Kunti",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_jatayu": {
+  "role": "Vautour, tente de sauver Sita",
+  "attribut": "Vautour",
+  "parente": "Frère de Sampati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_kumbhakarna": {
+  "role": "Géant rakshasa au long sommeil",
+  "attribut": "Géant · Sommeil de six mois",
+  "parente": "Frère de Ravana",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_radha": {
+  "role": "Bien-aimée de Krishna, modèle de dévotion",
+  "attribut": "Aucun",
+  "parente": "Bien-aimée de Krishna",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_narada": {
+  "role": "Sage divin et messager des dieux",
+  "attribut": "Vina",
+  "parente": "Fils de Brahma",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_chandra-divinite": {
+  "role": "Dieu de la Lune",
+  "attribut": "Croissant de lune · Antilope",
+  "parente": "Époux des 27 Nakshatra",
+  "confiance": "tranchee",
+  "note": "Antilope retenue comme monture la plus citée ; les dix chevaux blancs du char sont une variante."
+ },
+ "mythologie-hindoue_kama-divinite": {
+  "role": "Dieu de l'amour et du désir",
+  "attribut": "Arc de canne à sucre · Flèches de fleurs · Perroquet",
+  "parente": "Époux de Rati",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_vishvakarma": {
+  "role": "Architecte divin des dieux",
+  "attribut": "Outils d'artisan · Cygne",
+  "parente": "Père de Sanjna, épouse de Surya",
+  "confiance": "tranchee",
+  "note": "Cygne hamsa, monture de l'iconographie courante ; paternité de Sanjna la filiation la plus citée."
+ },
+ "mythologie-hindoue_ananta": {
+  "role": "Serpent cosmique, couche de Vishnou",
+  "attribut": "Serpent à mille têtes",
+  "parente": "Fils de Kashyapa et Kadru",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_vasuki": {
+  "role": "Roi des nagas, corde du barattage de la mer",
+  "attribut": "Serpent · Au cou de Shiva",
+  "parente": "Frère de Shesha",
+  "confiance": "sure"
+ },
+ "mythologie-hindoue_mahishasura": {
+  "role": "Démon-buffle vaincu par Durga",
+  "attribut": "Buffle",
+  "parente": "Fils du roi asura Rambha",
+  "confiance": "tranchee",
+  "note": "Filiation par le roi asura Rambha retenue, version la plus répandue du récit."
+ },
+ "mythologie-hindoue_rahu": {
+  "role": "Démon des éclipses, l'un des Navagraha",
+  "attribut": "Tête sans corps · Avale Soleil et Lune",
+  "parente": "Fils de Simhika",
+  "confiance": "tranchee",
+  "note": "Mère Simhika retenue, seule filiation stable entre les sources ; le père varie."
+ }
+}

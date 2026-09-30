@@ -1,0 +1,305 @@
+{
+ "mythologie-nordique_odin": {
+  "role": "Dieu principal · Père des dieux",
+  "attribut": "Lance Gungnir · Corbeaux Hugin et Munin · Cheval Sleipnir",
+  "parente": "Père de Thor",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_thor": {
+  "role": "Dieu du tonnerre",
+  "attribut": "Marteau Mjöllnir",
+  "parente": "Fils d'Odin",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_loki": {
+  "role": "Dieu de la ruse et de la discorde",
+  "attribut": "Aucun",
+  "parente": "Père de Fenrir",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_freyja": {
+  "role": "Déesse de l'amour et de la fécondité",
+  "attribut": "Collier Brísingamen · Char tiré par des chats",
+  "parente": "Sœur de Freyr",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_freyr": {
+  "role": "Dieu de la fertilité",
+  "attribut": "Sanglier Gullinbursti · Navire Skidbladnir",
+  "parente": "Fils de Njörd",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_baldr": {
+  "role": "Dieu de la lumière et de la beauté",
+  "attribut": "Tué par une branche de gui",
+  "parente": "Fils d'Odin et de Frigg",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_tyr": {
+  "role": "Dieu de la guerre et de la justice",
+  "attribut": "Main droite perdue dans la gueule de Fenrir",
+  "parente": "Fils d'Odin",
+  "confiance": "tranchee",
+  "note": "Version de Snorri retenue (fils d'Odin) ; l'Hymiskvida en fait un fils du géant Hymir."
+ },
+ "mythologie-nordique_heimdall": {
+  "role": "Gardien du pont Bifröst",
+  "attribut": "Cor Gjallarhorn",
+  "parente": "Fils de neuf mères",
+  "confiance": "tranchee",
+  "note": "Aucune source ne nomme Odin pour père ; Snorri et l'Hyndluljód le disent fils de neuf mères."
+ },
+ "mythologie-nordique_frigg": {
+  "role": "Reine des dieux · Déesse du mariage",
+  "attribut": "Palais Fensalir · Connaît le destin de tous",
+  "parente": "Épouse d'Odin · Mère de Baldr",
+  "confiance": "tranchee",
+  "note": "Quenouille écartée (folklore tardif) au profit de Fensalir et de sa prescience, attestées chez Snorri."
+ },
+ "mythologie-nordique_fenrir": {
+  "role": "Loup géant",
+  "attribut": "Lien magique Gleipnir",
+  "parente": "Fils de Loki et d'Angrboda",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_jormungand": {
+  "role": "Serpent de Midgard",
+  "attribut": "Encercle le monde en se mordant la queue",
+  "parente": "Fils de Loki et d'Angrboda",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_hel-deesse": {
+  "role": "Déesse des morts",
+  "attribut": "Corps mi-vivant mi-mort",
+  "parente": "Fille de Loki et d'Angrboda",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_troll": {
+  "role": "Être surnaturel hostile (folklore scandinave)",
+  "attribut": "Pétrifié par la lumière du soleil",
+  "parente": "Aucune connue",
+  "confiance": "tranchee",
+  "note": "Catégorie d'êtres ; la pétrification au soleil, trait de folklore le plus connu, est conservée."
+ },
+ "mythologie-nordique_sif-deesse": {
+  "role": "Déesse de la moisson",
+  "attribut": "Chevelure d'or forgée par les nains",
+  "parente": "Épouse de Thor",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_bragi": {
+  "role": "Dieu de la poésie",
+  "attribut": "Runes gravées sur la langue",
+  "parente": "Époux d'Idunn",
+  "confiance": "tranchee",
+  "note": "Seul attribut attesté (Sigrdrífumál) conservé ; la harpe est une invention moderne."
+ },
+ "mythologie-nordique_idunn": {
+  "role": "Déesse de la jeunesse éternelle",
+  "attribut": "Pommes de jouvence",
+  "parente": "Épouse de Bragi",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_njord": {
+  "role": "Dieu de la mer et des vents",
+  "attribut": "Demeure Nóatún",
+  "parente": "Père de Freyr et de Freyja",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_skadi": {
+  "role": "Déesse de la chasse et de l'hiver",
+  "attribut": "Arc · Skis",
+  "parente": "Fille de Thjazi · Épouse de Njörd",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_ull": {
+  "role": "Dieu de la chasse et de l'hiver",
+  "attribut": "Arc · Skis · Bouclier",
+  "parente": "Fils de Sif · Beau-fils de Thor",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_vidar": {
+  "role": "Dieu du silence et de la vengeance",
+  "attribut": "Chaussure épaisse qui lui sert à tuer Fenrir",
+  "parente": "Fils d'Odin et de Gríd",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_vali-fils-d-odin": {
+  "role": "Dieu vengeur de Baldr",
+  "attribut": "Aucun",
+  "parente": "Fils d'Odin et de Rind",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_forseti-dieu": {
+  "role": "Dieu de la justice et de la réconciliation",
+  "attribut": "Palais Glitnir",
+  "parente": "Fils de Baldr et de Nanna",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_ymir": {
+  "role": "Premier géant",
+  "attribut": "Corps dont les dieux ont façonné le monde",
+  "parente": "Ancêtre des géants",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_surt": {
+  "role": "Géant du feu",
+  "attribut": "Épée flamboyante",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_sleipnir": {
+  "role": "Cheval à huit jambes",
+  "attribut": "Huit jambes",
+  "parente": "Fils de Loki et de l'étalon Svadilfari",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_hugin-et-munin": {
+  "role": "Corbeaux d'Odin",
+  "attribut": "Pensée (Hugin) et Mémoire (Munin)",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_valkyrie": {
+  "role": "Choisisseuses des guerriers morts",
+  "attribut": "Armure · Conduite des guerriers au Valhalla",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_nornes": {
+  "role": "Déesses du destin",
+  "attribut": "Urd, Verdandi et Skuld · Puits d'Urd",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_siegfried-mythologie": {
+  "role": "Héros tueur de dragon",
+  "attribut": "Épée Gram",
+  "parente": "Fils de Sigmund",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_fafnir": {
+  "role": "Dragon gardien du trésor",
+  "attribut": "Trésor d'Andvari",
+  "parente": "Frère de Regin",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_nidhogg": {
+  "role": "Dragon rongeur des racines",
+  "attribut": "Ronge les racines d'Yggdrasil",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_ratatosk": {
+  "role": "Écureuil messager d'Yggdrasil",
+  "attribut": "Porte les insultes entre l'aigle et Nídhögg",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_hod": {
+  "role": "Dieu aveugle",
+  "attribut": "Branche de gui",
+  "parente": "Fils d'Odin · Frère de Baldr",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_mimir": {
+  "role": "Gardien de la sagesse",
+  "attribut": "Tête conservée par Odin · Puits de Mímir",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_gir": {
+  "role": "Géant de la mer",
+  "attribut": "Chaudron à bière · Banquets des dieux",
+  "parente": "Époux de Rán",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_ran": {
+  "role": "Déesse de la mer",
+  "attribut": "Filet des noyés",
+  "parente": "Épouse d'Ægir",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_sigyn": {
+  "role": "Épouse fidèle de Loki",
+  "attribut": "Bol recueillant le venin",
+  "parente": "Épouse de Loki",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_nanna-deesse": {
+  "role": "Déesse, épouse de Baldr",
+  "attribut": "Aucun",
+  "parente": "Épouse de Baldr · Mère de Forseti",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_angrboda": {
+  "role": "Géante",
+  "attribut": "Aucun",
+  "parente": "Mère de Fenrir, Jörmungand et Hel",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_brunehilde-mythologie": {
+  "role": "Valkyrie",
+  "attribut": "Endormie dans un cercle de feu",
+  "parente": "Amante de Sigurd",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_volund": {
+  "role": "Forgeron légendaire",
+  "attribut": "Ailes forgées pour s'évader",
+  "parente": "Frère d'Egil et de Slagfid",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_regin": {
+  "role": "Nain forgeron",
+  "attribut": "Forge l'épée Gram",
+  "parente": "Frère de Fáfnir · Père adoptif de Sigurd",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_audhumla": {
+  "role": "Vache primordiale",
+  "attribut": "Lèche la glace d'où naît Buri",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_ask-et-embla": {
+  "role": "Premier homme et première femme",
+  "attribut": "Frêne (Ask) et orme (Embla)",
+  "parente": "Ancêtres de l'humanité",
+  "confiance": "tranchee",
+  "note": "Frêne et orme : lecture traditionnelle retenue malgré le débat sur Embla."
+ },
+ "mythologie-nordique_skoll": {
+  "role": "Loups poursuivant le Soleil et la Lune",
+  "attribut": "Sköll chasse le Soleil · Hati chasse la Lune",
+  "parente": "Fils de Fenrir",
+  "confiance": "tranchee",
+  "note": "Snorri fait de Hati le fils de Hródvitnir (Fenrir) ; la filiation est étendue à Sköll, comme dans l'usage courant."
+ },
+ "mythologie-nordique_garm-mythologie": {
+  "role": "Chien gardien du royaume des morts",
+  "attribut": "Enchaîné devant la caverne Gnipahellir",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_rymr": {
+  "role": "Roi des géants",
+  "attribut": "Vole le marteau de Thor",
+  "parente": "Aucune connue",
+  "confiance": "sure"
+ },
+ "mythologie-nordique_beowulf": {
+  "role": "Héros (poème anglo-saxon)",
+  "attribut": "Combats contre Grendel, sa mère et un dragon",
+  "parente": "Fils d'Ecgtheow",
+  "confiance": "tranchee",
+  "note": "Fiche consacrée au héros éponyme du poème en vieil anglais, étranger aux Eddas."
+ },
+ "mythologie-nordique_grendel": {
+  "role": "Monstre (poème anglo-saxon)",
+  "attribut": "Bras arraché par Beowulf",
+  "parente": "Descendant de Caïn",
+  "confiance": "tranchee",
+  "note": "Figure du Beowulf, étrangère aux Eddas ; filiation caïnite donnée par le poème."
+ }
+}
