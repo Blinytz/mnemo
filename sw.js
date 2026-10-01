@@ -9,9 +9,9 @@
 // version.json ne passe jamais par le cache : c'est lui qui annonce une
 // nouvelle version à l'application installée.
 
-const CACHE = 'memo-v93';
+const CACHE = 'memo-v94';
 const COQUILLE = [
-  './app/', './app/index.html', './app/style.css', './manifest.json', './icone.svg',
+  './app/', './app/index.html', './app/style.css', './app/manifest.json', './manifest.json', './icone.svg',
   './app/js/main.js', './app/js/ui.js', './app/js/icones.js', './app/js/donnees.js',
   './app/js/progression.js', './app/js/correction.js', './app/js/questions.js',
   './app/js/eclats.js', './app/js/registre.js', './app/js/edition.js',
