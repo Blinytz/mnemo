@@ -1,0 +1,200 @@
+{
+ "textes-sacres_bible": {
+  "religion": "Judaïsme · Christianisme",
+  "langue": "Hébreu · Grec",
+  "epoque": "VIIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "rédaction étalée du VIIIe s. av. J.-C. au IIe s."
+ },
+ "textes-sacres_ancien-testament": {
+  "religion": "Judaïsme · Christianisme",
+  "langue": "Hébreu",
+  "epoque": "VIIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "rédaction étalée du VIIIe au IIe s. av. J.-C."
+ },
+ "textes-sacres_nouveau-testament": {
+  "religion": "Christianisme",
+  "langue": "Grec",
+  "epoque": "Ier siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_torah": {
+  "religion": "Judaïsme",
+  "langue": "Hébreu",
+  "epoque": "VIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "rédaction finale VIe-Ve s. av. J.-C., tradition mosaïque"
+ },
+ "textes-sacres_talmud": {
+  "religion": "Judaïsme",
+  "langue": "Hébreu · Araméen",
+  "epoque": "Ve siècle",
+  "confiance": "tranchee",
+  "note": "Talmud de Babylone achevé vers 500, de Jérusalem vers 400"
+ },
+ "textes-sacres_coran": {
+  "religion": "Islam",
+  "langue": "Arabe",
+  "epoque": "VIIe siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_hadith": {
+  "religion": "Islam",
+  "langue": "Arabe",
+  "epoque": "IXe siècle",
+  "confiance": "tranchee",
+  "note": "grands recueils compilés au IXe s."
+ },
+ "textes-sacres_veda": {
+  "religion": "Hindouisme",
+  "langue": "Sanskrit",
+  "epoque": "1500 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "composition orale vers 1500-500 av. J.-C."
+ },
+ "textes-sacres_rig-veda": {
+  "religion": "Hindouisme",
+  "langue": "Sanskrit",
+  "epoque": "1500 av. J.-C.",
+  "confiance": "sure"
+ },
+ "textes-sacres_upanishad": {
+  "religion": "Hindouisme",
+  "langue": "Sanskrit",
+  "epoque": "VIIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "les plus anciennes ; rédaction sur plusieurs siècles"
+ },
+ "textes-sacres_bhagavad-gita": {
+  "religion": "Hindouisme",
+  "langue": "Sanskrit",
+  "epoque": "IIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "datation débattue (Ve-IIe s. av. J.-C.)"
+ },
+ "textes-sacres_tripitaka": {
+  "religion": "Bouddhisme",
+  "langue": "Pali",
+  "epoque": "Ier siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "mise par écrit au Sri Lanka ; transmission orale antérieure"
+ },
+ "textes-sacres_sutra-du-lotus": {
+  "religion": "Bouddhisme",
+  "langue": "Sanskrit",
+  "epoque": "Ier siècle",
+  "confiance": "tranchee",
+  "note": "datation approximative (Ier s. av. J.-C.-IIe s.)"
+ },
+ "textes-sacres_entretiens-de-confucius": {
+  "religion": "Confucianisme",
+  "langue": "Chinois classique",
+  "epoque": "Ve siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "compilés par les disciples, Ve-IVe s. av. J.-C."
+ },
+ "textes-sacres_avesta": {
+  "religion": "Zoroastrisme",
+  "langue": "Avestique",
+  "epoque": "1000 av. J.-C.",
+  "confiance": "tranchee",
+  "note": "composition orale ; mise par écrit sous les Sassanides (IVe-VIe s.)"
+ },
+ "textes-sacres_guru-granth-sahib": {
+  "religion": "Sikhisme",
+  "langue": "Pendjabi",
+  "epoque": "1604",
+  "confiance": "sure"
+ },
+ "textes-sacres_livre-de-mormon": {
+  "religion": "Mormonisme",
+  "langue": "Anglais",
+  "epoque": "1830",
+  "confiance": "sure"
+ },
+ "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
+  "religion": "Religion égyptienne",
+  "langue": "Égyptien",
+  "epoque": "XVIe siècle av. J.-C.",
+  "confiance": "sure"
+ },
+ "textes-sacres_popol-vuh": {
+  "religion": "Religion maya",
+  "langue": "Quiché",
+  "epoque": "XVIe siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_evangile": {
+  "religion": "Christianisme",
+  "langue": "Grec",
+  "epoque": "Ier siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_apocalypse": {
+  "religion": "Christianisme",
+  "langue": "Grec",
+  "epoque": "Ier siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_livre-de-la-genese": {
+  "religion": "Judaïsme · Christianisme",
+  "langue": "Hébreu",
+  "epoque": "VIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "rédaction finale vers le VIe s. av. J.-C."
+ },
+ "textes-sacres_psaume": {
+  "religion": "Judaïsme · Christianisme",
+  "langue": "Hébreu",
+  "epoque": "Xe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "tradition davidique ; composition du Xe au IVe s. av. J.-C."
+ },
+ "textes-sacres_kojiki": {
+  "religion": "Shinto",
+  "langue": "Japonais ancien",
+  "epoque": "712",
+  "confiance": "sure"
+ },
+ "textes-sacres_sefer-hazohar": {
+  "religion": "Judaïsme",
+  "langue": "Araméen",
+  "epoque": "XIIIe siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_bardo-thodol": {
+  "religion": "Bouddhisme tibétain",
+  "langue": "Tibétain",
+  "epoque": "XIVe siècle",
+  "confiance": "tranchee",
+  "note": "révélé par Karma Lingpa ; attribué à Padmasambhava (VIIIe s.)"
+ },
+ "textes-sacres_manuscrits-de-la-mer-morte": {
+  "religion": "Judaïsme",
+  "langue": "Hébreu · Araméen · Grec",
+  "epoque": "IIIe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "copiés du IIIe s. av. J.-C. au Ier s."
+ },
+ "textes-sacres_dao-de-jing": {
+  "religion": "Taoïsme",
+  "langue": "Chinois classique",
+  "epoque": "IVe siècle av. J.-C.",
+  "confiance": "tranchee",
+  "note": "attribué à Lao Tseu (VIe s. av. J.-C.)",
+  "nom": "Tao-tö-king · Dao de jing"
+ },
+ "textes-sacres_vulgate": {
+  "religion": "Christianisme",
+  "langue": "Latin",
+  "epoque": "IVe siècle",
+  "confiance": "sure"
+ },
+ "textes-sacres_septante": {
+  "religion": "Judaïsme · Christianisme",
+  "langue": "Grec",
+  "epoque": "IIIe siècle av. J.-C.",
+  "confiance": "sure"
+ }
+}

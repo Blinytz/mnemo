@@ -1,0 +1,119 @@
+{
+ "regions-francaises_auvergne-rhone-alpes": {
+  "chef_lieu": "Lyon",
+  "departements": "12",
+  "ville": "Lyon",
+  "confiance": "sure"
+ },
+ "regions-francaises_bourgogne-franche-comte": {
+  "chef_lieu": "Dijon",
+  "departements": "8",
+  "ville": "Dijon",
+  "confiance": "sure"
+ },
+ "regions-francaises_bretagne-region-administrative": {
+  "chef_lieu": "Rennes",
+  "departements": "4",
+  "ville": "Rennes",
+  "confiance": "sure"
+ },
+ "regions-francaises_centre-val-de-loire": {
+  "chef_lieu": "Orléans",
+  "departements": "6",
+  "ville": "Tours",
+  "confiance": "sure"
+ },
+ "regions-francaises_politique-en-corse": {
+  "nom": "Corse",
+  "chef_lieu": "Ajaccio",
+  "departements": "2",
+  "ville": "Ajaccio",
+  "confiance": "tranchee",
+  "note": "collectivité unique depuis 2018, mais deux départements subsistent comme circonscriptions"
+ },
+ "regions-francaises_grand-est": {
+  "chef_lieu": "Strasbourg",
+  "departements": "10",
+  "ville": "Strasbourg",
+  "confiance": "sure"
+ },
+ "regions-francaises_hauts-de-france": {
+  "chef_lieu": "Lille",
+  "departements": "5",
+  "ville": "Lille",
+  "confiance": "sure"
+ },
+ "regions-francaises_ile-de-france": {
+  "chef_lieu": "Paris",
+  "departements": "8",
+  "ville": "Paris",
+  "confiance": "sure"
+ },
+ "regions-francaises_nouvelle-aquitaine": {
+  "chef_lieu": "Bordeaux",
+  "departements": "12",
+  "ville": "Bordeaux",
+  "confiance": "sure"
+ },
+ "regions-francaises_occitanie-region-administrative": {
+  "chef_lieu": "Toulouse",
+  "departements": "13",
+  "ville": "Toulouse",
+  "confiance": "sure"
+ },
+ "regions-francaises_pays-de-la-loire": {
+  "chef_lieu": "Nantes",
+  "departements": "5",
+  "ville": "Nantes",
+  "confiance": "sure"
+ },
+ "regions-francaises_provence-alpes-cote-d-azur": {
+  "chef_lieu": "Marseille",
+  "departements": "6",
+  "ville": "Marseille",
+  "confiance": "sure"
+ },
+ "regions-francaises_guyane": {
+  "chef_lieu": "Cayenne",
+  "departements": "1",
+  "ville": "Cayenne",
+  "confiance": "tranchee",
+  "note": "collectivité unique ; Saint-Laurent-du-Maroni approche Cayenne en population"
+ },
+ "regions-francaises_normandie-region-administrative": {
+  "nom": "Normandie",
+  "chef_lieu": "Rouen",
+  "departements": "5",
+  "ville": "Le Havre",
+  "confiance": "sure"
+ },
+ "regions-francaises_conseil-regional-de-la-guadeloupe": {
+  "nom": "Guadeloupe",
+  "chef_lieu": "Basse-Terre",
+  "departements": "1",
+  "ville": "Les Abymes",
+  "confiance": "tranchee",
+  "note": "Les Abymes est la commune la plus peuplée, Pointe-à-Pitre la principale agglomération"
+ },
+ "regions-francaises_collectivite-territoriale-de-martinique": {
+  "nom": "Martinique",
+  "chef_lieu": "Fort-de-France",
+  "departements": "1",
+  "ville": "Fort-de-France",
+  "confiance": "sure"
+ },
+ "regions-francaises_conseil-regional-de-la-reunion": {
+  "nom": "La Réunion",
+  "chef_lieu": "Saint-Denis",
+  "departements": "1",
+  "ville": "Saint-Denis",
+  "confiance": "sure"
+ },
+ "regions-francaises_conseil-departemental-de-mayotte": {
+  "nom": "Mayotte",
+  "chef_lieu": "Mamoudzou",
+  "departements": "1",
+  "ville": "Mamoudzou",
+  "confiance": "sure"
+ }
+}

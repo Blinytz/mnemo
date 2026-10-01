@@ -1,0 +1,303 @@
+{
+ "lacs_mer-caspienne": {
+  "pays": "Russie · Kazakhstan · Iran",
+  "superficie": "371 000 km²",
+  "repere": "Plus grand lac du monde",
+  "confiance": "tranchee",
+  "note": "cinq pays riverains (aussi Azerbaïdjan et Turkménistan)"
+ },
+ "lacs_lac-victoria": {
+  "pays": "Ouganda · Kenya · Tanzanie",
+  "superficie": "68 100 km²",
+  "repere": "Plus grand lac d'Afrique",
+  "confiance": "sure"
+ },
+ "lacs_lac-tanganyika": {
+  "pays": "Tanzanie · RD Congo · Burundi",
+  "superficie": "32 900 km²",
+  "repere": "Plus long lac d'eau douce",
+  "confiance": "tranchee",
+  "note": "quatre pays riverains (aussi Zambie)"
+ },
+ "lacs_lac-baikal": {
+  "pays": "Russie",
+  "superficie": "31 500 km²",
+  "repere": "Le plus profond du monde",
+  "confiance": "sure"
+ },
+ "lacs_lac-titicaca": {
+  "pays": "Pérou · Bolivie",
+  "superficie": "8 562 km²",
+  "repere": "Plus haut lac navigable",
+  "confiance": "sure"
+ },
+ "lacs_lac-tchad": {
+  "pays": "Tchad · Cameroun · Niger",
+  "superficie": "2 500 km²",
+  "repere": "Surface très variable",
+  "confiance": "tranchee",
+  "note": "superficie fluctuante, de 1 350 à 25 000 km² selon les années ; aussi Nigeria"
+ },
+ "lacs_mer-d-aral": {
+  "pays": "Kazakhstan · Ouzbékistan",
+  "superficie": "68 000 km²",
+  "repere": "Asséchée par l'irrigation",
+  "confiance": "tranchee",
+  "note": "superficie d'avant 1960, quelques milliers de km² aujourd'hui"
+ },
+ "lacs_leman": {
+  "pays": "Suisse · France",
+  "superficie": "580 km²",
+  "repere": "Plus grand lac alpin",
+  "confiance": "sure"
+ },
+ "lacs_loch-ness": {
+  "pays": "Royaume-Uni",
+  "superficie": "56 km²",
+  "repere": "Légende du monstre Nessie",
+  "confiance": "sure"
+ },
+ "lacs_mer-morte": {
+  "pays": "Israël · Jordanie · Palestine",
+  "superficie": "810 km²",
+  "repere": "Point le plus bas des terres",
+  "confiance": "tranchee",
+  "note": "surface en recul constant, environ 600 km² aujourd'hui"
+ },
+ "lacs_lac-superieur": {
+  "pays": "Canada · États-Unis",
+  "superficie": "82 100 km²",
+  "repere": "Plus grand lac d'eau douce",
+  "confiance": "sure"
+ },
+ "lacs_lac-huron": {
+  "pays": "Canada · États-Unis",
+  "superficie": "59 600 km²",
+  "repere": "Île Manitoulin",
+  "confiance": "sure"
+ },
+ "lacs_lac-michigan": {
+  "pays": "États-Unis",
+  "superficie": "58 000 km²",
+  "repere": "Entièrement aux États-Unis",
+  "confiance": "sure"
+ },
+ "lacs_grand-lac-de-l-ours": {
+  "pays": "Canada",
+  "superficie": "31 800 km²",
+  "repere": "Traversé par le cercle arctique",
+  "confiance": "sure"
+ },
+ "lacs_lac-malawi": {
+  "pays": "Malawi · Mozambique · Tanzanie",
+  "superficie": "29 600 km²",
+  "repere": "Record de poissons endémiques",
+  "confiance": "sure"
+ },
+ "lacs_lac-erie": {
+  "pays": "Canada · États-Unis",
+  "superficie": "25 700 km²",
+  "repere": "Le moins profond des Grands Lacs",
+  "confiance": "sure"
+ },
+ "lacs_lac-ontario": {
+  "pays": "Canada · États-Unis",
+  "superficie": "18 960 km²",
+  "repere": "En aval des chutes du Niagara",
+  "confiance": "sure"
+ },
+ "lacs_lac-ladoga": {
+  "pays": "Russie",
+  "superficie": "17 700 km²",
+  "repere": "Plus grand lac d'Europe",
+  "confiance": "sure"
+ },
+ "lacs_lac-balkhach": {
+  "pays": "Kazakhstan",
+  "superficie": "16 400 km²",
+  "repere": "Moitié douce, moitié salée",
+  "confiance": "sure"
+ },
+ "lacs_lac-du-bourget": {
+  "pays": "France",
+  "superficie": "44 km²",
+  "repere": "Plus grand lac naturel de France",
+  "confiance": "sure"
+ },
+ "lacs_lac-d-annecy": {
+  "pays": "France",
+  "superficie": "27 km²",
+  "repere": "L'un des plus purs d'Europe",
+  "confiance": "sure"
+ },
+ "lacs_lac-de-come": {
+  "pays": "Italie",
+  "superficie": "146 km²",
+  "repere": "En forme de Y renversé",
+  "confiance": "sure"
+ },
+ "lacs_lac-de-garde": {
+  "pays": "Italie",
+  "superficie": "367 km²",
+  "repere": "Plus grand lac d'Italie",
+  "confiance": "sure"
+ },
+ "lacs_lac-majeur": {
+  "pays": "Italie · Suisse",
+  "superficie": "212 km²",
+  "repere": "Îles Borromées",
+  "confiance": "sure"
+ },
+ "lacs_lac-de-constance": {
+  "pays": "Allemagne · Suisse · Autriche",
+  "superficie": "536 km²",
+  "repere": "Traversé par le Rhin",
+  "confiance": "sure"
+ },
+ "lacs_lac-tana": {
+  "pays": "Éthiopie",
+  "superficie": "3 000 km²",
+  "repere": "Source du Nil Bleu",
+  "confiance": "sure"
+ },
+ "lacs_lac-turkana": {
+  "pays": "Kenya · Éthiopie",
+  "superficie": "6 405 km²",
+  "repere": "Plus grand lac désertique",
+  "confiance": "sure"
+ },
+ "lacs_lac-kivu": {
+  "pays": "RD Congo · Rwanda",
+  "superficie": "2 700 km²",
+  "repere": "Chargé de méthane",
+  "confiance": "sure"
+ },
+ "lacs_grand-lac-sale": {
+  "pays": "États-Unis",
+  "superficie": "4 400 km²",
+  "repere": "Plus salé que la mer",
+  "confiance": "tranchee",
+  "note": "superficie très variable selon les années"
+ },
+ "lacs_lac-tahoe": {
+  "pays": "États-Unis",
+  "superficie": "496 km²",
+  "repere": "Entre Californie et Nevada",
+  "confiance": "sure"
+ },
+ "lacs_lac-louise-alberta": {
+  "pays": "Canada",
+  "superficie": "1 km²",
+  "repere": "Eau turquoise des Rocheuses",
+  "confiance": "tranchee",
+  "note": "0,8 km² arrondi pour le tri"
+ },
+ "lacs_lac-inle": {
+  "pays": "Birmanie",
+  "superficie": "116 km²",
+  "repere": "Pêcheurs ramant avec la jambe",
+  "confiance": "sure"
+ },
+ "lacs_lac-toba": {
+  "pays": "Indonésie",
+  "superficie": "1 130 km²",
+  "repere": "Plus grand lac volcanique",
+  "confiance": "tranchee",
+  "note": "Wikipédia français donne 1 741 km², la plupart des sources 1 130"
+ },
+ "lacs_lac-de-bled": {
+  "pays": "Slovénie",
+  "superficie": "1,4 km²",
+  "repere": "Île avec une église",
+  "confiance": "sure"
+ },
+ "lacs_parc-national-des-lacs-de-plitvice": {
+  "pays": "Croatie",
+  "superficie": "296 km²",
+  "repere": "Seize lacs en cascade",
+  "confiance": "tranchee",
+  "note": "superficie du parc national, les lacs eux-mêmes couvrent environ 2 km²"
+ },
+ "lacs_lac-rose": {
+  "pays": "Sénégal",
+  "superficie": "3 km²",
+  "repere": "Eau rose et récolte de sel",
+  "confiance": "sure"
+ },
+ "lacs_lac-natron": {
+  "pays": "Tanzanie · Kenya",
+  "superficie": "1 040 km²",
+  "repere": "Eau rouge et caustique",
+  "confiance": "tranchee",
+  "note": "superficie variable selon la saison"
+ },
+ "lacs_lac-de-tiberiade": {
+  "pays": "Israël",
+  "superficie": "166 km²",
+  "repere": "Plus bas lac d'eau douce",
+  "confiance": "sure"
+ },
+ "lacs_grands-lacs-amerique-du-nord": {
+  "pays": "Canada · États-Unis",
+  "superficie": "245 000 km²",
+  "repere": "Plus grande étendue d'eau douce",
+  "confiance": "sure"
+ },
+ "lacs_lac-balaton": {
+  "pays": "Hongrie",
+  "superficie": "592 km²",
+  "repere": "Plus grand lac d'Europe centrale",
+  "confiance": "sure"
+ },
+ "lacs_vanern": {
+  "nom": "Lac Vänern",
+  "pays": "Suède",
+  "superficie": "5 648 km²",
+  "repere": "Plus grand lac de l'UE",
+  "confiance": "sure"
+ },
+ "lacs_lac-winnipeg": {
+  "pays": "Canada",
+  "superficie": "24 400 km²",
+  "repere": "Vestige du lac Agassiz",
+  "confiance": "sure"
+ },
+ "lacs_grand-lac-des-esclaves": {
+  "pays": "Canada",
+  "superficie": "27 200 km²",
+  "repere": "Plus profond d'Amérique du Nord",
+  "confiance": "sure"
+ },
+ "lacs_yssyk-koul": {
+  "nom": "Lac Issyk-Koul",
+  "pays": "Kirghizistan",
+  "superficie": "6 280 km²",
+  "repere": "Ne gèle jamais",
+  "confiance": "sure"
+ },
+ "lacs_lac-nicaragua": {
+  "pays": "Nicaragua",
+  "superficie": "8 264 km²",
+  "repere": "Requins d'eau douce",
+  "confiance": "sure"
+ },
+ "lacs_lac-d-ohrid": {
+  "pays": "Macédoine du Nord · Albanie",
+  "superficie": "358 km²",
+  "repere": "L'un des plus anciens d'Europe",
+  "confiance": "sure"
+ },
+ "lacs_lac-nasser": {
+  "pays": "Égypte · Soudan",
+  "superficie": "5 250 km²",
+  "repere": "Créé par le barrage d'Assouan",
+  "confiance": "sure"
+ },
+ "lacs_lac-volta": {
+  "pays": "Ghana",
+  "superficie": "8 500 km²",
+  "repere": "Plus grand lac artificiel",
+  "confiance": "tranchee",
+  "note": "le plus grand en superficie, pas en volume"
+ }
+}

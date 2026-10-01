@@ -1,0 +1,308 @@
+{
+ "papes_pierre-apotre": {
+  "pontificat": "30-64",
+  "naissance": "Simon",
+  "origine": "Galilée",
+  "fait": "Premier pape",
+  "confiance": "tranchee",
+  "nom": "Saint Pierre",
+  "note": "Dates traditionnelles approximatives"
+ },
+ "papes_leon-ier-pape": {
+  "pontificat": "440-461",
+  "naissance": "Léon",
+  "origine": "Italie",
+  "fait": "Rencontre avec Attila",
+  "confiance": "tranchee",
+  "nom": "Léon Ier",
+  "note": "Nom de naissance non distinct connu ; Italie (Toscane selon le Liber pontificalis)"
+ },
+ "papes_gregoire-ier": {
+  "pontificat": "590-604",
+  "naissance": "Grégoire",
+  "origine": "Italie",
+  "fait": "Chant grégorien",
+  "confiance": "tranchee",
+  "note": "Nom de naissance identique au nom de pape (Gregorius)"
+ },
+ "papes_leon-iii-pape": {
+  "pontificat": "795-816",
+  "naissance": "Léon",
+  "origine": "Italie",
+  "fait": "Sacre de Charlemagne",
+  "confiance": "tranchee",
+  "nom": "Léon III",
+  "note": "Nom de naissance identique au nom de pape"
+ },
+ "papes_sylvestre-ii": {
+  "pontificat": "999-1003",
+  "naissance": "Gerbert d'Aurillac",
+  "origine": "France",
+  "fait": "Pape de l'an mil",
+  "confiance": "sure"
+ },
+ "papes_gregoire-vii": {
+  "pontificat": "1073-1085",
+  "naissance": "Hildebrand de Soana",
+  "origine": "Italie",
+  "fait": "Querelle des Investitures",
+  "confiance": "sure"
+ },
+ "papes_urbain-ii": {
+  "pontificat": "1088-1099",
+  "naissance": "Eudes de Lagery",
+  "origine": "France",
+  "fait": "Première croisade",
+  "confiance": "sure"
+ },
+ "papes_innocent-iii": {
+  "pontificat": "1198-1216",
+  "naissance": "Lotario dei Conti di Segni",
+  "origine": "Italie",
+  "fait": "Concile de Latran IV",
+  "confiance": "sure"
+ },
+ "papes_gregoire-ix": {
+  "pontificat": "1227-1241",
+  "naissance": "Ugolino dei Conti di Segni",
+  "origine": "Italie",
+  "fait": "Création de l'Inquisition",
+  "confiance": "sure"
+ },
+ "papes_boniface-viii": {
+  "pontificat": "1294-1303",
+  "naissance": "Benedetto Caetani",
+  "origine": "Italie",
+  "fait": "Attentat d'Anagni",
+  "confiance": "sure"
+ },
+ "papes_clement-v": {
+  "pontificat": "1305-1314",
+  "naissance": "Bertrand de Got",
+  "origine": "France",
+  "fait": "Installation à Avignon",
+  "confiance": "sure"
+ },
+ "papes_jean-xxii": {
+  "pontificat": "1316-1334",
+  "naissance": "Jacques Duèze",
+  "origine": "France",
+  "fait": "Querelle de la pauvreté",
+  "confiance": "sure"
+ },
+ "papes_urbain-vi": {
+  "pontificat": "1378-1389",
+  "naissance": "Bartolomeo Prignano",
+  "origine": "Italie",
+  "fait": "Début du Grand Schisme",
+  "confiance": "sure"
+ },
+ "papes_sixte-iv": {
+  "pontificat": "1471-1484",
+  "naissance": "Francesco della Rovere",
+  "origine": "Italie",
+  "fait": "Chapelle Sixtine",
+  "confiance": "sure"
+ },
+ "papes_alexandre-vi": {
+  "pontificat": "1492-1503",
+  "naissance": "Rodrigo Borgia",
+  "origine": "Espagne",
+  "fait": "Partage du Nouveau Monde",
+  "confiance": "sure"
+ },
+ "papes_jules-ii": {
+  "pontificat": "1503-1513",
+  "naissance": "Giuliano della Rovere",
+  "origine": "Italie",
+  "fait": "Plafond de la Sixtine",
+  "confiance": "sure"
+ },
+ "papes_leon-x": {
+  "pontificat": "1513-1521",
+  "naissance": "Jean de Médicis",
+  "origine": "Italie",
+  "fait": "Excommunication de Luther",
+  "confiance": "sure"
+ },
+ "papes_clement-vii": {
+  "pontificat": "1523-1534",
+  "naissance": "Jules de Médicis",
+  "origine": "Italie",
+  "fait": "Sac de Rome",
+  "confiance": "sure",
+  "nom": "Clément VII"
+ },
+ "papes_paul-iii": {
+  "pontificat": "1534-1549",
+  "naissance": "Alexandre Farnèse",
+  "origine": "Italie",
+  "fait": "Concile de Trente",
+  "confiance": "sure"
+ },
+ "papes_pie-v": {
+  "pontificat": "1566-1572",
+  "naissance": "Antonio Ghislieri",
+  "origine": "Italie",
+  "fait": "Bataille de Lépante",
+  "confiance": "sure"
+ },
+ "papes_gregoire-xiii": {
+  "pontificat": "1572-1585",
+  "naissance": "Ugo Boncompagni",
+  "origine": "Italie",
+  "fait": "Calendrier grégorien",
+  "confiance": "sure"
+ },
+ "papes_sixte-v": {
+  "pontificat": "1585-1590",
+  "naissance": "Felice Peretti",
+  "origine": "Italie",
+  "fait": "Réorganisation de la Curie",
+  "confiance": "sure"
+ },
+ "papes_urbain-viii": {
+  "pontificat": "1623-1644",
+  "naissance": "Maffeo Barberini",
+  "origine": "Italie",
+  "fait": "Procès de Galilée",
+  "confiance": "sure"
+ },
+ "papes_innocent-x": {
+  "pontificat": "1644-1655",
+  "naissance": "Giovanni Battista Pamphili",
+  "origine": "Italie",
+  "fait": "Condamnation du jansénisme",
+  "confiance": "sure"
+ },
+ "papes_pie-vi": {
+  "pontificat": "1775-1799",
+  "naissance": "Giovanni Angelo Braschi",
+  "origine": "Italie",
+  "fait": "Mort captif en France",
+  "confiance": "sure"
+ },
+ "papes_pie-vii": {
+  "pontificat": "1800-1823",
+  "naissance": "Barnaba Chiaramonti",
+  "origine": "Italie",
+  "fait": "Sacre de Napoléon",
+  "confiance": "sure"
+ },
+ "papes_pie-ix": {
+  "pontificat": "1846-1878",
+  "naissance": "Giovanni Maria Mastai Ferretti",
+  "origine": "Italie",
+  "fait": "Infaillibilité pontificale",
+  "confiance": "sure"
+ },
+ "papes_leon-xiii": {
+  "pontificat": "1878-1903",
+  "naissance": "Vincenzo Gioacchino Pecci",
+  "origine": "Italie",
+  "fait": "Encyclique Rerum novarum",
+  "confiance": "sure"
+ },
+ "papes_benoit-xv": {
+  "pontificat": "1914-1922",
+  "naissance": "Giacomo della Chiesa",
+  "origine": "Italie",
+  "fait": "Appel à la paix de 1917",
+  "confiance": "sure"
+ },
+ "papes_pie-xi": {
+  "pontificat": "1922-1939",
+  "naissance": "Achille Ratti",
+  "origine": "Italie",
+  "fait": "Accords du Latran",
+  "confiance": "sure"
+ },
+ "papes_pie-xii": {
+  "pontificat": "1939-1958",
+  "naissance": "Eugenio Pacelli",
+  "origine": "Italie",
+  "fait": "Dogme de l'Assomption",
+  "confiance": "sure"
+ },
+ "papes_jean-xxiii": {
+  "pontificat": "1958-1963",
+  "naissance": "Angelo Giuseppe Roncalli",
+  "origine": "Italie",
+  "fait": "Ouverture de Vatican II",
+  "confiance": "sure"
+ },
+ "papes_paul-vi": {
+  "pontificat": "1963-1978",
+  "naissance": "Giovanni Battista Montini",
+  "origine": "Italie",
+  "fait": "Clôture de Vatican II",
+  "confiance": "sure"
+ },
+ "papes_jean-paul-ier": {
+  "pontificat": "1978",
+  "naissance": "Albino Luciani",
+  "origine": "Italie",
+  "fait": "Pontificat de 33 jours",
+  "confiance": "sure"
+ },
+ "papes_jean-paul-ii": {
+  "pontificat": "1978-2005",
+  "naissance": "Karol Wojtyła",
+  "origine": "Pologne",
+  "fait": "Premier pape polonais",
+  "confiance": "sure"
+ },
+ "papes_benoit-xvi": {
+  "pontificat": "2005-2013",
+  "naissance": "Joseph Ratzinger",
+  "origine": "Allemagne",
+  "fait": "Renonciation en 2013",
+  "confiance": "sure"
+ },
+ "papes_francois-pape": {
+  "pontificat": "2013-2025",
+  "naissance": "Jorge Mario Bergoglio",
+  "origine": "Argentine",
+  "fait": "Premier pape sud-américain",
+  "confiance": "sure",
+  "nom": "François"
+ },
+ "papes_leon-xiv": {
+  "pontificat": "2025-",
+  "naissance": "Robert Francis Prevost",
+  "origine": "États-Unis",
+  "fait": "Premier pape des États-Unis",
+  "confiance": "tranchee",
+  "note": "Également naturalisé péruvien"
+ },
+ "papes_celestin-v": {
+  "pontificat": "1294",
+  "naissance": "Pietro Angeleri",
+  "origine": "Italie",
+  "fait": "Renonciation au pontificat",
+  "confiance": "sure"
+ },
+ "papes_pie-x": {
+  "pontificat": "1903-1914",
+  "naissance": "Giuseppe Sarto",
+  "origine": "Italie",
+  "fait": "Condamnation du modernisme",
+  "confiance": "sure"
+ },
+ "papes_martin-v": {
+  "pontificat": "1417-1431",
+  "naissance": "Oddone Colonna",
+  "origine": "Italie",
+  "fait": "Fin du Grand Schisme",
+  "confiance": "sure"
+ },
+ "papes_formose-pape": {
+  "pontificat": "891-896",
+  "naissance": "Formose",
+  "origine": "Italie",
+  "fait": "Concile cadavérique",
+  "confiance": "tranchee",
+  "nom": "Formose",
+  "note": "Nom de naissance inconnu ; probablement né à Rome"
+ }
+}

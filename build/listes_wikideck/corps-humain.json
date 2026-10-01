@@ -1,0 +1,328 @@
+{
+ "corps-humain_c-ur": {
+  "systeme": "Circulatoire",
+  "role": "Pomper le sang",
+  "repere": "300 g environ",
+  "confiance": "sure"
+ },
+ "corps-humain_encephale": {
+  "systeme": "Nerveux",
+  "role": "Commander le corps",
+  "repere": "1,4 kg environ",
+  "confiance": "sure",
+  "nom": "Encéphale"
+ },
+ "corps-humain_poumon": {
+  "systeme": "Respiratoire",
+  "role": "Échanger les gaz",
+  "repere": "Le droit a 3 lobes",
+  "confiance": "sure"
+ },
+ "corps-humain_foie": {
+  "systeme": "Digestif",
+  "role": "Filtrer et produire la bile",
+  "repere": "1,5 kg environ",
+  "confiance": "sure"
+ },
+ "corps-humain_rein": {
+  "systeme": "Urinaire",
+  "role": "Filtrer le sang",
+  "repere": "Paire de 150 g",
+  "confiance": "sure"
+ },
+ "corps-humain_estomac": {
+  "systeme": "Digestif",
+  "role": "Brasser et digérer",
+  "repere": "Suc gastrique acide",
+  "confiance": "sure"
+ },
+ "corps-humain_intestin-grele": {
+  "systeme": "Digestif",
+  "role": "Absorber les nutriments",
+  "repere": "6 à 7 m de long",
+  "confiance": "sure"
+ },
+ "corps-humain_colon": {
+  "systeme": "Digestif",
+  "role": "Absorber l'eau",
+  "repere": "1,5 m de long environ",
+  "confiance": "sure"
+ },
+ "corps-humain_pancreas": {
+  "systeme": "Digestif",
+  "role": "Sécréter insuline et enzymes",
+  "repere": "Exocrine et endocrine",
+  "confiance": "tranchee",
+  "note": "Appartient aussi au système endocrinien ; digestif retenu"
+ },
+ "corps-humain_rate": {
+  "systeme": "Lymphatique",
+  "role": "Filtrer le sang",
+  "repere": "Hypocondre gauche",
+  "confiance": "tranchee",
+  "note": "Parfois classée immunitaire ou circulatoire"
+ },
+ "corps-humain_vesicule-biliaire": {
+  "systeme": "Digestif",
+  "role": "Stocker la bile",
+  "repere": "Sous le foie",
+  "confiance": "sure"
+ },
+ "corps-humain_peau": {
+  "systeme": "Tégumentaire",
+  "role": "Protéger le corps",
+  "repere": "Plus grand organe",
+  "confiance": "sure"
+ },
+ "corps-humain_il-humain": {
+  "systeme": "Visuel",
+  "role": "Voir",
+  "repere": "24 mm de diamètre",
+  "confiance": "sure",
+  "nom": "Œil"
+ },
+ "corps-humain_oreille": {
+  "systeme": "Auditif",
+  "role": "Entendre et garder l'équilibre",
+  "repere": "Abrite l'étrier",
+  "confiance": "sure"
+ },
+ "corps-humain_langue-anatomie-humaine": {
+  "systeme": "Digestif",
+  "role": "Goûter et parler",
+  "repere": "Couverte de papilles",
+  "confiance": "tranchee",
+  "note": "Organe du goût et de la digestion ; digestif retenu"
+ },
+ "corps-humain_nez": {
+  "systeme": "Respiratoire",
+  "role": "Respirer et sentir",
+  "repere": "Organe de l'odorat",
+  "confiance": "sure"
+ },
+ "corps-humain_glande-thyroide": {
+  "systeme": "Endocrinien",
+  "role": "Réguler le métabolisme",
+  "repere": "En forme de papillon",
+  "confiance": "sure"
+ },
+ "corps-humain_squelette-humain": {
+  "systeme": "Locomoteur",
+  "role": "Soutenir le corps",
+  "repere": "206 os chez l'adulte",
+  "confiance": "sure",
+  "nom": "Squelette"
+ },
+ "corps-humain_muscle": {
+  "systeme": "Locomoteur",
+  "role": "Produire le mouvement",
+  "repere": "Plus de 600 muscles",
+  "confiance": "sure"
+ },
+ "corps-humain_sang": {
+  "systeme": "Circulatoire",
+  "role": "Transporter l'oxygène",
+  "repere": "5 litres environ",
+  "confiance": "sure"
+ },
+ "corps-humain_moelle-osseuse": {
+  "systeme": "Immunitaire",
+  "role": "Produire les cellules du sang",
+  "repere": "Au centre des os",
+  "confiance": "tranchee",
+  "note": "Organe lymphoïde primaire, aussi rattachée à l'hématopoïèse ; immunitaire retenu"
+ },
+ "corps-humain_systeme-nerveux": {
+  "systeme": "Nerveux",
+  "role": "Transmettre l'information",
+  "repere": "Central et périphérique",
+  "confiance": "sure"
+ },
+ "corps-humain_systeme-immunitaire": {
+  "systeme": "Immunitaire",
+  "role": "Défendre l'organisme",
+  "repere": "Inné et adaptatif",
+  "confiance": "sure"
+ },
+ "corps-humain_systeme-endocrinien": {
+  "systeme": "Endocrinien",
+  "role": "Sécréter les hormones",
+  "repere": "Glandes sans canal",
+  "confiance": "sure"
+ },
+ "corps-humain_appareil-digestif": {
+  "systeme": "Digestif",
+  "role": "Digérer les aliments",
+  "repere": "9 m de tube environ",
+  "confiance": "sure"
+ },
+ "corps-humain_appareil-cardiovasculaire": {
+  "systeme": "Circulatoire",
+  "role": "Faire circuler le sang",
+  "repere": "Double circulation",
+  "confiance": "sure"
+ },
+ "corps-humain_appareil-respiratoire": {
+  "systeme": "Respiratoire",
+  "role": "Apporter l'oxygène",
+  "repere": "15 respirations par minute",
+  "confiance": "sure"
+ },
+ "corps-humain_systeme-lymphatique": {
+  "systeme": "Lymphatique",
+  "role": "Drainer la lymphe",
+  "repere": "Ganglions lymphatiques",
+  "confiance": "sure"
+ },
+ "corps-humain_neurone": {
+  "systeme": "Nerveux",
+  "role": "Transmettre l'influx nerveux",
+  "repere": "86 milliards dans le cerveau",
+  "confiance": "sure"
+ },
+ "corps-humain_erythrocyte": {
+  "systeme": "Circulatoire",
+  "role": "Transporter l'oxygène",
+  "repere": "Sans noyau",
+  "confiance": "sure",
+  "nom": "Globule rouge · Érythrocyte"
+ },
+ "corps-humain_leucocyte": {
+  "systeme": "Immunitaire",
+  "role": "Combattre les infections",
+  "repere": "Globule blanc",
+  "confiance": "sure",
+  "nom": "Globule blanc · Leucocyte"
+ },
+ "corps-humain_acide-desoxyribonucleique": {
+  "systeme": "Génétique",
+  "role": "Porter l'information génétique",
+  "repere": "Double hélice",
+  "confiance": "tranchee",
+  "note": "Molécule, pas un organe ; colonne système remplie par Génétique",
+  "nom": "ADN · Acide désoxyribonucléique"
+ },
+ "corps-humain_hypophyse": {
+  "systeme": "Endocrinien",
+  "role": "Commander les glandes",
+  "repere": "Taille d'un petit pois",
+  "confiance": "sure"
+ },
+ "corps-humain_moelle-spinale": {
+  "systeme": "Nerveux",
+  "role": "Relayer l'influx nerveux",
+  "repere": "45 cm environ",
+  "confiance": "sure"
+ },
+ "corps-humain_cervelet": {
+  "systeme": "Nerveux",
+  "role": "Coordonner les mouvements",
+  "repere": "Petit cerveau",
+  "confiance": "sure"
+ },
+ "corps-humain_diaphragme-organe": {
+  "systeme": "Respiratoire",
+  "role": "Assurer l'inspiration",
+  "repere": "Muscle en dôme",
+  "confiance": "sure",
+  "nom": "Diaphragme"
+ },
+ "corps-humain_cornee": {
+  "systeme": "Visuel",
+  "role": "Focaliser la lumière",
+  "repere": "Transparente",
+  "confiance": "sure"
+ },
+ "corps-humain_retine": {
+  "systeme": "Visuel",
+  "role": "Capter la lumière",
+  "repere": "Cônes et bâtonnets",
+  "confiance": "sure"
+ },
+ "corps-humain_tympan-humain": {
+  "systeme": "Auditif",
+  "role": "Transmettre les vibrations",
+  "repere": "Membrane de 1 cm",
+  "confiance": "sure",
+  "nom": "Tympan"
+ },
+ "corps-humain_hippocampe-cerveau": {
+  "systeme": "Nerveux",
+  "role": "Former les souvenirs",
+  "repere": "Forme d'hippocampe",
+  "confiance": "sure",
+  "nom": "Hippocampe"
+ },
+ "corps-humain_uterus": {
+  "systeme": "Reproducteur",
+  "role": "Accueillir l'embryon",
+  "repere": "Forme de poire",
+  "confiance": "sure"
+ },
+ "corps-humain_ovaire": {
+  "systeme": "Reproducteur",
+  "role": "Produire les ovules",
+  "repere": "Paire de glandes",
+  "confiance": "sure"
+ },
+ "corps-humain_testicule": {
+  "systeme": "Reproducteur",
+  "role": "Produire les spermatozoïdes",
+  "repere": "Produit la testostérone",
+  "confiance": "sure"
+ },
+ "corps-humain_prostate": {
+  "systeme": "Reproducteur",
+  "role": "Produire le liquide séminal",
+  "repere": "Taille d'une châtaigne",
+  "confiance": "sure"
+ },
+ "corps-humain_vessie": {
+  "systeme": "Urinaire",
+  "role": "Stocker l'urine",
+  "repere": "Jusqu'à 500 ml",
+  "confiance": "sure"
+ },
+ "corps-humain_larynx": {
+  "systeme": "Respiratoire",
+  "role": "Produire la voix",
+  "repere": "Abrite les cordes vocales",
+  "confiance": "sure"
+ },
+ "corps-humain_trachee": {
+  "systeme": "Respiratoire",
+  "role": "Conduire l'air",
+  "repere": "12 cm environ",
+  "confiance": "sure"
+ },
+ "corps-humain_sophage": {
+  "systeme": "Digestif",
+  "role": "Conduire les aliments",
+  "repere": "25 cm environ",
+  "confiance": "sure"
+ },
+ "corps-humain_glande-surrenale": {
+  "systeme": "Endocrinien",
+  "role": "Sécréter l'adrénaline",
+  "repere": "Sur chaque rein",
+  "confiance": "sure"
+ },
+ "corps-humain_dent": {
+  "systeme": "Digestif",
+  "role": "Mastiquer les aliments",
+  "repere": "32 chez l'adulte",
+  "confiance": "sure"
+ },
+ "corps-humain_systeme-reproducteur": {
+  "systeme": "Reproducteur",
+  "role": "Assurer la reproduction",
+  "repere": "Gonades et voies génitales",
+  "confiance": "sure"
+ },
+ "corps-humain_appareil-urinaire": {
+  "systeme": "Urinaire",
+  "role": "Éliminer l'urine",
+  "repere": "Reins · uretères · vessie",
+  "confiance": "sure"
+ }
+}

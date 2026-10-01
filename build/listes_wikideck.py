@@ -206,6 +206,41 @@ LISTES = {
         colonnes=[('Édition', None), ('Année', 'annee'), ('Ville', 'ville'), ('Pays', 'pays'), ('Fait marquant', 'fait')]),
     'jeux-olympiques-hiver': dict(id='jo_hiver', nom="Jeux olympiques d'hiver", icone='⛷️', ordre=('chrono', 'annee'), categorie='sports-loisirs',
         colonnes=[('Édition', None), ('Année', 'annee'), ('Ville', 'ville'), ('Pays', 'pays'), ('Fait marquant', 'fait')]),
+    # Lot 11 : collections de culture générale ajoutées à WikiDeck le 01/10/2026
+    'presidents-des-etats-unis': dict(id='presidents_usa', nom="Présidents des États-Unis", icone='🇺🇸', ordre=('chrono', 'mandat'), categorie='histoire', relue=True,
+        colonnes=[('Président', None), ('Mandat', 'mandat'), ('Parti', 'parti'), ('Fait marquant', 'fait')]),
+    'monarques-anglais-et-britanniques': dict(id='monarques_anglais', nom="Monarques anglais et britanniques", icone='👑', ordre=('chrono', 'regne'), categorie='histoire', relue=True,
+        colonnes=[('Monarque', None), ('Règne', 'regne'), ('Maison', 'maison'), ('Fait marquant', 'fait')]),
+    'papes': dict(id='papes', nom="Papes", icone='⛪', ordre=('chrono', 'pontificat'), categorie='histoire', relue=True,
+        colonnes=[('Pape', None), ('Pontificat', 'pontificat'), ('Nom de naissance', 'naissance'), ('Origine', 'origine'), ('Fait marquant', 'fait')]),
+    'organisations-internationales': dict(id='organisations', nom="Organisations internationales", icone='🌐', ordre=('chrono', 'creation'), categorie='histoire', relue=True,
+        colonnes=[('Organisation', None), ('Création', 'creation'), ('Siège', 'siege'), ('Rôle', 'role')]),
+    'deserts': dict(id='deserts', nom="Déserts", icone='🏜️', ordre=('altitude', 'superficie'), categorie='geographie', relue=True,
+        colonnes=[('Désert', None), ('Pays ou région', 'pays'), ('Superficie', 'superficie'), ('Type', 'type')]),
+    'lacs': dict(id='lacs', nom="Lacs", icone='🏞️', ordre=('altitude', 'superficie'), categorie='geographie', relue=True,
+        colonnes=[('Lac', None), ('Pays', 'pays'), ('Superficie', 'superficie'), ('Repère', 'repere')]),
+    'regions-francaises': dict(id='regions_francaises', nom="Régions françaises", icone='🗺️', ordre='-', categorie='geographie', relue=True,
+        colonnes=[('Région', None), ('Chef-lieu', 'chef_lieu'), ('Départements', 'departements'), ('Plus grande ville', 'ville')]),
+    'religions-du-monde': dict(id='religions', nom="Religions du monde", icone='🕊️', ordre=('chrono', 'apparition'), categorie='histoire', relue=True,
+        colonnes=[('Religion', None), ('Apparition', 'apparition'), ('Fondateur ou origine', 'origine'), ('Texte de référence', 'texte'), ('Fidèles', 'fideles')]),
+    'textes-sacres': dict(id='textes_sacres', nom="Textes sacrés", icone='📖', ordre=('chrono', 'epoque'), categorie='histoire', relue=True,
+        colonnes=[('Texte', None), ('Religion', 'religion'), ('Langue', 'langue'), ('Époque', 'epoque')]),
+    'fetes-religieuses': dict(id='fetes_religieuses', nom="Fêtes religieuses", icone='🕯️', ordre='religion', categorie='histoire', relue=True,
+        colonnes=[('Fête', None), ('Religion', 'religion'), ('Date', 'date'), ("Ce qu'elle célèbre", 'objet')]),
+    'croyances-et-notions-sacrees': dict(id='croyances', nom="Croyances et notions sacrées", icone='☯️', ordre='tradition', categorie='mythologies', relue=True,
+        colonnes=[('Notion', None), ('Tradition', 'tradition'), ('Sens', 'sens')]),
+    'genres-litteraires': dict(id='genres_litteraires', nom="Genres littéraires", icone='📚', ordre='-', categorie='arts-culture', relue=True,
+        colonnes=[('Genre', None), ('Définition', 'definition'), ('Exemple', 'exemple')]),
+    'mouvements-litteraires': dict(id='mouvements_litteraires', nom="Mouvements littéraires", icone='🖋️', ordre=('chrono', 'periode'), categorie='arts-culture', relue=True,
+        colonnes=[('Mouvement', None), ('Période', 'periode'), ('Auteurs majeurs', 'auteurs'), ('Œuvre emblématique', 'oeuvre')]),
+    'corps-humain': dict(id='corps_humain', nom="Corps humain", icone='🫀', ordre='systeme', categorie='sciences-nature', relue=True,
+        colonnes=[('Organe', None), ('Système', 'systeme'), ('Rôle', 'role'), ('Repère', 'repere')]),
+    'maladies-et-epidemies': dict(id='maladies', nom="Maladies et épidémies", icone='🦠', ordre='-', categorie='sciences-nature', relue=True,
+        colonnes=[('Maladie', None), ('Agent', 'agent'), ('Transmission', 'transmission'), ('Épidémie marquante', 'epidemie'), ('Vaccin ou traitement', 'traitement')]),
+    'theoremes-et-lois': dict(id='theoremes', nom="Théorèmes et lois", icone='📐', ordre=('chrono', 'date'), categorie='sciences-nature', relue=True,
+        colonnes=[('Théorème ou loi', None), ('Auteur', 'auteur'), ('Date', 'date'), ('Énoncé', 'enonce')]),
+    'crises-economiques': dict(id='crises_economiques', nom="Crises économiques", icone='📉', ordre=('chrono', 'date'), categorie='histoire', relue=True,
+        colonnes=[('Crise', None), ('Date', 'date'), ("Pays d'origine", 'pays'), ('Cause', 'cause')]),
 }
 VIDE = {'oeuvres': 'Aucun écrit conservé'}
 ANCRE = 'DEFAULT_LISTS.push(...CURATED_LISTS_V3);'
@@ -316,6 +351,15 @@ def construire(slug, cadrages, essai):
     textes = json.loads((TEXTES / f'{slug}.json').read_text(encoding='utf-8'))
     cartes = [c for c in json.loads((WIKIDECK / 'data' / f'{slug}.json').read_text(encoding='utf-8'))['cartes']
               if c['id'] in textes]
+    # une carte dont WikiDeck n'a pas encore l'image attend : elle entrera dans
+    # la liste à la prochaine génération qui la trouvera
+    def a_une_image(c):
+        col, f = c['id'].split('_', 1)
+        return (WIKIDECK / 'images' / 'originaux' / col / f'{f}.webp').exists() or (WIKIDECK / c['imageUrl']).exists()
+    sans = [c['id'] for c in cartes if not a_une_image(c)]
+    if sans:
+        print(f"  {slug} : {len(sans)} carte(s) sans image, en attente")
+        cartes = [c for c in cartes if a_une_image(c)]
     # ordre : ('chrono', <cle de date>) ou <cle> pour un tri alphabetique sur cette colonne
     if isinstance(cfg['ordre'], tuple) and cfg['ordre'][0] == 'liste':
         rangs = cfg['ordre'][2]

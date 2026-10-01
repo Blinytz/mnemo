@@ -1,0 +1,277 @@
+{
+ "presidents-des-etats-unis_george-washington": {
+  "mandat": "1789-1797",
+  "parti": "Sans parti",
+  "fait": "Premier président",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_john-adams-homme-d-etat": {
+  "mandat": "1797-1801",
+  "parti": "Fédéraliste",
+  "fait": "Quasi-guerre avec la France",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_thomas-jefferson": {
+  "mandat": "1801-1809",
+  "parti": "Démocrate-républicain",
+  "fait": "Achat de la Louisiane",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_james-madison": {
+  "mandat": "1809-1817",
+  "parti": "Démocrate-républicain",
+  "fait": "Guerre de 1812",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_james-monroe": {
+  "mandat": "1817-1825",
+  "parti": "Démocrate-républicain",
+  "fait": "Doctrine Monroe",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_john-quincy-adams": {
+  "mandat": "1825-1829",
+  "parti": "Démocrate-républicain",
+  "fait": "Tarif des abominations",
+  "confiance": "tranchee",
+  "note": "Élu comme démocrate-républicain, ensuite rattaché aux nationaux-républicains"
+ },
+ "presidents-des-etats-unis_andrew-jackson": {
+  "mandat": "1829-1837",
+  "parti": "Démocrate",
+  "fait": "Déportation des Amérindiens",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_martin-van-buren": {
+  "mandat": "1837-1841",
+  "parti": "Démocrate",
+  "fait": "Panique de 1837",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_william-henry-harrison": {
+  "mandat": "1841",
+  "parti": "Whig",
+  "fait": "Mort après un mois de mandat",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_john-tyler": {
+  "mandat": "1841-1845",
+  "parti": "Whig",
+  "fait": "Annexion du Texas",
+  "confiance": "tranchee",
+  "note": "Élu whig, exclu du parti en 1841"
+ },
+ "presidents-des-etats-unis_james-k-polk": {
+  "mandat": "1845-1849",
+  "parti": "Démocrate",
+  "fait": "Guerre américano-mexicaine",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_zachary-taylor": {
+  "mandat": "1849-1850",
+  "parti": "Whig",
+  "fait": "Mort en cours de mandat",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_millard-fillmore": {
+  "mandat": "1850-1853",
+  "parti": "Whig",
+  "fait": "Compromis de 1850",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_franklin-pierce": {
+  "mandat": "1853-1857",
+  "parti": "Démocrate",
+  "fait": "Loi Kansas-Nebraska",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_james-buchanan": {
+  "mandat": "1857-1861",
+  "parti": "Démocrate",
+  "fait": "Sécession du Sud",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_abraham-lincoln": {
+  "mandat": "1861-1865",
+  "parti": "Républicain",
+  "fait": "Abolition de l'esclavage",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_andrew-johnson": {
+  "mandat": "1865-1869",
+  "parti": "Démocrate",
+  "fait": "Achat de l'Alaska",
+  "confiance": "tranchee",
+  "note": "Élu vice-président sur le ticket de l'Union nationale, démocrate d'origine"
+ },
+ "presidents-des-etats-unis_ulysses-s-grant": {
+  "mandat": "1869-1877",
+  "parti": "Républicain",
+  "fait": "Reconstruction du Sud",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_rutherford-b-hayes": {
+  "mandat": "1877-1881",
+  "parti": "Républicain",
+  "fait": "Fin de la Reconstruction",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_james-a-garfield": {
+  "mandat": "1881",
+  "parti": "Républicain",
+  "fait": "Assassiné en 1881",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_chester-a-arthur": {
+  "mandat": "1881-1885",
+  "parti": "Républicain",
+  "fait": "Loi Pendleton",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_grover-cleveland": {
+  "mandat": "1885-1889 · 1893-1897",
+  "parti": "Démocrate",
+  "fait": "Deux mandats non consécutifs",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_benjamin-harrison": {
+  "mandat": "1889-1893",
+  "parti": "Républicain",
+  "fait": "Loi Sherman antitrust",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_william-mckinley": {
+  "mandat": "1897-1901",
+  "parti": "Républicain",
+  "fait": "Guerre hispano-américaine",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_theodore-roosevelt": {
+  "mandat": "1901-1909",
+  "parti": "Républicain",
+  "fait": "Canal de Panama",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_william-howard-taft": {
+  "mandat": "1909-1913",
+  "parti": "Républicain",
+  "fait": "Diplomatie du dollar",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_woodrow-wilson": {
+  "mandat": "1913-1921",
+  "parti": "Démocrate",
+  "fait": "Entrée dans la Grande Guerre",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_warren-g-harding": {
+  "mandat": "1921-1923",
+  "parti": "Républicain",
+  "fait": "Scandale du Teapot Dome",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_calvin-coolidge": {
+  "mandat": "1923-1929",
+  "parti": "Républicain",
+  "fait": "Prospérité des Années folles",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_herbert-hoover": {
+  "mandat": "1929-1933",
+  "parti": "Républicain",
+  "fait": "Krach de 1929",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_franklin-delano-roosevelt": {
+  "mandat": "1933-1945",
+  "parti": "Démocrate",
+  "fait": "New Deal",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_harry-s-truman": {
+  "mandat": "1945-1953",
+  "parti": "Démocrate",
+  "fait": "Bombes atomiques sur le Japon",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_dwight-d-eisenhower": {
+  "mandat": "1953-1961",
+  "parti": "Républicain",
+  "fait": "Fin de la guerre de Corée",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_john-fitzgerald-kennedy": {
+  "mandat": "1961-1963",
+  "parti": "Démocrate",
+  "fait": "Crise des missiles de Cuba",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_lyndon-b-johnson": {
+  "mandat": "1963-1969",
+  "parti": "Démocrate",
+  "fait": "Loi sur les droits civiques",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_richard-nixon": {
+  "mandat": "1969-1974",
+  "parti": "Républicain",
+  "fait": "Scandale du Watergate",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_gerald-ford": {
+  "mandat": "1974-1977",
+  "parti": "Républicain",
+  "fait": "Grâce de Richard Nixon",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_jimmy-carter": {
+  "mandat": "1977-1981",
+  "parti": "Démocrate",
+  "fait": "Accords de Camp David",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_ronald-reagan": {
+  "mandat": "1981-1989",
+  "parti": "Républicain",
+  "fait": "Fin de la guerre froide",
+  "confiance": "tranchee",
+  "note": "Choix parmi plusieurs faits marquants (reaganomics, IDS)"
+ },
+ "presidents-des-etats-unis_george-h-w-bush": {
+  "mandat": "1989-1993",
+  "parti": "Républicain",
+  "fait": "Guerre du Golfe",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_bill-clinton": {
+  "mandat": "1993-2001",
+  "parti": "Démocrate",
+  "fait": "Affaire Lewinsky",
+  "confiance": "tranchee",
+  "note": "Choix parmi plusieurs faits marquants (ALENA, accords d'Oslo)"
+ },
+ "presidents-des-etats-unis_george-w-bush": {
+  "mandat": "2001-2009",
+  "parti": "Républicain",
+  "fait": "Attentats du 11 septembre",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_barack-obama": {
+  "mandat": "2009-2017",
+  "parti": "Démocrate",
+  "fait": "Obamacare",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_donald-trump": {
+  "mandat": "2017-2021 · 2025-",
+  "parti": "Républicain",
+  "fait": "Assaut du Capitole",
+  "confiance": "sure"
+ },
+ "presidents-des-etats-unis_joe-biden": {
+  "mandat": "2021-2025",
+  "parti": "Démocrate",
+  "fait": "Retrait d'Afghanistan",
+  "confiance": "sure"
+ }
+}

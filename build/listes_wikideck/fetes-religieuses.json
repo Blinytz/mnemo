@@ -1,0 +1,238 @@
+{
+ "fetes-religieuses_noel": {
+  "religion": "Christianisme",
+  "date": "25 décembre",
+  "objet": "Naissance de Jésus",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_paques": {
+  "religion": "Christianisme",
+  "date": "Printemps, date variable",
+  "objet": "Résurrection de Jésus",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_pentecote": {
+  "religion": "Christianisme",
+  "date": "50 jours après Pâques",
+  "objet": "Descente du Saint-Esprit",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_ascension-fete": {
+  "religion": "Christianisme",
+  "date": "40 jours après Pâques",
+  "objet": "Montée de Jésus au ciel",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_toussaint": {
+  "religion": "Catholicisme",
+  "date": "1er novembre",
+  "objet": "Tous les saints",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_epiphanie": {
+  "religion": "Christianisme",
+  "date": "6 janvier",
+  "objet": "Visite des Rois mages",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_careme": {
+  "religion": "Christianisme",
+  "date": "40 jours avant Pâques",
+  "objet": "Jeûne avant Pâques",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_mardi-gras": {
+  "religion": "Christianisme",
+  "date": "Veille du mercredi des Cendres",
+  "objet": "Dernier jour avant le Carême",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_assomption": {
+  "religion": "Catholicisme",
+  "date": "15 août",
+  "objet": "Élévation de Marie au ciel",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_chandeleur": {
+  "religion": "Christianisme",
+  "date": "2 février",
+  "objet": "Présentation de Jésus au Temple",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_dimanche-des-rameaux": {
+  "religion": "Christianisme",
+  "date": "Dimanche avant Pâques",
+  "objet": "Entrée de Jésus à Jérusalem",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_ramadan": {
+  "religion": "Islam",
+  "date": "9e mois du calendrier hégirien",
+  "objet": "Révélation du Coran",
+  "confiance": "tranchee",
+  "note": "mois de jeûne commémorant la révélation"
+ },
+ "fetes-religieuses_aid-el-fitr": {
+  "religion": "Islam",
+  "date": "1er chawwal",
+  "objet": "Fin du ramadan",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_aid-al-adha": {
+  "religion": "Islam",
+  "date": "10 dhou al-hijja",
+  "objet": "Sacrifice d'Abraham",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_mawlid": {
+  "religion": "Islam",
+  "date": "12 rabia al-awal",
+  "objet": "Naissance de Mahomet",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_achoura": {
+  "religion": "Islam",
+  "date": "10 mouharram",
+  "objet": "Martyre de Hussein",
+  "confiance": "tranchee",
+  "note": "pour les chiites ; les sunnites y commémorent Moïse sauvé"
+ },
+ "fetes-religieuses_pessa-h": {
+  "religion": "Judaïsme",
+  "date": "15 nissan",
+  "objet": "Sortie d'Égypte",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_yom-kippour": {
+  "religion": "Judaïsme",
+  "date": "10 tichri",
+  "objet": "Expiation des péchés",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_roch-hachana": {
+  "religion": "Judaïsme",
+  "date": "1er tichri",
+  "objet": "Nouvel An juif",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_hanoucca": {
+  "religion": "Judaïsme",
+  "date": "25 kislev",
+  "objet": "Nouvelle dédicace du Temple",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_pourim": {
+  "religion": "Judaïsme",
+  "date": "14 adar",
+  "objet": "Délivrance par Esther",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_souccot": {
+  "religion": "Judaïsme",
+  "date": "15 tichri",
+  "objet": "Séjour dans le désert",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_divali": {
+  "religion": "Hindouisme",
+  "date": "Octobre-novembre",
+  "objet": "Victoire de la lumière",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_holi": {
+  "religion": "Hindouisme",
+  "date": "Mars, pleine lune",
+  "objet": "Arrivée du printemps",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_vesak": {
+  "religion": "Bouddhisme",
+  "date": "Pleine lune de mai",
+  "objet": "Naissance et éveil du Bouddha",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_nouvel-an-chinois": {
+  "religion": "Tradition chinoise",
+  "date": "Janvier-février, date variable",
+  "objet": "Nouvelle année lunaire",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_o-bon": {
+  "religion": "Bouddhisme",
+  "date": "Mi-août",
+  "objet": "Esprits des ancêtres",
+  "confiance": "tranchee",
+  "note": "mi-juillet dans certaines régions ; mêlé au shinto"
+ },
+ "fetes-religieuses_baisakhi": {
+  "religion": "Sikhisme",
+  "date": "13 avril",
+  "objet": "Fondation du Khalsa",
+  "confiance": "tranchee",
+  "note": "aussi fête hindoue des moissons"
+ },
+ "fetes-religieuses_navratri": {
+  "religion": "Hindouisme",
+  "date": "Septembre-octobre",
+  "objet": "Déesse Durga",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_kumbh-mela": {
+  "religion": "Hindouisme",
+  "date": "Tous les 12 ans",
+  "objet": "Bain sacré dans les fleuves",
+  "confiance": "tranchee",
+  "note": "les lieux tournent entre quatre villes (Gange, Godavari, Shipra)"
+ },
+ "fetes-religieuses_norouz": {
+  "religion": "Zoroastrisme",
+  "date": "21 mars",
+  "objet": "Nouvel An perse",
+  "confiance": "tranchee",
+  "note": "fête aujourd'hui surtout culturelle iranienne"
+ },
+ "fetes-religieuses_jour-des-morts-mexique": {
+  "religion": "Catholicisme",
+  "date": "1er et 2 novembre",
+  "objet": "Mémoire des défunts",
+  "confiance": "tranchee",
+  "note": "syncrétisme catholique et préhispanique"
+ },
+ "fetes-religieuses_vendredi-saint": {
+  "religion": "Christianisme",
+  "date": "Vendredi avant Pâques",
+  "objet": "Crucifixion de Jésus",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_chavouot": {
+  "religion": "Judaïsme",
+  "date": "6 sivan",
+  "objet": "Don de la Torah",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_fete-dieu": {
+  "religion": "Catholicisme",
+  "date": "60 jours après Pâques",
+  "objet": "Eucharistie",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_laylat-al-qadr": {
+  "religion": "Islam",
+  "date": "27 ramadan",
+  "objet": "Révélation du Coran",
+  "confiance": "tranchee",
+  "note": "une des dix dernières nuits du ramadan, souvent la 27e"
+ },
+ "fetes-religieuses_ganesh-chaturthi": {
+  "religion": "Hindouisme",
+  "date": "Août-septembre",
+  "objet": "Naissance de Ganesh",
+  "confiance": "sure"
+ },
+ "fetes-religieuses_fete-de-la-saint-patrick": {
+  "religion": "Catholicisme",
+  "date": "17 mars",
+  "objet": "Saint patron de l'Irlande",
+  "confiance": "sure"
+ }
+}

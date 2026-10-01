@@ -1,0 +1,204 @@
+{
+ "deserts_sahara": {
+  "pays": "Algérie · Libye · Égypte",
+  "superficie": "9 200 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "onze pays ; superficie de 8,5 à 9,4 millions de km² selon les sources"
+ },
+ "deserts_desert-de-gobi": {
+  "pays": "Mongolie · Chine",
+  "superficie": "1 300 000 km²",
+  "type": "Froid",
+  "confiance": "sure"
+ },
+ "deserts_desert-d-atacama": {
+  "pays": "Chili",
+  "superficie": "105 000 km²",
+  "type": "Côtier",
+  "confiance": "sure"
+ },
+ "deserts_desert-du-kalahari": {
+  "pays": "Botswana · Namibie · Afrique du Sud",
+  "superficie": "900 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-du-namib": {
+  "pays": "Namibie · Angola",
+  "superficie": "81 000 km²",
+  "type": "Côtier",
+  "confiance": "sure"
+ },
+ "deserts_rub-al-khali": {
+  "pays": "Arabie saoudite · Oman · Yémen",
+  "superficie": "650 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-de-syrie": {
+  "pays": "Syrie · Jordanie · Irak",
+  "superficie": "520 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_neguev": {
+  "pays": "Israël",
+  "superficie": "13 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-du-thar": {
+  "pays": "Inde · Pakistan",
+  "superficie": "200 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-du-taklamakan": {
+  "pays": "Chine",
+  "superficie": "337 000 km²",
+  "type": "Froid",
+  "confiance": "sure"
+ },
+ "deserts_desert-des-mojaves": {
+  "pays": "États-Unis",
+  "superficie": "124 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "Wikipédia français donne 40 000 km², les sources américaines 124 000"
+ },
+ "deserts_vallee-de-la-mort": {
+  "pays": "États-Unis",
+  "superficie": "7 800 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-de-sonora": {
+  "pays": "Mexique · États-Unis",
+  "superficie": "320 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-de-chihuahua": {
+  "pays": "Mexique · États-Unis",
+  "superficie": "500 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "de 360 000 à 647 000 km² selon les sources"
+ },
+ "deserts_grand-desert-de-victoria": {
+  "pays": "Australie",
+  "superficie": "424 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-de-simpson": {
+  "pays": "Australie",
+  "superficie": "176 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "de 143 000 à 300 000 km² selon les sources"
+ },
+ "deserts_desert-du-karakoum": {
+  "pays": "Turkménistan",
+  "superficie": "350 000 km²",
+  "type": "Froid",
+  "confiance": "tranchee",
+  "note": "désert continental aux hivers froids"
+ },
+ "deserts_desert-du-kyzylkoum": {
+  "pays": "Ouzbékistan · Kazakhstan",
+  "superficie": "300 000 km²",
+  "type": "Froid",
+  "confiance": "tranchee",
+  "note": "désert continental aux hivers froids"
+ },
+ "deserts_dacht-e-lout": {
+  "pays": "Iran",
+  "superficie": "52 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_dacht-e-kavir": {
+  "pays": "Iran",
+  "superficie": "77 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-libyque": {
+  "pays": "Libye · Égypte · Soudan",
+  "superficie": "1 100 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "Wikipédia français donne 700 000 km², les sources anglophones 1,1 million"
+ },
+ "deserts_tenere": {
+  "pays": "Niger · Tchad",
+  "superficie": "400 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_depression-de-l-afar": {
+  "pays": "Éthiopie · Érythrée · Djibouti",
+  "superficie": "150 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "contours mal définis selon les sources ; ordre de grandeur courant retenu"
+ },
+ "deserts_wadi-rum": {
+  "pays": "Jordanie",
+  "superficie": "720 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-de-tabernas": {
+  "pays": "Espagne",
+  "superficie": "280 km²",
+  "type": "Semi-aride",
+  "confiance": "sure"
+ },
+ "deserts_bardenas-reales": {
+  "pays": "Espagne",
+  "superficie": "392 km²",
+  "type": "Semi-aride",
+  "confiance": "sure"
+ },
+ "deserts_steppe-patagonienne": {
+  "pays": "Argentine · Chili",
+  "superficie": "673 000 km²",
+  "type": "Froid",
+  "confiance": "sure"
+ },
+ "deserts_desert-blanc": {
+  "pays": "Égypte",
+  "superficie": "3 000 km²",
+  "type": "Chaud",
+  "confiance": "tranchee",
+  "note": "superficie du parc national du Désert blanc"
+ },
+ "deserts_grand-erg-oriental": {
+  "pays": "Algérie · Tunisie",
+  "superficie": "185 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_desert-d-arabie": {
+  "pays": "Arabie saoudite · Yémen · Oman",
+  "superficie": "2 330 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_grand-desert-de-sable": {
+  "pays": "Australie",
+  "superficie": "360 000 km²",
+  "type": "Chaud",
+  "confiance": "sure"
+ },
+ "deserts_grand-bassin-des-etats-unis": {
+  "pays": "États-Unis",
+  "superficie": "492 000 km²",
+  "type": "Froid",
+  "confiance": "tranchee",
+  "note": "superficie du désert du Grand Bassin, le bassin hydrographique est plus vaste"
+ }
+}

@@ -1,0 +1,278 @@
+{
+ "theoremes-et-lois_theoreme-de-pythagore": {
+  "auteur": "Pythagore",
+  "date": "VIe siècle av. J.-C.",
+  "enonce": "Le carré de l'hypoténuse égale la somme des carrés des deux autres côtés",
+  "confiance": "tranchee",
+  "note": "attribution traditionnelle, la relation était connue des Babyloniens"
+ },
+ "theoremes-et-lois_theoreme-de-thales": {
+  "auteur": "Thalès de Milet",
+  "date": "VIe siècle av. J.-C.",
+  "enonce": "Des parallèles coupant deux sécantes créent des longueurs proportionnelles",
+  "confiance": "tranchee",
+  "note": "attribution traditionnelle, énoncé formalisé plus tard par Euclide"
+ },
+ "theoremes-et-lois_poussee-d-archimede": {
+  "auteur": "Archimède",
+  "date": "IIIe siècle av. J.-C.",
+  "enonce": "Un corps immergé subit une poussée égale au poids du fluide déplacé",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_lois-du-mouvement-de-newton": {
+  "auteur": "Isaac Newton",
+  "date": "1687",
+  "enonce": "Inertie, F = ma, action et réaction",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-universelle-de-la-gravitation": {
+  "auteur": "Isaac Newton",
+  "date": "1687",
+  "enonce": "Deux masses s'attirent en raison inverse du carré de leur distance",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_lois-de-kepler": {
+  "auteur": "Johannes Kepler",
+  "date": "1609-1619",
+  "enonce": "Les planètes décrivent des ellipses dont le Soleil est un foyer",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_relativite-restreinte": {
+  "auteur": "Albert Einstein",
+  "date": "1905",
+  "enonce": "La vitesse de la lumière est la même pour tout observateur",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_relativite-generale": {
+  "auteur": "Albert Einstein",
+  "date": "1915",
+  "enonce": "La gravitation est une courbure de l'espace-temps",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_e-mc2": {
+  "auteur": "Albert Einstein",
+  "date": "1905",
+  "enonce": "La masse et l'énergie sont équivalentes",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_principe-d-incertitude": {
+  "auteur": "Werner Heisenberg",
+  "date": "1927",
+  "enonce": "On ne peut connaître précisément à la fois position et vitesse",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-d-ohm": {
+  "auteur": "Georg Ohm",
+  "date": "1827",
+  "enonce": "La tension égale la résistance multipliée par l'intensité",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_equations-de-maxwell": {
+  "auteur": "James Clerk Maxwell",
+  "date": "1865",
+  "enonce": "Elles unifient électricité, magnétisme et lumière",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_conservation-de-l-energie": {
+  "auteur": "Hermann von Helmholtz",
+  "date": "1847",
+  "enonce": "L'énergie d'un système isolé reste constante",
+  "confiance": "tranchee",
+  "note": "principe dégagé en parallèle par Mayer, Joule et Helmholtz"
+ },
+ "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
+  "auteur": "Rudolf Clausius",
+  "date": "1850",
+  "enonce": "L'énergie interne varie du travail et de la chaleur échangés",
+  "confiance": "tranchee",
+  "note": "élaboré par Mayer, Joule et Clausius ; Clausius en donne la forme classique"
+ },
+ "theoremes-et-lois_deuxieme-principe-de-la-thermodynamique": {
+  "auteur": "Sadi Carnot",
+  "date": "1824",
+  "enonce": "L'entropie d'un système isolé ne peut que croître",
+  "confiance": "tranchee",
+  "note": "Carnot l'esquisse en 1824, Clausius le formule en 1850"
+ },
+ "theoremes-et-lois_loi-de-boyle-mariotte": {
+  "auteur": "Robert Boyle · Edme Mariotte",
+  "date": "1662",
+  "enonce": "À température constante, pression fois volume reste constant",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-d-avogadro": {
+  "auteur": "Amedeo Avogadro",
+  "date": "1811",
+  "enonce": "Des volumes égaux de gaz contiennent autant de molécules",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-de-coulomb-electrostatique": {
+  "auteur": "Charles-Augustin de Coulomb",
+  "date": "1785",
+  "enonce": "La force entre deux charges varie en raison inverse du carré de la distance",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_conservation-de-la-masse": {
+  "auteur": "Antoine Lavoisier",
+  "date": "1789",
+  "enonce": "Rien ne se perd, rien ne se crée, tout se transforme",
+  "confiance": "tranchee",
+  "note": "Lavoisier l'applique dès les années 1770 et l'énonce dans son Traité de 1789"
+ },
+ "theoremes-et-lois_loi-de-hooke": {
+  "auteur": "Robert Hooke",
+  "date": "1676",
+  "enonce": "L'allongement d'un ressort est proportionnel à la force",
+  "confiance": "tranchee",
+  "note": "anagramme publiée en 1676, explication en 1678"
+ },
+ "theoremes-et-lois_principe-de-pascal": {
+  "auteur": "Blaise Pascal",
+  "date": "1647",
+  "enonce": "Une pression se transmet intégralement dans un fluide incompressible",
+  "confiance": "tranchee",
+  "note": "expériences de 1647-1648, traité publié en 1663"
+ },
+ "theoremes-et-lois_effet-doppler": {
+  "auteur": "Christian Doppler",
+  "date": "1842",
+  "enonce": "La fréquence perçue varie avec le mouvement de la source",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_lois-de-snell-descartes": {
+  "auteur": "Willebrord Snell · René Descartes",
+  "date": "1621-1637",
+  "enonce": "Lois de la réflexion et de la réfraction de la lumière",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_dernier-theoreme-de-fermat": {
+  "auteur": "Pierre de Fermat",
+  "date": "1637",
+  "enonce": "Aucune solution entière à xⁿ + yⁿ = zⁿ pour n supérieur à 2",
+  "confiance": "tranchee",
+  "note": "énoncé par Fermat en 1637, démontré par Andrew Wiles en 1994"
+ },
+ "theoremes-et-lois_theoremes-d-incompletude-de-godel": {
+  "auteur": "Kurt Gödel",
+  "date": "1931",
+  "enonce": "Tout système formel cohérent contient des énoncés indémontrables",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_suite-de-fibonacci": {
+  "auteur": "Leonardo Fibonacci",
+  "date": "1202",
+  "enonce": "Chaque terme est la somme des deux précédents",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_nombre-d-or": {
+  "auteur": "Euclide",
+  "date": "IIIe siècle av. J.-C.",
+  "enonce": "Extrême et moyenne raison, environ 1,618",
+  "confiance": "tranchee",
+  "note": "Euclide en donne la première définition écrite ; le nom date du XIXe siècle"
+ },
+ "theoremes-et-lois_pi": {
+  "auteur": "Archimède",
+  "date": "IIIe siècle av. J.-C.",
+  "enonce": "Rapport du périmètre d'un cercle à son diamètre",
+  "confiance": "tranchee",
+  "note": "constante connue avant lui ; Archimède en donne le premier encadrement rigoureux"
+ },
+ "theoremes-et-lois_theoreme-des-quatre-couleurs": {
+  "auteur": "Kenneth Appel · Wolfgang Haken",
+  "date": "1976",
+  "enonce": "Quatre couleurs suffisent à colorier toute carte",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_conjecture-de-poincare": {
+  "auteur": "Henri Poincaré",
+  "date": "1904",
+  "enonce": "Toute 3-variété fermée simplement connexe est une sphère",
+  "confiance": "tranchee",
+  "note": "conjecture de 1904, démontrée par Grigori Perelman en 2003"
+ },
+ "theoremes-et-lois_loi-de-moore": {
+  "auteur": "Gordon Moore",
+  "date": "1965",
+  "enonce": "Le nombre de transistors d'une puce double tous les deux ans",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_selection-naturelle": {
+  "auteur": "Charles Darwin",
+  "date": "1859",
+  "enonce": "Les individus les mieux adaptés survivent et se reproduisent davantage",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_lois-de-mendel": {
+  "auteur": "Gregor Mendel",
+  "date": "1866",
+  "enonce": "Les caractères héréditaires se transmettent par des facteurs appariés",
+  "confiance": "tranchee",
+  "note": "exposées en 1865, publiées en 1866"
+ },
+ "theoremes-et-lois_big-bang": {
+  "auteur": "Georges Lemaître",
+  "date": "1927",
+  "enonce": "L'Univers est issu d'un état extrêmement dense et chaud",
+  "confiance": "tranchee",
+  "note": "Lemaître en 1927 (atome primitif en 1931) ; le nom Big Bang vient de Fred Hoyle en 1949"
+ },
+ "theoremes-et-lois_tectonique-des-plaques": {
+  "auteur": "Alfred Wegener",
+  "date": "1912",
+  "enonce": "La lithosphère est divisée en plaques mobiles",
+  "confiance": "tranchee",
+  "note": "Wegener propose la dérive des continents en 1912 ; la tectonique des plaques date des années 1960"
+ },
+ "theoremes-et-lois_effet-photoelectrique": {
+  "auteur": "Albert Einstein",
+  "date": "1905",
+  "enonce": "La lumière arrache des électrons à un métal",
+  "confiance": "tranchee",
+  "note": "découvert par Hertz en 1887, expliqué par Einstein en 1905"
+ },
+ "theoremes-et-lois_theoreme-de-bayes": {
+  "auteur": "Thomas Bayes",
+  "date": "1763",
+  "enonce": "Probabilité d'une cause connaissant l'effet observé",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-de-hubble-lemaitre": {
+  "auteur": "Edwin Hubble · Georges Lemaître",
+  "date": "1929",
+  "enonce": "Les galaxies s'éloignent à une vitesse proportionnelle à leur distance",
+  "confiance": "tranchee",
+  "note": "Lemaître la publie en 1927, Hubble la confirme en 1929"
+ },
+ "theoremes-et-lois_equation-de-schrodinger": {
+  "auteur": "Erwin Schrödinger",
+  "date": "1926",
+  "enonce": "Elle décrit l'évolution de la fonction d'onde",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_induction-electromagnetique": {
+  "auteur": "Michael Faraday",
+  "date": "1831",
+  "enonce": "Un champ magnétique variable crée un courant électrique",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_loi-des-gaz-parfaits": {
+  "auteur": "Émile Clapeyron",
+  "date": "1834",
+  "enonce": "PV = nRT",
+  "confiance": "sure"
+ },
+ "theoremes-et-lois_theorie-du-chaos": {
+  "auteur": "Edward Lorenz",
+  "date": "1963",
+  "enonce": "Sensibilité extrême aux conditions initiales",
+  "confiance": "tranchee",
+  "note": "Poincaré en pose les bases vers 1890, Lorenz la popularise en 1963"
+ },
+ "theoremes-et-lois_paradoxes-de-zenon": {
+  "auteur": "Zénon d'Élée",
+  "date": "Ve siècle av. J.-C.",
+  "enonce": "Achille ne rattrape jamais la tortue",
+  "confiance": "sure"
+ }
+}

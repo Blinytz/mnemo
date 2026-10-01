@@ -1,0 +1,309 @@
+{
+ "monarques-anglais-et-britanniques_alfred-le-grand": {
+  "regne": "871-899",
+  "maison": "Wessex",
+  "fait": "Résistance aux Vikings",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_thelstan": {
+  "regne": "924-939",
+  "maison": "Wessex",
+  "fait": "Premier roi d'Angleterre",
+  "confiance": "tranchee",
+  "note": "Roi des Anglo-Saxons en 924, de toute l'Angleterre en 927"
+ },
+ "monarques-anglais-et-britanniques_cnut-le-grand": {
+  "regne": "1016-1035",
+  "maison": "Jelling",
+  "fait": "Empire de la mer du Nord",
+  "confiance": "tranchee",
+  "note": "Dynastie danoise dite maison de Jelling (ou de Gorm)"
+ },
+ "monarques-anglais-et-britanniques_edouard-le-confesseur": {
+  "regne": "1042-1066",
+  "maison": "Wessex",
+  "fait": "Abbaye de Westminster",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_harold-godwinson": {
+  "regne": "1066",
+  "maison": "Godwin",
+  "fait": "Mort à Hastings",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_guillaume-le-conquerant": {
+  "regne": "1066-1087",
+  "maison": "Normandie",
+  "fait": "Conquête de l'Angleterre",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_guillaume-le-roux": {
+  "regne": "1087-1100",
+  "maison": "Normandie",
+  "fait": "Tué à la chasse",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-ier-roi-d-angleterre": {
+  "regne": "1100-1135",
+  "maison": "Normandie",
+  "fait": "Naufrage de la Blanche-Nef",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+  "regne": "1141",
+  "maison": "Normandie",
+  "fait": "Guerre civile contre Étienne",
+  "confiance": "tranchee",
+  "note": "Jamais couronnée, Dame des Anglais en 1141"
+ },
+ "monarques-anglais-et-britanniques_etienne-roi-d-angleterre": {
+  "regne": "1135-1154",
+  "maison": "Blois",
+  "fait": "Période de l'Anarchie",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-ii-roi-d-angleterre": {
+  "regne": "1154-1189",
+  "maison": "Plantagenêt",
+  "fait": "Meurtre de Thomas Becket",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_richard-c-ur-de-lion": {
+  "regne": "1189-1199",
+  "maison": "Plantagenêt",
+  "fait": "Troisième croisade",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_jean-sans-terre": {
+  "regne": "1199-1216",
+  "maison": "Plantagenêt",
+  "fait": "Grande Charte",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-iii-roi-d-angleterre": {
+  "regne": "1216-1272",
+  "maison": "Plantagenêt",
+  "fait": "Provisions d'Oxford",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
+  "regne": "1272-1307",
+  "maison": "Plantagenêt",
+  "fait": "Conquête du pays de Galles",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-ii": {
+  "regne": "1307-1327",
+  "maison": "Plantagenêt",
+  "fait": "Défaite de Bannockburn",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-iii": {
+  "regne": "1327-1377",
+  "maison": "Plantagenêt",
+  "fait": "Début de la guerre de Cent Ans",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_richard-ii": {
+  "regne": "1377-1399",
+  "maison": "Plantagenêt",
+  "fait": "Révolte des paysans",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-iv-roi-d-angleterre": {
+  "regne": "1399-1413",
+  "maison": "Lancastre",
+  "fait": "Usurpation du trône",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-v-roi-d-angleterre": {
+  "regne": "1413-1422",
+  "maison": "Lancastre",
+  "fait": "Victoire d'Azincourt",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-vi-roi-d-angleterre": {
+  "regne": "1422-1461 · 1470-1471",
+  "maison": "Lancastre",
+  "fait": "Guerre des Deux-Roses",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-iv": {
+  "regne": "1461-1470 · 1471-1483",
+  "maison": "York",
+  "fait": "Victoire de Towton",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-v": {
+  "regne": "1483",
+  "maison": "York",
+  "fait": "Princes de la Tour",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_richard-iii": {
+  "regne": "1483-1485",
+  "maison": "York",
+  "fait": "Mort à Bosworth",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-vii-roi-d-angleterre": {
+  "regne": "1485-1509",
+  "maison": "Tudor",
+  "fait": "Fin de la guerre des Deux-Roses",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_henri-viii": {
+  "regne": "1509-1547",
+  "maison": "Tudor",
+  "fait": "Rupture avec Rome",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-vi": {
+  "regne": "1547-1553",
+  "maison": "Tudor",
+  "fait": "Réforme protestante",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_jeanne-grey": {
+  "regne": "1553",
+  "maison": "Grey",
+  "fait": "Reine neuf jours",
+  "confiance": "tranchee",
+  "note": "Maison Grey, arrière-petite-fille d'Henri VII Tudor"
+ },
+ "monarques-anglais-et-britanniques_marie-ire-reine-d-angleterre": {
+  "regne": "1553-1558",
+  "maison": "Tudor",
+  "fait": "Persécution des protestants",
+  "confiance": "sure",
+  "nom": "Marie Ire d'Angleterre"
+ },
+ "monarques-anglais-et-britanniques_elisabeth-ire-reine-d-angleterre": {
+  "regne": "1558-1603",
+  "maison": "Tudor",
+  "fait": "Défaite de l'Invincible Armada",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_jacques-vi-et-ier": {
+  "regne": "1603-1625",
+  "maison": "Stuart",
+  "fait": "Union des couronnes",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_charles-ier-roi-d-angleterre": {
+  "regne": "1625-1649",
+  "maison": "Stuart",
+  "fait": "Décapité en 1649",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_oliver-cromwell": {
+  "regne": "1653-1658",
+  "maison": "Cromwell",
+  "fait": "Lord-protecteur du Commonwealth",
+  "confiance": "tranchee",
+  "note": "Pas un monarque ni une dynastie : lord-protecteur de la république"
+ },
+ "monarques-anglais-et-britanniques_charles-ii-roi-d-angleterre": {
+  "regne": "1660-1685",
+  "maison": "Stuart",
+  "fait": "Restauration de la monarchie",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_jacques-ii-roi-d-angleterre": {
+  "regne": "1685-1688",
+  "maison": "Stuart",
+  "fait": "Glorieuse Révolution",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_guillaume-iii-d-orange-nassau": {
+  "regne": "1689-1702",
+  "maison": "Orange-Nassau",
+  "fait": "Déclaration des droits",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_marie-ii-reine-d-angleterre": {
+  "regne": "1689-1694",
+  "maison": "Stuart",
+  "fait": "Règne conjoint avec Guillaume III",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_anne-reine-de-grande-bretagne": {
+  "regne": "1702-1714",
+  "maison": "Stuart",
+  "fait": "Acte d'Union de 1707",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-ier-roi-de-grande-bretagne": {
+  "regne": "1714-1727",
+  "maison": "Hanovre",
+  "fait": "Premier roi hanovrien",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-ii-roi-de-grande-bretagne": {
+  "regne": "1727-1760",
+  "maison": "Hanovre",
+  "fait": "Guerre de Sept Ans",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-iii": {
+  "regne": "1760-1820",
+  "maison": "Hanovre",
+  "fait": "Indépendance américaine",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-iv": {
+  "regne": "1820-1830",
+  "maison": "Hanovre",
+  "fait": "Période de la Régence",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_guillaume-iv-roi-du-royaume-uni": {
+  "regne": "1830-1837",
+  "maison": "Hanovre",
+  "fait": "Abolition de l'esclavage",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_victoria-reine": {
+  "regne": "1837-1901",
+  "maison": "Hanovre",
+  "fait": "Impératrice des Indes",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_edouard-vii": {
+  "regne": "1901-1910",
+  "maison": "Saxe-Cobourg-Gotha",
+  "fait": "Entente cordiale",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-v": {
+  "regne": "1910-1936",
+  "maison": "Windsor",
+  "fait": "Première Guerre mondiale",
+  "confiance": "tranchee",
+  "note": "Maison Saxe-Cobourg-Gotha renommée Windsor en 1917"
+ },
+ "monarques-anglais-et-britanniques_edouard-viii": {
+  "regne": "1936",
+  "maison": "Windsor",
+  "fait": "Abdication",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_george-vi": {
+  "regne": "1936-1952",
+  "maison": "Windsor",
+  "fait": "Seconde Guerre mondiale",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_elisabeth-ii": {
+  "regne": "1952-2022",
+  "maison": "Windsor",
+  "fait": "Plus long règne britannique",
+  "confiance": "sure"
+ },
+ "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
+  "regne": "2022-",
+  "maison": "Windsor",
+  "fait": "Couronnement en 2023",
+  "confiance": "sure"
+ }
+}

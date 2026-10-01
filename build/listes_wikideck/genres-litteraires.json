@@ -1,0 +1,180 @@
+{
+ "genres-litteraires_roman-litterature": {
+  "definition": "Long récit de fiction en prose",
+  "exemple": "Les Misérables · Hugo",
+  "confiance": "sure"
+ },
+ "genres-litteraires_nouvelle": {
+  "definition": "Récit de fiction bref et resserré",
+  "exemple": "Boule de suif · Maupassant",
+  "confiance": "sure"
+ },
+ "genres-litteraires_conte": {
+  "definition": "Court récit merveilleux ou imaginaire",
+  "exemple": "Le Petit Chaperon rouge · Perrault",
+  "confiance": "sure"
+ },
+ "genres-litteraires_fable": {
+  "definition": "Court récit moral, souvent animalier",
+  "exemple": "Le Corbeau et le Renard · La Fontaine",
+  "confiance": "sure"
+ },
+ "genres-litteraires_poesie": {
+  "definition": "Art du langage rythmé, sonore et imagé",
+  "exemple": "Les Fleurs du mal · Baudelaire",
+  "confiance": "sure"
+ },
+ "genres-litteraires_sonnet": {
+  "definition": "Poème de deux quatrains et deux tercets",
+  "exemple": "Les Regrets · Du Bellay",
+  "confiance": "sure"
+ },
+ "genres-litteraires_haiku": {
+  "definition": "Bref poème japonais de dix-sept syllabes",
+  "exemple": "Le Vieil Étang · Bashō",
+  "confiance": "tranchee",
+  "note": "titre français variable selon les traductions (« La Vieille Mare »)"
+ },
+ "genres-litteraires_ballade": {
+  "definition": "Poème de trois strophes suivies d'un envoi",
+  "exemple": "Ballade des pendus · Villon",
+  "confiance": "sure"
+ },
+ "genres-litteraires_epopee": {
+  "definition": "Long poème narrant des exploits héroïques",
+  "exemple": "L'Iliade · Homère",
+  "confiance": "sure"
+ },
+ "genres-litteraires_tragedie": {
+  "definition": "Pièce où des héros vont vers un destin funeste",
+  "exemple": "Phèdre · Racine",
+  "confiance": "sure"
+ },
+ "genres-litteraires_comedie": {
+  "definition": "Pièce de théâtre destinée à faire rire",
+  "exemple": "Le Misanthrope · Molière",
+  "confiance": "sure"
+ },
+ "genres-litteraires_drame-romantique": {
+  "definition": "Pièce mêlant sublime et grotesque, sans les unités",
+  "exemple": "Hernani · Victor Hugo",
+  "confiance": "sure"
+ },
+ "genres-litteraires_vaudeville": {
+  "definition": "Comédie légère à quiproquos et rebondissements",
+  "exemple": "Un chapeau de paille d'Italie · Labiche",
+  "confiance": "sure"
+ },
+ "genres-litteraires_farce-theatre": {
+  "definition": "Courte pièce comique populaire et bouffonne",
+  "exemple": "La Farce de maître Pathelin",
+  "confiance": "sure"
+ },
+ "genres-litteraires_essai": {
+  "definition": "Réflexion personnelle en prose sur un sujet",
+  "exemple": "Essais · Montaigne",
+  "confiance": "sure"
+ },
+ "genres-litteraires_autobiographie": {
+  "definition": "Récit de sa propre vie par l'auteur",
+  "exemple": "Les Confessions · Rousseau",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-epistolaire": {
+  "definition": "Roman composé de lettres échangées",
+  "exemple": "Les Liaisons dangereuses · Laclos",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-policier": {
+  "definition": "Récit d'enquête autour d'un crime",
+  "exemple": "Le Chien des Baskerville · Conan Doyle",
+  "confiance": "sure"
+ },
+ "genres-litteraires_science-fiction": {
+  "definition": "Fiction fondée sur des sciences imaginaires",
+  "exemple": "Fondation · Asimov",
+  "confiance": "sure"
+ },
+ "genres-litteraires_fantasy": {
+  "definition": "Fiction de magie et de mondes imaginaires",
+  "exemple": "Le Seigneur des anneaux · Tolkien",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-d-aventures": {
+  "definition": "Récit d'action, de voyages et de périls",
+  "exemple": "L'Île au trésor · Stevenson",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-historique": {
+  "definition": "Fiction ancrée dans une époque passée réelle",
+  "exemple": "Les Trois Mousquetaires · Dumas",
+  "confiance": "sure"
+ },
+ "genres-litteraires_utopie": {
+  "definition": "Description d'une société idéale imaginaire",
+  "exemple": "Utopia · Thomas More",
+  "confiance": "sure"
+ },
+ "genres-litteraires_dystopie": {
+  "definition": "Société imaginaire oppressive et cauchemardesque",
+  "exemple": "1984 · Orwell",
+  "confiance": "sure"
+ },
+ "genres-litteraires_pamphlet": {
+  "definition": "Court écrit polémique et virulent",
+  "exemple": "J'accuse · Zola",
+  "confiance": "tranchee",
+  "note": "lettre ouverte souvent citée comme pamphlet ; Les Châtiments de Hugo serait aussi recevable"
+ },
+ "genres-litteraires_chanson-de-geste": {
+  "definition": "Poème épique médiéval d'exploits guerriers",
+  "exemple": "La Chanson de Roland",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-de-chevalerie": {
+  "definition": "Récit médiéval d'aventures de chevaliers",
+  "exemple": "Lancelot · Chrétien de Troyes",
+  "confiance": "sure"
+ },
+ "genres-litteraires_fantastique": {
+  "definition": "Irruption inexpliquée du surnaturel dans le réel",
+  "exemple": "La Vénus d'Ille · Prosper Mérimée",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-d-apprentissage": {
+  "definition": "Formation d'un jeune héros au fil des épreuves",
+  "exemple": "L'Éducation sentimentale · Flaubert",
+  "confiance": "sure"
+ },
+ "genres-litteraires_roman-picaresque": {
+  "definition": "Aventures d'un vagabond de basse condition",
+  "exemple": "Lazarillo de Tormes",
+  "confiance": "sure"
+ },
+ "genres-litteraires_satire": {
+  "definition": "Critique moqueuse des mœurs ou des institutions",
+  "exemple": "Candide · Voltaire",
+  "confiance": "tranchee",
+  "note": "conte philosophique à visée satirique ; les Satires de Boileau sont l'autre choix classique"
+ },
+ "genres-litteraires_roman-gothique": {
+  "definition": "Récit d'effroi dans des décors sombres et anciens",
+  "exemple": "Le Château d'Otrante · Walpole",
+  "confiance": "sure"
+ },
+ "genres-litteraires_fabliau": {
+  "definition": "Court conte médiéval comique en vers",
+  "exemple": "Le Vilain Mire",
+  "confiance": "sure"
+ },
+ "genres-litteraires_biographie": {
+  "definition": "Récit de la vie d'une personne par un autre",
+  "exemple": "Vies parallèles · Plutarque",
+  "confiance": "sure"
+ },
+ "genres-litteraires_journal-intime": {
+  "definition": "Notes personnelles datées, tenues au jour le jour",
+  "exemple": "Le Journal d'Anne Frank",
+  "confiance": "sure"
+ }
+}

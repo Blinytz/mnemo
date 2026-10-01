@@ -1,0 +1,278 @@
+{
+ "religions-du-monde_christianisme": {
+  "apparition": "Ier siècle",
+  "origine": "Jésus de Nazareth",
+  "texte": "Bible",
+  "fideles": "2,4 milliards",
+  "confiance": "sure"
+ },
+ "religions-du-monde_islam": {
+  "apparition": "VIIe siècle",
+  "origine": "Mahomet",
+  "texte": "Coran",
+  "fideles": "1,9 milliard",
+  "confiance": "sure"
+ },
+ "religions-du-monde_hindouisme": {
+  "apparition": "1500 av. J.-C.",
+  "origine": "Inde",
+  "texte": "Veda",
+  "fideles": "1,2 milliard",
+  "confiance": "tranchee",
+  "note": "pas de fondateur ; racines védiques datées vers 1500 av. J.-C."
+ },
+ "religions-du-monde_bouddhisme": {
+  "apparition": "Ve siècle av. J.-C.",
+  "origine": "Bouddha",
+  "texte": "Tipitaka",
+  "fideles": "500 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_judaisme": {
+  "apparition": "XIIIe siècle av. J.-C.",
+  "origine": "Abraham · Moïse",
+  "texte": "Torah",
+  "fideles": "15 millions",
+  "confiance": "tranchee",
+  "note": "datation traditionnelle (Moïse) ; Abraham serait plus ancien"
+ },
+ "religions-du-monde_sikhisme": {
+  "apparition": "XVe siècle",
+  "origine": "Guru Nanak",
+  "texte": "Guru Granth Sahib",
+  "fideles": "25 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_taoisme": {
+  "apparition": "IVe siècle av. J.-C.",
+  "origine": "Lao Tseu",
+  "texte": "Tao-tö-king",
+  "fideles": "12 millions",
+  "confiance": "tranchee",
+  "note": "taoïsme philosophique IVe s. av. J.-C., religieux IIe s. ; nombre de fidèles très incertain"
+ },
+ "religions-du-monde_confucianisme": {
+  "apparition": "Ve siècle av. J.-C.",
+  "origine": "Confucius",
+  "texte": "Entretiens de Confucius",
+  "fideles": "6 millions",
+  "confiance": "tranchee",
+  "note": "pratiquants déclarés peu nombreux, influence culturelle bien plus large"
+ },
+ "religions-du-monde_shintoisme": {
+  "apparition": "VIIIe siècle",
+  "origine": "Japon",
+  "texte": "Kojiki",
+  "fideles": "90 millions",
+  "confiance": "tranchee",
+  "note": "codifié avec le Kojiki (712), racines préhistoriques ; affiliation déclarée variable"
+ },
+ "religions-du-monde_jainisme": {
+  "apparition": "VIe siècle av. J.-C.",
+  "origine": "Mahavira",
+  "texte": "Agamas",
+  "fideles": "5 millions",
+  "confiance": "tranchee",
+  "note": "Mahavira est le 24e Tirthankara, la tradition se dit plus ancienne"
+ },
+ "religions-du-monde_zoroastrisme": {
+  "apparition": "1000 av. J.-C.",
+  "origine": "Zoroastre",
+  "texte": "Avesta",
+  "fideles": "150 000",
+  "confiance": "tranchee",
+  "note": "date de Zoroastre très débattue (1500-600 av. J.-C.)"
+ },
+ "religions-du-monde_foi-baha-ie": {
+  "apparition": "1863",
+  "origine": "Bahá'u'lláh",
+  "texte": "Kitab-i-Aqdas",
+  "fideles": "8 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_catholicisme": {
+  "apparition": "Ier siècle",
+  "origine": "Saint Pierre · Rome",
+  "texte": "Bible",
+  "fideles": "1,4 milliard",
+  "confiance": "tranchee",
+  "note": "naît avec le christianisme ; confession distincte après le schisme de 1054"
+ },
+ "religions-du-monde_protestantisme": {
+  "apparition": "1517",
+  "origine": "Martin Luther",
+  "texte": "Bible",
+  "fideles": "900 millions",
+  "confiance": "tranchee",
+  "note": "estimations de 600 à 900 millions selon l'inclusion des évangéliques"
+ },
+ "religions-du-monde_christianisme-orthodoxe": {
+  "apparition": "1054",
+  "origine": "Constantinople",
+  "texte": "Bible",
+  "fideles": "260 millions",
+  "confiance": "tranchee",
+  "note": "date du schisme ; tradition revendiquée depuis le Ier siècle"
+ },
+ "religions-du-monde_sunnisme": {
+  "apparition": "VIIe siècle",
+  "origine": "Mahomet",
+  "texte": "Coran · Sunna",
+  "fideles": "1,7 milliard",
+  "confiance": "sure"
+ },
+ "religions-du-monde_chiisme": {
+  "apparition": "VIIe siècle",
+  "origine": "Ali",
+  "texte": "Coran",
+  "fideles": "200 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_theravada": {
+  "apparition": "IIIe siècle av. J.-C.",
+  "origine": "Inde · Sri Lanka",
+  "texte": "Canon pali",
+  "fideles": "150 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_bouddhisme-mahayana": {
+  "apparition": "Ier siècle av. J.-C.",
+  "origine": "Inde",
+  "texte": "Sutra du Lotus",
+  "fideles": "350 millions",
+  "confiance": "tranchee",
+  "note": "nombreux sutras de référence ; chiffre approximatif"
+ },
+ "religions-du-monde_bouddhisme-tibetain": {
+  "apparition": "VIIe siècle",
+  "origine": "Tibet",
+  "texte": "Kangyour",
+  "fideles": "20 millions",
+  "confiance": "tranchee",
+  "note": "introduction au VIIe s., Padmasambhava au VIIIe ; nombre incertain"
+ },
+ "religions-du-monde_zen": {
+  "apparition": "XIIe siècle",
+  "origine": "Eisai · Dōgen",
+  "texte": "Shobogenzo",
+  "fideles": "10 millions",
+  "confiance": "tranchee",
+  "note": "zen japonais introduit par Eisai (1191) et Dōgen ; chan chinois dès le VIe s. ; effectif approximatif"
+ },
+ "religions-du-monde_anglicanisme": {
+  "apparition": "1534",
+  "origine": "Henri VIII",
+  "texte": "Livre de la prière commune",
+  "fideles": "85 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_vaudou": {
+  "apparition": "XVIIe siècle",
+  "origine": "Afrique de l'Ouest · Haïti",
+  "texte": "Tradition orale",
+  "fideles": "60 millions",
+  "confiance": "tranchee",
+  "note": "vaudou haïtien formé à l'époque de la traite ; vodun africain plus ancien ; estimation large"
+ },
+ "religions-du-monde_candomble": {
+  "apparition": "XIXe siècle",
+  "origine": "Brésil",
+  "texte": "Tradition orale",
+  "fideles": "2 millions",
+  "confiance": "tranchee",
+  "note": "racines yoruba ; recensement bien plus bas que les estimations"
+ },
+ "religions-du-monde_mouvement-rastafari": {
+  "apparition": "1930",
+  "origine": "Jamaïque",
+  "texte": "Bible · Kebra Nagast",
+  "fideles": "1 million",
+  "confiance": "tranchee",
+  "note": "nombre de fidèles approximatif"
+ },
+ "religions-du-monde_temoins-de-jehovah": {
+  "apparition": "1870",
+  "origine": "Charles Taze Russell",
+  "texte": "Bible",
+  "fideles": "9 millions",
+  "confiance": "sure"
+ },
+ "religions-du-monde_manicheisme-religion": {
+  "apparition": "IIIe siècle",
+  "origine": "Mani",
+  "texte": "Évangile vivant",
+  "fideles": "Religion disparue",
+  "confiance": "tranchee",
+  "note": "religion éteinte ; plusieurs écrits de Mani"
+ },
+ "religions-du-monde_religion-de-l-egypte-antique": {
+  "apparition": "3000 av. J.-C.",
+  "origine": "Égypte",
+  "texte": "Livre des morts",
+  "fideles": "Religion disparue",
+  "confiance": "tranchee",
+  "note": "pas de texte canonique unique"
+ },
+ "religions-du-monde_religion-grecque-antique": {
+  "apparition": "1600 av. J.-C.",
+  "origine": "Grèce",
+  "texte": "Théogonie · Iliade",
+  "fideles": "Religion disparue",
+  "confiance": "tranchee",
+  "note": "attestée à l'époque mycénienne ; pas de texte sacré canonique"
+ },
+ "religions-du-monde_evangelisme": {
+  "apparition": "XVIIIe siècle",
+  "origine": "Royaume-Uni · États-Unis",
+  "texte": "Bible",
+  "fideles": "600 millions",
+  "confiance": "tranchee",
+  "note": "Réveils du XVIIIe s. ; estimations très variables"
+ },
+ "religions-du-monde_pentecotisme": {
+  "apparition": "1901",
+  "origine": "Charles Parham",
+  "texte": "Bible",
+  "fideles": "280 millions",
+  "confiance": "tranchee",
+  "note": "600 millions avec les charismatiques"
+ },
+ "religions-du-monde_religion-de-la-rome-antique": {
+  "apparition": "VIIIe siècle av. J.-C.",
+  "origine": "Rome",
+  "texte": "Livres sibyllins",
+  "fideles": "Religion disparue",
+  "confiance": "tranchee",
+  "note": "pas de texte canonique ; date de fondation légendaire de Rome"
+ },
+ "religions-du-monde_religion-nordique-ancienne": {
+  "apparition": "VIIIe siècle",
+  "origine": "Scandinavie",
+  "texte": "Edda",
+  "fideles": "Religion disparue",
+  "confiance": "tranchee",
+  "note": "époque viking, racines germaniques plus anciennes ; Edda rédigées au XIIIe s."
+ },
+ "religions-du-monde_druzes": {
+  "apparition": "XIe siècle",
+  "origine": "Hamza ibn Ali",
+  "texte": "Épîtres de la sagesse",
+  "fideles": "1 million",
+  "confiance": "sure"
+ },
+ "religions-du-monde_alevisme": {
+  "apparition": "XIIIe siècle",
+  "origine": "Anatolie",
+  "texte": "Buyruk",
+  "fideles": "20 millions",
+  "confiance": "tranchee",
+  "note": "formé autour de Hadji Bektash Veli (XIIIe s.) ; estimations de 10 à 25 millions"
+ },
+ "religions-du-monde_amish": {
+  "apparition": "1693",
+  "origine": "Jakob Ammann",
+  "texte": "Bible",
+  "fideles": "400 000",
+  "confiance": "sure"
+ }
+}

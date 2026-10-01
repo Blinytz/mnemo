@@ -1,0 +1,193 @@
+{
+ "mouvements-litteraires_humanisme": {
+  "periode": "XVIe siècle",
+  "auteurs": "Érasme · Rabelais · Montaigne",
+  "oeuvre": "Gargantua",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_pleiade-xvie-siecle": {
+  "periode": "1549-1585",
+  "auteurs": "Ronsard · Du Bellay",
+  "oeuvre": "Les Regrets",
+  "confiance": "tranchee",
+  "note": "le manifeste, Défense et illustration de la langue française, est trop long pour être tapé"
+ },
+ "mouvements-litteraires_litterature-baroque": {
+  "periode": "1580-1660",
+  "auteurs": "Agrippa d'Aubigné · Théophile de Viau",
+  "oeuvre": "Les Tragiques",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_preciosite": {
+  "periode": "1650-1660",
+  "auteurs": "Madeleine de Scudéry · Voiture",
+  "oeuvre": "Clélie",
+  "confiance": "tranchee",
+  "note": "bornes approximatives : apogée des salons précieux vers 1650-1660"
+ },
+ "mouvements-litteraires_classicisme": {
+  "periode": "1660-1715",
+  "auteurs": "Molière · Racine · La Fontaine",
+  "oeuvre": "Phèdre",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_lumieres-philosophie": {
+  "periode": "1715-1789",
+  "auteurs": "Voltaire · Diderot · Rousseau",
+  "oeuvre": "Encyclopédie",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_romantisme": {
+  "periode": "1820-1850",
+  "auteurs": "Hugo · Lamartine · Musset",
+  "oeuvre": "Hernani",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_realisme-litterature": {
+  "periode": "1850-1880",
+  "auteurs": "Flaubert · Balzac · Stendhal",
+  "oeuvre": "Madame Bovary",
+  "confiance": "tranchee",
+  "note": "Balzac et Stendhal sont des précurseurs antérieurs à 1850"
+ },
+ "mouvements-litteraires_naturalisme-litterature": {
+  "periode": "1870-1895",
+  "auteurs": "Zola · Maupassant",
+  "oeuvre": "Germinal",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_parnasse-poesie": {
+  "periode": "1866-1890",
+  "auteurs": "Leconte de Lisle · Gautier · Heredia",
+  "oeuvre": "Les Trophées",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_symbolisme-art": {
+  "periode": "1886-1900",
+  "auteurs": "Mallarmé · Verlaine · Rimbaud",
+  "oeuvre": "Un coup de dés",
+  "confiance": "tranchee",
+  "note": "pas d'œuvre unique consacrée ; titre abrégé de Un coup de dés jamais n'abolira le hasard"
+ },
+ "mouvements-litteraires_decadentisme": {
+  "periode": "1880-1900",
+  "auteurs": "Huysmans · Jean Lorrain",
+  "oeuvre": "À rebours",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_surrealisme": {
+  "periode": "1924-1966",
+  "auteurs": "Breton · Éluard · Aragon",
+  "oeuvre": "Nadja",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_dada": {
+  "periode": "1916-1924",
+  "auteurs": "Tzara · Hugo Ball",
+  "oeuvre": "Manifeste Dada",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_existentialisme": {
+  "periode": "1940-1960",
+  "auteurs": "Sartre · Beauvoir · Camus",
+  "oeuvre": "La Nausée",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_theatre-de-l-absurde": {
+  "periode": "1950-1970",
+  "auteurs": "Beckett · Ionesco",
+  "oeuvre": "En attendant Godot",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_nouveau-roman": {
+  "periode": "1950-1970",
+  "auteurs": "Robbe-Grillet · Sarraute",
+  "oeuvre": "La Jalousie",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_oulipo": {
+  "periode": "1960 à nos jours",
+  "auteurs": "Queneau · Perec",
+  "oeuvre": "La Disparition",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_negritude": {
+  "periode": "1930-1960",
+  "auteurs": "Césaire · Senghor",
+  "oeuvre": "Cahier d'un retour au pays natal",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_beat-generation": {
+  "periode": "1950-1960",
+  "auteurs": "Kerouac · Ginsberg",
+  "oeuvre": "Sur la route",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_generation-perdue": {
+  "periode": "1920-1930",
+  "auteurs": "Hemingway · Fitzgerald",
+  "oeuvre": "Gatsby le Magnifique",
+  "confiance": "tranchee",
+  "note": "Le soleil se lève aussi est l'autre œuvre emblématique du groupe"
+ },
+ "mouvements-litteraires_realisme-magique": {
+  "periode": "1950-1980",
+  "auteurs": "García Márquez · Rulfo",
+  "oeuvre": "Cent ans de solitude",
+  "confiance": "tranchee",
+  "note": "bornes approximatives : le boom latino-américain des années 1960 en est le cœur"
+ },
+ "mouvements-litteraires_futurisme": {
+  "periode": "1909-1944",
+  "auteurs": "Marinetti · Maïakovski",
+  "oeuvre": "Manifeste du futurisme",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_sturm-und-drang": {
+  "periode": "1765-1785",
+  "auteurs": "Goethe · Schiller",
+  "oeuvre": "Les Souffrances du jeune Werther",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_preromantisme": {
+  "periode": "1760-1820",
+  "auteurs": "Rousseau · Chateaubriand · Mme de Staël",
+  "oeuvre": "René",
+  "confiance": "tranchee",
+  "note": "mouvement aux contours flous ; Paul et Virginie serait aussi recevable"
+ },
+ "mouvements-litteraires_les-hussards-mouvement-litteraire": {
+  "periode": "1950-1960",
+  "auteurs": "Nimier · Blondin",
+  "oeuvre": "Le Hussard bleu",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_litterature-courtoise": {
+  "periode": "XIIe siècle",
+  "auteurs": "Chrétien de Troyes · Marie de France",
+  "oeuvre": "Tristan et Iseut",
+  "confiance": "sure"
+ },
+ "mouvements-litteraires_libertin": {
+  "periode": "XVIIe-XVIIIe siècle",
+  "auteurs": "Cyrano de Bergerac · Laclos",
+  "oeuvre": "Les Liaisons dangereuses",
+  "confiance": "tranchee",
+  "note": "deux libertinages : érudit au XVIIe siècle, romanesque au XVIIIe",
+  "tri": "1650"
+ },
+ "mouvements-litteraires_renaissance-de-harlem": {
+  "periode": "1918-1937",
+  "auteurs": "Langston Hughes · Zora Neale Hurston",
+  "oeuvre": "The Weary Blues",
+  "confiance": "tranchee",
+  "note": "recueil de Hughes ; Their Eyes Were Watching God de Hurston serait aussi recevable"
+ },
+ "mouvements-litteraires_litterature-postmoderne": {
+  "periode": "1960-1990",
+  "auteurs": "Pynchon · Calvino · Eco",
+  "oeuvre": "Si par une nuit d'hiver un voyageur",
+  "confiance": "tranchee",
+  "note": "bornes conventionnelles, courant sans manifeste"
+ }
+}

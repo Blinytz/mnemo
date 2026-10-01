@@ -1,0 +1,157 @@
+{
+ "crises-economiques_tulipomanie": {
+  "date": "1637",
+  "pays": "Provinces-Unies",
+  "cause": "Spéculation sur les bulbes",
+  "confiance": "sure"
+ },
+ "crises-economiques_grande-depression": {
+  "date": "1929-1939",
+  "pays": "États-Unis",
+  "cause": "Krach boursier de 1929",
+  "confiance": "sure"
+ },
+ "crises-economiques_krach-de-1929": {
+  "date": "1929",
+  "pays": "États-Unis",
+  "cause": "Spéculation boursière à crédit",
+  "confiance": "sure"
+ },
+ "crises-economiques_premier-choc-petrolier": {
+  "date": "1973",
+  "pays": "Arabie saoudite",
+  "cause": "Embargo pétrolier de l'OPAEP",
+  "confiance": "tranchee",
+  "note": "Crise mondiale ; embargo décidé par les pays arabes, Arabie saoudite en tête"
+ },
+ "crises-economiques_deuxieme-choc-petrolier": {
+  "date": "1979",
+  "pays": "Iran",
+  "cause": "Révolution iranienne",
+  "confiance": "sure"
+ },
+ "crises-economiques_krach-d-octobre-1987": {
+  "date": "1987",
+  "pays": "États-Unis",
+  "cause": "Ventes automatisées massives",
+  "confiance": "tranchee",
+  "note": "Causes débattues ; programmes de vente automatiques retenus"
+ },
+ "crises-economiques_crise-economique-asiatique": {
+  "date": "1997",
+  "pays": "Thaïlande",
+  "cause": "Effondrement du baht",
+  "confiance": "sure"
+ },
+ "crises-economiques_bulle-internet": {
+  "date": "2000",
+  "pays": "États-Unis",
+  "cause": "Spéculation sur les valeurs Internet",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-des-subprimes": {
+  "date": "2007",
+  "pays": "États-Unis",
+  "cause": "Prêts immobiliers à risque",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
+  "date": "2007-2008",
+  "pays": "États-Unis",
+  "cause": "Crise des subprimes",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
+  "date": "2010",
+  "pays": "Grèce",
+  "cause": "Dettes publiques excessives",
+  "confiance": "tranchee",
+  "note": "Crise de la zone euro ; Grèce retenue comme point de départ"
+ },
+ "crises-economiques_crise-de-la-dette-publique-grecque": {
+  "date": "2010",
+  "pays": "Grèce",
+  "cause": "Déficits publics maquillés",
+  "confiance": "sure"
+ },
+ "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
+  "date": "1921-1923",
+  "pays": "Allemagne",
+  "cause": "Réparations de guerre",
+  "confiance": "sure",
+  "nom": "Hyperinflation de Weimar"
+ },
+ "crises-economiques_systeme-de-law": {
+  "date": "1720",
+  "pays": "France",
+  "cause": "Émission excessive de billets",
+  "confiance": "sure"
+ },
+ "crises-economiques_krach-de-1720": {
+  "date": "1720",
+  "pays": "Grande-Bretagne",
+  "cause": "Bulle des mers du Sud",
+  "confiance": "tranchee",
+  "note": "Krach européen ; bulle des mers du Sud à Londres, royaume de Grande-Bretagne en 1720"
+ },
+ "crises-economiques_panique-du-18-septembre-1873": {
+  "date": "1873",
+  "pays": "États-Unis",
+  "cause": "Faillite de Jay Cooke",
+  "confiance": "tranchee",
+  "note": "Krach de Vienne en mai 1873 ; panique américaine de septembre retenue",
+  "nom": "Panique de 1873"
+ },
+ "crises-economiques_panique-bancaire-americaine-de-1907": {
+  "date": "1907",
+  "pays": "États-Unis",
+  "cause": "Spéculation sur le cuivre",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-economique-argentine": {
+  "date": "1998-2002",
+  "pays": "Argentine",
+  "cause": "Parité peso-dollar intenable",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-bancaire-et-financiere-de-l-automne-2008": {
+  "date": "2008",
+  "pays": "États-Unis",
+  "cause": "Faillite de Lehman Brothers",
+  "confiance": "sure",
+  "nom": "Crise bancaire de 2008"
+ },
+ "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
+  "date": "2020",
+  "pays": "Chine",
+  "cause": "Pandémie de Covid-19",
+  "confiance": "tranchee",
+  "note": "Crise mondiale ; pays d'origine de la pandémie retenu",
+  "nom": "Crise du Covid-19"
+ },
+ "crises-economiques_hyperinflation-au-zimbabwe": {
+  "date": "2000-2009",
+  "pays": "Zimbabwe",
+  "cause": "Planche à billets",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-financiere-russe-de-1998": {
+  "date": "1998",
+  "pays": "Russie",
+  "cause": "Défaut sur la dette publique",
+  "confiance": "sure"
+ },
+ "crises-economiques_crise-economique-mexicaine": {
+  "date": "1994-1995",
+  "pays": "Mexique",
+  "cause": "Dévaluation du peso",
+  "confiance": "sure",
+  "nom": "Crise tequila · Crise mexicaine de 1994"
+ },
+ "crises-economiques_enron": {
+  "date": "2001",
+  "pays": "États-Unis",
+  "cause": "Fraude comptable",
+  "confiance": "sure"
+ }
+}

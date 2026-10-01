@@ -1,0 +1,371 @@
+{
+ "maladies-et-epidemies_peste-noire": {
+  "agent": "Yersinia pestis",
+  "transmission": "Puces de rat",
+  "epidemie": "Peste noire 1347",
+  "traitement": "Antibiotiques",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_grippe-espagnole": {
+  "agent": "Virus H1N1",
+  "transmission": "Voie aérienne",
+  "epidemie": "Grippe espagnole 1918",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_maladie-a-coronavirus-2019": {
+  "agent": "SARS-CoV-2",
+  "transmission": "Voie aérienne",
+  "epidemie": "Pandémie de Covid-19 2020",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_syndrome-d-immunodeficience-acquise": {
+  "agent": "VIH",
+  "transmission": "Sexuelle et sanguine",
+  "epidemie": "Pandémie de sida 1981",
+  "traitement": "Antirétroviraux",
+  "confiance": "sure",
+  "nom": "Sida · Syndrome d'immunodéficience acquise"
+ },
+ "maladies-et-epidemies_variole": {
+  "agent": "Virus de la variole",
+  "transmission": "Voie aérienne",
+  "epidemie": "Mexique aztèque 1520",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Épidémie aztèque de 1520 retenue ; maladie éradiquée en 1980"
+ },
+ "maladies-et-epidemies_peste": {
+  "agent": "Yersinia pestis",
+  "transmission": "Puces de rat",
+  "epidemie": "Peste noire 1347",
+  "traitement": "Antibiotiques",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_cholera": {
+  "agent": "Vibrio cholerae",
+  "transmission": "Eau contaminée",
+  "epidemie": "Choléra à Paris 1832",
+  "traitement": "Réhydratation",
+  "confiance": "tranchee",
+  "note": "Sept pandémies ; celle de Paris en 1832 retenue"
+ },
+ "maladies-et-epidemies_tuberculose": {
+  "agent": "Bacille de Koch",
+  "transmission": "Voie aérienne",
+  "epidemie": "Peste blanche XIXe siècle",
+  "traitement": "Antibiotiques",
+  "confiance": "tranchee",
+  "note": "Endémie plus qu'épidémie datée"
+ },
+ "maladies-et-epidemies_paludisme": {
+  "agent": "Plasmodium",
+  "transmission": "Piqûre de moustique",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Antipaludiques",
+  "confiance": "tranchee",
+  "note": "Endémique, pas d'épidémie unique marquante"
+ },
+ "maladies-et-epidemies_lepre": {
+  "agent": "Bacille de Hansen",
+  "transmission": "Contact prolongé",
+  "epidemie": "Lèpre médiévale XIIe siècle",
+  "traitement": "Antibiotiques",
+  "confiance": "tranchee",
+  "note": "Endémie médiévale, pas d'épidémie datée"
+ },
+ "maladies-et-epidemies_rage-maladie": {
+  "agent": "Virus de la rage",
+  "transmission": "Morsure animale",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Zoonose sans épidémie humaine ; vaccin de Pasteur 1885"
+ },
+ "maladies-et-epidemies_poliomyelite": {
+  "agent": "Poliovirus",
+  "transmission": "Voie fécale-orale",
+  "epidemie": "Polio aux États-Unis 1952",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_rougeole": {
+  "agent": "Virus de la rougeole",
+  "transmission": "Voie aérienne",
+  "epidemie": "Rougeole aux Fidji 1875",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Plusieurs épidémies possibles ; Fidji 1875 retenue"
+ },
+ "maladies-et-epidemies_fievre-jaune": {
+  "agent": "Virus amaril",
+  "transmission": "Piqûre de moustique",
+  "epidemie": "Philadelphie 1793",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_maladie-a-virus-ebola": {
+  "agent": "Virus Ebola",
+  "transmission": "Fluides corporels",
+  "epidemie": "Afrique de l'Ouest 2014",
+  "traitement": "Vaccin",
+  "confiance": "sure",
+  "nom": "Ebola · Maladie à virus Ebola"
+ },
+ "maladies-et-epidemies_typhus": {
+  "agent": "Rickettsia prowazekii",
+  "transmission": "Poux de corps",
+  "epidemie": "Retraite de Russie 1812",
+  "traitement": "Antibiotiques",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_syphilis": {
+  "agent": "Treponema pallidum",
+  "transmission": "Voie sexuelle",
+  "epidemie": "Siège de Naples 1495",
+  "traitement": "Pénicilline",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_diphterie": {
+  "agent": "Corynebacterium diphtheriae",
+  "transmission": "Voie aérienne",
+  "epidemie": "Sérum de Nome 1925",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_tetanos": {
+  "agent": "Clostridium tetani",
+  "transmission": "Plaie souillée",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Maladie non contagieuse, sans épidémie"
+ },
+ "maladies-et-epidemies_grippe": {
+  "agent": "Virus de la grippe",
+  "transmission": "Voie aérienne",
+  "epidemie": "Grippe espagnole 1918",
+  "traitement": "Vaccin",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_scorbut": {
+  "agent": "Carence en vitamine C",
+  "transmission": "Non transmissible",
+  "epidemie": "Expédition de Magellan 1520",
+  "traitement": "Vitamine C",
+  "confiance": "tranchee",
+  "note": "Carence, pas une infection ; expédition de Magellan retenue"
+ },
+ "maladies-et-epidemies_dengue": {
+  "agent": "Virus de la dengue",
+  "transmission": "Piqûre de moustique",
+  "epidemie": "Philippines 1954",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Première dengue hémorragique décrite à Manille en 1954 ; vaccin Qdenga depuis 2022"
+ },
+ "maladies-et-epidemies_diabete-sucre": {
+  "agent": "Carence en insuline",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Insuline",
+  "confiance": "tranchee",
+  "note": "Non infectieux ; « épidémie » seulement au sens figuré"
+ },
+ "maladies-et-epidemies_maladie-d-alzheimer": {
+  "agent": "Plaques amyloïdes",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Aucun traitement curatif",
+  "confiance": "tranchee",
+  "note": "Non infectieuse"
+ },
+ "maladies-et-epidemies_maladie-de-parkinson": {
+  "agent": "Perte de neurones dopaminergiques",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Lévodopa",
+  "confiance": "tranchee",
+  "note": "Non infectieuse"
+ },
+ "maladies-et-epidemies_accident-vasculaire-cerebral": {
+  "agent": "Plaque d'athérome",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Thrombolyse",
+  "confiance": "tranchee",
+  "note": "Non infectieux ; cause la plus fréquente de l'AVC ischémique",
+  "nom": "AVC · Accident vasculaire cérébral"
+ },
+ "maladies-et-epidemies_infarctus-du-myocarde": {
+  "agent": "Plaque d'athérome",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Angioplastie",
+  "confiance": "tranchee",
+  "note": "Non infectieux ; rupture de plaque dans une coronaire"
+ },
+ "maladies-et-epidemies_epilepsie": {
+  "agent": "Décharges neuronales anormales",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Antiépileptiques",
+  "confiance": "tranchee",
+  "note": "Non infectieuse"
+ },
+ "maladies-et-epidemies_hemophilie": {
+  "agent": "Mutation génétique",
+  "transmission": "Héréditaire",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Facteur de coagulation",
+  "confiance": "tranchee",
+  "note": "Génétique ; célèbre chez les descendants de Victoria"
+ },
+ "maladies-et-epidemies_mucoviscidose": {
+  "agent": "Mutation du gène CFTR",
+  "transmission": "Héréditaire",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Kinésithérapie",
+  "confiance": "tranchee",
+  "note": "Génétique ; traitement de fond multiple"
+ },
+ "maladies-et-epidemies_sclerose-en-plaques": {
+  "agent": "Auto-immunité",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Immunomodulateurs",
+  "confiance": "tranchee",
+  "note": "Maladie auto-immune ; virus d'Epstein-Barr suspecté comme déclencheur"
+ },
+ "maladies-et-epidemies_asthme": {
+  "agent": "Inflammation des bronches",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Bronchodilatateurs",
+  "confiance": "tranchee",
+  "note": "Non infectieux"
+ },
+ "maladies-et-epidemies_peste-de-justinien": {
+  "agent": "Yersinia pestis",
+  "transmission": "Puces de rat",
+  "epidemie": "Peste de Justinien 541",
+  "traitement": "Antibiotiques",
+  "confiance": "sure"
+ },
+ "maladies-et-epidemies_variole-simienne": {
+  "agent": "Virus mpox",
+  "transmission": "Contact rapproché",
+  "epidemie": "Épidémie de mpox 2022",
+  "traitement": "Vaccin",
+  "confiance": "sure",
+  "nom": "Mpox · Variole du singe"
+ },
+ "maladies-et-epidemies_maladie-a-virus-zika": {
+  "agent": "Virus Zika",
+  "transmission": "Piqûre de moustique",
+  "epidemie": "Brésil 2015",
+  "traitement": "Aucun vaccin",
+  "confiance": "sure",
+  "nom": "Zika · Maladie à virus Zika"
+ },
+ "maladies-et-epidemies_cancer": {
+  "agent": "Prolifération cellulaire",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Chimiothérapie",
+  "confiance": "tranchee",
+  "note": "Non infectieux ; traitements multiples",
+  "nom": "Cancer"
+ },
+ "maladies-et-epidemies_depression-psychiatrie": {
+  "agent": "Aucun agent infectieux",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Antidépresseurs",
+  "confiance": "tranchee",
+  "note": "Trouble mental",
+  "nom": "Dépression"
+ },
+ "maladies-et-epidemies_schizophrenie": {
+  "agent": "Aucun agent infectieux",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Antipsychotiques",
+  "confiance": "tranchee",
+  "note": "Trouble mental"
+ },
+ "maladies-et-epidemies_trouble-bipolaire": {
+  "agent": "Aucun agent infectieux",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Lithium",
+  "confiance": "tranchee",
+  "note": "Trouble mental"
+ },
+ "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
+  "agent": "SARS-CoV",
+  "transmission": "Voie aérienne",
+  "epidemie": "Épidémie de SRAS 2003",
+  "traitement": "Aucun vaccin",
+  "confiance": "sure",
+  "nom": "SRAS · Syndrome respiratoire aigu sévère"
+ },
+ "maladies-et-epidemies_hepatite": {
+  "agent": "Virus de l'hépatite",
+  "transmission": "Sang ou voie fécale-orale",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Terme générique : virus A à E, transmissions et vaccins variables ; vaccins A et B retenus"
+ },
+ "maladies-et-epidemies_meningite": {
+  "agent": "Méningocoque",
+  "transmission": "Voie aérienne",
+  "epidemie": "Afrique de l'Ouest 1996",
+  "traitement": "Antibiotiques",
+  "confiance": "tranchee",
+  "note": "Plusieurs agents possibles ; méningocoque et ceinture de la méningite retenus"
+ },
+ "maladies-et-epidemies_varicelle": {
+  "agent": "Virus varicelle-zona",
+  "transmission": "Voie aérienne",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Maladie infantile endémique"
+ },
+ "maladies-et-epidemies_coqueluche": {
+  "agent": "Bordetella pertussis",
+  "transmission": "Voie aérienne",
+  "epidemie": "Recrudescence 2024",
+  "traitement": "Vaccin",
+  "confiance": "tranchee",
+  "note": "Recrudescence européenne de 2024 retenue, la plus récente et la plus marquante"
+ },
+ "maladies-et-epidemies_encephalopathie-spongiforme-bovine": {
+  "agent": "Prion",
+  "transmission": "Viande contaminée",
+  "epidemie": "Crise de la vache folle 1996",
+  "traitement": "Aucun traitement",
+  "confiance": "sure",
+  "nom": "Vache folle · Encéphalopathie spongiforme bovine"
+ },
+ "maladies-et-epidemies_hypertension-arterielle": {
+  "agent": "Aucun agent infectieux",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Antihypertenseurs",
+  "confiance": "tranchee",
+  "note": "Non infectieuse",
+  "nom": "HTA · Hypertension artérielle"
+ },
+ "maladies-et-epidemies_obesite": {
+  "agent": "Excès d'apport calorique",
+  "transmission": "Non transmissible",
+  "epidemie": "Aucune épidémie",
+  "traitement": "Régime et activité physique",
+  "confiance": "tranchee",
+  "note": "Non infectieuse ; « épidémie » seulement au sens figuré"
+ }
+}

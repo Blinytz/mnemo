@@ -1,0 +1,154 @@
+{
+ "croyances-et-notions-sacrees_temps-du-reve": {
+  "tradition": "Aborigènes d'Australie",
+  "sens": "Temps mythique de la création du monde",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_karma": {
+  "tradition": "Hindouisme · Bouddhisme · Jaïnisme",
+  "sens": "Conséquences morales des actes",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_samsara": {
+  "tradition": "Hindouisme · Bouddhisme",
+  "sens": "Cycle des renaissances",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_reincarnation": {
+  "tradition": "Hindouisme · Bouddhisme",
+  "sens": "Renaissance de l'âme dans un nouveau corps",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_metempsycose": {
+  "tradition": "Pythagorisme · Platonisme",
+  "sens": "Passage de l'âme d'un corps à un autre",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_yin-et-yang": {
+  "tradition": "Taoïsme",
+  "sens": "Deux forces opposées et complémentaires",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_sejour-des-morts": {
+  "tradition": "Nombreuses religions",
+  "sens": "Monde où séjournent les morts",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_enfer": {
+  "tradition": "Christianisme · Islam",
+  "sens": "Lieu de châtiment des damnés",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_paradis": {
+  "tradition": "Christianisme · Islam",
+  "sens": "Séjour bienheureux des justes",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_purgatoire": {
+  "tradition": "Catholicisme",
+  "sens": "Purification des âmes avant le paradis",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_ame": {
+  "tradition": "Nombreuses religions",
+  "sens": "Principe vital et spirituel de l'être",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_destin": {
+  "tradition": "Antiquité gréco-romaine",
+  "sens": "Puissance qui fixe le cours des événements",
+  "confiance": "tranchee",
+  "note": "notion présente dans de nombreuses cultures"
+ },
+ "croyances-et-notions-sacrees_axis-mundi": {
+  "tradition": "Nombreuses mythologies",
+  "sens": "Axe reliant le ciel et la terre",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_arbre-de-vie": {
+  "tradition": "Nombreuses mythologies",
+  "sens": "Arbre reliant tous les êtres",
+  "confiance": "tranchee",
+  "note": "présent dans la Bible, la Kabbale, les mythologies nordique et mésoaméricaine"
+ },
+ "croyances-et-notions-sacrees_chamanisme": {
+  "tradition": "Sibérie · Amériques",
+  "sens": "Médiation entre humains et esprits",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_animisme": {
+  "tradition": "Peuples premiers",
+  "sens": "Une âme dans chaque être et chose",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_dharma": {
+  "tradition": "Hindouisme · Bouddhisme",
+  "sens": "Ordre cosmique et devoir moral",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_ch-i-spiritualite": {
+  "tradition": "Taoïsme · Médecine chinoise",
+  "sens": "Souffle vital qui anime toute chose",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_kami-divinite": {
+  "tradition": "Shinto",
+  "sens": "Divinité ou esprit de la nature",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_ahimsa": {
+  "tradition": "Jaïnisme · Hindouisme · Bouddhisme",
+  "sens": "Non-violence envers tout être vivant",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_mantra": {
+  "tradition": "Hindouisme · Bouddhisme",
+  "sens": "Formule sacrée répétée en méditation",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_mandala": {
+  "tradition": "Bouddhisme · Hindouisme",
+  "sens": "Diagramme symbolique de l'univers",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_om": {
+  "tradition": "Hindouisme · Bouddhisme · Jaïnisme",
+  "sens": "Syllabe sacrée originelle",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_mana-spiritualite": {
+  "tradition": "Mélanésie · Polynésie",
+  "sens": "Force surnaturelle impersonnelle",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_totemisme": {
+  "tradition": "Aborigènes · Amérindiens",
+  "sens": "Lien sacré entre un clan et un animal",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_ange": {
+  "tradition": "Judaïsme · Christianisme · Islam",
+  "sens": "Messager de Dieu",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_resurrection": {
+  "tradition": "Judaïsme · Christianisme · Islam",
+  "sens": "Retour à la vie après la mort",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_kabbale": {
+  "tradition": "Judaïsme",
+  "sens": "Tradition mystique et ésotérique juive",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_soufisme": {
+  "tradition": "Islam",
+  "sens": "Mystique de l'islam",
+  "confiance": "sure"
+ },
+ "croyances-et-notions-sacrees_gnose": {
+  "tradition": "Christianisme antique",
+  "sens": "Salut par une connaissance secrète",
+  "confiance": "sure"
+ }
+}

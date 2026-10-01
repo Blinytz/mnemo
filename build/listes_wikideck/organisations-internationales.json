@@ -1,0 +1,303 @@
+{
+ "organisations-internationales_organisation-des-nations-unies": {
+  "nom": "ONU · Organisation des Nations unies",
+  "creation": "1945",
+  "siege": "New York",
+  "role": "Paix et sécurité internationales",
+  "confiance": "sure"
+ },
+ "organisations-internationales_conseil-de-securite-des-nations-unies": {
+  "creation": "1945",
+  "siege": "New York",
+  "role": "Maintien de la paix",
+  "confiance": "tranchee",
+  "note": "créé par la Charte de 1945, première séance en 1946"
+ },
+ "organisations-internationales_organisation-des-nations-unies-pour-l-education-la-science-et-la-culture": {
+  "nom": "UNESCO · Organisation des Nations unies pour l'éducation, la science et la culture",
+  "creation": "1945",
+  "siege": "Paris",
+  "role": "Éducation, science et culture",
+  "confiance": "sure"
+ },
+ "organisations-internationales_fonds-des-nations-unies-pour-l-enfance": {
+  "nom": "UNICEF · Fonds des Nations unies pour l'enfance",
+  "creation": "1946",
+  "siege": "New York",
+  "role": "Protection de l'enfance",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-mondiale-de-la-sante": {
+  "nom": "OMS · Organisation mondiale de la santé",
+  "creation": "1948",
+  "siege": "Genève",
+  "role": "Santé publique mondiale",
+  "confiance": "sure"
+ },
+ "organisations-internationales_fonds-monetaire-international": {
+  "nom": "FMI · Fonds monétaire international",
+  "creation": "1944",
+  "siege": "Washington",
+  "role": "Stabilité monétaire mondiale",
+  "confiance": "tranchee",
+  "note": "accords de Bretton Woods en 1944, entrée en vigueur en 1945"
+ },
+ "organisations-internationales_banque-mondiale": {
+  "creation": "1944",
+  "siege": "Washington",
+  "role": "Aide au développement",
+  "confiance": "tranchee",
+  "note": "accords de Bretton Woods en 1944, entrée en vigueur en 1945"
+ },
+ "organisations-internationales_organisation-mondiale-du-commerce": {
+  "nom": "OMC · Organisation mondiale du commerce",
+  "creation": "1995",
+  "siege": "Genève",
+  "role": "Commerce international",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-du-traite-de-l-atlantique-nord": {
+  "nom": "OTAN · Organisation du traité de l'Atlantique nord",
+  "creation": "1949",
+  "siege": "Bruxelles",
+  "role": "Défense collective",
+  "confiance": "sure"
+ },
+ "organisations-internationales_union-europeenne": {
+  "nom": "UE · Union européenne",
+  "creation": "1993",
+  "siege": "Bruxelles",
+  "role": "Union politique et économique",
+  "confiance": "tranchee",
+  "note": "traité de Maastricht (1993) ; CEE dès 1957"
+ },
+ "organisations-internationales_conseil-de-l-europe": {
+  "creation": "1949",
+  "siege": "Strasbourg",
+  "role": "Droits de l'homme et démocratie",
+  "confiance": "sure"
+ },
+ "organisations-internationales_cour-internationale-de-justice": {
+  "nom": "CIJ · Cour internationale de justice",
+  "creation": "1945",
+  "siege": "La Haye",
+  "role": "Différends entre États",
+  "confiance": "tranchee",
+  "note": "créée par la Charte de 1945, entrée en fonction en 1946"
+ },
+ "organisations-internationales_cour-penale-internationale": {
+  "nom": "CPI · Cour pénale internationale",
+  "creation": "2002",
+  "siege": "La Haye",
+  "role": "Juger les crimes internationaux",
+  "confiance": "tranchee",
+  "note": "statut de Rome signé en 1998, en vigueur en 2002"
+ },
+ "organisations-internationales_comite-international-de-la-croix-rouge": {
+  "nom": "CICR · Comité international de la Croix-Rouge",
+  "creation": "1863",
+  "siege": "Genève",
+  "role": "Aide humanitaire en guerre",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-des-pays-exportateurs-de-petrole": {
+  "nom": "OPEP · Organisation des pays exportateurs de pétrole",
+  "creation": "1960",
+  "siege": "Vienne",
+  "role": "Coordination pétrolière",
+  "confiance": "sure"
+ },
+ "organisations-internationales_union-africaine": {
+  "nom": "UA · Union africaine",
+  "creation": "2002",
+  "siege": "Addis-Abeba",
+  "role": "Intégration africaine",
+  "confiance": "tranchee",
+  "note": "succède en 2002 à l'OUA fondée en 1963"
+ },
+ "organisations-internationales_association-des-nations-de-l-asie-du-sud-est": {
+  "nom": "ASEAN · Association des nations de l'Asie du Sud-Est",
+  "creation": "1967",
+  "siege": "Jakarta",
+  "role": "Coopération régionale",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-des-etats-americains": {
+  "nom": "OEA · Organisation des États américains",
+  "creation": "1948",
+  "siege": "Washington",
+  "role": "Coopération panaméricaine",
+  "confiance": "sure"
+ },
+ "organisations-internationales_ligue-arabe": {
+  "creation": "1945",
+  "siege": "Le Caire",
+  "role": "Coopération des États arabes",
+  "confiance": "sure"
+ },
+ "organisations-internationales_commonwealth": {
+  "creation": "1931",
+  "siege": "Londres",
+  "role": "Anciennes colonies britanniques",
+  "confiance": "tranchee",
+  "note": "statut de Westminster (1931) ; forme moderne en 1949"
+ },
+ "organisations-internationales_organisation-internationale-de-la-francophonie": {
+  "nom": "OIF · Organisation internationale de la francophonie",
+  "creation": "1970",
+  "siege": "Paris",
+  "role": "Promotion du français",
+  "confiance": "tranchee",
+  "note": "Agence de coopération culturelle et technique en 1970, nom actuel en 2005"
+ },
+ "organisations-internationales_organisation-de-cooperation-et-de-developpement-economiques": {
+  "nom": "OCDE · Organisation de coopération et de développement économiques",
+  "creation": "1961",
+  "siege": "Paris",
+  "role": "Politiques économiques",
+  "confiance": "tranchee",
+  "note": "succède en 1961 à l'OECE de 1948"
+ },
+ "organisations-internationales_groupe-des-vingt": {
+  "nom": "G20 · Groupe des vingt",
+  "creation": "1999",
+  "siege": "Aucun",
+  "role": "Coordination économique mondiale",
+  "confiance": "tranchee",
+  "note": "pas de siège permanent, présidence tournante"
+ },
+ "organisations-internationales_brics": {
+  "creation": "2009",
+  "siege": "Aucun",
+  "role": "Grandes économies émergentes",
+  "confiance": "tranchee",
+  "note": "premier sommet en 2009, pas de siège permanent"
+ },
+ "organisations-internationales_interpol": {
+  "nom": "Interpol · Organisation internationale de police criminelle",
+  "creation": "1923",
+  "siege": "Lyon",
+  "role": "Coopération policière",
+  "confiance": "sure"
+ },
+ "organisations-internationales_societe-des-nations": {
+  "nom": "SDN · Société des Nations",
+  "creation": "1919",
+  "siege": "Genève",
+  "role": "Maintien de la paix",
+  "confiance": "tranchee",
+  "note": "créée par le traité de Versailles (1919), active en 1920"
+ },
+ "organisations-internationales_pacte-de-varsovie": {
+  "creation": "1955",
+  "siege": "Moscou",
+  "role": "Alliance militaire soviétique",
+  "confiance": "tranchee",
+  "note": "pas de siège formel, commandement à Moscou"
+ },
+ "organisations-internationales_organisation-internationale-du-travail": {
+  "nom": "OIT · Organisation internationale du travail",
+  "creation": "1919",
+  "siege": "Genève",
+  "role": "Droit du travail",
+  "confiance": "sure"
+ },
+ "organisations-internationales_agence-internationale-de-l-energie-atomique": {
+  "nom": "AIEA · Agence internationale de l'énergie atomique",
+  "creation": "1957",
+  "siege": "Vienne",
+  "role": "Contrôle du nucléaire",
+  "confiance": "sure"
+ },
+ "organisations-internationales_medecins-sans-frontieres": {
+  "nom": "MSF · Médecins sans frontières",
+  "creation": "1971",
+  "siege": "Genève",
+  "role": "Aide médicale d'urgence",
+  "confiance": "tranchee",
+  "note": "fondée à Paris, bureau international à Genève"
+ },
+ "organisations-internationales_amnesty-international": {
+  "creation": "1961",
+  "siege": "Londres",
+  "role": "Défense des droits humains",
+  "confiance": "sure"
+ },
+ "organisations-internationales_comite-international-olympique": {
+  "nom": "CIO · Comité international olympique",
+  "creation": "1894",
+  "siege": "Lausanne",
+  "role": "Jeux olympiques",
+  "confiance": "sure"
+ },
+ "organisations-internationales_greenpeace": {
+  "creation": "1971",
+  "siege": "Amsterdam",
+  "role": "Protection de l'environnement",
+  "confiance": "sure"
+ },
+ "organisations-internationales_groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat": {
+  "nom": "GIEC · Groupe d'experts intergouvernemental sur l'évolution du climat",
+  "creation": "1988",
+  "siege": "Genève",
+  "role": "Expertise sur le climat",
+  "confiance": "sure"
+ },
+ "organisations-internationales_haut-commissariat-des-nations-unies-pour-les-refugies": {
+  "nom": "HCR · Haut Commissariat des Nations unies pour les réfugiés",
+  "creation": "1950",
+  "siege": "Genève",
+  "role": "Protection des réfugiés",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture": {
+  "nom": "FAO · Organisation des Nations unies pour l'alimentation et l'agriculture",
+  "creation": "1945",
+  "siege": "Rome",
+  "role": "Alimentation et agriculture",
+  "confiance": "sure"
+ },
+ "organisations-internationales_banque-centrale-europeenne": {
+  "nom": "BCE · Banque centrale européenne",
+  "creation": "1998",
+  "siege": "Francfort",
+  "role": "Politique monétaire de l'euro",
+  "confiance": "sure"
+ },
+ "organisations-internationales_organisation-pour-la-securite-et-la-cooperation-en-europe": {
+  "nom": "OSCE · Organisation pour la sécurité et la coopération en Europe",
+  "creation": "1975",
+  "siege": "Vienne",
+  "role": "Sécurité en Europe",
+  "confiance": "tranchee",
+  "note": "CSCE née à Helsinki en 1975, OSCE depuis 1995"
+ },
+ "organisations-internationales_cour-europeenne-des-droits-de-l-homme": {
+  "nom": "CEDH · Cour européenne des droits de l'homme",
+  "creation": "1959",
+  "siege": "Strasbourg",
+  "role": "Droits de l'homme",
+  "confiance": "sure"
+ },
+ "organisations-internationales_marche-commun-du-sud": {
+  "nom": "Mercosur · Marché commun du Sud",
+  "creation": "1991",
+  "siege": "Montevideo",
+  "role": "Marché commun sud-américain",
+  "confiance": "sure"
+ },
+ "organisations-internationales_wwf": {
+  "nom": "WWF · Fonds mondial pour la nature",
+  "creation": "1961",
+  "siege": "Gland",
+  "role": "Protection de la nature",
+  "confiance": "sure"
+ },
+ "organisations-internationales_federation-internationale-de-football-association": {
+  "nom": "FIFA · Fédération internationale de football association",
+  "creation": "1904",
+  "siege": "Zurich",
+  "role": "Football mondial",
+  "confiance": "sure"
+ }
+}
