@@ -24,9 +24,10 @@ distantes.
 
 ## Refonte en cours (depuis le 30/09/2026)
 
-- Maquette validée par le propriétaire : `maquette.html` (en ligne).
-- Nouvelle application dans `app/`, à côté de l'ancienne, qui reste
+- Nouvelle application dans `app/`, en ligne à <https://blinytz.github.io/memo/app/>
+  depuis le 01/10/2026, à côté de l'ancienne (`memo.html`), qui reste
   l'application officielle jusqu'à la bascule. Détails : `app/LISEZMOI.md`.
+- `maquette.html` n'est plus qu'une redirection vers `app/`.
 - Elle lit des données propres : `data/catalogue.json` et `data/listes/<id>.json`,
   produites depuis `memo.html` par `node build/exporter_donnees.mjs`. **À relancer
   après toute modification des listes ou des images** (lot WikiDeck, Atelier),

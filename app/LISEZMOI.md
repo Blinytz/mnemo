@@ -2,7 +2,7 @@
 
 Application issue de la refonte : révision espacée, quiz du jour, réponses
 tapées. Elle vit dans `app/` tant que l'ancienne (`memo.html`) reste en place.
-Adresse de test une fois publiée : https://blinytz.github.io/memo/app/
+En ligne : https://blinytz.github.io/memo/app/
 
 ## Fichiers
 
