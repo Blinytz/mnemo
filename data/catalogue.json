@@ -2346,7 +2346,7 @@
     "Symbole ou usage"
    ],
    "cle": 0,
-   "fiches": 56,
+   "fiches": 57,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2354,7 +2354,7 @@
     "thumbs/fleurs/perce-neige.webp",
     "thumbs/fleurs/plumeria.webp"
    ],
-   "ids": "jonquille perce-neige plumeria arum arum-titan hyacinthus-orientalis muguet-de-mai cyanus-segetum chardon chrysantheme dahlia edelweiss marguerite-commune pissenlit tournesol myosotis chevrefeuille-des-bois illet dionee-attrape-mouche rhododendron-b bruyere rhododendron wisteria acacia-dealbata gentiane pelargonium hydrangea crocus glaieul iris-genre-vegetal lavande lys tulipe magnolia hibiscus nelumbo-nucifera bougainvillea nenuphar jasmin syringa-vulgaris fuchsia orchidaceae pivoine coquelicot passiflore digitalis-purpurea primevere-officinale protea-cynaroides rafflesia renoncule clematite prunus-serrulata rose-fleur strelitzia-reginae camellia viola-plante-b"
+   "ids": "jonquille perce-neige plumeria arum arum-titan hyacinthus-orientalis muguet-de-mai cyanus-segetum chardon chrysantheme dahlia edelweiss marguerite-commune pissenlit tournesol myosotis chevrefeuille-des-bois illet dionee-attrape-mouche rhododendron-b bruyere rhododendron wisteria acacia-dealbata gentiane pelargonium hydrangea crocus glaieul iris-genre-vegetal lavande lys tulipe magnolia hibiscus nelumbo-nucifera bougainvillea nenuphar jasmin syringa-vulgaris fuchsia orchidaceae pivoine coquelicot passiflore digitalis-purpurea primevere-officinale protea-cynaroides rafflesia renoncule clematite prunus-serrulata rose-fleur strelitzia-reginae camellia viola-plante-b viola-plante"
   },
   {
    "id": "champignons",
@@ -2368,7 +2368,7 @@
     "Particularité"
    ],
    "cle": 0,
-   "fiches": 40,
+   "fiches": 41,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2376,7 +2376,7 @@
     "thumbs/champignons/boletus-edulis.webp",
     "thumbs/champignons/agaricus-bisporus.webp"
    ],
-   "ids": "bolet-bai boletus-edulis agaricus-bisporus coprin-chevelu macrolepiota-procera flammulina-velutipes cantharellus-cibarius hericium-erinaceus lactaire-delicieux saccharomyces-cerevisiae matsutake morchella oreille-de-judas oronge pleurotus-ostreatus agaricus-campestris russule-charbonniere lentinula-edodes tricholome-de-la-saint-georges trompette-de-la-mort truffe-champignon truffe-blanche psilocybe amanite-phalloide amadouvier cordyceps penicillium satyre-puant ganoderme-luisant amanite-tue-mouches armillaria aspergillus bolet-satan clathrus-ruber clitocybe ergot-du-seigle mycena polypore-soufre scleroderma vesse-de-loup"
+   "ids": "bolet-bai boletus-edulis agaricus-bisporus chanterelle coprin-chevelu macrolepiota-procera flammulina-velutipes cantharellus-cibarius hericium-erinaceus lactaire-delicieux saccharomyces-cerevisiae matsutake morchella oreille-de-judas oronge pleurotus-ostreatus agaricus-campestris russule-charbonniere lentinula-edodes tricholome-de-la-saint-georges trompette-de-la-mort truffe-champignon truffe-blanche psilocybe amanite-phalloide amadouvier cordyceps penicillium satyre-puant ganoderme-luisant amanite-tue-mouches armillaria aspergillus bolet-satan clathrus-ruber clitocybe ergot-du-seigle mycena polypore-soufre scleroderma vesse-de-loup"
   },
   {
    "id": "plantes_cultivees",

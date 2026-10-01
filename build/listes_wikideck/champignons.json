@@ -253,5 +253,11 @@
   "particularite": "Fait lever le pain",
   "confiance": "tranchee",
   "note": "Levure : non toxique, consommée en paillettes et dans le pain"
+ },
+ "champignons_chanterelle": {
+  "comestible": "Comestible",
+  "habitat": "Forêts de conifères humides",
+  "particularite": "Pied creux, plis gris",
+  "confiance": "sure"
  }
 }

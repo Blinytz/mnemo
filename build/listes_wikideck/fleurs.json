@@ -340,5 +340,11 @@
   "couleurs": "Blanc",
   "symbole": "Plante carnivore",
   "confiance": "sure"
+ },
+ "fleurs_viola-plante": {
+  "famille": "Violacées",
+  "couleurs": "Violet · Blanc",
+  "symbole": "Modestie",
+  "confiance": "sure"
  }
 }
