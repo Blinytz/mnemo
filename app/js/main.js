@@ -23,6 +23,11 @@ const eclat = (cls = 'eclat-glyphe') => `<svg class="${cls}" viewBox="0 0 256 25
 const sansAccents = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 const pluriel = (n, mot, motPluriel = mot + 's') => `${n} ${n > 1 ? motPluriel : mot}`;
 const img = (p, alt = '', attrs = '') => p ? `<img src="${esc(chemin(p))}" alt="${esc(alt)}" ${attrs}>` : `<span class="sans-image" aria-hidden="true"></span>`;
+// Miniature (400 px) ou grande image (800 px et plus) : le navigateur prend celle
+// qui reste nette à la taille affichée, selon la densité de l'écran
+const imgNette = (f, alt, tailles, attrs = '') => f.grande && f.grande !== f.image
+  ? img(f.image, alt, `srcset="${esc(chemin(f.image))} 400w, ${esc(chemin(f.grande))} 900w" sizes="${tailles}" ${attrs}`)
+  : img(f.image, alt, attrs);
 
 let etat = P.charger(localStorage);
 const enregistrer = () => P.sauver(localStorage, etat);
@@ -217,7 +222,7 @@ function vueListe() {
       <button class="bouton fantome" data-reviser="${l.id}" data-mode="decouvrir" ${neuves ? '' : 'disabled'}>${ic('sparkle')} ${neuves ? 'Découvrir' : 'Tout vu'}</button></div>
     <div class="segment" role="group" aria-label="Affichage"><button data-vue="fiches" aria-pressed="${vue.affichage === 'fiches'}">Fiches</button><button data-vue="tableau" aria-pressed="${vue.affichage === 'tableau'}">Tableau</button></div>
     ${vue.affichage === 'fiches'
-      ? `<div class="grille">${l.fiches.map(f => `<button class="fiche" data-fiche="${esc(f.id)}">${f.image ? img(f.image, '', 'loading="lazy"') : ''}<div class="corps"><div class="nom">${esc(f.valeurs[l.cle])}</div><div class="sec">${esc(f.valeurs[autres[0]] || '')}</div>${niveaux(P.boite(etat, cle(f)))}</div></button>`).join('')}</div>`
+      ? `<div class="grille">${l.fiches.map(f => `<button class="fiche" data-fiche="${esc(f.id)}">${f.image ? imgNette(f, '', '(max-width: 460px) 46vw, 210px', 'loading="lazy"') : ''}<div class="corps"><div class="nom">${esc(f.valeurs[l.cle])}</div><div class="sec">${esc(f.valeurs[autres[0]] || '')}</div>${niveaux(P.boite(etat, cle(f)))}</div></button>`).join('')}</div>`
       : `<div class="tableau"><table><thead><tr><th>${esc(l.colonnes[l.cle])}</th>${autres.map(i => `<th>${esc(l.colonnes[i])}</th>`).join('')}</tr></thead><tbody>${l.fiches.map(f => `<tr data-fiche="${esc(f.id)}"><td>${esc(f.valeurs[l.cle])}</td>${autres.map(i => `<td>${esc(f.valeurs[i])}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`}`;
 }
 async function ouvrirListe(id) {
@@ -234,7 +239,7 @@ function ouvrirFiche(idListe, idFiche) {
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle && f.valeurs[i]);
   $('#feuille').innerHTML = `<div class="poignee"></div>${f.image ? img(f.grande || f.image, f.valeurs[l.cle]) : ''}<div class="contenu">
     <div><span class="etiquette">${esc(l.nom)}</span><h1 style="margin-top:4px">${esc(f.valeurs[l.cle])}</h1></div>
-    ${f.carte ? `<div class="carte-loc">${img(f.carte, 'Localisation')}</div>` : ''}
+    ${f.carte ? `<div class="carte-loc">${img(f.carteGrande || f.carte, 'Localisation')}</div>` : ''}
     <dl>${autres.map(i => `<div><dt>${esc(l.colonnes[i])}</dt><dd>${esc(f.valeurs[i])}</dd></div>`).join('')}</dl>
     ${lienWiki(l, f)}
     <div class="carte" style="box-shadow:none;background:var(--surface-2);display:flex;gap:12px;align-items:center">${niveaux(b).replace('class="niveaux"', 'class="niveaux" style="flex:1;margin:0"')}<span class="sous">${b ? `${P.LIBELLES[b]} · niveau ${b} sur 5` : 'Jamais révisée'}</span></div>
@@ -389,7 +394,7 @@ function rendreQuestion() {
   const total = seance.items.length, {liste: l, fiche: f} = it;
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle && f.valeurs[i]);
   const visuel = it.q.t === 'image'
-    ? `<div class="visuel">${img(f.image, 'Image à reconnaître')}</div>`
+    ? `<div class="visuel">${img(f.grande || f.image, 'Image à reconnaître')}</div>`
     : it.q.t === 'indice'
       ? `<div class="carte indice"><span class="etiquette">${esc(it.indice.titre)}</span><p>${esc(it.indice.texte)}</p></div>`
       : `<div class="contexte">${f.image ? img(f.image) : ''}<div><span class="etiquette">${esc(l.colonnes[l.cle])}</span><b>${esc(it.nom)}</b></div></div>`;
@@ -417,6 +422,9 @@ function rendreQuestion() {
         <button class="bouton ${quiz ? 'eclat' : 'memo'} large suite-fixe" id="suite">${seance.n + 1 < total ? 'Question suivante' : 'Voir le résultat'} ${ic('caret-right')}</button>` : ''}
     </div></div>`;
   $('#quitter').onclick = fermerSeance;
+  // la grande image de la question suivante se charge pendant qu'on répond
+  const suivanteF = seance.items[seance.n + 1]?.fiche;
+  if (suivanteF?.grande) new Image().src = chemin(suivanteF.grande);
   if (!fini) {
     const champ = $('#rep');
     setTimeout(() => champ.focus(), 50);

@@ -101,7 +101,11 @@ for (const l of S.listes) {
       if (grande) fiche.grande = grande;
       if (!fs.existsSync(path.join(racine, r[1]))) problemes.push(`${l.id} : miniature absente ${r[1]}`);
     }
-    if (secondaires.length) fiche.carte = r[secondaires[0]];
+    if (secondaires.length) {
+      fiche.carte = r[secondaires[0]];
+      const k = String(fiche.carte).match(/^thumbs\/[^/]+\/([^/.]+)\.[a-z0-9]+$/i)?.[1];
+      if (k && S.grandes[l.id]?.[k]) fiche.carteGrande = S.grandes[l.id][k];
+    }
     const lien = cleImage && liens.get(l.id)?.get(cleImage);
     if (lien) fiche.wiki = lien;
     if (!valeurs[cle]) problemes.push(`${l.id} : fiche ${ri + 1} sans nom`);
