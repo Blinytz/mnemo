@@ -1,0 +1,330 @@
+{
+ "reptiles-et-amphibiens_crocodile-du-nil": {
+  "classe": "Reptile",
+  "habitat": "Fleuves d'Afrique",
+  "particularite": "Embusqué au bord de l'eau",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_crocodile-marin": {
+  "classe": "Reptile",
+  "habitat": "Estuaires d'Asie et d'Océanie",
+  "particularite": "Plus grand reptile vivant",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_alligator-d-amerique": {
+  "classe": "Reptile",
+  "habitat": "Marais du sud des États-Unis",
+  "particularite": "Museau large et arrondi",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_gavial-du-gange": {
+  "classe": "Reptile",
+  "habitat": "Fleuves d'Inde",
+  "particularite": "Museau très fin",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_eunectes-murinus": {
+  "classe": "Reptile",
+  "habitat": "Marais d'Amazonie",
+  "particularite": "Serpent le plus lourd",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_python-reticule": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Asie du Sud-Est",
+  "particularite": "Serpent le plus long",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_boa-constricteur": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Amérique tropicale",
+  "particularite": "Étouffe ses proies",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_cobra-royal": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Asie du Sud",
+  "particularite": "Plus long serpent venimeux",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_dendroaspis-polylepis": {
+  "classe": "Reptile",
+  "habitat": "Savane africaine",
+  "particularite": "Serpent rapide et très venimeux",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_vipere-a-cornes": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Afrique du Nord",
+  "particularite": "Cornes au-dessus des yeux",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_crotale-diamantin": {
+  "classe": "Reptile",
+  "habitat": "Sud-est des États-Unis",
+  "particularite": "Sonnette au bout de la queue",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_couleuvre-a-collier": {
+  "classe": "Reptile",
+  "habitat": "Bords d'eau en Europe",
+  "particularite": "Collier jaune, inoffensive",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_iguana-iguana": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Amérique tropicale",
+  "particularite": "Crête dorsale épineuse",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_iguane-marin-des-galapagos": {
+  "classe": "Reptile",
+  "habitat": "Îles Galápagos",
+  "particularite": "Seul lézard marin",
+  "nom": "Iguane marin des Galápagos",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_furcifer-pardalis": {
+  "classe": "Reptile",
+  "habitat": "Madagascar",
+  "particularite": "Change de couleur",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_gecko-leopard": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Asie du Sud",
+  "particularite": "Paupières mobiles",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_varan-du-nil": {
+  "classe": "Reptile",
+  "habitat": "Fleuves d'Afrique",
+  "particularite": "Plus grand lézard d'Afrique",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_dragon-de-komodo": {
+  "classe": "Reptile",
+  "habitat": "Îles d'Indonésie",
+  "particularite": "Plus grand lézard du monde",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_tortue-geante-des-galapagos": {
+  "classe": "Reptile",
+  "habitat": "Îles Galápagos",
+  "particularite": "Vit plus de cent ans",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_tortue-luth": {
+  "classe": "Reptile",
+  "habitat": "Océans",
+  "particularite": "Plus grande tortue",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_tortue-de-floride": {
+  "classe": "Reptile",
+  "habitat": "Étangs d'Amérique du Nord",
+  "particularite": "Taches rouges sur la tête",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_basiliscus-plumifrons": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Amérique centrale",
+  "particularite": "Court sur l'eau",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_ouaouaron": {
+  "classe": "Amphibien",
+  "habitat": "Étangs d'Amérique du Nord",
+  "particularite": "Mugit comme un taureau",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_crapaud-commun": {
+  "classe": "Amphibien",
+  "habitat": "Bois et jardins d'Europe",
+  "particularite": "Peau verruqueuse",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_andrias-japonicus": {
+  "classe": "Amphibien",
+  "habitat": "Rivières du Japon",
+  "particularite": "Jusqu'à 1,5 m de long",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_salamandre-maculee": {
+  "classe": "Amphibien",
+  "habitat": "Forêts humides d'Europe",
+  "particularite": "Taches jaunes, peau toxique",
+  "nom": "Salamandre tachetée",
+  "confiance": "tranchee",
+  "note": "Image : Salamandra salamandra (Europe), pas la salamandre maculée d'Amérique du titre de page"
+ },
+ "reptiles-et-amphibiens_axolotl": {
+  "classe": "Amphibien",
+  "habitat": "Lacs de Mexico",
+  "particularite": "Reste larvaire toute sa vie",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_rainette-verte": {
+  "classe": "Amphibien",
+  "habitat": "Haies et roselières",
+  "particularite": "Doigts à ventouses",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_lezard-a-collerette": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Australie",
+  "particularite": "Déploie une collerette",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_dendrobates": {
+  "classe": "Amphibien",
+  "habitat": "Forêts d'Amérique tropicale",
+  "particularite": "Couleurs vives, peau toxique",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_rainette-aux-yeux-rouges": {
+  "classe": "Amphibien",
+  "habitat": "Forêts d'Amérique centrale",
+  "particularite": "Yeux rouge vif",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_centrolenidae": {
+  "classe": "Amphibien",
+  "habitat": "Forêts d'Amérique tropicale",
+  "particularite": "Ventre transparent",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_conraua-goliath": {
+  "classe": "Amphibien",
+  "habitat": "Rivières d'Afrique centrale",
+  "particularite": "Plus grande grenouille",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_caecilia": {
+  "classe": "Amphibien",
+  "habitat": "Sols d'Amérique du Sud",
+  "particularite": "Sans pattes, comme un ver",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_protee-anguillard": {
+  "classe": "Amphibien",
+  "habitat": "Grottes des Balkans",
+  "particularite": "Aveugle et dépigmenté",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_sphenodon": {
+  "classe": "Reptile",
+  "habitat": "Îles de Nouvelle-Zélande",
+  "particularite": "Fossile vivant",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_taipan-du-desert": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Australie",
+  "particularite": "Venin le plus puissant",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_vipere-du-gabon": {
+  "classe": "Reptile",
+  "habitat": "Forêts d'Afrique",
+  "particularite": "Crochets les plus longs",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_monstre-de-gila": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Amérique du Nord",
+  "particularite": "Lézard venimeux",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_tortue-verte": {
+  "classe": "Reptile",
+  "habitat": "Mers tropicales",
+  "particularite": "Tortue marine herbivore",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_caiman-a-lunettes": {
+  "classe": "Reptile",
+  "habitat": "Marais d'Amérique tropicale",
+  "particularite": "Arête osseuse entre les yeux",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_macrochelys-temminckii": {
+  "classe": "Reptile",
+  "habitat": "Rivières du sud des États-Unis",
+  "particularite": "Langue en forme de ver",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_tortue-d-hermann": {
+  "classe": "Reptile",
+  "habitat": "Maquis méditerranéen",
+  "particularite": "Tortue terrestre de France",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_caretta-caretta": {
+  "classe": "Reptile",
+  "habitat": "Mers chaudes",
+  "particularite": "Très grosse tête",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_cobra-indien": {
+  "classe": "Reptile",
+  "habitat": "Inde",
+  "particularite": "Lunettes sur le capuchon",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_python-royal": {
+  "classe": "Reptile",
+  "habitat": "Savane d'Afrique de l'Ouest",
+  "particularite": "Se roule en boule",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_vipere-aspic": {
+  "classe": "Reptile",
+  "habitat": "Coteaux secs d'Europe",
+  "particularite": "Pupille verticale, venimeuse",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_anguis-fragilis": {
+  "classe": "Reptile",
+  "habitat": "Jardins et bois d'Europe",
+  "particularite": "Lézard sans pattes",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_lezard-des-murailles": {
+  "classe": "Reptile",
+  "habitat": "Murs et rochers",
+  "particularite": "Queue qui repousse",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_lacerta-bilineata": {
+  "classe": "Reptile",
+  "habitat": "Haies et broussailles",
+  "particularite": "Vert vif, gorge bleue",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_moloch-horridus": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Australie",
+  "particularite": "Couvert d'épines",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_pogona-vitticeps": {
+  "classe": "Reptile",
+  "habitat": "Déserts d'Australie",
+  "particularite": "Barbe épineuse gonflable",
+  "nom": "Pogona · Agame barbu",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_triton-alpestre": {
+  "classe": "Amphibien",
+  "habitat": "Mares de montagne",
+  "particularite": "Ventre orange vif",
+  "confiance": "sure"
+ },
+ "reptiles-et-amphibiens_rhinella-marina": {
+  "classe": "Amphibien",
+  "habitat": "Amérique tropicale",
+  "particularite": "Invasif en Australie",
+  "confiance": "sure"
+ }
+}

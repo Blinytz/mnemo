@@ -1841,7 +1841,7 @@
     "Fait marquant"
    ],
    "cle": 0,
-   "fiches": 38,
+   "fiches": 42,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -1849,7 +1849,7 @@
     "thumbs/papes/leon-ier-pape.webp",
     "thumbs/papes/gregoire-ier.webp"
    ],
-   "ids": "pierre-apotre leon-ier-pape gregoire-ier leon-iii-pape sylvestre-ii gregoire-vii urbain-ii innocent-iii gregoire-ix boniface-viii clement-v jean-xxii urbain-vi sixte-iv alexandre-vi jules-ii leon-x clement-vii paul-iii pie-v gregoire-xiii sixte-v urbain-viii innocent-x pie-vi pie-vii pie-ix leon-xiii benoit-xv pie-xi pie-xii jean-xxiii paul-vi jean-paul-ii jean-paul-ier benoit-xvi francois-pape leon-xiv"
+   "ids": "pierre-apotre leon-ier-pape gregoire-ier leon-iii-pape formose-pape sylvestre-ii gregoire-vii urbain-ii innocent-iii gregoire-ix boniface-viii celestin-v clement-v jean-xxii urbain-vi martin-v sixte-iv alexandre-vi jules-ii leon-x clement-vii paul-iii pie-v gregoire-xiii sixte-v urbain-viii innocent-x pie-vi pie-vii pie-ix leon-xiii pie-x benoit-xv pie-xi pie-xii jean-xxiii paul-vi jean-paul-ii jean-paul-ier benoit-xvi francois-pape leon-xiv"
   },
   {
    "id": "organisations",
@@ -1863,15 +1863,15 @@
     "Rôle"
    ],
    "cle": 0,
-   "fiches": 33,
+   "fiches": 42,
    "images": true,
    "wikideck": true,
    "apercu": [
     "thumbs/organisations/comite-international-de-la-croix-rouge.webp",
     "thumbs/organisations/comite-international-olympique.webp",
-    "thumbs/organisations/organisation-internationale-du-travail.webp"
+    "thumbs/organisations/federation-internationale-de-football-association.webp"
    ],
-   "ids": "comite-international-de-la-croix-rouge comite-international-olympique organisation-internationale-du-travail societe-des-nations interpol commonwealth banque-mondiale fonds-monetaire-international conseil-de-securite-des-nations-unies cour-internationale-de-justice ligue-arabe organisation-des-nations-unies organisation-des-nations-unies-pour-l-education-la-science-et-la-culture fonds-des-nations-unies-pour-l-enfance organisation-des-etats-americains organisation-mondiale-de-la-sante conseil-de-l-europe organisation-du-traite-de-l-atlantique-nord pacte-de-varsovie agence-internationale-de-l-energie-atomique organisation-des-pays-exportateurs-de-petrole amnesty-international organisation-de-cooperation-et-de-developpement-economiques association-des-nations-de-l-asie-du-sud-est organisation-internationale-de-la-francophonie greenpeace medecins-sans-frontieres union-europeenne organisation-mondiale-du-commerce groupe-des-vingt cour-penale-internationale union-africaine brics"
+   "ids": "comite-international-de-la-croix-rouge comite-international-olympique federation-internationale-de-football-association organisation-internationale-du-travail societe-des-nations interpol commonwealth banque-mondiale fonds-monetaire-international conseil-de-securite-des-nations-unies cour-internationale-de-justice organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture ligue-arabe organisation-des-nations-unies organisation-des-nations-unies-pour-l-education-la-science-et-la-culture fonds-des-nations-unies-pour-l-enfance organisation-des-etats-americains organisation-mondiale-de-la-sante conseil-de-l-europe organisation-du-traite-de-l-atlantique-nord haut-commissariat-des-nations-unies-pour-les-refugies pacte-de-varsovie agence-internationale-de-l-energie-atomique cour-europeenne-des-droits-de-l-homme organisation-des-pays-exportateurs-de-petrole amnesty-international organisation-de-cooperation-et-de-developpement-economiques wwf association-des-nations-de-l-asie-du-sud-est organisation-internationale-de-la-francophonie greenpeace medecins-sans-frontieres organisation-pour-la-securite-et-la-cooperation-en-europe groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat marche-commun-du-sud union-europeenne organisation-mondiale-du-commerce banque-centrale-europeenne groupe-des-vingt cour-penale-internationale union-africaine brics"
   },
   {
    "id": "deserts",
@@ -1885,15 +1885,15 @@
     "Type"
    ],
    "cle": 0,
-   "fiches": 29,
+   "fiches": 32,
    "images": true,
    "wikideck": true,
    "apercu": [
     "thumbs/deserts/sahara.webp",
-    "thumbs/deserts/desert-de-gobi.webp",
-    "thumbs/deserts/desert-libyque.webp"
+    "thumbs/deserts/desert-d-arabie.webp",
+    "thumbs/deserts/desert-de-gobi.webp"
    ],
-   "ids": "sahara desert-de-gobi desert-libyque desert-du-kalahari steppe-patagonienne rub-al-khali desert-de-syrie desert-de-chihuahua grand-desert-de-victoria tenere desert-du-karakoum desert-du-taklamakan desert-de-sonora desert-du-kyzylkoum desert-du-thar grand-erg-oriental desert-de-simpson depression-de-l-afar desert-des-mojaves desert-d-atacama desert-du-namib dacht-e-kavir dacht-e-lout neguev vallee-de-la-mort desert-blanc wadi-rum bardenas-reales desert-de-tabernas"
+   "ids": "sahara desert-d-arabie desert-de-gobi desert-libyque desert-du-kalahari steppe-patagonienne rub-al-khali desert-de-syrie desert-de-chihuahua grand-bassin-des-etats-unis grand-desert-de-victoria tenere grand-desert-de-sable desert-du-karakoum desert-du-taklamakan desert-de-sonora desert-du-kyzylkoum desert-du-thar grand-erg-oriental desert-de-simpson depression-de-l-afar desert-des-mojaves desert-d-atacama desert-du-namib dacht-e-kavir dacht-e-lout neguev vallee-de-la-mort desert-blanc wadi-rum bardenas-reales desert-de-tabernas"
   },
   {
    "id": "lacs",
@@ -1907,7 +1907,7 @@
     "Repère"
    ],
    "cle": 0,
-   "fiches": 39,
+   "fiches": 48,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -1915,7 +1915,7 @@
     "thumbs/lacs/grands-lacs-amerique-du-nord.webp",
     "thumbs/lacs/lac-superieur.webp"
    ],
-   "ids": "mer-caspienne grands-lacs-amerique-du-nord lac-superieur lac-victoria mer-d-aral lac-huron lac-michigan lac-tanganyika grand-lac-de-l-ours lac-baikal lac-malawi lac-erie lac-ontario lac-ladoga lac-balkhach lac-titicaca lac-turkana grand-lac-sale lac-tana lac-kivu lac-tchad lac-toba lac-natron mer-morte leman lac-de-constance lac-tahoe lac-de-garde parc-national-des-lacs-de-plitvice lac-majeur lac-de-tiberiade lac-de-come lac-inle loch-ness lac-du-bourget lac-d-annecy lac-rose lac-louise-alberta lac-de-bled"
+   "ids": "mer-caspienne grands-lacs-amerique-du-nord lac-superieur lac-victoria mer-d-aral lac-huron lac-michigan lac-tanganyika grand-lac-de-l-ours lac-baikal lac-malawi grand-lac-des-esclaves lac-erie lac-winnipeg lac-ontario lac-ladoga lac-balkhach lac-titicaca lac-volta lac-nicaragua lac-turkana yssyk-koul vanern lac-nasser grand-lac-sale lac-tana lac-kivu lac-tchad lac-toba lac-natron mer-morte lac-balaton leman lac-de-constance lac-tahoe lac-de-garde lac-d-ohrid parc-national-des-lacs-de-plitvice lac-majeur lac-de-tiberiade lac-de-come lac-inle loch-ness lac-du-bourget lac-d-annecy lac-rose lac-louise-alberta lac-de-bled"
   },
   {
    "id": "regions_francaises",
@@ -1929,7 +1929,7 @@
     "Plus grande ville"
    ],
    "cle": 0,
-   "fiches": 14,
+   "fiches": 18,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -1937,7 +1937,7 @@
     "thumbs/regions_francaises/bourgogne-franche-comte.webp",
     "thumbs/regions_francaises/bretagne-region-administrative.webp"
    ],
-   "ids": "auvergne-rhone-alpes bourgogne-franche-comte bretagne-region-administrative centre-val-de-loire politique-en-corse grand-est guyane hauts-de-france ile-de-france normandie-region-administrative nouvelle-aquitaine occitanie-region-administrative pays-de-la-loire provence-alpes-cote-d-azur"
+   "ids": "auvergne-rhone-alpes bourgogne-franche-comte bretagne-region-administrative centre-val-de-loire politique-en-corse grand-est conseil-regional-de-la-guadeloupe guyane hauts-de-france ile-de-france conseil-regional-de-la-reunion collectivite-territoriale-de-martinique conseil-departemental-de-mayotte normandie-region-administrative nouvelle-aquitaine occitanie-region-administrative pays-de-la-loire provence-alpes-cote-d-azur"
   },
   {
    "id": "religions",
@@ -1952,7 +1952,7 @@
     "Fidèles"
    ],
    "cle": 0,
-   "fiches": 29,
+   "fiches": 36,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -1960,7 +1960,7 @@
     "thumbs/religions/religion-grecque-antique.webp",
     "thumbs/religions/hindouisme.webp"
    ],
-   "ids": "religion-de-l-egypte-antique religion-grecque-antique hindouisme judaisme zoroastrisme jainisme bouddhisme confucianisme taoisme theravada bouddhisme-mahayana catholicisme christianisme manicheisme-religion bouddhisme-tibetain chiisme islam sunnisme shintoisme christianisme-orthodoxe zen sikhisme protestantisme anglicanisme vaudou candomble foi-baha-ie temoins-de-jehovah mouvement-rastafari"
+   "ids": "religion-de-l-egypte-antique religion-grecque-antique hindouisme judaisme zoroastrisme religion-de-la-rome-antique jainisme bouddhisme confucianisme taoisme theravada bouddhisme-mahayana catholicisme christianisme manicheisme-religion bouddhisme-tibetain chiisme islam sunnisme religion-nordique-ancienne shintoisme druzes christianisme-orthodoxe zen alevisme sikhisme protestantisme anglicanisme vaudou amish evangelisme candomble foi-baha-ie temoins-de-jehovah pentecotisme mouvement-rastafari"
   },
   {
    "id": "textes_sacres",
@@ -1974,7 +1974,7 @@
     "Époque"
    ],
    "cle": 0,
-   "fiches": 28,
+   "fiches": 30,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -1982,7 +1982,7 @@
     "thumbs/textes_sacres/rig-veda.webp",
     "thumbs/textes_sacres/veda.webp"
    ],
-   "ids": "livre-des-morts-des-anciens-egyptiens rig-veda veda avesta psaume ancien-testament bible upanishad livre-de-la-genese torah entretiens-de-confucius dao-de-jing manuscrits-de-la-mer-morte bhagavad-gita tripitaka apocalypse nouveau-testament sutra-du-lotus evangile talmud coran kojiki hadith sefer-hazohar bardo-thodol popol-vuh guru-granth-sahib livre-de-mormon"
+   "ids": "livre-des-morts-des-anciens-egyptiens rig-veda veda avesta psaume ancien-testament bible upanishad livre-de-la-genese torah entretiens-de-confucius dao-de-jing manuscrits-de-la-mer-morte septante bhagavad-gita tripitaka apocalypse nouveau-testament sutra-du-lotus evangile vulgate talmud coran kojiki hadith sefer-hazohar bardo-thodol popol-vuh guru-granth-sahib livre-de-mormon"
   },
   {
    "id": "fetes_religieuses",
@@ -1996,7 +1996,7 @@
     "Ce qu'elle célèbre"
    ],
    "cle": 0,
-   "fiches": 32,
+   "fiches": 38,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2004,7 +2004,7 @@
     "thumbs/fetes_religieuses/vesak.webp",
     "thumbs/fetes_religieuses/assomption.webp"
    ],
-   "ids": "o-bon vesak assomption jour-des-morts-mexique toussaint ascension-fete careme chandeleur dimanche-des-rameaux epiphanie mardi-gras noel paques pentecote divali holi kumbh-mela navratri achoura aid-el-fitr aid-al-adha mawlid ramadan hanoucca pessa-h pourim roch-hachana souccot yom-kippour baisakhi nouvel-an-chinois norouz"
+   "ids": "o-bon vesak assomption fete-de-la-saint-patrick fete-dieu jour-des-morts-mexique toussaint ascension-fete careme chandeleur dimanche-des-rameaux epiphanie mardi-gras noel paques pentecote vendredi-saint divali ganesh-chaturthi holi kumbh-mela navratri achoura aid-el-fitr aid-al-adha laylat-al-qadr mawlid ramadan chavouot hanoucca pessa-h pourim roch-hachana souccot yom-kippour baisakhi nouvel-an-chinois norouz"
   },
   {
    "id": "croyances",
@@ -2038,15 +2038,15 @@
     "Exemple"
    ],
    "cle": 0,
-   "fiches": 27,
+   "fiches": 35,
    "images": true,
    "wikideck": true,
    "apercu": [
     "thumbs/genres_litteraires/autobiographie.webp",
     "thumbs/genres_litteraires/ballade.webp",
-    "thumbs/genres_litteraires/chanson-de-geste.webp"
+    "thumbs/genres_litteraires/biographie.webp"
    ],
-   "ids": "autobiographie ballade chanson-de-geste comedie conte drame-romantique dystopie epopee essai fable fantasy farce-theatre haiku nouvelle pamphlet poesie roman-litterature roman-d-aventures roman-de-chevalerie roman-epistolaire roman-historique roman-policier science-fiction sonnet tragedie utopie vaudeville"
+   "ids": "autobiographie ballade biographie chanson-de-geste comedie conte drame-romantique dystopie epopee essai fable fabliau fantastique fantasy farce-theatre haiku journal-intime nouvelle pamphlet poesie roman-litterature roman-d-apprentissage roman-d-aventures roman-de-chevalerie roman-epistolaire roman-gothique roman-historique roman-picaresque roman-policier satire science-fiction sonnet tragedie utopie vaudeville"
   },
   {
    "id": "mouvements_litteraires",
@@ -2060,15 +2060,15 @@
     "Œuvre emblématique"
    ],
    "cle": 0,
-   "fiches": 26,
+   "fiches": 30,
    "images": true,
    "wikideck": true,
    "apercu": [
+    "thumbs/mouvements_litteraires/litterature-courtoise.webp",
     "thumbs/mouvements_litteraires/pleiade-xvie-siecle.webp",
-    "thumbs/mouvements_litteraires/humanisme.webp",
-    "thumbs/mouvements_litteraires/litterature-baroque.webp"
+    "thumbs/mouvements_litteraires/humanisme.webp"
    ],
-   "ids": "pleiade-xvie-siecle humanisme litterature-baroque preciosite classicisme lumieres-philosophie preromantisme sturm-und-drang romantisme realisme-litterature parnasse-poesie naturalisme-litterature decadentisme symbolisme-art futurisme dada generation-perdue surrealisme negritude existentialisme beat-generation les-hussards-mouvement-litteraire nouveau-roman realisme-magique theatre-de-l-absurde oulipo"
+   "ids": "litterature-courtoise pleiade-xvie-siecle humanisme litterature-baroque libertin preciosite classicisme lumieres-philosophie preromantisme sturm-und-drang romantisme realisme-litterature parnasse-poesie naturalisme-litterature decadentisme symbolisme-art futurisme dada renaissance-de-harlem generation-perdue surrealisme negritude existentialisme beat-generation les-hussards-mouvement-litteraire nouveau-roman realisme-magique theatre-de-l-absurde oulipo litterature-postmoderne"
   },
   {
    "id": "corps_humain",
@@ -2082,7 +2082,7 @@
     "Repère"
    ],
    "cle": 0,
-   "fiches": 40,
+   "fiches": 52,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2090,7 +2090,7 @@
     "thumbs/corps_humain/tympan-humain.webp",
     "thumbs/corps_humain/appareil-cardiovasculaire.webp"
    ],
-   "ids": "oreille tympan-humain appareil-cardiovasculaire c-ur erythrocyte sang appareil-digestif colon estomac foie intestin-grele langue-anatomie-humaine pancreas vesicule-biliaire hypophyse systeme-endocrinien glande-thyroide acide-desoxyribonucleique leucocyte moelle-osseuse systeme-immunitaire muscle squelette-humain rate systeme-lymphatique cervelet encephale hippocampe-cerveau moelle-spinale neurone systeme-nerveux appareil-respiratoire diaphragme-organe nez poumon peau rein cornee il-humain retine"
+   "ids": "oreille tympan-humain appareil-cardiovasculaire c-ur erythrocyte sang appareil-digestif colon dent estomac foie intestin-grele langue-anatomie-humaine sophage pancreas vesicule-biliaire glande-surrenale hypophyse systeme-endocrinien glande-thyroide acide-desoxyribonucleique leucocyte moelle-osseuse systeme-immunitaire muscle squelette-humain rate systeme-lymphatique cervelet encephale hippocampe-cerveau moelle-spinale neurone systeme-nerveux systeme-reproducteur ovaire prostate testicule uterus appareil-respiratoire diaphragme-organe larynx nez poumon trachee peau appareil-urinaire rein vessie cornee il-humain retine"
   },
   {
    "id": "maladies",
@@ -2105,7 +2105,7 @@
     "Vaccin ou traitement"
    ],
    "cle": 0,
-   "fiches": 36,
+   "fiches": 47,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2113,7 +2113,7 @@
     "thumbs/maladies/asthme.webp",
     "thumbs/maladies/cancer.webp"
    ],
-   "ids": "accident-vasculaire-cerebral asthme cancer cholera maladie-a-coronavirus-2019 dengue diabete-sucre diphterie epilepsie fievre-jaune grippe grippe-espagnole hemophilie infarctus-du-myocarde lepre maladie-a-virus-ebola maladie-a-virus-zika maladie-d-alzheimer maladie-de-parkinson mucoviscidose paludisme peste peste-de-justinien peste-noire poliomyelite rage-maladie rougeole sclerose-en-plaques scorbut syndrome-d-immunodeficience-acquise syphilis tetanos tuberculose typhus variole variole-simienne"
+   "ids": "accident-vasculaire-cerebral asthme cancer cholera coqueluche maladie-a-coronavirus-2019 dengue depression-psychiatrie diabete-sucre diphterie epilepsie fievre-jaune grippe grippe-espagnole hemophilie hepatite hypertension-arterielle infarctus-du-myocarde lepre maladie-a-virus-ebola maladie-a-virus-zika maladie-d-alzheimer encephalopathie-spongiforme-bovine maladie-de-parkinson meningite mucoviscidose obesite paludisme peste peste-de-justinien peste-noire poliomyelite rage-maladie rougeole schizophrenie sclerose-en-plaques scorbut syndrome-respiratoire-aigu-severe syndrome-d-immunodeficience-acquise syphilis tetanos trouble-bipolaire tuberculose typhus varicelle variole variole-simienne"
   },
   {
    "id": "theoremes",
@@ -2127,15 +2127,15 @@
     "Énoncé"
    ],
    "cle": 0,
-   "fiches": 36,
+   "fiches": 43,
    "images": true,
    "wikideck": true,
    "apercu": [
     "thumbs/theoremes/theoreme-de-pythagore.webp",
     "thumbs/theoremes/theoreme-de-thales.webp",
-    "thumbs/theoremes/nombre-d-or.webp"
+    "thumbs/theoremes/paradoxes-de-zenon.webp"
    ],
-   "ids": "theoreme-de-pythagore theoreme-de-thales nombre-d-or pi poussee-d-archimede suite-de-fibonacci lois-de-kepler lois-de-snell-descartes dernier-theoreme-de-fermat principe-de-pascal loi-de-boyle-mariotte loi-de-hooke loi-universelle-de-la-gravitation lois-du-mouvement-de-newton loi-de-coulomb-electrostatique conservation-de-la-masse loi-d-avogadro deuxieme-principe-de-la-thermodynamique loi-d-ohm effet-doppler conservation-de-l-energie premier-principe-de-la-thermodynamique selection-naturelle equations-de-maxwell lois-de-mendel conjecture-de-poincare e-mc2 effet-photoelectrique relativite-restreinte tectonique-des-plaques relativite-generale big-bang principe-d-incertitude theoremes-d-incompletude-de-godel loi-de-moore theoreme-des-quatre-couleurs"
+   "ids": "theoreme-de-pythagore theoreme-de-thales paradoxes-de-zenon nombre-d-or pi poussee-d-archimede suite-de-fibonacci lois-de-kepler lois-de-snell-descartes dernier-theoreme-de-fermat principe-de-pascal loi-de-boyle-mariotte loi-de-hooke loi-universelle-de-la-gravitation lois-du-mouvement-de-newton theoreme-de-bayes loi-de-coulomb-electrostatique conservation-de-la-masse loi-d-avogadro deuxieme-principe-de-la-thermodynamique loi-d-ohm induction-electromagnetique loi-des-gaz-parfaits effet-doppler conservation-de-l-energie premier-principe-de-la-thermodynamique selection-naturelle equations-de-maxwell lois-de-mendel conjecture-de-poincare e-mc2 effet-photoelectrique relativite-restreinte tectonique-des-plaques relativite-generale equation-de-schrodinger big-bang principe-d-incertitude loi-de-hubble-lemaitre theoremes-d-incompletude-de-godel theorie-du-chaos loi-de-moore theoreme-des-quatre-couleurs"
   },
   {
    "id": "crises_economiques",
@@ -2149,7 +2149,7 @@
     "Cause"
    ],
    "cle": 0,
-   "fiches": 21,
+   "fiches": 24,
    "images": true,
    "wikideck": true,
    "apercu": [
@@ -2157,7 +2157,314 @@
     "thumbs/crises_economiques/krach-de-1720.webp",
     "thumbs/crises_economiques/systeme-de-law.webp"
    ],
-   "ids": "tulipomanie krach-de-1720 systeme-de-law panique-du-18-septembre-1873 panique-bancaire-americaine-de-1907 hyperinflation-de-la-republique-de-weimar grande-depression krach-de-1929 premier-choc-petrolier deuxieme-choc-petrolier krach-d-octobre-1987 crise-economique-asiatique crise-economique-argentine bulle-internet hyperinflation-au-zimbabwe crise-des-subprimes crise-financiere-mondiale-de-2007-2008 crise-bancaire-et-financiere-de-l-automne-2008 crise-de-la-dette-dans-la-zone-euro crise-de-la-dette-publique-grecque crise-economique-liee-a-la-pandemie-de-covid-19"
+   "ids": "tulipomanie krach-de-1720 systeme-de-law panique-du-18-septembre-1873 panique-bancaire-americaine-de-1907 hyperinflation-de-la-republique-de-weimar grande-depression krach-de-1929 premier-choc-petrolier deuxieme-choc-petrolier krach-d-octobre-1987 crise-economique-mexicaine crise-economique-asiatique crise-financiere-russe-de-1998 crise-economique-argentine bulle-internet hyperinflation-au-zimbabwe enron crise-des-subprimes crise-financiere-mondiale-de-2007-2008 crise-bancaire-et-financiere-de-l-automne-2008 crise-de-la-dette-dans-la-zone-euro crise-de-la-dette-publique-grecque crise-economique-liee-a-la-pandemie-de-covid-19"
+  },
+  {
+   "id": "mammiferes",
+   "nom": "Mammifères",
+   "icone": "🐘",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Mammifère",
+    "Groupe",
+    "Habitat",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 128,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mammiferes/alpaga.webp",
+    "thumbs/mammiferes/bison-d-amerique.webp",
+    "thumbs/mammiferes/b-uf-musque.webp"
+   ],
+   "ids": "alpaga bison-d-amerique b-uf-musque bouquetin-des-alpes buffle-d-afrique cerf-elaphe chameau-de-bactriane chamois chevre chevreuil cochon-nain dromadaire alces gazelle-de-thomson girafe gnou hippopotamidae impala lama-animal mouton okapi oryx-gazelle rangifer-tarandus sanglier vache yack mustela-nivalis blaireau-europeen caracal chacal-dore chat-nom-vernaculaire coyote dingo-chien-sauvage elephant-de-mer fennec fossa-animal furet gulo-gulo guepard hermine hyene-tachetee jaguar leopard lion loup-a-criniere canis-lupus lutrinae loutre-de-mer lycaon-animal lynx-boreal herpestidae morse-animal mephitis-mephitis ocelot otariidae ours-brun ours-noir-d-amerique ours-blanc panda-geant ailurus panthere-des-neiges phoque-commun puma ratel raton-laveur renard-polaire renard-roux serval suricate tigre baleine-a-bosse baleine-bleue beluga-cetace physeteroidea grand-dauphin narval orque desmodontinae herisson musaraigne taupe-d-europe oryctolagus-cuniculus lievre-d-europe diable-de-tasmanie kangourou-roux koala quokka wallaby wombat echidne ornithorynque ane cheval cheval-de-przewalski rhinoceros-blanc rhinoceros-noir tapir equus-quagga manidae aye-aye babouin bonobo chimpanze hylobatidae gorille-de-l-ouest lemur-catta macaque mandrillus-sphinx orang-outan callithrix-jacchus tarsier elephant-d-afrique elephant-d-asie hydrochoerus-hydrochaeris castor-d-europe cavia-porcellus ecureuil-roux hamster-dore marmota-marmota porc-epic rattus souris-bleue-grise dugong lamantin orycterope tamanoir paresseux-a-trois-doigts priodontes-maximus"
+  },
+  {
+   "id": "oiseaux",
+   "nom": "Oiseaux",
+   "icone": "🦜",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Oiseau",
+    "Groupe",
+    "Habitat",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 94,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/oiseaux/colibri.webp",
+    "thumbs/oiseaux/martinet-noir.webp",
+    "thumbs/oiseaux/dodo-oiseau.webp"
+   ],
+   "ids": "colibri martinet-noir dodo-oiseau pigeon-biset tourte-voyageuse tourterelle-turque calao-bicorne guepier-d-europe huppe-fasciee martin-chasseur-geant martin-pecheur-d-europe coucou-gris grand-geocoucou aigrette-garzette bec-en-sabot-du-nil cigogne-blanche flamant-rose grue-cendree grue-du-japon heron-cendre ibis-sacre marabout-d-afrique spatule-blanche caille-des-bles dinde-domestique dinde-domestique-b faisan-de-colchide paon-bleu pintade-de-numidie manchot-adelie manchot-empereur albatros-hurleur canard-colvert cygne-noir cygne-tubercule fou-de-bassan fregate-superbe goeland-argente grand-cormoran grand-pingouin macareux-moine mouette-rieuse oie-cendree pelican-blanc sterne-arctique alouette-des-champs chardonneret-elegant corneille-noire etourneau-sansonnet geai-des-chenes grand-corbeau hirondelle-rustique merle-noir mesange-bleue mesange-charbonniere moineau-domestique menura paradisier pie-bavarde pinson-des-arbres rossignol-philomele rouge-gorge serin-des-canaries ara-bleu cacatoes strigops-kakapo nestor-kea perroquet-jaco perruche-ondulee pic-epeiche pic-vert toucan-toco aigle-royal balbuzard-pecheur buse-variable effraie-des-clochers chouette-hulotte condor-des-andes faucon-crecerelle faucon-pelerin gypaete-barbu harfang-des-neiges harpie-feroce hibou-grand-duc messager-sagittaire milan-royal pygargue-a-tete-blanche vautour-fauve autruche casoar-a-casque dromaius kiwi-austral nandou-d-amerique quetzal-resplendissant"
+  },
+  {
+   "id": "reptiles_amphibiens",
+   "nom": "Reptiles et amphibiens",
+   "icone": "🦎",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Animal",
+    "Classe",
+    "Habitat",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 54,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/reptiles_amphibiens/axolotl.webp",
+    "thumbs/reptiles_amphibiens/caecilia.webp",
+    "thumbs/reptiles_amphibiens/rhinella-marina.webp"
+   ],
+   "ids": "axolotl caecilia rhinella-marina crapaud-commun dendrobates centrolenidae conraua-goliath ouaouaron protee-anguillard rainette-aux-yeux-rouges rainette-verte andrias-japonicus salamandre-maculee triton-alpestre alligator-d-amerique eunectes-murinus basiliscus-plumifrons boa-constricteur caiman-a-lunettes furcifer-pardalis cobra-indien cobra-royal couleuvre-a-collier crocodile-du-nil crocodile-marin crotale-diamantin dragon-de-komodo gavial-du-gange gecko-leopard iguane-marin-des-galapagos iguana-iguana lezard-a-collerette lezard-des-murailles lacerta-bilineata dendroaspis-polylepis moloch-horridus monstre-de-gila anguis-fragilis pogona-vitticeps python-reticule python-royal sphenodon taipan-du-desert macrochelys-temminckii caretta-caretta tortue-d-hermann tortue-de-floride tortue-geante-des-galapagos tortue-luth tortue-verte varan-du-nil vipere-a-cornes vipere-aspic vipere-du-gabon"
+  },
+  {
+   "id": "vie_marine",
+   "nom": "Poissons et vie marine",
+   "icone": "🐠",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Animal",
+    "Groupe",
+    "Habitat",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 72,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/vie_marine/anemone-de-mer.webp",
+    "thumbs/vie_marine/faviidae.webp",
+    "thumbs/vie_marine/aurelia-aurita.webp"
+   ],
+   "ids": "anemone-de-mer faviidae aurelia-aurita cubozoa physalia pagure macrocheira-kaempferi stomatopoda homard krill-antarctique langouste-rouge holothurie etoile-de-mer echinoidea porifera tridacne-geant calmar-geant coquille-saint-jacques huitre nautile-sous-marin-de-poche pieuvre-aux-anneaux-bleus pieuvre seiche-animal anguille-d-europe anguille-electrique arapaima-gigas sphyraena melanocetus esox-lucius koi coelacanthiformes phycodurus-eques espadon acipenser-sturio poecilia-reticulata clupea-harengus hippocampe-poisson petromyzon-marinus scomber-scombrus istiophoridae epinephelus-marginatus morue-de-l-atlantique murene-commune piranha combattant mole-poisson poisson-rouge exocoetidae acanthuridae poisson-clown poisson-globe pterois-volitans scaridae poisson-pierre sardina-pilchardus saumon-atlantique silure-glane thon-rouge salmo-trutta pristidae manta-genre dasyatis-pastinaca grand-requin-blanc requin-du-groenland requin-mako sphyrnidae requin-pelerin requin-baleine requin-bouledogue requin-lutin requin-tigre scyliorhinidae"
+  },
+  {
+   "id": "insectes",
+   "nom": "Insectes",
+   "icone": "🦋",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Insecte",
+    "Ordre",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 60,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/insectes/blatte-americaine.webp",
+    "thumbs/insectes/termite.webp",
+    "thumbs/insectes/bousier.webp"
+   ],
+   "ids": "blatte-americaine termite bousier carabe-dore cetoine-doree charancon-du-ble coccinella-septempunctata coleoptere-bombardier doryphore melolonthinae lucanus-cervus luciola goliathus-regius dynaste-hercule dynastinae bousier-sacre dermaptera drosophile mouche-domestique mouche-tse-tse culex-pipiens aedes-albopictus tabanidae ephemeroptera cicadidae aphidoidea punaise-de-lit halyomorpha-halys apis-mellifera bourdon-terrestre camponotus fourmi-coupe-feuille fourmi-legionnaire lasius-niger formica-rufa vespa-velutina vespa-crabro vespa-mandarinia vespula-vulgaris machaon-papillon morpho-helenor paon-du-jour attacus-atlas monarque-papillon pieride-du-chou moro-sphinx sphinx-tete-de-mort bombyx-du-murier hymenopus-coronatus mante-religieuse myrmeleontidae zygoptera anax-empereur criquet-migrateur acheta-domesticus tettigonia-viridissima phasme phylliidae pou-de-tete ctenocephalides-felis"
+  },
+  {
+   "id": "dinosaures",
+   "nom": "Dinosaures",
+   "icone": "🦖",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Dinosaure",
+    "Période",
+    "Régime",
+    "Fossiles trouvés"
+   ],
+   "cle": 0,
+   "fiches": 62,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/dinosaures/coelophysis.webp",
+    "thumbs/dinosaures/eoraptor.webp",
+    "thumbs/dinosaures/herrerasaurus.webp"
+   ],
+   "ids": "coelophysis eoraptor herrerasaurus plateosaurus allosaurus apatosaurus archaeopteryx brachiosaurus brontosaurus camarasaurus ceratosaurus compsognathus cryolophosaurus dilophosaurus diplodocus kentrosaurus mamenchisaurus megalosaurus stegosaurus supersaurus albertosaurus amargasaurus ankylosaurus argentinosaurus baryonyx carcharodontosaurus carnotaurus chasmosaurus corythosaurus deinocheirus deinonychus edmontosaurus euoplocephalus gallimimus giganotosaurus hadrosaurus iguanodon maiasaura majungasaurus microraptor ornithomimus oviraptor pachycephalosaurus parasaurolophus patagotitan pentaceratops protoceratops psittacosaurus sinosauropteryx spinosaurus struthiomimus styracosaurus suchomimus tarbosaurus therizinosaurus torosaurus triceratops troodon tyrannosaurus utahraptor velociraptor yutyrannus"
+  },
+  {
+   "id": "creatures_prehistoriques",
+   "nom": "Créatures préhistoriques",
+   "icone": "🦣",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Créature",
+    "Époque",
+    "Groupe",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 50,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/creatures_prehistoriques/anomalocaris.webp",
+    "thumbs/creatures_prehistoriques/hallucigenia.webp",
+    "thumbs/creatures_prehistoriques/trilobita.webp"
+   ],
+   "ids": "anomalocaris hallucigenia trilobita ammonoidea tiktaalik dunkleosteus arthropleura meganeura dimetrodon helicoprion gorgonops lystrosaurus shonisaurus dimorphodon ichthyosaurus plesiosaurus liopleurodon pterodactyle rhamphorhynchus kronosaurus sarcosuchus pteranodon deinosuchus elasmosaurus mosasaurus quetzalcoatlus titanoboa eohippus gastornis andrewsarchus basilosaurus entelodontidae paraceratherium megalodon phorusrhacos megalania-genre diprotodon ursus-spelaeus rhinoceros-laineux lion-des-cavernes-eurasiatique mastodonte glyptodon megatherium smilodon megaloceros mammouth-laineux pyornis dinornithiformes aurochs thylacine"
+  },
+  {
+   "id": "arbres",
+   "nom": "Arbres",
+   "icone": "🌳",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Arbre",
+    "Famille",
+    "Feuillage",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 61,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/arbres/sambucus-nigra.webp",
+    "thumbs/arbres/manguier.webp",
+    "thumbs/arbres/houx.webp"
+   ],
+   "ids": "sambucus-nigra manguier houx araucaria agathis-australis wollemia-nobilis cocotier phoenix-dactylifera dragonnier aulne bouleau charme-commun corylus-avellana flamboyant-bleu cypres juniperus-communis sequoia-sempervirens sequoia-geant ebene hevea acacia-genre flamboyant castanea chene chene-liege hetre-commun ginkgo-biloba noyer teck adansonia cacaoyer fromager-arbre tilia acajou-des-antilles arbre-a-pain figuier-des-banians eucalyptus frene olivier cedre-du-liban epicea-commun meleze pin-bristlecone pin-parasol pin-sylvestre sapin pseudotsuga-menziesii platane bambou paletuvier amandier cafeier peuplier saule-pleureur santalum-album erable aesculus-hippocastanum arganier karite if-commun orme"
+  },
+  {
+   "id": "fleurs",
+   "nom": "Fleurs",
+   "icone": "🌸",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Fleur",
+    "Famille",
+    "Couleurs",
+    "Symbole ou usage"
+   ],
+   "cle": 0,
+   "fiches": 56,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/fleurs/jonquille.webp",
+    "thumbs/fleurs/perce-neige.webp",
+    "thumbs/fleurs/plumeria.webp"
+   ],
+   "ids": "jonquille perce-neige plumeria arum arum-titan hyacinthus-orientalis muguet-de-mai cyanus-segetum chardon chrysantheme dahlia edelweiss marguerite-commune pissenlit tournesol myosotis chevrefeuille-des-bois illet dionee-attrape-mouche rhododendron-b bruyere rhododendron wisteria acacia-dealbata gentiane pelargonium hydrangea crocus glaieul iris-genre-vegetal lavande lys tulipe magnolia hibiscus nelumbo-nucifera bougainvillea nenuphar jasmin syringa-vulgaris fuchsia orchidaceae pivoine coquelicot passiflore digitalis-purpurea primevere-officinale protea-cynaroides rafflesia renoncule clematite prunus-serrulata rose-fleur strelitzia-reginae camellia viola-plante-b"
+  },
+  {
+   "id": "champignons",
+   "nom": "Champignons",
+   "icone": "🍄",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Champignon",
+    "Comestible",
+    "Habitat",
+    "Particularité"
+   ],
+   "cle": 0,
+   "fiches": 40,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/champignons/bolet-bai.webp",
+    "thumbs/champignons/boletus-edulis.webp",
+    "thumbs/champignons/agaricus-bisporus.webp"
+   ],
+   "ids": "bolet-bai boletus-edulis agaricus-bisporus coprin-chevelu macrolepiota-procera flammulina-velutipes cantharellus-cibarius hericium-erinaceus lactaire-delicieux saccharomyces-cerevisiae matsutake morchella oreille-de-judas oronge pleurotus-ostreatus agaricus-campestris russule-charbonniere lentinula-edodes tricholome-de-la-saint-georges trompette-de-la-mort truffe-champignon truffe-blanche psilocybe amanite-phalloide amadouvier cordyceps penicillium satyre-puant ganoderme-luisant amanite-tue-mouches armillaria aspergillus bolet-satan clathrus-ruber clitocybe ergot-du-seigle mycena polypore-soufre scleroderma vesse-de-loup"
+  },
+  {
+   "id": "plantes_cultivees",
+   "nom": "Plantes cultivées",
+   "icone": "🌾",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Plante",
+    "Origine",
+    "Usage",
+    "Famille"
+   ],
+   "cle": 0,
+   "fiches": 65,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/plantes_cultivees/pasteque.webp",
+    "thumbs/plantes_cultivees/sorgo-commun.webp",
+    "thumbs/plantes_cultivees/igname.webp"
+   ],
+   "ids": "pasteque sorgo-commun igname palmier-a-huile cacao manioc ananas arachide fraise pomme-de-terre quinoa tabac tomate ail-cultive carotte chanvre oignon pomme gingembre cerise poire vigne orange-fruit peche-fruit riz soja the ble lentille-cultivee lin-cultive orge-commune pois-cultive seigle laitue-cultivee cafe avoine-cultivee colza houblon safran-epice aubergine citron concombre coton curcuma mangue melon-plante poivrier-noir grenade-fruit artichaut asperge betterave chou-commun poireau avocat-fruit courge haricot mais patate-douce piment vanille clou-de-girofle noix-de-muscade banane canne-a-sucre cannelle"
+  },
+  {
+   "id": "mineraux",
+   "nom": "Minéraux et pierres précieuses",
+   "icone": "💎",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Minéral",
+    "Famille",
+    "Couleur",
+    "Dureté (Mohs)"
+   ],
+   "cle": 0,
+   "fiches": 65,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/mineraux/azurite-mineral.webp",
+    "thumbs/mineraux/calcite.webp",
+    "thumbs/mineraux/malachite.webp"
+   ],
+   "ids": "azurite-mineral calcite malachite argent-natif cuivre-natif diamant graphite or-natif ambre jais perle fluorine halite alexandrite coltan corindon hematite magnetite rubis saphir spinelle pechblende turquoise-mineral meteorite basalte granite obsidienne ponce ardoise lapis-lazuli marbre bauxite jaspe silex agate aigue-marine amethyste beryl citrine quartz-mineral-b emeraude feldspath grenat jade labradorite mica il-de-tigre olivine onyx-mineral opale peridot pierre-de-lune quartz-mineral quartz-rose talc tanzanite topaze-mineral tourmaline zircon gypse rose-des-sables cinabre galene pyrite moldavite"
+  },
+  {
+   "id": "races_chien",
+   "nom": "Races de chien",
+   "icone": "🐕",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Race",
+    "Pays d'origine",
+    "Groupe",
+    "Taille"
+   ],
+   "cle": 0,
+   "fiches": 131,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/races_chien/levrier-afghan.webp",
+    "thumbs/races_chien/boerboel.webp",
+    "thumbs/races_chien/affenpinscher.webp"
+   ],
+   "ids": "levrier-afghan boerboel affenpinscher berger-allemand boxer-chien braque-allemand-a-poil-court dobermann dogue-allemand leonberg-chien pinscher-nain rottweiler schnauzer spitz-nain teckel braque-de-weimar dogue-argentin bouvier-australien australian-kelpie malinois-chien chien-de-saint-hubert griffon-bruxellois bichon-a-poil-frise bouvier-des-flandres fila-brasileiro terre-neuve-chien carlin chien-chinois-a-crete chow-chow dogue-du-tibet lhassa-apso pekinois-chien shar-pei shih-tzu dalmatien bichon-havanais american-pit-bull-terrier american-staffordshire-terrier berger-australien terrier-de-boston chien-noir-et-feu-pour-la-chasse-au-raton-laveur foxhound-americain malamute-de-l-alaska barbet-chien basset-bleu-de-gascogne basset-fauve-de-bretagne beagle-harrier berger-de-beauce berger-des-pyrenees berger-picard bouledogue berger-de-brie caniche chien-de-montagne-des-pyrenees dogue-de-bordeaux epagneul-breton epagneul-francais grand-bleu-de-gascogne griffon-d-arret-a-poil-dur-korthals epagneul-nain-continental-papillon braque-hongrois-a-poil-court komondor puli levrier-persan terrier-irlandais terrier-kerry-blue irish-wolfhound setter-irlandais-rouge cane-corso akita-chien shiba-chien spitz-japonais coton-de-tulear bichon-maltais chihuahua-chien xoloitzcuintle berger-hollandais chien-loup-de-saarloos chien-nu-du-perou berger-polonais-de-plaine chien-d-eau-portugais basenji airedale-terrier basset-hound beagle-chien bearded-collie bedlington-terrier shetland-chien bobtail border-collie border-terrier bull-terrier bulldog-anglais cairn-terrier cavalier-king-charles-spaniel cocker-spaniel colley retriever-a-poil-plat fox-terrier foxhound-anglais golden-retriever levrier-greyhound jack-russell-terrier king-charles-spaniel labrador-retriever manchester-terrier mastiff norfolk-terrier norwich-terrier chien-a-loutre pointer-anglais terrier-ecossais sealyham-terrier setter-anglais skye-terrier springer-anglais staffordshire-bull-terrier welsh-corgi-pembroke welsh-terrier west-highland-white-terrier levrier-whippet yorkshire-terrier barzoi berger-du-caucase husky-de-siberie samoyede-chien chien-loup-tchecoslovaque berger-blanc-suisse bouvier-bernois saint-bernard berger-kangal chien-de-rhodesie-a-crete-dorsale"
+  },
+  {
+   "id": "races_cheval",
+   "nom": "Races de cheval",
+   "icone": "🐎",
+   "categorie": "sciences-nature",
+   "colonnes": [
+    "Race",
+    "Pays d'origine",
+    "Usage",
+    "Robe courante"
+   ],
+   "cle": 0,
+   "fiches": 52,
+   "images": true,
+   "wikideck": true,
+   "apercu": [
+    "thumbs/races_cheval/hanovrien.webp",
+    "thumbs/races_cheval/holsteiner.webp",
+    "thumbs/races_cheval/oldenbourg-cheval.webp"
+   ],
+   "ids": "hanovrien holsteiner oldenbourg-cheval trakehner arabe-cheval criollo falabella brumby haflinger trait-belge ardennais-cheval paso-fino knabstrup pure-race-espagnole appaloosa morgan-cheval mustang-cheval paint-horse quarter-horse standardbred tennessee-walker boulonnais-cheval camargue-cheval cob-normand comtois-cheval merens-cheval percheron poitevin-mulassier selle-francais breton-cheval trotteur-francais pottok marwari-cheval connemara-cheval cob-gypsy islandais-cheval barbe-cheval mongol-cheval fjord-cheval frison-cheval konik lusitanien-cheval clydesdale hackney-cheval pur-sang shetland-cheval shire-cheval suffolk-punch welsh-cheval trotteur-d-orlov lipizzan akhal-teke"
   }
  ]
 }

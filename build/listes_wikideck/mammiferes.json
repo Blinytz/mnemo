@@ -1,0 +1,783 @@
+{
+ "mammiferes_lion": {
+  "groupe": "Carnivores",
+  "habitat": "Savane africaine",
+  "particularite": "Seul félin vivant en groupe",
+  "confiance": "sure"
+ },
+ "mammiferes_tigre": {
+  "groupe": "Carnivores",
+  "habitat": "Forêts d'Asie",
+  "particularite": "Plus grand des félins",
+  "confiance": "sure"
+ },
+ "mammiferes_leopard": {
+  "groupe": "Carnivores",
+  "habitat": "Afrique et Asie",
+  "particularite": "Hisse ses proies dans les arbres",
+  "confiance": "sure"
+ },
+ "mammiferes_jaguar": {
+  "groupe": "Carnivores",
+  "habitat": "Forêt amazonienne",
+  "particularite": "Plus grand félin d'Amérique",
+  "confiance": "sure"
+ },
+ "mammiferes_guepard": {
+  "groupe": "Carnivores",
+  "habitat": "Savane africaine",
+  "particularite": "Mammifère terrestre le plus rapide",
+  "confiance": "sure"
+ },
+ "mammiferes_puma": {
+  "groupe": "Carnivores",
+  "habitat": "Amériques",
+  "particularite": "Aussi appelé lion de montagne",
+  "confiance": "sure"
+ },
+ "mammiferes_lynx-boreal": {
+  "groupe": "Carnivores",
+  "habitat": "Forêts d'Eurasie",
+  "particularite": "Pinceaux de poils aux oreilles",
+  "confiance": "sure"
+ },
+ "mammiferes_ocelot": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique latine",
+  "particularite": "Pelage tacheté en chaînettes",
+  "confiance": "sure"
+ },
+ "mammiferes_caracal": {
+  "groupe": "Carnivores",
+  "habitat": "Afrique et Asie",
+  "particularite": "Oreilles noires à longs pinceaux",
+  "confiance": "sure"
+ },
+ "mammiferes_ours-blanc": {
+  "groupe": "Carnivores",
+  "habitat": "Arctique",
+  "particularite": "Plus grand carnivore terrestre",
+  "confiance": "sure"
+ },
+ "mammiferes_ours-brun": {
+  "groupe": "Carnivores",
+  "habitat": "Eurasie et Amérique du Nord",
+  "particularite": "Dort tout l'hiver",
+  "confiance": "tranchee",
+  "note": "Hivernation plutôt qu'hibernation vraie ; formulation courante retenue"
+ },
+ "mammiferes_ours-noir-d-amerique": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique du Nord",
+  "particularite": "Ours le plus répandu d'Amérique",
+  "confiance": "sure",
+  "nom": "Ours noir d'Amérique"
+ },
+ "mammiferes_panda-geant": {
+  "groupe": "Carnivores",
+  "habitat": "Montagnes de Chine",
+  "particularite": "Mange presque que du bambou",
+  "confiance": "sure"
+ },
+ "mammiferes_ailurus": {
+  "groupe": "Carnivores",
+  "habitat": "Himalaya",
+  "particularite": "Faux pouce pour tenir le bambou",
+  "confiance": "sure"
+ },
+ "mammiferes_elephant-d-afrique": {
+  "groupe": "Proboscidiens",
+  "habitat": "Afrique subsaharienne",
+  "particularite": "Plus grand animal terrestre",
+  "confiance": "sure"
+ },
+ "mammiferes_elephant-d-asie": {
+  "groupe": "Proboscidiens",
+  "habitat": "Asie du Sud et du Sud-Est",
+  "particularite": "Petites oreilles arrondies",
+  "confiance": "sure"
+ },
+ "mammiferes_rhinoceros-noir": {
+  "groupe": "Périssodactyles",
+  "habitat": "Afrique de l'Est et australe",
+  "particularite": "Lèvre supérieure préhensile",
+  "confiance": "sure"
+ },
+ "mammiferes_rhinoceros-blanc": {
+  "groupe": "Périssodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Lèvre large pour brouter",
+  "confiance": "sure"
+ },
+ "mammiferes_hippopotamidae": {
+  "groupe": "Artiodactyles",
+  "habitat": "Fleuves africains",
+  "particularite": "Passe la journée dans l'eau",
+  "confiance": "sure"
+ },
+ "mammiferes_girafe": {
+  "groupe": "Artiodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Plus grand animal en hauteur",
+  "confiance": "sure"
+ },
+ "mammiferes_okapi": {
+  "groupe": "Artiodactyles",
+  "habitat": "Forêt du Congo",
+  "particularite": "Cousin de la girafe aux pattes rayées",
+  "confiance": "sure"
+ },
+ "mammiferes_equus-quagga": {
+  "groupe": "Périssodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Rayures uniques à chaque individu",
+  "confiance": "sure"
+ },
+ "mammiferes_gnou": {
+  "groupe": "Artiodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Grande migration du Serengeti",
+  "confiance": "sure"
+ },
+ "mammiferes_buffle-d-afrique": {
+  "groupe": "Artiodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Cornes soudées en casque",
+  "confiance": "sure"
+ },
+ "mammiferes_bison-d-amerique": {
+  "groupe": "Artiodactyles",
+  "habitat": "Grandes Plaines",
+  "particularite": "Plus lourd animal terrestre d'Amérique",
+  "confiance": "sure"
+ },
+ "mammiferes_canis-lupus": {
+  "groupe": "Carnivores",
+  "habitat": "Hémisphère Nord",
+  "particularite": "Chasse en meute",
+  "confiance": "sure"
+ },
+ "mammiferes_renard-roux": {
+  "groupe": "Carnivores",
+  "habitat": "Hémisphère Nord",
+  "particularite": "Carnivore le plus répandu au monde",
+  "confiance": "sure"
+ },
+ "mammiferes_fennec": {
+  "groupe": "Carnivores",
+  "habitat": "Sahara",
+  "particularite": "Plus petit des canidés",
+  "confiance": "sure"
+ },
+ "mammiferes_coyote": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique du Nord",
+  "particularite": "Hurlements nocturnes",
+  "confiance": "sure"
+ },
+ "mammiferes_hyene-tachetee": {
+  "groupe": "Carnivores",
+  "habitat": "Savane africaine",
+  "particularite": "Cri semblable à un rire",
+  "confiance": "sure"
+ },
+ "mammiferes_lycaon-animal": {
+  "groupe": "Carnivores",
+  "habitat": "Savane africaine",
+  "particularite": "Pelage bariolé unique",
+  "confiance": "sure"
+ },
+ "mammiferes_gorille-de-l-ouest": {
+  "groupe": "Primates",
+  "habitat": "Forêts d'Afrique centrale",
+  "particularite": "Mâle dominant au dos argenté",
+  "confiance": "sure"
+ },
+ "mammiferes_chimpanze": {
+  "groupe": "Primates",
+  "habitat": "Forêts d'Afrique",
+  "particularite": "Plus proche parent de l'homme",
+  "confiance": "tranchee",
+  "note": "Partage ce titre avec le bonobo"
+ },
+ "mammiferes_bonobo": {
+  "groupe": "Primates",
+  "habitat": "Rive gauche du Congo",
+  "particularite": "Société dominée par les femelles",
+  "confiance": "sure"
+ },
+ "mammiferes_orang-outan": {
+  "groupe": "Primates",
+  "habitat": "Bornéo et Sumatra",
+  "particularite": "Grand singe roux arboricole",
+  "confiance": "sure"
+ },
+ "mammiferes_hylobatidae": {
+  "groupe": "Primates",
+  "habitat": "Forêts d'Asie du Sud-Est",
+  "particularite": "Se déplace par brachiation",
+  "confiance": "sure"
+ },
+ "mammiferes_babouin": {
+  "groupe": "Primates",
+  "habitat": "Afrique",
+  "particularite": "Museau allongé de chien",
+  "confiance": "sure"
+ },
+ "mammiferes_macaque": {
+  "groupe": "Primates",
+  "habitat": "Asie et Afrique du Nord",
+  "particularite": "Primate le plus répandu après l'homme",
+  "confiance": "sure"
+ },
+ "mammiferes_lemur-catta": {
+  "groupe": "Primates",
+  "habitat": "Madagascar",
+  "particularite": "Queue annelée noir et blanc",
+  "confiance": "sure"
+ },
+ "mammiferes_aye-aye": {
+  "groupe": "Primates",
+  "habitat": "Madagascar",
+  "particularite": "Long doigt pour extraire les larves",
+  "confiance": "sure"
+ },
+ "mammiferes_koala": {
+  "groupe": "Marsupiaux",
+  "habitat": "Australie",
+  "particularite": "Mange des feuilles d'eucalyptus",
+  "confiance": "sure"
+ },
+ "mammiferes_kangourou-roux": {
+  "groupe": "Marsupiaux",
+  "habitat": "Australie",
+  "particularite": "Plus grand marsupial",
+  "confiance": "sure"
+ },
+ "mammiferes_wallaby": {
+  "groupe": "Marsupiaux",
+  "habitat": "Australie",
+  "particularite": "Petit cousin du kangourou",
+  "confiance": "sure"
+ },
+ "mammiferes_wombat": {
+  "groupe": "Marsupiaux",
+  "habitat": "Australie",
+  "particularite": "Excréments en forme de cube",
+  "confiance": "sure"
+ },
+ "mammiferes_quokka": {
+  "groupe": "Marsupiaux",
+  "habitat": "Australie occidentale",
+  "particularite": "Animal le plus souriant",
+  "confiance": "sure"
+ },
+ "mammiferes_diable-de-tasmanie": {
+  "groupe": "Marsupiaux",
+  "habitat": "Tasmanie",
+  "particularite": "Plus grand marsupial carnivore",
+  "confiance": "sure"
+ },
+ "mammiferes_ornithorynque": {
+  "groupe": "Monotrèmes",
+  "habitat": "Australie orientale",
+  "particularite": "Mammifère à bec de canard",
+  "confiance": "sure"
+ },
+ "mammiferes_echidne": {
+  "groupe": "Monotrèmes",
+  "habitat": "Australie et Nouvelle-Guinée",
+  "particularite": "Mammifère pondeur à piquants",
+  "confiance": "sure"
+ },
+ "mammiferes_paresseux-a-trois-doigts": {
+  "groupe": "Xénarthres",
+  "habitat": "Forêt amazonienne",
+  "particularite": "Mammifère le plus lent",
+  "confiance": "tranchee",
+  "note": "Ordre des Pilosa, regroupé sous Xénarthres"
+ },
+ "mammiferes_priodontes-maximus": {
+  "groupe": "Xénarthres",
+  "habitat": "Amérique du Sud",
+  "particularite": "Plus grand des tatous",
+  "confiance": "tranchee",
+  "note": "Ordre des Cingulata, regroupé sous Xénarthres"
+ },
+ "mammiferes_manidae": {
+  "groupe": "Pholidotes",
+  "habitat": "Afrique et Asie",
+  "particularite": "Seul mammifère à écailles",
+  "confiance": "sure"
+ },
+ "mammiferes_tamanoir": {
+  "groupe": "Xénarthres",
+  "habitat": "Amérique du Sud",
+  "particularite": "Langue de 60 cm",
+  "confiance": "tranchee",
+  "note": "Ordre des Pilosa, regroupé sous Xénarthres"
+ },
+ "mammiferes_lutrinae": {
+  "groupe": "Carnivores",
+  "habitat": "Rivières et côtes",
+  "particularite": "Semi-aquatique, mange du poisson",
+  "confiance": "sure"
+ },
+ "mammiferes_castor-d-europe": {
+  "groupe": "Rongeurs",
+  "habitat": "Rivières d'Europe",
+  "particularite": "Construit des barrages",
+  "confiance": "sure"
+ },
+ "mammiferes_blaireau-europeen": {
+  "groupe": "Carnivores",
+  "habitat": "Forêts d'Europe",
+  "particularite": "Terrier collectif appelé blaireautière",
+  "confiance": "sure"
+ },
+ "mammiferes_ecureuil-roux": {
+  "groupe": "Rongeurs",
+  "habitat": "Forêts d'Eurasie",
+  "particularite": "Enterre des réserves de noisettes",
+  "confiance": "sure"
+ },
+ "mammiferes_herisson": {
+  "groupe": "Eulipotyphles",
+  "habitat": "Europe",
+  "particularite": "Se roule en boule de piquants",
+  "confiance": "sure"
+ },
+ "mammiferes_desmodontinae": {
+  "groupe": "Chiroptères",
+  "habitat": "Amérique latine",
+  "particularite": "Se nourrit de sang",
+  "confiance": "sure"
+ },
+ "mammiferes_baleine-bleue": {
+  "groupe": "Cétacés",
+  "habitat": "Océans",
+  "particularite": "Plus grand animal ayant existé",
+  "confiance": "sure"
+ },
+ "mammiferes_baleine-a-bosse": {
+  "groupe": "Cétacés",
+  "habitat": "Océans",
+  "particularite": "Chants complexes des mâles",
+  "confiance": "sure"
+ },
+ "mammiferes_physeteroidea": {
+  "groupe": "Cétacés",
+  "habitat": "Océans",
+  "particularite": "Plus grand prédateur à dents",
+  "confiance": "sure"
+ },
+ "mammiferes_orque": {
+  "groupe": "Cétacés",
+  "habitat": "Océans",
+  "particularite": "Plus grand des dauphins",
+  "confiance": "sure"
+ },
+ "mammiferes_grand-dauphin": {
+  "groupe": "Cétacés",
+  "habitat": "Mers tempérées et tropicales",
+  "particularite": "Écholocation et grande intelligence",
+  "confiance": "sure"
+ },
+ "mammiferes_narval": {
+  "groupe": "Cétacés",
+  "habitat": "Arctique",
+  "particularite": "Longue défense torsadée",
+  "confiance": "sure"
+ },
+ "mammiferes_beluga-cetace": {
+  "groupe": "Cétacés",
+  "habitat": "Arctique",
+  "particularite": "Baleine blanche",
+  "confiance": "sure"
+ },
+ "mammiferes_phoque-commun": {
+  "groupe": "Carnivores",
+  "habitat": "Atlantique Nord et Pacifique",
+  "particularite": "Rampe sur le ventre à terre",
+  "confiance": "sure"
+ },
+ "mammiferes_elephant-de-mer": {
+  "groupe": "Carnivores",
+  "habitat": "Pacifique Nord et océan Austral",
+  "particularite": "Trompe des mâles",
+  "confiance": "sure"
+ },
+ "mammiferes_otariidae": {
+  "groupe": "Carnivores",
+  "habitat": "Côtes du Pacifique",
+  "particularite": "Oreilles externes visibles",
+  "confiance": "sure"
+ },
+ "mammiferes_morse-animal": {
+  "groupe": "Carnivores",
+  "habitat": "Arctique",
+  "particularite": "Longues défenses",
+  "confiance": "sure"
+ },
+ "mammiferes_suricate": {
+  "groupe": "Carnivores",
+  "habitat": "Désert du Kalahari",
+  "particularite": "Sentinelle dressée sur ses pattes",
+  "confiance": "sure"
+ },
+ "mammiferes_furet": {
+  "groupe": "Carnivores",
+  "habitat": "Domestique",
+  "particularite": "Domestiqué pour chasser le lapin",
+  "confiance": "sure"
+ },
+ "mammiferes_hermine": {
+  "groupe": "Carnivores",
+  "habitat": "Hémisphère Nord",
+  "particularite": "Bout de queue toujours noir",
+  "confiance": "sure"
+ },
+ "mammiferes_sanglier": {
+  "groupe": "Artiodactyles",
+  "habitat": "Eurasie",
+  "particularite": "Ancêtre du cochon",
+  "confiance": "sure"
+ },
+ "mammiferes_cerf-elaphe": {
+  "groupe": "Artiodactyles",
+  "habitat": "Forêts d'Europe",
+  "particularite": "Brame à l'automne",
+  "confiance": "sure"
+ },
+ "mammiferes_rangifer-tarandus": {
+  "groupe": "Artiodactyles",
+  "habitat": "Arctique",
+  "particularite": "Mâles et femelles portent des bois",
+  "confiance": "sure"
+ },
+ "mammiferes_alces": {
+  "groupe": "Artiodactyles",
+  "habitat": "Forêts boréales",
+  "particularite": "Plus grand des cervidés",
+  "confiance": "sure",
+  "nom": "Élan"
+ },
+ "mammiferes_chevreuil": {
+  "groupe": "Artiodactyles",
+  "habitat": "Forêts d'Europe",
+  "particularite": "Plus petit cervidé d'Europe",
+  "confiance": "tranchee",
+  "note": "Le plus petit cervidé indigène d'Europe de l'Ouest"
+ },
+ "mammiferes_gazelle-de-thomson": {
+  "groupe": "Artiodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Bande noire sur les flancs",
+  "confiance": "sure"
+ },
+ "mammiferes_tapir": {
+  "groupe": "Périssodactyles",
+  "habitat": "Amérique du Sud et Asie",
+  "particularite": "Courte trompe mobile",
+  "confiance": "sure"
+ },
+ "mammiferes_chameau-de-bactriane": {
+  "groupe": "Artiodactyles",
+  "habitat": "Asie centrale",
+  "particularite": "Chameau à deux bosses",
+  "confiance": "sure"
+ },
+ "mammiferes_dromadaire": {
+  "groupe": "Artiodactyles",
+  "habitat": "Afrique du Nord et Arabie",
+  "particularite": "Une seule bosse",
+  "confiance": "sure"
+ },
+ "mammiferes_lama-animal": {
+  "groupe": "Artiodactyles",
+  "habitat": "Andes",
+  "particularite": "Crache quand il est contrarié",
+  "confiance": "sure"
+ },
+ "mammiferes_alpaga": {
+  "groupe": "Artiodactyles",
+  "habitat": "Andes",
+  "particularite": "Laine fine et précieuse",
+  "confiance": "sure"
+ },
+ "mammiferes_cheval-de-przewalski": {
+  "groupe": "Périssodactyles",
+  "habitat": "Steppes de Mongolie",
+  "particularite": "Dernier cheval sauvage",
+  "confiance": "sure"
+ },
+ "mammiferes_hydrochoerus-hydrochaeris": {
+  "groupe": "Rongeurs",
+  "habitat": "Amérique du Sud",
+  "particularite": "Plus grand rongeur du monde",
+  "confiance": "sure"
+ },
+ "mammiferes_chat-nom-vernaculaire": {
+  "groupe": "Carnivores",
+  "habitat": "Domestique",
+  "particularite": "Félin domestique le plus répandu",
+  "confiance": "sure"
+ },
+ "mammiferes_vache": {
+  "groupe": "Artiodactyles",
+  "habitat": "Domestique",
+  "particularite": "Ruminant à quatre estomacs",
+  "confiance": "tranchee",
+  "note": "Un estomac à quatre compartiments ; formulation courante"
+ },
+ "mammiferes_cochon-nain": {
+  "groupe": "Artiodactyles",
+  "habitat": "Domestique",
+  "particularite": "Porc domestique",
+  "confiance": "tranchee",
+  "note": "Page WikiDeck : cochon nain, nom affiché « Cochon » ; fiche rédigée pour le cochon en général"
+ },
+ "mammiferes_mouton": {
+  "groupe": "Artiodactyles",
+  "habitat": "Domestique",
+  "particularite": "Élevé pour sa laine",
+  "confiance": "sure"
+ },
+ "mammiferes_chevre": {
+  "groupe": "Artiodactyles",
+  "habitat": "Domestique",
+  "particularite": "Lait pour les fromages de chèvre",
+  "confiance": "sure"
+ },
+ "mammiferes_cheval": {
+  "groupe": "Périssodactyles",
+  "habitat": "Domestique",
+  "particularite": "Marche sur un seul doigt",
+  "confiance": "sure"
+ },
+ "mammiferes_oryctolagus-cuniculus": {
+  "groupe": "Lagomorphes",
+  "habitat": "Europe",
+  "particularite": "Ancêtre du lapin domestique",
+  "confiance": "sure"
+ },
+ "mammiferes_rattus": {
+  "groupe": "Rongeurs",
+  "habitat": "Cosmopolite",
+  "particularite": "Suit l'homme partout",
+  "confiance": "sure"
+ },
+ "mammiferes_souris-bleue-grise": {
+  "groupe": "Rongeurs",
+  "habitat": "Cosmopolite",
+  "particularite": "Rongeur commensal de l'homme",
+  "confiance": "tranchee",
+  "note": "Image : souris domestique (Mus musculus), pas l'espèce australienne éteinte de la page ; fiche rédigée pour la souris grise"
+ },
+ "mammiferes_panthere-des-neiges": {
+  "groupe": "Carnivores",
+  "habitat": "Montagnes d'Asie centrale",
+  "particularite": "Très longue queue touffue",
+  "confiance": "sure"
+ },
+ "mammiferes_raton-laveur": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique du Nord",
+  "particularite": "Masque noir sur les yeux",
+  "confiance": "sure"
+ },
+ "mammiferes_mephitis-mephitis": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique du Nord",
+  "particularite": "Projette un liquide nauséabond",
+  "confiance": "sure"
+ },
+ "mammiferes_porc-epic": {
+  "groupe": "Rongeurs",
+  "habitat": "Afrique et Eurasie",
+  "particularite": "Longs piquants dressés",
+  "confiance": "sure"
+ },
+ "mammiferes_marmota-marmota": {
+  "groupe": "Rongeurs",
+  "habitat": "Alpes",
+  "particularite": "Siffle pour donner l'alerte",
+  "confiance": "sure"
+ },
+ "mammiferes_mandrillus-sphinx": {
+  "groupe": "Primates",
+  "habitat": "Forêts d'Afrique centrale",
+  "particularite": "Face rouge et bleue",
+  "confiance": "sure"
+ },
+ "mammiferes_ane": {
+  "groupe": "Périssodactyles",
+  "habitat": "Domestique",
+  "particularite": "Longues oreilles et braiment",
+  "confiance": "sure"
+ },
+ "mammiferes_hamster-dore": {
+  "groupe": "Rongeurs",
+  "habitat": "Syrie",
+  "particularite": "Abajoues pour stocker la nourriture",
+  "confiance": "sure"
+ },
+ "mammiferes_cavia-porcellus": {
+  "groupe": "Rongeurs",
+  "habitat": "Andes",
+  "particularite": "Ne produit pas sa vitamine C",
+  "confiance": "sure"
+ },
+ "mammiferes_yack": {
+  "groupe": "Artiodactyles",
+  "habitat": "Tibet",
+  "particularite": "Longue toison jusqu'au sol",
+  "confiance": "sure"
+ },
+ "mammiferes_bouquetin-des-alpes": {
+  "groupe": "Artiodactyles",
+  "habitat": "Alpes",
+  "particularite": "Grandes cornes annelées",
+  "confiance": "sure"
+ },
+ "mammiferes_chamois": {
+  "groupe": "Artiodactyles",
+  "habitat": "Montagnes d'Europe",
+  "particularite": "Cornes en crochet",
+  "confiance": "sure"
+ },
+ "mammiferes_b-uf-musque": {
+  "groupe": "Artiodactyles",
+  "habitat": "Arctique",
+  "particularite": "Forme un cercle face aux loups",
+  "confiance": "sure"
+ },
+ "mammiferes_impala": {
+  "groupe": "Artiodactyles",
+  "habitat": "Savane africaine",
+  "particularite": "Bonds de plusieurs mètres",
+  "confiance": "sure"
+ },
+ "mammiferes_oryx-gazelle": {
+  "groupe": "Artiodactyles",
+  "habitat": "Désert du Kalahari",
+  "particularite": "Longues cornes droites",
+  "confiance": "sure"
+ },
+ "mammiferes_orycterope": {
+  "groupe": "Tubulidentés",
+  "habitat": "Afrique subsaharienne",
+  "particularite": "Seul représentant de son ordre",
+  "confiance": "sure"
+ },
+ "mammiferes_lievre-d-europe": {
+  "groupe": "Lagomorphes",
+  "habitat": "Europe",
+  "particularite": "Plus grand et rapide que le lapin",
+  "confiance": "sure"
+ },
+ "mammiferes_taupe-d-europe": {
+  "groupe": "Eulipotyphles",
+  "habitat": "Europe",
+  "particularite": "Creuse des galeries souterraines",
+  "confiance": "sure"
+ },
+ "mammiferes_mustela-nivalis": {
+  "groupe": "Carnivores",
+  "habitat": "Hémisphère Nord",
+  "particularite": "Plus petit carnivore",
+  "confiance": "sure"
+ },
+ "mammiferes_musaraigne": {
+  "groupe": "Eulipotyphles",
+  "habitat": "Cosmopolite",
+  "particularite": "Mange son poids chaque jour",
+  "confiance": "sure"
+ },
+ "mammiferes_lamantin": {
+  "groupe": "Siréniens",
+  "habitat": "Côtes atlantiques tropicales",
+  "particularite": "Surnommé vache de mer",
+  "confiance": "sure"
+ },
+ "mammiferes_dugong": {
+  "groupe": "Siréniens",
+  "habitat": "Océan Indien et Pacifique",
+  "particularite": "Inspira le mythe des sirènes",
+  "confiance": "sure"
+ },
+ "mammiferes_loutre-de-mer": {
+  "groupe": "Carnivores",
+  "habitat": "Pacifique Nord",
+  "particularite": "Fourrure la plus dense",
+  "confiance": "sure"
+ },
+ "mammiferes_chacal-dore": {
+  "groupe": "Carnivores",
+  "habitat": "Afrique et Asie",
+  "particularite": "Canidé opportuniste et charognard",
+  "confiance": "sure"
+ },
+ "mammiferes_renard-polaire": {
+  "groupe": "Carnivores",
+  "habitat": "Arctique",
+  "particularite": "Pelage blanc en hiver",
+  "confiance": "sure"
+ },
+ "mammiferes_dingo-chien-sauvage": {
+  "groupe": "Carnivores",
+  "habitat": "Australie",
+  "particularite": "Chien retourné à l'état sauvage",
+  "confiance": "sure",
+  "nom": "Dingo"
+ },
+ "mammiferes_loup-a-criniere": {
+  "groupe": "Carnivores",
+  "habitat": "Amérique du Sud",
+  "particularite": "Très longues pattes",
+  "confiance": "sure"
+ },
+ "mammiferes_serval": {
+  "groupe": "Carnivores",
+  "habitat": "Savane africaine",
+  "particularite": "Plus longues pattes des félins",
+  "confiance": "tranchee",
+  "note": "Relativement à sa taille"
+ },
+ "mammiferes_fossa-animal": {
+  "groupe": "Carnivores",
+  "habitat": "Madagascar",
+  "particularite": "Plus grand carnivore de Madagascar",
+  "confiance": "sure"
+ },
+ "mammiferes_herpestidae": {
+  "groupe": "Carnivores",
+  "habitat": "Afrique et Asie",
+  "particularite": "Tue les serpents",
+  "confiance": "sure"
+ },
+ "mammiferes_gulo-gulo": {
+  "groupe": "Carnivores",
+  "habitat": "Forêts boréales",
+  "particularite": "Plus grand mustélidé terrestre",
+  "confiance": "sure"
+ },
+ "mammiferes_ratel": {
+  "groupe": "Carnivores",
+  "habitat": "Afrique et Asie",
+  "particularite": "Réputé ne craindre aucun animal",
+  "confiance": "sure"
+ },
+ "mammiferes_tarsier": {
+  "groupe": "Primates",
+  "habitat": "Asie du Sud-Est",
+  "particularite": "Yeux énormes",
+  "confiance": "sure"
+ },
+ "mammiferes_callithrix-jacchus": {
+  "groupe": "Primates",
+  "habitat": "Forêt atlantique du Brésil",
+  "particularite": "Touffes blanches aux oreilles",
+  "confiance": "sure"
+ }
+}

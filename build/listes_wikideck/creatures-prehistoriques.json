@@ -1,0 +1,364 @@
+{
+ "creatures-prehistoriques_pterodactyle": {
+  "nom": "Ptérodactyle",
+  "epoque": "150 millions d'années",
+  "tri": "-150000000",
+  "groupe": "Ptérosaures",
+  "particularite": "Premier ptérosaure décrit",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_pteranodon": {
+  "nom": "Ptéranodon",
+  "epoque": "86 millions d'années",
+  "tri": "-86000000",
+  "groupe": "Ptérosaures",
+  "particularite": "Crête osseuse, bec sans dents",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_quetzalcoatlus": {
+  "epoque": "68 millions d'années",
+  "tri": "-68000000",
+  "groupe": "Ptérosaures",
+  "particularite": "Un des plus grands animaux volants",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_rhamphorhynchus": {
+  "epoque": "150 millions d'années",
+  "tri": "-150000000",
+  "groupe": "Ptérosaures",
+  "particularite": "Longue queue à palette",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_dimorphodon": {
+  "epoque": "195 millions d'années",
+  "tri": "-195000000",
+  "groupe": "Ptérosaures",
+  "particularite": "Grosse tête, deux sortes de dents",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_mosasaurus": {
+  "epoque": "70 millions d'années",
+  "tri": "-70000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Lézard marin géant",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_plesiosaurus": {
+  "epoque": "195 millions d'années",
+  "tri": "-195000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Long cou, quatre nageoires",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_elasmosaurus": {
+  "epoque": "80 millions d'années",
+  "tri": "-80000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Cou de sept mètres",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_ichthyosaurus": {
+  "epoque": "195 millions d'années",
+  "tri": "-195000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Silhouette de dauphin",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_liopleurodon": {
+  "epoque": "160 millions d'années",
+  "tri": "-160000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Mâchoires énormes",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_kronosaurus": {
+  "epoque": "115 millions d'années",
+  "tri": "-115000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Pliosaure géant d'Australie",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_shonisaurus": {
+  "epoque": "215 millions d'années",
+  "tri": "-215000000",
+  "groupe": "Reptiles marins",
+  "particularite": "Ichtyosaure géant",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_titanoboa": {
+  "epoque": "60 millions d'années",
+  "tri": "-60000000",
+  "groupe": "Reptiles",
+  "particularite": "Plus grand serpent connu",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_sarcosuchus": {
+  "epoque": "112 millions d'années",
+  "tri": "-112000000",
+  "groupe": "Crocodiliens",
+  "particularite": "Crocodile géant du Sahara",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_deinosuchus": {
+  "epoque": "80 millions d'années",
+  "tri": "-80000000",
+  "groupe": "Crocodiliens",
+  "particularite": "Mangeur de dinosaures",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_dimetrodon": {
+  "epoque": "285 millions d'années",
+  "tri": "-285000000",
+  "groupe": "Synapsides",
+  "particularite": "Voile sur le dos",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_lystrosaurus": {
+  "epoque": "250 millions d'années",
+  "tri": "-250000000",
+  "groupe": "Synapsides",
+  "particularite": "Survivant de la crise permienne",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_gorgonops": {
+  "epoque": "255 millions d'années",
+  "tri": "-255000000",
+  "groupe": "Synapsides",
+  "particularite": "Canines en sabre",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_mammouth-laineux": {
+  "epoque": "Disparu il y a 4 000 ans",
+  "tri": "-4000",
+  "groupe": "Mammifères",
+  "particularite": "Fourrure et défenses courbes",
+  "confiance": "tranchee",
+  "note": "Pléistocène ; derniers survivants sur l'île Wrangel il y a 4 000 ans, disparition sur le continent vers 10 000 ans"
+ },
+ "creatures-prehistoriques_mastodonte": {
+  "epoque": "Disparu il y a 11 000 ans",
+  "tri": "-11000",
+  "groupe": "Mammifères",
+  "particularite": "Molaires à mamelons",
+  "confiance": "tranchee",
+  "note": "Groupe apparu il y a 30 Ma ; date retenue : disparition du mastodonte d'Amérique"
+ },
+ "creatures-prehistoriques_smilodon": {
+  "epoque": "Disparu il y a 10 000 ans",
+  "tri": "-10000",
+  "groupe": "Mammifères",
+  "particularite": "Canines en sabre",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_megatherium": {
+  "nom": "Mégathérium",
+  "epoque": "Disparu il y a 10 000 ans",
+  "tri": "-10000",
+  "groupe": "Mammifères",
+  "particularite": "Paresseux géant terrestre",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_glyptodon": {
+  "epoque": "Disparu il y a 10 000 ans",
+  "tri": "-10000",
+  "groupe": "Mammifères",
+  "particularite": "Tatou géant cuirassé",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_rhinoceros-laineux": {
+  "epoque": "Disparu il y a 14 000 ans",
+  "tri": "-14000",
+  "groupe": "Mammifères",
+  "particularite": "Fourrure épaisse, deux cornes",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_ursus-spelaeus": {
+  "epoque": "Disparu il y a 24 000 ans",
+  "tri": "-24000",
+  "groupe": "Mammifères",
+  "particularite": "Hibernait dans les grottes",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_lion-des-cavernes-eurasiatique": {
+  "epoque": "Disparu il y a 13 000 ans",
+  "tri": "-13000",
+  "groupe": "Mammifères",
+  "particularite": "Peint dans la grotte Chauvet",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_megaloceros": {
+  "nom": "Mégacéros",
+  "epoque": "Disparu il y a 7 700 ans",
+  "tri": "-7700",
+  "groupe": "Mammifères",
+  "particularite": "Bois de 3,5 mètres",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_paraceratherium": {
+  "epoque": "30 millions d'années",
+  "tri": "-30000000",
+  "groupe": "Mammifères",
+  "particularite": "Plus grand mammifère terrestre",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_andrewsarchus": {
+  "epoque": "42 millions d'années",
+  "tri": "-42000000",
+  "groupe": "Mammifères",
+  "particularite": "Crâne de 83 centimètres",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_megalodon": {
+  "epoque": "15 millions d'années",
+  "tri": "-15000000",
+  "groupe": "Requins",
+  "particularite": "Plus grand requin connu",
+  "confiance": "tranchee",
+  "note": "Vécu de 23 à 3,6 Ma ; âge médian retenu"
+ },
+ "creatures-prehistoriques_dunkleosteus": {
+  "epoque": "370 millions d'années",
+  "tri": "-370000000",
+  "groupe": "Poissons",
+  "particularite": "Mâchoires en lames osseuses",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_helicoprion": {
+  "epoque": "280 millions d'années",
+  "tri": "-280000000",
+  "groupe": "Poissons",
+  "particularite": "Dents en spirale",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_arthropleura": {
+  "epoque": "300 millions d'années",
+  "tri": "-300000000",
+  "groupe": "Arthropodes",
+  "particularite": "Mille-pattes géant",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_meganeura": {
+  "epoque": "300 millions d'années",
+  "tri": "-300000000",
+  "groupe": "Arthropodes",
+  "particularite": "Libellule géante",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_anomalocaris": {
+  "epoque": "510 millions d'années",
+  "tri": "-510000000",
+  "groupe": "Arthropodes",
+  "particularite": "Prédateur du Cambrien",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_trilobita": {
+  "epoque": "500 millions d'années",
+  "tri": "-500000000",
+  "groupe": "Arthropodes",
+  "particularite": "Corps en trois lobes",
+  "confiance": "tranchee",
+  "note": "Groupe présent de 521 à 252 Ma ; âge rond retenu"
+ },
+ "creatures-prehistoriques_gastornis": {
+  "epoque": "55 millions d'années",
+  "tri": "-55000000",
+  "groupe": "Oiseaux",
+  "particularite": "Oiseau géant incapable de voler",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_phorusrhacos": {
+  "epoque": "15 millions d'années",
+  "tri": "-15000000",
+  "groupe": "Oiseaux",
+  "particularite": "Oiseau-terreur carnivore",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_dinornithiformes": {
+  "epoque": "Disparu vers 1400",
+  "tri": "1400",
+  "groupe": "Oiseaux",
+  "particularite": "Oiseau géant sans ailes",
+  "confiance": "tranchee",
+  "note": "Extinction estimée entre 1300 et 1450, après l'arrivée des Maoris"
+ },
+ "creatures-prehistoriques_pyornis": {
+  "nom": "Æpyornis",
+  "epoque": "Disparu vers 1000",
+  "tri": "1000",
+  "groupe": "Oiseaux",
+  "particularite": "Oiseau-éléphant de Madagascar",
+  "confiance": "tranchee",
+  "note": "Extinction datée vers l'an 1000 par les études récentes (Hansford 2018) ; survivance plus tardive parfois avancée"
+ },
+ "creatures-prehistoriques_ammonoidea": {
+  "epoque": "400 millions d'années",
+  "tri": "-400000000",
+  "groupe": "Mollusques",
+  "particularite": "Coquille spiralée cloisonnée",
+  "confiance": "tranchee",
+  "note": "Groupe présent de 400 à 66 Ma ; apparition retenue"
+ },
+ "creatures-prehistoriques_basilosaurus": {
+  "epoque": "38 millions d'années",
+  "tri": "-38000000",
+  "groupe": "Mammifères marins",
+  "particularite": "Baleine primitive allongée",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_tiktaalik": {
+  "epoque": "375 millions d'années",
+  "tri": "-375000000",
+  "groupe": "Poissons",
+  "particularite": "Entre poisson et tétrapode",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_hallucigenia": {
+  "epoque": "505 millions d'années",
+  "tri": "-505000000",
+  "groupe": "Lobopodiens",
+  "particularite": "Corps hérissé d'épines",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_megalania-genre": {
+  "epoque": "Disparu il y a 50 000 ans",
+  "tri": "-50000",
+  "groupe": "Reptiles",
+  "particularite": "Varan géant d'Australie",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_diprotodon": {
+  "epoque": "Disparu il y a 40 000 ans",
+  "tri": "-40000",
+  "groupe": "Mammifères",
+  "particularite": "Plus grand marsupial connu",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_aurochs": {
+  "epoque": "Disparu en 1627",
+  "tri": "1627",
+  "groupe": "Mammifères",
+  "particularite": "Ancêtre des bovins domestiques",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_thylacine": {
+  "epoque": "Disparu en 1936",
+  "tri": "1936",
+  "groupe": "Mammifères",
+  "particularite": "Marsupial carnivore rayé",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_entelodontidae": {
+  "epoque": "35 millions d'années",
+  "tri": "-35000000",
+  "groupe": "Mammifères",
+  "particularite": "Surnommé cochon de l'enfer",
+  "confiance": "sure"
+ },
+ "creatures-prehistoriques_eohippus": {
+  "epoque": "55 millions d'années",
+  "tri": "-55000000",
+  "groupe": "Mammifères",
+  "particularite": "Ancêtre du cheval",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,579 @@
+{
+ "oiseaux_aigle-royal": {
+  "groupe": "Rapaces",
+  "habitat": "Montagnes",
+  "particularite": "Serres très puissantes",
+  "confiance": "sure"
+ },
+ "oiseaux_balbuzard-pecheur": {
+  "groupe": "Rapaces",
+  "habitat": "Lacs et côtes",
+  "particularite": "Pêche en plongeant les serres",
+  "confiance": "sure"
+ },
+ "oiseaux_pygargue-a-tete-blanche": {
+  "groupe": "Rapaces",
+  "habitat": "Lacs et côtes d'Amérique du Nord",
+  "particularite": "Emblème des États-Unis",
+  "confiance": "sure"
+ },
+ "oiseaux_faucon-pelerin": {
+  "groupe": "Rapaces",
+  "habitat": "Falaises et villes",
+  "particularite": "Animal le plus rapide en piqué",
+  "confiance": "sure"
+ },
+ "oiseaux_faucon-crecerelle": {
+  "groupe": "Rapaces",
+  "habitat": "Champs et villes",
+  "particularite": "Vol sur place",
+  "confiance": "sure"
+ },
+ "oiseaux_condor-des-andes": {
+  "groupe": "Rapaces",
+  "habitat": "Cordillère des Andes",
+  "particularite": "Plus grand rapace volant",
+  "confiance": "sure"
+ },
+ "oiseaux_vautour-fauve": {
+  "groupe": "Rapaces",
+  "habitat": "Montagnes",
+  "particularite": "Charognard planeur",
+  "confiance": "sure"
+ },
+ "oiseaux_hibou-grand-duc": {
+  "groupe": "Rapaces",
+  "habitat": "Falaises et forêts",
+  "particularite": "Plus grand hibou d'Europe",
+  "confiance": "sure"
+ },
+ "oiseaux_effraie-des-clochers": {
+  "groupe": "Rapaces",
+  "habitat": "Granges et clochers",
+  "particularite": "Disque facial en cœur",
+  "nom": "Effraie des clochers",
+  "confiance": "sure"
+ },
+ "oiseaux_harfang-des-neiges": {
+  "groupe": "Rapaces",
+  "habitat": "Toundra arctique",
+  "particularite": "Chouette blanche diurne",
+  "confiance": "sure"
+ },
+ "oiseaux_autruche": {
+  "groupe": "Ratites",
+  "habitat": "Savane africaine",
+  "particularite": "Plus grand oiseau vivant",
+  "confiance": "sure"
+ },
+ "oiseaux_dromaius": {
+  "groupe": "Ratites",
+  "habitat": "Plaines d'Australie",
+  "particularite": "Coureur incapable de voler",
+  "confiance": "sure"
+ },
+ "oiseaux_kiwi-austral": {
+  "groupe": "Ratites",
+  "habitat": "Forêts de Nouvelle-Zélande",
+  "particularite": "Narines au bout du bec",
+  "confiance": "sure"
+ },
+ "oiseaux_casoar-a-casque": {
+  "groupe": "Ratites",
+  "habitat": "Forêts tropicales d'Océanie",
+  "particularite": "Casque osseux sur la tête",
+  "confiance": "sure"
+ },
+ "oiseaux_manchot-empereur": {
+  "groupe": "Manchots",
+  "habitat": "Antarctique",
+  "particularite": "Couve l'hiver sur ses pattes",
+  "confiance": "sure"
+ },
+ "oiseaux_manchot-adelie": {
+  "groupe": "Manchots",
+  "habitat": "Antarctique",
+  "particularite": "Nids en cailloux",
+  "confiance": "sure"
+ },
+ "oiseaux_flamant-rose": {
+  "groupe": "Échassiers",
+  "habitat": "Lagunes salées",
+  "particularite": "Rose grâce aux crevettes",
+  "confiance": "tranchee",
+  "note": "Classé tantôt parmi les échassiers, tantôt à part (Phoenicoptériformes)"
+ },
+ "oiseaux_cygne-tubercule": {
+  "groupe": "Palmipèdes",
+  "habitat": "Lacs et étangs",
+  "particularite": "Bec orange à bosse noire",
+  "confiance": "sure"
+ },
+ "oiseaux_cygne-noir": {
+  "groupe": "Palmipèdes",
+  "habitat": "Lacs d'Australie",
+  "particularite": "Plumage noir, bec rouge",
+  "confiance": "sure"
+ },
+ "oiseaux_canard-colvert": {
+  "groupe": "Palmipèdes",
+  "habitat": "Étangs et rivières",
+  "particularite": "Tête vert brillant du mâle",
+  "confiance": "sure"
+ },
+ "oiseaux_paon-bleu": {
+  "groupe": "Gallinacés",
+  "habitat": "Forêts d'Inde",
+  "particularite": "Roue de plumes ocellées",
+  "confiance": "sure"
+ },
+ "oiseaux_toucan-toco": {
+  "groupe": "Pics",
+  "habitat": "Forêts d'Amérique du Sud",
+  "particularite": "Énorme bec orange",
+  "confiance": "tranchee",
+  "note": "Piciformes, comme les pics"
+ },
+ "oiseaux_ara-bleu": {
+  "groupe": "Perroquets",
+  "habitat": "Forêt amazonienne",
+  "particularite": "Plumage bleu et jaune",
+  "confiance": "sure"
+ },
+ "oiseaux_perroquet-jaco": {
+  "groupe": "Perroquets",
+  "habitat": "Forêts d'Afrique centrale",
+  "particularite": "Imite la voix humaine",
+  "nom": "Gris du Gabon",
+  "confiance": "sure"
+ },
+ "oiseaux_perruche-ondulee": {
+  "groupe": "Perroquets",
+  "habitat": "Steppes d'Australie",
+  "particularite": "Oiseau de cage courant",
+  "confiance": "sure"
+ },
+ "oiseaux_cacatoes": {
+  "groupe": "Perroquets",
+  "habitat": "Australie",
+  "particularite": "Huppe érectile",
+  "confiance": "sure"
+ },
+ "oiseaux_colibri": {
+  "groupe": "Apodiformes",
+  "habitat": "Amériques",
+  "particularite": "Vol stationnaire",
+  "confiance": "tranchee",
+  "note": "Trochilidés, ordre des Apodiformes"
+ },
+ "oiseaux_martin-pecheur-d-europe": {
+  "groupe": "Coraciiformes",
+  "habitat": "Bords de rivières",
+  "particularite": "Plonge pour pêcher",
+  "confiance": "sure"
+ },
+ "oiseaux_pelican-blanc": {
+  "groupe": "Palmipèdes",
+  "habitat": "Lacs et deltas",
+  "particularite": "Poche sous le bec",
+  "confiance": "sure"
+ },
+ "oiseaux_albatros-hurleur": {
+  "groupe": "Palmipèdes",
+  "habitat": "Océans australs",
+  "particularite": "Plus grande envergure",
+  "confiance": "tranchee",
+  "note": "Procellariiformes, rangé parmi les palmipèdes marins"
+ },
+ "oiseaux_fregate-superbe": {
+  "groupe": "Palmipèdes",
+  "habitat": "Côtes tropicales",
+  "particularite": "Poche gulaire rouge gonflée",
+  "confiance": "tranchee",
+  "note": "Suliformes, rangé parmi les palmipèdes marins"
+ },
+ "oiseaux_fou-de-bassan": {
+  "groupe": "Palmipèdes",
+  "habitat": "Côtes de l'Atlantique Nord",
+  "particularite": "Plonge en piqué",
+  "confiance": "tranchee",
+  "note": "Suliformes, rangé parmi les palmipèdes marins"
+ },
+ "oiseaux_grue-du-japon": {
+  "groupe": "Échassiers",
+  "habitat": "Marais d'Asie de l'Est",
+  "particularite": "Danse nuptiale",
+  "confiance": "sure"
+ },
+ "oiseaux_ibis-sacre": {
+  "groupe": "Échassiers",
+  "habitat": "Marais africains",
+  "particularite": "Oiseau sacré de Thot",
+  "confiance": "sure"
+ },
+ "oiseaux_cigogne-blanche": {
+  "groupe": "Échassiers",
+  "habitat": "Prairies humides",
+  "particularite": "Nid sur les toits",
+  "confiance": "sure"
+ },
+ "oiseaux_heron-cendre": {
+  "groupe": "Échassiers",
+  "habitat": "Bords d'eau",
+  "particularite": "Pêche à l'affût",
+  "confiance": "sure"
+ },
+ "oiseaux_grand-corbeau": {
+  "groupe": "Passereaux",
+  "habitat": "Montagnes et falaises",
+  "particularite": "Plus grand passereau",
+  "confiance": "sure"
+ },
+ "oiseaux_pie-bavarde": {
+  "groupe": "Passereaux",
+  "habitat": "Campagnes et villes",
+  "particularite": "Plumage noir et blanc",
+  "confiance": "sure"
+ },
+ "oiseaux_geai-des-chenes": {
+  "groupe": "Passereaux",
+  "habitat": "Forêts de chênes",
+  "particularite": "Cache des glands",
+  "confiance": "sure"
+ },
+ "oiseaux_hirondelle-rustique": {
+  "groupe": "Passereaux",
+  "habitat": "Fermes et campagnes",
+  "particularite": "Annonce le printemps",
+  "confiance": "sure"
+ },
+ "oiseaux_martinet-noir": {
+  "groupe": "Apodiformes",
+  "habitat": "Villes",
+  "particularite": "Vit presque toujours en vol",
+  "confiance": "tranchee",
+  "note": "Ressemble à une hirondelle mais n'est pas un passereau"
+ },
+ "oiseaux_rouge-gorge": {
+  "groupe": "Passereaux",
+  "habitat": "Jardins et forêts",
+  "particularite": "Plastron orange",
+  "confiance": "sure"
+ },
+ "oiseaux_merle-noir": {
+  "groupe": "Passereaux",
+  "habitat": "Jardins et forêts",
+  "particularite": "Mâle noir au bec jaune",
+  "confiance": "sure"
+ },
+ "oiseaux_mesange-bleue": {
+  "groupe": "Passereaux",
+  "habitat": "Jardins et forêts",
+  "particularite": "Calotte bleue",
+  "confiance": "sure"
+ },
+ "oiseaux_moineau-domestique": {
+  "groupe": "Passereaux",
+  "habitat": "Villes et villages",
+  "particularite": "Vit près de l'homme",
+  "confiance": "sure"
+ },
+ "oiseaux_pinson-des-arbres": {
+  "groupe": "Passereaux",
+  "habitat": "Forêts et jardins",
+  "particularite": "Chant sonore printanier",
+  "confiance": "sure"
+ },
+ "oiseaux_chardonneret-elegant": {
+  "groupe": "Passereaux",
+  "habitat": "Campagnes et vergers",
+  "particularite": "Masque rouge",
+  "confiance": "sure"
+ },
+ "oiseaux_coucou-gris": {
+  "groupe": "Coucous",
+  "habitat": "Forêts et bocages",
+  "particularite": "Pond dans le nid d'autrui",
+  "confiance": "sure"
+ },
+ "oiseaux_pic-epeiche": {
+  "groupe": "Pics",
+  "habitat": "Forêts",
+  "particularite": "Tambourine sur les troncs",
+  "confiance": "sure"
+ },
+ "oiseaux_pic-vert": {
+  "groupe": "Pics",
+  "habitat": "Bois et prairies",
+  "particularite": "Mange des fourmis au sol",
+  "confiance": "sure"
+ },
+ "oiseaux_huppe-fasciee": {
+  "groupe": "Coraciiformes",
+  "habitat": "Campagnes chaudes",
+  "particularite": "Huppe en éventail",
+  "confiance": "tranchee",
+  "note": "Autrefois Coraciiformes, aujourd'hui Bucérotiformes"
+ },
+ "oiseaux_strigops-kakapo": {
+  "groupe": "Perroquets",
+  "habitat": "Nouvelle-Zélande",
+  "particularite": "Perroquet nocturne non volant",
+  "nom": "Kakapo",
+  "confiance": "sure"
+ },
+ "oiseaux_dodo-oiseau": {
+  "groupe": "Colombidés",
+  "habitat": "Île Maurice",
+  "particularite": "Éteint au XVIIe siècle",
+  "confiance": "sure"
+ },
+ "oiseaux_grand-pingouin": {
+  "groupe": "Palmipèdes",
+  "habitat": "Atlantique Nord",
+  "particularite": "Éteint en 1844",
+  "confiance": "sure"
+ },
+ "oiseaux_tourte-voyageuse": {
+  "groupe": "Colombidés",
+  "habitat": "Forêts d'Amérique du Nord",
+  "particularite": "Éteinte en 1914",
+  "confiance": "sure"
+ },
+ "oiseaux_grand-geocoucou": {
+  "groupe": "Coucous",
+  "habitat": "Déserts d'Amérique du Nord",
+  "particularite": "Court plus qu'il ne vole",
+  "confiance": "sure"
+ },
+ "oiseaux_martin-chasseur-geant": {
+  "groupe": "Coraciiformes",
+  "habitat": "Forêts d'Australie",
+  "particularite": "Cri semblable à un rire",
+  "confiance": "sure"
+ },
+ "oiseaux_menura": {
+  "groupe": "Passereaux",
+  "habitat": "Forêts d'Australie",
+  "particularite": "Imite tous les sons",
+  "confiance": "sure"
+ },
+ "oiseaux_quetzal-resplendissant": {
+  "groupe": "Trogons",
+  "habitat": "Forêts d'Amérique centrale",
+  "particularite": "Longue queue verte",
+  "confiance": "sure"
+ },
+ "oiseaux_dinde-domestique": {
+  "nom": "Coq domestique",
+  "groupe": "Gallinacés",
+  "habitat": "Basses-cours",
+  "particularite": "Crête rouge, chante à l'aube",
+  "confiance": "sure"
+ },
+ "oiseaux_bec-en-sabot-du-nil": {
+  "groupe": "Échassiers",
+  "habitat": "Marais d'Afrique de l'Est",
+  "particularite": "Bec en forme de sabot",
+  "confiance": "sure"
+ },
+ "oiseaux_harpie-feroce": {
+  "groupe": "Rapaces",
+  "habitat": "Forêts d'Amérique tropicale",
+  "particularite": "Chasse les singes",
+  "confiance": "sure"
+ },
+ "oiseaux_gypaete-barbu": {
+  "groupe": "Rapaces",
+  "habitat": "Hautes montagnes",
+  "particularite": "Se nourrit d'os",
+  "confiance": "sure"
+ },
+ "oiseaux_macareux-moine": {
+  "groupe": "Palmipèdes",
+  "habitat": "Falaises de l'Atlantique Nord",
+  "particularite": "Bec multicolore",
+  "confiance": "sure"
+ },
+ "oiseaux_calao-bicorne": {
+  "groupe": "Coraciiformes",
+  "habitat": "Forêts d'Asie du Sud",
+  "particularite": "Casque sur le bec",
+  "confiance": "tranchee",
+  "note": "Autrefois Coraciiformes, aujourd'hui Bucérotiformes"
+ },
+ "oiseaux_paradisier": {
+  "groupe": "Passereaux",
+  "habitat": "Nouvelle-Guinée",
+  "particularite": "Plumes de parade spectaculaires",
+  "confiance": "sure"
+ },
+ "oiseaux_messager-sagittaire": {
+  "groupe": "Rapaces",
+  "habitat": "Savane africaine",
+  "particularite": "Tue les serpents à coups de pattes",
+  "confiance": "sure"
+ },
+ "oiseaux_sterne-arctique": {
+  "groupe": "Palmipèdes",
+  "habitat": "Arctique et Antarctique",
+  "particularite": "Plus longue migration",
+  "confiance": "sure"
+ },
+ "oiseaux_rossignol-philomele": {
+  "groupe": "Passereaux",
+  "habitat": "Bosquets et haies",
+  "particularite": "Chante la nuit",
+  "confiance": "sure"
+ },
+ "oiseaux_etourneau-sansonnet": {
+  "groupe": "Passereaux",
+  "habitat": "Villes et campagnes",
+  "particularite": "Vols en nuées",
+  "confiance": "sure"
+ },
+ "oiseaux_pigeon-biset": {
+  "groupe": "Colombidés",
+  "habitat": "Villes",
+  "particularite": "Ancêtre du pigeon de ville",
+  "confiance": "sure"
+ },
+ "oiseaux_tourterelle-turque": {
+  "groupe": "Colombidés",
+  "habitat": "Villes et jardins",
+  "particularite": "Collier noir sur la nuque",
+  "confiance": "sure"
+ },
+ "oiseaux_corneille-noire": {
+  "groupe": "Passereaux",
+  "habitat": "Campagnes et villes",
+  "particularite": "Entièrement noire",
+  "confiance": "sure"
+ },
+ "oiseaux_alouette-des-champs": {
+  "groupe": "Passereaux",
+  "habitat": "Champs",
+  "particularite": "Chante en vol",
+  "confiance": "sure"
+ },
+ "oiseaux_mesange-charbonniere": {
+  "groupe": "Passereaux",
+  "habitat": "Jardins et forêts",
+  "particularite": "Tête noire, joues blanches",
+  "confiance": "sure"
+ },
+ "oiseaux_mouette-rieuse": {
+  "groupe": "Palmipèdes",
+  "habitat": "Côtes et lacs",
+  "particularite": "Capuchon brun en été",
+  "confiance": "sure"
+ },
+ "oiseaux_goeland-argente": {
+  "groupe": "Palmipèdes",
+  "habitat": "Côtes",
+  "particularite": "Tache rouge sur le bec",
+  "confiance": "sure"
+ },
+ "oiseaux_grand-cormoran": {
+  "groupe": "Palmipèdes",
+  "habitat": "Côtes et lacs",
+  "particularite": "Sèche ses ailes déployées",
+  "confiance": "sure"
+ },
+ "oiseaux_dinde-domestique-b": {
+  "groupe": "Gallinacés",
+  "habitat": "Basses-cours",
+  "particularite": "Caroncules rouges",
+  "confiance": "sure"
+ },
+ "oiseaux_oie-cendree": {
+  "groupe": "Palmipèdes",
+  "habitat": "Marais et prairies",
+  "particularite": "Ancêtre de l'oie domestique",
+  "confiance": "sure"
+ },
+ "oiseaux_faisan-de-colchide": {
+  "groupe": "Gallinacés",
+  "habitat": "Champs et bois",
+  "particularite": "Gibier introduit d'Asie",
+  "confiance": "sure"
+ },
+ "oiseaux_pintade-de-numidie": {
+  "groupe": "Gallinacés",
+  "habitat": "Savane africaine",
+  "particularite": "Plumage gris à points blancs",
+  "confiance": "sure"
+ },
+ "oiseaux_caille-des-bles": {
+  "groupe": "Gallinacés",
+  "habitat": "Champs de céréales",
+  "particularite": "Petit gibier migrateur",
+  "confiance": "sure"
+ },
+ "oiseaux_buse-variable": {
+  "groupe": "Rapaces",
+  "habitat": "Bocages",
+  "particularite": "Rapace le plus commun de France",
+  "confiance": "sure"
+ },
+ "oiseaux_chouette-hulotte": {
+  "groupe": "Rapaces",
+  "habitat": "Forêts",
+  "particularite": "Hululement nocturne",
+  "confiance": "sure"
+ },
+ "oiseaux_milan-royal": {
+  "groupe": "Rapaces",
+  "habitat": "Campagnes",
+  "particularite": "Queue fourchue rousse",
+  "confiance": "sure"
+ },
+ "oiseaux_marabout-d-afrique": {
+  "groupe": "Échassiers",
+  "habitat": "Savane africaine",
+  "particularite": "Poche de peau sous le cou",
+  "confiance": "sure"
+ },
+ "oiseaux_grue-cendree": {
+  "groupe": "Échassiers",
+  "habitat": "Marais et champs",
+  "particularite": "Migration en V",
+  "confiance": "sure"
+ },
+ "oiseaux_aigrette-garzette": {
+  "groupe": "Échassiers",
+  "habitat": "Marais et côtes",
+  "particularite": "Plumage blanc, pieds jaunes",
+  "confiance": "sure"
+ },
+ "oiseaux_spatule-blanche": {
+  "groupe": "Échassiers",
+  "habitat": "Marais",
+  "particularite": "Bec en spatule",
+  "confiance": "sure"
+ },
+ "oiseaux_serin-des-canaries": {
+  "groupe": "Passereaux",
+  "habitat": "Îles Canaries",
+  "particularite": "Ancêtre du canari",
+  "confiance": "sure"
+ },
+ "oiseaux_nestor-kea": {
+  "groupe": "Perroquets",
+  "habitat": "Montagnes de Nouvelle-Zélande",
+  "particularite": "Seul perroquet alpin",
+  "confiance": "sure"
+ },
+ "oiseaux_guepier-d-europe": {
+  "groupe": "Coraciiformes",
+  "habitat": "Campagnes chaudes",
+  "particularite": "Mange des guêpes",
+  "confiance": "sure"
+ },
+ "oiseaux_nandou-d-amerique": {
+  "groupe": "Ratites",
+  "habitat": "Pampa d'Amérique du Sud",
+  "particularite": "Grand coureur sud-américain",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "champignons_amanite-tue-mouches": {
+  "comestible": "Toxique",
+  "habitat": "Sous les bouleaux",
+  "particularite": "Chapeau rouge à points blancs",
+  "confiance": "tranchee",
+  "note": "Toxique et hallucinogène : la toxicité prime"
+ },
+ "champignons_amanite-phalloide": {
+  "comestible": "Mortel",
+  "habitat": "Sous les chênes",
+  "particularite": "Champignon le plus mortel",
+  "confiance": "sure"
+ },
+ "champignons_boletus-edulis": {
+  "comestible": "Comestible",
+  "habitat": "Feuillus et conifères",
+  "particularite": "Chair blanche immuable",
+  "confiance": "sure"
+ },
+ "champignons_truffe-champignon": {
+  "comestible": "Comestible",
+  "habitat": "Sous les chênes",
+  "particularite": "Pousse sous terre",
+  "confiance": "sure"
+ },
+ "champignons_morchella": {
+  "comestible": "Comestible",
+  "habitat": "Lisières au printemps",
+  "particularite": "Chapeau alvéolé",
+  "confiance": "tranchee",
+  "note": "Toxique crue ou mal cuite ; comestible seulement bien cuite, réputation culinaire établie"
+ },
+ "champignons_cantharellus-cibarius": {
+  "comestible": "Comestible",
+  "habitat": "Feuillus et conifères",
+  "particularite": "Couleur jaune d'œuf",
+  "confiance": "sure"
+ },
+ "champignons_coprin-chevelu": {
+  "comestible": "Comestible",
+  "habitat": "Prairies",
+  "particularite": "Se liquéfie en encre",
+  "confiance": "sure"
+ },
+ "champignons_psilocybe": {
+  "comestible": "Hallucinogène",
+  "habitat": "Prairies pâturées",
+  "particularite": "Contient de la psilocybine",
+  "confiance": "sure"
+ },
+ "champignons_penicillium": {
+  "comestible": "Sans intérêt",
+  "habitat": "Aliments moisis",
+  "particularite": "Source de la pénicilline",
+  "confiance": "tranchee",
+  "note": "Moisissure, non consommée seule ; certaines espèces affinent les fromages"
+ },
+ "champignons_agaricus-bisporus": {
+  "comestible": "Comestible",
+  "habitat": "Champignonnières",
+  "particularite": "Le plus cultivé au monde",
+  "confiance": "sure"
+ },
+ "champignons_lentinula-edodes": {
+  "comestible": "Comestible",
+  "habitat": "Bois mort de feuillus",
+  "particularite": "Cultivé sur bûches en Asie",
+  "confiance": "sure"
+ },
+ "champignons_pleurotus-ostreatus": {
+  "comestible": "Comestible",
+  "habitat": "Troncs de feuillus",
+  "particularite": "Chapeau en forme d'huître",
+  "confiance": "sure"
+ },
+ "champignons_bolet-satan": {
+  "comestible": "Toxique",
+  "habitat": "Chênaies calcaires",
+  "particularite": "Pied rouge, chair bleuissante",
+  "confiance": "sure"
+ },
+ "champignons_vesse-de-loup": {
+  "comestible": "Toxique",
+  "habitat": "Prairies",
+  "particularite": "Libère un nuage de spores",
+  "confiance": "tranchee",
+  "note": "Comestible seulement jeune et blanche, confusion possible avec l'œuf d'amanite mortelle et le scléroderme : au moindre doute, Toxique"
+ },
+ "champignons_amadouvier": {
+  "comestible": "Sans intérêt",
+  "habitat": "Troncs de hêtres",
+  "particularite": "Servait d'allume-feu",
+  "confiance": "sure"
+ },
+ "champignons_polypore-soufre": {
+  "comestible": "Toxique",
+  "habitat": "Troncs de feuillus",
+  "particularite": "Surnommé poulet des bois",
+  "confiance": "tranchee",
+  "note": "Consommé jeune et cuit par certains, mais intolérances fréquentes : prudence"
+ },
+ "champignons_trompette-de-la-mort": {
+  "comestible": "Comestible",
+  "habitat": "Sous les hêtres",
+  "particularite": "Entonnoir noir",
+  "confiance": "sure"
+ },
+ "champignons_russule-charbonniere": {
+  "comestible": "Comestible",
+  "habitat": "Forêts de feuillus",
+  "particularite": "Lames souples et grasses",
+  "confiance": "sure"
+ },
+ "champignons_lactaire-delicieux": {
+  "comestible": "Comestible",
+  "habitat": "Sous les pins",
+  "particularite": "Lait orange carotte",
+  "confiance": "sure"
+ },
+ "champignons_agaricus-campestris": {
+  "comestible": "Comestible",
+  "habitat": "Prairies",
+  "particularite": "Lames roses puis brunes",
+  "confiance": "sure"
+ },
+ "champignons_clitocybe": {
+  "comestible": "Toxique",
+  "habitat": "Forêts et prairies",
+  "particularite": "Chapeau en entonnoir",
+  "confiance": "tranchee",
+  "note": "Genre mêlant comestibles et espèces muscariniennes dangereuses"
+ },
+ "champignons_satyre-puant": {
+  "comestible": "Sans intérêt",
+  "habitat": "Bois et jardins",
+  "particularite": "Odeur de charogne",
+  "confiance": "tranchee",
+  "note": "Seul le stade œuf est parfois consommé",
+  "nom": "Satyre puant"
+ },
+ "champignons_hericium-erinaceus": {
+  "comestible": "Comestible",
+  "habitat": "Troncs de feuillus",
+  "particularite": "Aiguillons en cascade",
+  "confiance": "sure"
+ },
+ "champignons_ganoderme-luisant": {
+  "comestible": "Sans intérêt",
+  "habitat": "Souches de feuillus",
+  "particularite": "Médecine traditionnelle chinoise",
+  "confiance": "tranchee",
+  "note": "Trop coriace pour être mangé, utilisé en décoction"
+ },
+ "champignons_cordyceps": {
+  "comestible": "Sans intérêt",
+  "habitat": "Larves d'insectes",
+  "particularite": "Parasite des insectes",
+  "confiance": "tranchee",
+  "note": "Non culinaire en Europe, utilisé en médecine traditionnelle chinoise"
+ },
+ "champignons_armillaria": {
+  "comestible": "Toxique",
+  "habitat": "Souches et troncs",
+  "particularite": "Plus grand organisme vivant",
+  "confiance": "tranchee",
+  "note": "Consommée bien cuite par certains, toxique crue ou mal cuite"
+ },
+ "champignons_mycena": {
+  "comestible": "Toxique",
+  "habitat": "Litière forestière",
+  "particularite": "Certaines sont bioluminescentes",
+  "confiance": "tranchee",
+  "note": "Genre surtout sans intérêt culinaire, quelques espèces toxiques"
+ },
+ "champignons_scleroderma": {
+  "comestible": "Toxique",
+  "habitat": "Sols sableux",
+  "particularite": "Intérieur noir violacé",
+  "confiance": "sure"
+ },
+ "champignons_bolet-bai": {
+  "comestible": "Comestible",
+  "habitat": "Sous les conifères",
+  "particularite": "Pores bleuissant au toucher",
+  "confiance": "sure"
+ },
+ "champignons_flammulina-velutipes": {
+  "comestible": "Comestible",
+  "habitat": "Souches de feuillus",
+  "particularite": "Pousse en plein hiver",
+  "confiance": "sure"
+ },
+ "champignons_aspergillus": {
+  "comestible": "Toxique",
+  "habitat": "Céréales et sols",
+  "particularite": "Produit des aflatoxines",
+  "confiance": "tranchee",
+  "note": "Moisissure ; certaines espèces servent au saké ou à la sauce soja"
+ },
+ "champignons_ergot-du-seigle": {
+  "comestible": "Toxique",
+  "habitat": "Épis de seigle",
+  "particularite": "Cause du mal des ardents",
+  "confiance": "sure"
+ },
+ "champignons_tricholome-de-la-saint-georges": {
+  "comestible": "Comestible",
+  "habitat": "Prairies et lisières",
+  "particularite": "Pousse vers le 23 avril",
+  "confiance": "sure"
+ },
+ "champignons_oronge": {
+  "comestible": "Comestible",
+  "habitat": "Sous les chênes",
+  "particularite": "Mets des empereurs romains",
+  "confiance": "sure"
+ },
+ "champignons_macrolepiota-procera": {
+  "comestible": "Comestible",
+  "habitat": "Prairies et lisières",
+  "particularite": "Chapeau jusqu'à 30 cm",
+  "confiance": "sure"
+ },
+ "champignons_matsutake": {
+  "comestible": "Comestible",
+  "habitat": "Sous les pins",
+  "particularite": "Le plus cher du Japon",
+  "confiance": "sure"
+ },
+ "champignons_truffe-blanche": {
+  "comestible": "Comestible",
+  "habitat": "Sous les chênes et peupliers",
+  "particularite": "Truffe la plus chère",
+  "confiance": "sure"
+ },
+ "champignons_clathrus-ruber": {
+  "comestible": "Toxique",
+  "habitat": "Jardins et paillis",
+  "particularite": "Cage rouge à odeur fétide",
+  "confiance": "tranchee",
+  "note": "Dit non comestible, toxicité mal établie : prudence"
+ },
+ "champignons_oreille-de-judas": {
+  "comestible": "Comestible",
+  "habitat": "Branches de sureau",
+  "particularite": "Forme d'oreille",
+  "confiance": "sure"
+ },
+ "champignons_saccharomyces-cerevisiae": {
+  "comestible": "Comestible",
+  "habitat": "Fruits mûrs",
+  "particularite": "Fait lever le pain",
+  "confiance": "tranchee",
+  "note": "Levure : non toxique, consommée en paillettes et dans le pain"
+ }
+}

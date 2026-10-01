@@ -1,0 +1,313 @@
+{
+ "insectes_apis-mellifera": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Produit le miel",
+  "confiance": "sure"
+ },
+ "insectes_bourdon-terrestre": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Pollinise les tomates sous serre",
+  "confiance": "sure"
+ },
+ "insectes_vespula-vulgaris": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Nid de papier mâché",
+  "confiance": "sure"
+ },
+ "insectes_vespa-crabro": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Plus grande guêpe d'Europe",
+  "confiance": "sure"
+ },
+ "insectes_vespa-velutina": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Invasive, chasse les abeilles",
+  "confiance": "sure"
+ },
+ "insectes_lasius-niger": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Élève des pucerons",
+  "confiance": "sure"
+ },
+ "insectes_formica-rufa": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Dôme d'aiguilles de pin",
+  "confiance": "sure"
+ },
+ "insectes_camponotus": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Creuse ses galeries dans le bois",
+  "confiance": "sure",
+  "nom": "Fourmi charpentière"
+ },
+ "insectes_fourmi-legionnaire": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Colonies nomades sans nid fixe",
+  "confiance": "sure"
+ },
+ "insectes_termite": {
+  "ordre_insecte": "Blattoptères",
+  "particularite": "Construit des termitières géantes",
+  "confiance": "tranchee",
+  "note": "Anciennement ordre des Isoptères, aujourd'hui rattachés aux Blattoptères"
+ },
+ "insectes_monarque-papillon": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Migration Canada-Mexique",
+  "confiance": "sure",
+  "nom": "Monarque"
+ },
+ "insectes_paon-du-jour": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Quatre ocelles sur les ailes",
+  "confiance": "sure"
+ },
+ "insectes_machaon-papillon": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Ailes à queues jaunes et noires",
+  "confiance": "sure"
+ },
+ "insectes_pieride-du-chou": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Chenille ravageuse des choux",
+  "confiance": "sure"
+ },
+ "insectes_sphinx-tete-de-mort": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Tête de mort sur le thorax",
+  "confiance": "sure"
+ },
+ "insectes_moro-sphinx": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Butine en vol stationnaire",
+  "confiance": "sure"
+ },
+ "insectes_morpho-helenor": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Ailes bleu métallique",
+  "confiance": "sure",
+  "nom": "Morpho bleu"
+ },
+ "insectes_attacus-atlas": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Un des plus grands papillons",
+  "confiance": "sure",
+  "nom": "Papillon atlas"
+ },
+ "insectes_bombyx-du-murier": {
+  "ordre_insecte": "Lépidoptères",
+  "particularite": "Cocon donnant la soie",
+  "confiance": "sure"
+ },
+ "insectes_coccinella-septempunctata": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Dévore les pucerons",
+  "confiance": "sure"
+ },
+ "insectes_dynastinae": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Corne sur la tête des mâles",
+  "confiance": "sure",
+  "nom": "Scarabée rhinocéros"
+ },
+ "insectes_goliathus-regius": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Parmi les insectes les plus lourds",
+  "confiance": "sure"
+ },
+ "insectes_bousier-sacre": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Vénéré dans l'Égypte antique",
+  "confiance": "sure"
+ },
+ "insectes_melolonthinae": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Larve appelée ver blanc",
+  "confiance": "sure"
+ },
+ "insectes_bousier": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Roule des boules d'excréments",
+  "confiance": "sure"
+ },
+ "insectes_cetoine-doree": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Reflets vert métallique",
+  "confiance": "sure"
+ },
+ "insectes_lucanus-cervus": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Mandibules en bois de cerf",
+  "confiance": "sure",
+  "nom": "Lucane cerf-volant"
+ },
+ "insectes_carabe-dore": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Prédateur utile au jardin",
+  "confiance": "sure"
+ },
+ "insectes_luciola": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Émet de la lumière",
+  "confiance": "sure"
+ },
+ "insectes_criquet-migrateur": {
+  "ordre_insecte": "Orthoptères",
+  "particularite": "Forme des essaims dévastateurs",
+  "confiance": "sure"
+ },
+ "insectes_tettigonia-viridissima": {
+  "ordre_insecte": "Orthoptères",
+  "particularite": "Longues antennes fines",
+  "confiance": "sure"
+ },
+ "insectes_acheta-domesticus": {
+  "ordre_insecte": "Orthoptères",
+  "particularite": "Stridule la nuit",
+  "confiance": "sure"
+ },
+ "insectes_mante-religieuse": {
+  "ordre_insecte": "Mantoptères",
+  "particularite": "Femelle dévorant parfois le mâle",
+  "confiance": "sure"
+ },
+ "insectes_phasme": {
+  "ordre_insecte": "Phasmoptères",
+  "particularite": "Imite une brindille",
+  "confiance": "sure"
+ },
+ "insectes_anax-empereur": {
+  "ordre_insecte": "Odonates",
+  "particularite": "Une des plus grandes libellules d'Europe",
+  "confiance": "sure"
+ },
+ "insectes_zygoptera": {
+  "ordre_insecte": "Odonates",
+  "particularite": "Ailes repliées au repos",
+  "confiance": "sure"
+ },
+ "insectes_cicadidae": {
+  "ordre_insecte": "Hémiptères",
+  "particularite": "Chant des mâles en été",
+  "confiance": "sure"
+ },
+ "insectes_halyomorpha-halys": {
+  "ordre_insecte": "Hémiptères",
+  "particularite": "Odeur nauséabonde, invasive",
+  "confiance": "sure"
+ },
+ "insectes_aphidoidea": {
+  "ordre_insecte": "Hémiptères",
+  "particularite": "Suce la sève des plantes",
+  "confiance": "sure"
+ },
+ "insectes_culex-pipiens": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Pique la nuit",
+  "confiance": "sure"
+ },
+ "insectes_aedes-albopictus": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Transmet dengue et chikungunya",
+  "confiance": "sure"
+ },
+ "insectes_mouche-domestique": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Mouche la plus commune",
+  "confiance": "sure"
+ },
+ "insectes_mouche-tse-tse": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Transmet la maladie du sommeil",
+  "confiance": "sure"
+ },
+ "insectes_tabanidae": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Femelle à piqûre douloureuse",
+  "confiance": "sure"
+ },
+ "insectes_ctenocephalides-felis": {
+  "ordre_insecte": "Siphonaptères",
+  "particularite": "Saute très haut",
+  "confiance": "sure"
+ },
+ "insectes_pou-de-tete": {
+  "ordre_insecte": "Phthiraptères",
+  "particularite": "Parasite du cuir chevelu",
+  "confiance": "sure"
+ },
+ "insectes_dermaptera": {
+  "ordre_insecte": "Dermaptères",
+  "particularite": "Pinces au bout de l'abdomen",
+  "confiance": "sure",
+  "nom": "Perce-oreille"
+ },
+ "insectes_blatte-americaine": {
+  "ordre_insecte": "Blattoptères",
+  "particularite": "Cafard des villes",
+  "confiance": "sure"
+ },
+ "insectes_charancon-du-ble": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Ravageur des grains stockés",
+  "confiance": "sure"
+ },
+ "insectes_doryphore": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Ravageur de la pomme de terre",
+  "confiance": "sure"
+ },
+ "insectes_myrmeleontidae": {
+  "ordre_insecte": "Névroptères",
+  "particularite": "Larve creusant un piège en entonnoir",
+  "confiance": "sure"
+ },
+ "insectes_ephemeroptera": {
+  "ordre_insecte": "Éphéméroptères",
+  "particularite": "Adulte vivant un seul jour",
+  "confiance": "tranchee",
+  "note": "Quelques heures à quelques jours selon les espèces",
+  "nom": "Éphémère"
+ },
+ "insectes_drosophile": {
+  "ordre_insecte": "Diptères",
+  "particularite": "Modèle de la génétique",
+  "confiance": "sure"
+ },
+ "insectes_dynaste-hercule": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Plus long coléoptère du monde",
+  "confiance": "tranchee",
+  "note": "Record de longueur disputé avec Titanus giganteus selon la mesure"
+ },
+ "insectes_fourmi-coupe-feuille": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Cultive un champignon",
+  "confiance": "sure"
+ },
+ "insectes_coleoptere-bombardier": {
+  "ordre_insecte": "Coléoptères",
+  "particularite": "Projette un liquide brûlant",
+  "confiance": "sure"
+ },
+ "insectes_hymenopus-coronatus": {
+  "ordre_insecte": "Mantoptères",
+  "particularite": "Imite une fleur d'orchidée",
+  "confiance": "sure"
+ },
+ "insectes_phylliidae": {
+  "ordre_insecte": "Phasmoptères",
+  "particularite": "Imite une feuille",
+  "confiance": "sure"
+ },
+ "insectes_punaise-de-lit": {
+  "ordre_insecte": "Hémiptères",
+  "particularite": "Pique la nuit dans les lits",
+  "confiance": "sure"
+ },
+ "insectes_vespa-mandarinia": {
+  "ordre_insecte": "Hyménoptères",
+  "particularite": "Plus grand frelon du monde",
+  "confiance": "sure"
+ }
+}

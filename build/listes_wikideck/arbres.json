@@ -1,0 +1,388 @@
+{
+ "arbres_chene": {
+  "famille": "Fagacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit des glands",
+  "confiance": "tranchee",
+  "note": "Quelques chênes (chêne vert, chêne-liège) sont persistants ; la plupart sont caducs"
+ },
+ "arbres_sequoia-geant": {
+  "famille": "Cupressacées",
+  "feuillage": "Persistant",
+  "particularite": "Arbre le plus massif du monde",
+  "confiance": "sure"
+ },
+ "arbres_adansonia": {
+  "famille": "Malvacées",
+  "feuillage": "Caduc",
+  "particularite": "Tronc qui stocke l'eau",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Bombacacées, aujourd'hui Malvacées"
+ },
+ "arbres_olivier": {
+  "famille": "Oléacées",
+  "feuillage": "Persistant",
+  "particularite": "Symbole de la paix",
+  "confiance": "sure"
+ },
+ "arbres_hetre-commun": {
+  "famille": "Fagacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit des faînes",
+  "confiance": "sure"
+ },
+ "arbres_bouleau": {
+  "famille": "Bétulacées",
+  "feuillage": "Caduc",
+  "particularite": "Écorce blanche",
+  "confiance": "sure"
+ },
+ "arbres_pin-sylvestre": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Tronc orangé en hauteur",
+  "confiance": "sure"
+ },
+ "arbres_cedre-du-liban": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Emblème du drapeau libanais",
+  "confiance": "sure"
+ },
+ "arbres_ginkgo-biloba": {
+  "famille": "Ginkgoacées",
+  "feuillage": "Caduc",
+  "particularite": "Fossile vivant",
+  "confiance": "sure"
+ },
+ "arbres_erable": {
+  "famille": "Sapindacées",
+  "feuillage": "Caduc",
+  "particularite": "Feuille du drapeau canadien",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Acéracées, aujourd'hui Sapindacées"
+ },
+ "arbres_saule-pleureur": {
+  "famille": "Salicacées",
+  "feuillage": "Caduc",
+  "particularite": "Branches retombantes",
+  "confiance": "sure"
+ },
+ "arbres_peuplier": {
+  "famille": "Salicacées",
+  "feuillage": "Caduc",
+  "particularite": "Croissance très rapide",
+  "confiance": "sure"
+ },
+ "arbres_frene": {
+  "famille": "Oléacées",
+  "feuillage": "Caduc",
+  "particularite": "Yggdrasil est un frêne",
+  "confiance": "sure"
+ },
+ "arbres_tilia": {
+  "famille": "Malvacées",
+  "feuillage": "Caduc",
+  "particularite": "Fleurs en tisane",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Tiliacées, aujourd'hui Malvacées"
+ },
+ "arbres_castanea": {
+  "famille": "Fagacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit des châtaignes",
+  "confiance": "sure"
+ },
+ "arbres_platane": {
+  "famille": "Platanacées",
+  "feuillage": "Caduc",
+  "particularite": "Écorce en plaques",
+  "confiance": "sure"
+ },
+ "arbres_cypres": {
+  "famille": "Cupressacées",
+  "feuillage": "Persistant",
+  "particularite": "Arbre des cimetières",
+  "confiance": "sure"
+ },
+ "arbres_if-commun": {
+  "famille": "Taxacées",
+  "feuillage": "Persistant",
+  "particularite": "Très toxique",
+  "confiance": "sure"
+ },
+ "arbres_epicea-commun": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Sapin de Noël courant",
+  "confiance": "sure"
+ },
+ "arbres_meleze": {
+  "famille": "Pinacées",
+  "feuillage": "Caduc",
+  "particularite": "Conifère qui perd ses aiguilles",
+  "confiance": "sure"
+ },
+ "arbres_eucalyptus": {
+  "famille": "Myrtacées",
+  "feuillage": "Persistant",
+  "particularite": "Nourriture du koala",
+  "confiance": "sure"
+ },
+ "arbres_phoenix-dactylifera": {
+  "famille": "Arécacées",
+  "feuillage": "Persistant",
+  "particularite": "Produit les dattes",
+  "confiance": "sure"
+ },
+ "arbres_cocotier": {
+  "famille": "Arécacées",
+  "feuillage": "Persistant",
+  "particularite": "Produit la noix de coco",
+  "confiance": "sure"
+ },
+ "arbres_bambou": {
+  "famille": "Poacées",
+  "feuillage": "Persistant",
+  "particularite": "Croissance record",
+  "confiance": "tranchee",
+  "note": "Plante herbacée géante, pas un arbre au sens botanique"
+ },
+ "arbres_acacia-genre": {
+  "famille": "Fabacées",
+  "feuillage": "Persistant",
+  "particularite": "Nourrit les girafes",
+  "confiance": "tranchee",
+  "note": "La plupart des acacias sont persistants ; l'image de la girafe vient des acacias africains, désormais genre Vachellia"
+ },
+ "arbres_aesculus-hippocastanum": {
+  "famille": "Sapindacées",
+  "feuillage": "Caduc",
+  "particularite": "Marrons non comestibles",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Hippocastanacées, aujourd'hui Sapindacées"
+ },
+ "arbres_noyer": {
+  "famille": "Juglandacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit les noix",
+  "confiance": "sure"
+ },
+ "arbres_orme": {
+  "famille": "Ulmacées",
+  "feuillage": "Caduc",
+  "particularite": "Décimé par la graphiose",
+  "confiance": "sure"
+ },
+ "arbres_aulne": {
+  "famille": "Bétulacées",
+  "feuillage": "Caduc",
+  "particularite": "Pousse au bord de l'eau",
+  "confiance": "sure"
+ },
+ "arbres_charme-commun": {
+  "famille": "Bétulacées",
+  "feuillage": "Caduc",
+  "particularite": "Haies de charmille",
+  "confiance": "sure"
+ },
+ "arbres_sapin": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Arbre de Noël",
+  "confiance": "sure"
+ },
+ "arbres_pin-parasol": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Produit les pignons",
+  "confiance": "sure"
+ },
+ "arbres_araucaria": {
+  "famille": "Araucariacées",
+  "feuillage": "Persistant",
+  "particularite": "Désespoir des singes",
+  "confiance": "sure"
+ },
+ "arbres_sequoia-sempervirens": {
+  "famille": "Cupressacées",
+  "feuillage": "Persistant",
+  "particularite": "Arbre le plus haut du monde",
+  "confiance": "sure"
+ },
+ "arbres_dragonnier": {
+  "famille": "Asparagacées",
+  "feuillage": "Persistant",
+  "particularite": "Sève rouge dite sang-dragon",
+  "confiance": "sure"
+ },
+ "arbres_manguier": {
+  "famille": "Anacardiacées",
+  "feuillage": "Persistant",
+  "particularite": "Produit les mangues",
+  "confiance": "sure"
+ },
+ "arbres_figuier-des-banians": {
+  "famille": "Moracées",
+  "feuillage": "Persistant",
+  "particularite": "Racines aériennes",
+  "confiance": "sure"
+ },
+ "arbres_cacaoyer": {
+  "famille": "Malvacées",
+  "feuillage": "Persistant",
+  "particularite": "Fèves du chocolat",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Sterculiacées, aujourd'hui Malvacées"
+ },
+ "arbres_cafeier": {
+  "famille": "Rubiacées",
+  "feuillage": "Persistant",
+  "particularite": "Graines du café",
+  "confiance": "sure"
+ },
+ "arbres_hevea": {
+  "famille": "Euphorbiacées",
+  "feuillage": "Caduc",
+  "particularite": "Latex du caoutchouc",
+  "confiance": "tranchee",
+  "note": "Perd ses feuilles brièvement en saison sèche ; souvent dit semi-caduc"
+ },
+ "arbres_chene-liege": {
+  "famille": "Fagacées",
+  "feuillage": "Persistant",
+  "particularite": "Écorce récoltée pour le liège",
+  "confiance": "sure"
+ },
+ "arbres_houx": {
+  "famille": "Aquifoliacées",
+  "feuillage": "Persistant",
+  "particularite": "Baies rouges de Noël",
+  "confiance": "sure"
+ },
+ "arbres_corylus-avellana": {
+  "famille": "Bétulacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit les noisettes",
+  "confiance": "sure"
+ },
+ "arbres_sambucus-nigra": {
+  "famille": "Adoxacées",
+  "feuillage": "Caduc",
+  "particularite": "Fleurs et baies en sirop",
+  "confiance": "tranchee",
+  "note": "Adoxacées (APG III), parfois Viburnacées (APG IV) ou Caprifoliacées (classification ancienne)"
+ },
+ "arbres_juniperus-communis": {
+  "famille": "Cupressacées",
+  "feuillage": "Persistant",
+  "particularite": "Baies du gin",
+  "confiance": "sure"
+ },
+ "arbres_amandier": {
+  "famille": "Rosacées",
+  "feuillage": "Caduc",
+  "particularite": "Produit les amandes",
+  "confiance": "sure"
+ },
+ "arbres_acajou-des-antilles": {
+  "famille": "Méliacées",
+  "feuillage": "Persistant",
+  "particularite": "Bois rouge précieux",
+  "confiance": "tranchee",
+  "note": "Arbre semi-persistant, perd ses feuilles brièvement"
+ },
+ "arbres_ebene": {
+  "famille": "Ébénacées",
+  "feuillage": "Persistant",
+  "particularite": "Bois noir très dense",
+  "confiance": "tranchee",
+  "note": "L'image montre l'arbre (Diospyros), d'où « Ébénier » ; persistant pour la plupart des espèces",
+  "nom": "Ébénier"
+ },
+ "arbres_teck": {
+  "famille": "Lamiacées",
+  "feuillage": "Caduc",
+  "particularite": "Bois imputrescible",
+  "confiance": "tranchee",
+  "note": "Ancienne famille des Verbénacées, aujourd'hui Lamiacées"
+ },
+ "arbres_santalum-album": {
+  "famille": "Santalacées",
+  "feuillage": "Persistant",
+  "particularite": "Bois parfumé",
+  "confiance": "sure"
+ },
+ "arbres_arbre-a-pain": {
+  "famille": "Moracées",
+  "feuillage": "Persistant",
+  "particularite": "Fruit riche en amidon",
+  "confiance": "sure"
+ },
+ "arbres_flamboyant-bleu": {
+  "famille": "Bignoniacées",
+  "feuillage": "Caduc",
+  "particularite": "Floraison bleu violet",
+  "confiance": "tranchee",
+  "note": "Semi-caduc : perd ses feuilles juste avant la floraison"
+ },
+ "arbres_flamboyant": {
+  "famille": "Fabacées",
+  "feuillage": "Caduc",
+  "particularite": "Floraison rouge vif",
+  "confiance": "tranchee",
+  "note": "Delonix regia, semi-caduc selon le climat"
+ },
+ "arbres_paletuvier": {
+  "famille": "Rhizophoracées",
+  "feuillage": "Persistant",
+  "particularite": "Racines échasses",
+  "confiance": "tranchee",
+  "note": "Nom donné à plusieurs familles de la mangrove ; Rhizophoracées pour le palétuvier rouge"
+ },
+ "arbres_fromager-arbre": {
+  "famille": "Malvacées",
+  "feuillage": "Caduc",
+  "particularite": "Fibre de kapok",
+  "confiance": "tranchee",
+  "note": "Ceiba pentandra ; ancienne famille des Bombacacées"
+ },
+ "arbres_arganier": {
+  "famille": "Sapotacées",
+  "feuillage": "Persistant",
+  "particularite": "Huile d'argan",
+  "confiance": "tranchee",
+  "note": "Perd ses feuilles en cas de forte sécheresse"
+ },
+ "arbres_karite": {
+  "famille": "Sapotacées",
+  "feuillage": "Caduc",
+  "particularite": "Beurre de karité",
+  "confiance": "tranchee",
+  "note": "Semi-caduc en saison sèche"
+ },
+ "arbres_pin-bristlecone": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Peut vivre 5 000 ans",
+  "confiance": "sure"
+ },
+ "arbres_wollemia-nobilis": {
+  "famille": "Araucariacées",
+  "feuillage": "Persistant",
+  "particularite": "Redécouvert en 1994",
+  "confiance": "sure"
+ },
+ "arbres_agathis-australis": {
+  "famille": "Araucariacées",
+  "feuillage": "Persistant",
+  "particularite": "Géant de Nouvelle-Zélande",
+  "confiance": "sure"
+ },
+ "arbres_pseudotsuga-menziesii": {
+  "famille": "Pinacées",
+  "feuillage": "Persistant",
+  "particularite": "Bois de charpente prisé",
+  "confiance": "sure"
+ }
+}

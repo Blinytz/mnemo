@@ -1,0 +1,339 @@
+{
+ "races-de-cheval_pur-sang": {
+  "pays": "Royaume-Uni",
+  "usage": "Course",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_frison-cheval": {
+  "pays": "Pays-Bas",
+  "usage": "Attelage",
+  "robe": "Noir",
+  "confiance": "tranchee",
+  "note": "Attelage et dressage"
+ },
+ "races-de-cheval_pure-race-espagnole": {
+  "pays": "Espagne",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_lipizzan": {
+  "pays": "Slovénie",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "tranchee",
+  "note": "Haras de Lipica en Slovénie, race de l'Empire autrichien"
+ },
+ "races-de-cheval_akhal-teke": {
+  "pays": "Turkménistan",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Célèbre pour l'isabelle doré, mais le bai domine"
+ },
+ "races-de-cheval_quarter-horse": {
+  "pays": "États-Unis",
+  "usage": "Selle",
+  "robe": "Alezan",
+  "confiance": "sure"
+ },
+ "races-de-cheval_appaloosa": {
+  "pays": "États-Unis",
+  "usage": "Selle",
+  "robe": "Léopard",
+  "confiance": "tranchee",
+  "note": "Robes tachetées, le léopard est la plus typique"
+ },
+ "races-de-cheval_mustang-cheval": {
+  "pays": "États-Unis",
+  "usage": "Sauvage",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; bai retenu"
+ },
+ "races-de-cheval_shire-cheval": {
+  "pays": "Royaume-Uni",
+  "usage": "Trait",
+  "robe": "Noir",
+  "confiance": "sure"
+ },
+ "races-de-cheval_percheron": {
+  "pays": "France",
+  "usage": "Trait",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_trait-belge": {
+  "pays": "Belgique",
+  "usage": "Trait",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Bai, aubère ou alezan selon les lignées"
+ },
+ "races-de-cheval_clydesdale": {
+  "pays": "Royaume-Uni",
+  "usage": "Trait",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_haflinger": {
+  "pays": "Autriche",
+  "usage": "Selle",
+  "robe": "Alezan",
+  "confiance": "tranchee",
+  "note": "Berceau à Hafling, Tyrol du Sud (Italie) ; stud-book autrichien"
+ },
+ "races-de-cheval_fjord-cheval": {
+  "pays": "Norvège",
+  "usage": "Poney",
+  "robe": "Isabelle",
+  "confiance": "sure"
+ },
+ "races-de-cheval_shetland-cheval": {
+  "pays": "Royaume-Uni",
+  "usage": "Poney",
+  "robe": "Noir",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; noir retenu"
+ },
+ "races-de-cheval_connemara-cheval": {
+  "pays": "Irlande",
+  "usage": "Poney",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_camargue-cheval": {
+  "pays": "France",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_selle-francais": {
+  "pays": "France",
+  "usage": "Sport",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_hanovrien": {
+  "pays": "Allemagne",
+  "usage": "Sport",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_holsteiner": {
+  "pays": "Allemagne",
+  "usage": "Sport",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_trakehner": {
+  "pays": "Allemagne",
+  "usage": "Sport",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Né en Prusse-Orientale, élevé aujourd'hui en Allemagne"
+ },
+ "races-de-cheval_oldenbourg-cheval": {
+  "pays": "Allemagne",
+  "usage": "Sport",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_lusitanien-cheval": {
+  "pays": "Portugal",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_marwari-cheval": {
+  "pays": "Inde",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Bai et alezan également répandus"
+ },
+ "races-de-cheval_criollo": {
+  "pays": "Argentine",
+  "usage": "Selle",
+  "robe": "Isabelle",
+  "confiance": "tranchee",
+  "note": "Race de tout le cône Sud ; robes isabelle et souris typiques"
+ },
+ "races-de-cheval_paso-fino": {
+  "pays": "Colombie · Porto Rico",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; bai retenu"
+ },
+ "races-de-cheval_tennessee-walker": {
+  "pays": "États-Unis",
+  "usage": "Selle",
+  "robe": "Noir",
+  "confiance": "tranchee",
+  "note": "Noir, bai et alezan courants"
+ },
+ "races-de-cheval_morgan-cheval": {
+  "pays": "États-Unis",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_ardennais-cheval": {
+  "pays": "Belgique · France",
+  "usage": "Trait",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_boulonnais-cheval": {
+  "pays": "France",
+  "usage": "Trait",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_comtois-cheval": {
+  "pays": "France",
+  "usage": "Trait",
+  "robe": "Alezan",
+  "confiance": "sure"
+ },
+ "races-de-cheval_welsh-cheval": {
+  "pays": "Royaume-Uni",
+  "usage": "Poney",
+  "robe": "Gris",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; gris retenu"
+ },
+ "races-de-cheval_trotteur-francais": {
+  "pays": "France",
+  "usage": "Course",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_standardbred": {
+  "pays": "États-Unis",
+  "usage": "Course",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_barbe-cheval": {
+  "pays": "Maroc · Algérie · Tunisie",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_konik": {
+  "pays": "Pologne",
+  "usage": "Poney",
+  "robe": "Souris",
+  "confiance": "tranchee",
+  "note": "Petit cheval, surtout employé pour le pâturage de réserves naturelles"
+ },
+ "races-de-cheval_falabella": {
+  "pays": "Argentine",
+  "usage": "Compagnie",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Cheval miniature de toutes robes ; bai retenu"
+ },
+ "races-de-cheval_breton-cheval": {
+  "pays": "France",
+  "usage": "Trait",
+  "robe": "Alezan",
+  "confiance": "sure"
+ },
+ "races-de-cheval_merens-cheval": {
+  "pays": "France",
+  "usage": "Selle",
+  "robe": "Noir",
+  "confiance": "tranchee",
+  "note": "Cheval de montagne, monté et attelé"
+ },
+ "races-de-cheval_pottok": {
+  "pays": "France · Espagne",
+  "usage": "Poney",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Bai, noir et pie courants"
+ },
+ "races-de-cheval_poitevin-mulassier": {
+  "pays": "France",
+  "usage": "Trait",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Robes baie, noire ou souris ; race élevée pour produire des mules"
+ },
+ "races-de-cheval_cob-normand": {
+  "pays": "France",
+  "usage": "Attelage",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Carrossier, aussi classé trait léger"
+ },
+ "races-de-cheval_arabe-cheval": {
+  "pays": "Arabie saoudite",
+  "usage": "Selle",
+  "robe": "Gris",
+  "confiance": "tranchee",
+  "note": "Péninsule arabique"
+ },
+ "races-de-cheval_knabstrup": {
+  "pays": "Danemark",
+  "usage": "Selle",
+  "robe": "Léopard",
+  "confiance": "sure"
+ },
+ "races-de-cheval_paint-horse": {
+  "pays": "États-Unis",
+  "usage": "Selle",
+  "robe": "Pie",
+  "confiance": "sure"
+ },
+ "races-de-cheval_trotteur-d-orlov": {
+  "pays": "Russie",
+  "usage": "Course",
+  "robe": "Gris",
+  "confiance": "sure"
+ },
+ "races-de-cheval_hackney-cheval": {
+  "pays": "Royaume-Uni",
+  "usage": "Attelage",
+  "robe": "Bai",
+  "confiance": "sure"
+ },
+ "races-de-cheval_islandais-cheval": {
+  "pays": "Islande",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; bai et alezan les plus courants"
+ },
+ "races-de-cheval_mongol-cheval": {
+  "pays": "Mongolie",
+  "usage": "Selle",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; bai retenu"
+ },
+ "races-de-cheval_brumby": {
+  "pays": "Australie",
+  "usage": "Sauvage",
+  "robe": "Bai",
+  "confiance": "tranchee",
+  "note": "Toutes robes ; bai retenu"
+ },
+ "races-de-cheval_cob-gypsy": {
+  "pays": "Irlande",
+  "usage": "Attelage",
+  "robe": "Pie",
+  "confiance": "tranchee",
+  "note": "Élevé en Irlande et au Royaume-Uni"
+ },
+ "races-de-cheval_suffolk-punch": {
+  "pays": "Royaume-Uni",
+  "usage": "Trait",
+  "robe": "Alezan",
+  "confiance": "sure"
+ }
+}

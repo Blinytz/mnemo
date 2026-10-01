@@ -1,0 +1,409 @@
+{
+ "mineraux-et-pierres_diamant": {
+  "famille": "Éléments natifs",
+  "couleur": "Incolore · Jaune",
+  "durete": "10",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_rubis": {
+  "famille": "Oxydes",
+  "couleur": "Rouge",
+  "durete": "9",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_saphir": {
+  "famille": "Oxydes",
+  "couleur": "Bleu",
+  "durete": "9",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_emeraude": {
+  "famille": "Silicates",
+  "couleur": "Vert",
+  "durete": "7,5-8",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_amethyste": {
+  "famille": "Silicates",
+  "couleur": "Violet",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_topaze-mineral": {
+  "famille": "Silicates",
+  "couleur": "Incolore · Jaune · Bleu",
+  "durete": "8",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_opale": {
+  "famille": "Silicates",
+  "couleur": "Blanc · Irisé",
+  "durete": "5,5-6,5",
+  "confiance": "tranchee",
+  "note": "minéraloïde de silice hydratée, rangé avec les silicates"
+ },
+ "mineraux-et-pierres_turquoise-mineral": {
+  "famille": "Phosphates",
+  "couleur": "Bleu-vert",
+  "durete": "5-6",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_lapis-lazuli": {
+  "famille": "Roches métamorphiques",
+  "couleur": "Bleu",
+  "durete": "5-5,5",
+  "confiance": "tranchee",
+  "note": "roche composée surtout de lazurite, un silicate"
+ },
+ "mineraux-et-pierres_jade": {
+  "famille": "Silicates",
+  "couleur": "Vert",
+  "durete": "6-7",
+  "confiance": "tranchee",
+  "note": "le jade désigne la jadéite ou la néphrite, deux silicates"
+ },
+ "mineraux-et-pierres_ambre": {
+  "famille": "Gemmes organiques",
+  "couleur": "Jaune · Orangé",
+  "durete": "2-2,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_perle": {
+  "famille": "Gemmes organiques",
+  "couleur": "Blanc",
+  "durete": "2,5-4",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_quartz-mineral": {
+  "famille": "Silicates",
+  "couleur": "Incolore · Blanc",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_citrine": {
+  "famille": "Silicates",
+  "couleur": "Jaune",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_malachite": {
+  "famille": "Carbonates",
+  "couleur": "Vert",
+  "durete": "3,5-4",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_obsidienne": {
+  "famille": "Roches magmatiques",
+  "couleur": "Noir",
+  "durete": "5-5,5",
+  "confiance": "tranchee",
+  "note": "verre volcanique : roche plutôt que minéral"
+ },
+ "mineraux-et-pierres_pyrite": {
+  "famille": "Sulfures",
+  "couleur": "Jaune doré",
+  "durete": "6-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_hematite": {
+  "famille": "Oxydes",
+  "couleur": "Gris acier · Rouge",
+  "durete": "5,5-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_magnetite": {
+  "famille": "Oxydes",
+  "couleur": "Noir",
+  "durete": "5,5-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_fluorine": {
+  "famille": "Halogénures",
+  "couleur": "Violet · Vert · Incolore",
+  "durete": "4",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_calcite": {
+  "famille": "Carbonates",
+  "couleur": "Incolore · Blanc",
+  "durete": "3",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_gypse": {
+  "famille": "Sulfates",
+  "couleur": "Incolore · Blanc",
+  "durete": "2",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_halite": {
+  "famille": "Halogénures",
+  "couleur": "Incolore · Blanc",
+  "durete": "2-2,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_talc": {
+  "famille": "Silicates",
+  "couleur": "Blanc · Vert pâle",
+  "durete": "1",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_graphite": {
+  "famille": "Éléments natifs",
+  "couleur": "Noir · Gris",
+  "durete": "1-2",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_or-natif": {
+  "famille": "Éléments natifs",
+  "couleur": "Jaune or",
+  "durete": "2,5-3",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_argent-natif": {
+  "famille": "Éléments natifs",
+  "couleur": "Blanc argenté",
+  "durete": "2,5-3",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_cuivre-natif": {
+  "famille": "Éléments natifs",
+  "couleur": "Rouge cuivré",
+  "durete": "2,5-3",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_galene": {
+  "famille": "Sulfures",
+  "couleur": "Gris plomb",
+  "durete": "2,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_cinabre": {
+  "famille": "Sulfures",
+  "couleur": "Rouge",
+  "durete": "2-2,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_bauxite": {
+  "famille": "Roches sédimentaires",
+  "couleur": "Rouge · Blanc · Gris",
+  "durete": "1-3",
+  "confiance": "tranchee",
+  "note": "roche d'hydroxydes d'aluminium, tendre et terreuse : 1-3 est la fourchette usuelle"
+ },
+ "mineraux-et-pierres_meteorite": {
+  "famille": "Roches extraterrestres",
+  "couleur": "Noir · Brun",
+  "durete": "4-6",
+  "confiance": "tranchee",
+  "note": "pas de dureté unique : ferreuses vers 4-5, pierreuses vers 6 ; fourchette globale retenue"
+ },
+ "mineraux-et-pierres_silex": {
+  "famille": "Roches sédimentaires",
+  "couleur": "Gris · Noir · Brun",
+  "durete": "7",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ },
+ "mineraux-et-pierres_grenat": {
+  "famille": "Silicates",
+  "couleur": "Rouge",
+  "durete": "6,5-7,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_tourmaline": {
+  "famille": "Silicates",
+  "couleur": "Noir · Rose · Vert",
+  "durete": "7-7,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_peridot": {
+  "famille": "Silicates",
+  "couleur": "Vert olive",
+  "durete": "6,5-7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_aigue-marine": {
+  "famille": "Silicates",
+  "couleur": "Bleu clair",
+  "durete": "7,5-8",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_onyx-mineral": {
+  "famille": "Silicates",
+  "couleur": "Noir · Blanc",
+  "durete": "6,5-7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_agate": {
+  "famille": "Silicates",
+  "couleur": "Gris · Brun · Rouge",
+  "durete": "6,5-7",
+  "confiance": "tranchee",
+  "note": "pierre rubanée de toutes couleurs ; teintes naturelles les plus courantes"
+ },
+ "mineraux-et-pierres_jaspe": {
+  "famille": "Roches sédimentaires",
+  "couleur": "Rouge · Brun · Jaune",
+  "durete": "6,5-7",
+  "confiance": "tranchee",
+  "note": "roche siliceuse souvent rangée avec les calcédoines (silicates)"
+ },
+ "mineraux-et-pierres_quartz-mineral-b": {
+  "famille": "Silicates",
+  "couleur": "Incolore",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_pechblende": {
+  "famille": "Oxydes",
+  "couleur": "Noir",
+  "durete": "5-6",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_beryl": {
+  "famille": "Silicates",
+  "couleur": "Vert pâle · Bleu · Jaune",
+  "durete": "7,5-8",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_corindon": {
+  "famille": "Oxydes",
+  "couleur": "Gris · Brun",
+  "durete": "9",
+  "confiance": "tranchee",
+  "note": "couleur variable ; gris ou brun pour le corindon commun"
+ },
+ "mineraux-et-pierres_olivine": {
+  "famille": "Silicates",
+  "couleur": "Vert olive",
+  "durete": "6,5-7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_feldspath": {
+  "famille": "Silicates",
+  "couleur": "Blanc · Rose · Gris",
+  "durete": "6-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_labradorite": {
+  "famille": "Silicates",
+  "couleur": "Gris bleuté",
+  "durete": "6-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_pierre-de-lune": {
+  "famille": "Silicates",
+  "couleur": "Blanc laiteux",
+  "durete": "6-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_tanzanite": {
+  "famille": "Silicates",
+  "couleur": "Bleu violet",
+  "durete": "6,5-7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_alexandrite": {
+  "famille": "Oxydes",
+  "couleur": "Vert · Rouge",
+  "durete": "8,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_spinelle": {
+  "famille": "Oxydes",
+  "couleur": "Rouge · Rose · Bleu",
+  "durete": "7,5-8",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_zircon": {
+  "famille": "Silicates",
+  "couleur": "Brun · Incolore · Bleu",
+  "durete": "7,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_il-de-tigre": {
+  "famille": "Silicates",
+  "couleur": "Brun doré",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_moldavite": {
+  "famille": "Verres naturels",
+  "couleur": "Vert",
+  "durete": "5,5-6,5",
+  "confiance": "tranchee",
+  "note": "tectite : verre d'impact riche en silice, pas un minéral"
+ },
+ "mineraux-et-pierres_jais": {
+  "famille": "Gemmes organiques",
+  "couleur": "Noir",
+  "durete": "2,5-4",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_quartz-rose": {
+  "famille": "Silicates",
+  "couleur": "Rose",
+  "durete": "7",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_azurite-mineral": {
+  "famille": "Carbonates",
+  "couleur": "Bleu",
+  "durete": "3,5-4",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_mica": {
+  "famille": "Silicates",
+  "couleur": "Noir · Incolore · Brun",
+  "durete": "2,5-3",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_rose-des-sables": {
+  "famille": "Sulfates",
+  "couleur": "Beige",
+  "durete": "2",
+  "confiance": "tranchee",
+  "note": "agrégat de gypse le plus souvent, parfois de barytine"
+ },
+ "mineraux-et-pierres_coltan": {
+  "famille": "Oxydes",
+  "couleur": "Noir · Brun-rouge",
+  "durete": "6-6,5",
+  "confiance": "sure"
+ },
+ "mineraux-et-pierres_marbre": {
+  "famille": "Roches métamorphiques",
+  "couleur": "Blanc",
+  "durete": "3-4",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ },
+ "mineraux-et-pierres_granite": {
+  "famille": "Roches magmatiques",
+  "couleur": "Gris · Rose",
+  "durete": "6-7",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ },
+ "mineraux-et-pierres_basalte": {
+  "famille": "Roches magmatiques",
+  "couleur": "Noir · Gris foncé",
+  "durete": "6",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ },
+ "mineraux-et-pierres_ardoise": {
+  "famille": "Roches métamorphiques",
+  "couleur": "Gris bleuté · Noir",
+  "durete": "3-4",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ },
+ "mineraux-et-pierres_ponce": {
+  "famille": "Roches magmatiques",
+  "couleur": "Gris clair · Blanc",
+  "durete": "6",
+  "confiance": "tranchee",
+  "note": "roche : dureté indicative, variable selon l'échantillon"
+ }
+}

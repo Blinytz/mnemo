@@ -1,0 +1,436 @@
+{
+ "poissons-et-vie-marine_grand-requin-blanc": {
+  "groupe": "Requins",
+  "habitat": "Eaux côtières tempérées",
+  "particularite": "Plus grand requin prédateur",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-baleine": {
+  "groupe": "Requins",
+  "habitat": "Mers tropicales",
+  "particularite": "Plus grand poisson du monde",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_sphyrnidae": {
+  "groupe": "Requins",
+  "habitat": "Mers tropicales",
+  "particularite": "Tête en forme de marteau",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-tigre": {
+  "groupe": "Requins",
+  "habitat": "Mers tropicales",
+  "particularite": "Rayures sur le dos",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-bouledogue": {
+  "groupe": "Requins",
+  "habitat": "Côtes et fleuves",
+  "particularite": "Remonte les fleuves",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_scyliorhinidae": {
+  "groupe": "Requins",
+  "habitat": "Fonds côtiers",
+  "particularite": "Petit requin tacheté",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_manta-genre": {
+  "groupe": "Raies",
+  "habitat": "Mers tropicales",
+  "particularite": "Plus grande raie du monde",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_dasyatis-pastinaca": {
+  "groupe": "Raies",
+  "habitat": "Fonds sableux côtiers",
+  "particularite": "Aiguillon venimeux",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_poisson-clown": {
+  "groupe": "Poissons",
+  "habitat": "Récifs coralliens",
+  "particularite": "Vit dans les anémones",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_acanthuridae": {
+  "groupe": "Poissons",
+  "habitat": "Récifs coralliens",
+  "particularite": "Épine tranchante sur la queue",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_pterois-volitans": {
+  "groupe": "Poissons",
+  "habitat": "Récifs coralliens",
+  "particularite": "Nageoires épineuses venimeuses",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_poisson-globe": {
+  "groupe": "Poissons",
+  "habitat": "Mers tropicales",
+  "particularite": "Se gonfle d'eau",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_mole-poisson": {
+  "groupe": "Poissons",
+  "habitat": "Haute mer",
+  "particularite": "Poisson osseux le plus lourd",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_pristidae": {
+  "groupe": "Raies",
+  "habitat": "Côtes et estuaires",
+  "particularite": "Rostre en forme de scie",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_exocoetidae": {
+  "groupe": "Poissons",
+  "habitat": "Haute mer",
+  "particularite": "Plane au-dessus de l'eau",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_piranha": {
+  "groupe": "Poissons",
+  "habitat": "Fleuves d'Amérique du Sud",
+  "particularite": "Dents tranchantes",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_espadon": {
+  "groupe": "Poissons",
+  "habitat": "Haute mer",
+  "particularite": "Rostre plat en épée",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_istiophoridae": {
+  "groupe": "Poissons",
+  "habitat": "Haute mer",
+  "particularite": "Rostre en pointe",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_thon-rouge": {
+  "groupe": "Poissons",
+  "habitat": "Haute mer",
+  "particularite": "Grand migrateur surpêché",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_saumon-atlantique": {
+  "groupe": "Poissons",
+  "habitat": "Mer et rivières",
+  "particularite": "Remonte sa rivière natale",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_koi": {
+  "groupe": "Poissons",
+  "habitat": "Bassins d'ornement",
+  "particularite": "Carpe colorée japonaise",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_anguille-electrique": {
+  "groupe": "Poissons",
+  "habitat": "Fleuves d'Amérique du Sud",
+  "particularite": "Décharges électriques",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_anguille-d-europe": {
+  "groupe": "Poissons",
+  "habitat": "Rivières et mer",
+  "particularite": "Pond dans la mer des Sargasses",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_hippocampe-poisson": {
+  "groupe": "Poissons",
+  "habitat": "Herbiers côtiers",
+  "particularite": "Le mâle porte les petits",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_murene-commune": {
+  "nom": "Murène",
+  "groupe": "Poissons",
+  "habitat": "Fonds rocheux",
+  "particularite": "Se cache dans les rochers",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_scaridae": {
+  "groupe": "Poissons",
+  "habitat": "Récifs coralliens",
+  "particularite": "Bec qui broute le corail",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_sphyraena": {
+  "groupe": "Poissons",
+  "habitat": "Mers tropicales",
+  "particularite": "Prédateur aux dents acérées",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_poisson-pierre": {
+  "groupe": "Poissons",
+  "habitat": "Récifs coralliens",
+  "particularite": "Poisson le plus venimeux",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_etoile-de-mer": {
+  "groupe": "Échinodermes",
+  "habitat": "Fonds marins",
+  "particularite": "Régénère ses bras",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_echinoidea": {
+  "groupe": "Échinodermes",
+  "habitat": "Fonds rocheux",
+  "particularite": "Couvert de piquants",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_holothurie": {
+  "groupe": "Échinodermes",
+  "habitat": "Fonds marins",
+  "particularite": "Corps mou allongé",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_pieuvre": {
+  "groupe": "Mollusques",
+  "habitat": "Fonds rocheux",
+  "particularite": "Huit bras à ventouses",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_pieuvre-aux-anneaux-bleus": {
+  "groupe": "Mollusques",
+  "habitat": "Récifs du Pacifique",
+  "particularite": "Venin mortel",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_calmar-geant": {
+  "groupe": "Mollusques",
+  "habitat": "Grands fonds",
+  "particularite": "Yeux géants",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_seiche-animal": {
+  "groupe": "Mollusques",
+  "habitat": "Fonds côtiers",
+  "particularite": "Change de couleur",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_nautile-sous-marin-de-poche": {
+  "groupe": "Mollusques",
+  "habitat": "Pentes des récifs",
+  "particularite": "Coquille spiralée à loges",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_cubozoa": {
+  "groupe": "Cnidaires",
+  "habitat": "Mers tropicales",
+  "particularite": "Venin très puissant",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_aurelia-aurita": {
+  "groupe": "Cnidaires",
+  "habitat": "Eaux côtières",
+  "particularite": "Quatre anneaux visibles",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_anemone-de-mer": {
+  "groupe": "Cnidaires",
+  "habitat": "Fonds rocheux",
+  "particularite": "Tentacules urticants",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_faviidae": {
+  "groupe": "Cnidaires",
+  "habitat": "Récifs coralliens",
+  "particularite": "Forme de cerveau",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_macrocheira-kaempferi": {
+  "groupe": "Crustacés",
+  "habitat": "Fonds du Japon",
+  "particularite": "Plus grand crustacé connu",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_homard": {
+  "groupe": "Crustacés",
+  "habitat": "Fonds rocheux",
+  "particularite": "Grosses pinces inégales",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_stomatopoda": {
+  "groupe": "Crustacés",
+  "habitat": "Récifs coralliens",
+  "particularite": "Coup de poing ultrarapide",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_porifera": {
+  "groupe": "Éponges",
+  "habitat": "Fonds marins",
+  "particularite": "Animal sans organes",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_coelacanthiformes": {
+  "groupe": "Poissons",
+  "habitat": "Grands fonds",
+  "particularite": "Fossile vivant",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_melanocetus": {
+  "groupe": "Poissons",
+  "habitat": "Grands fonds",
+  "particularite": "Leurre lumineux",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-du-groenland": {
+  "groupe": "Requins",
+  "habitat": "Mers arctiques",
+  "particularite": "Vit plus de 250 ans",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-pelerin": {
+  "groupe": "Requins",
+  "habitat": "Eaux tempérées",
+  "particularite": "Filtre le plancton",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_poisson-rouge": {
+  "groupe": "Poissons",
+  "habitat": "Bassins et aquariums",
+  "particularite": "Poisson d'ornement doré",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_krill-antarctique": {
+  "groupe": "Crustacés",
+  "habitat": "Océan Austral",
+  "particularite": "Nourriture des baleines",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_salmo-trutta": {
+  "groupe": "Poissons",
+  "habitat": "Rivières fraîches",
+  "particularite": "Robe tachetée",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_esox-lucius": {
+  "groupe": "Poissons",
+  "habitat": "Lacs et rivières",
+  "particularite": "Prédateur à museau plat",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_silure-glane": {
+  "groupe": "Poissons",
+  "habitat": "Fleuves et lacs",
+  "particularite": "Géant des eaux douces d'Europe",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_acipenser-sturio": {
+  "groupe": "Poissons",
+  "habitat": "Mer et fleuves",
+  "particularite": "Œufs donnant le caviar",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_arapaima-gigas": {
+  "groupe": "Poissons",
+  "habitat": "Amazone",
+  "particularite": "Respire de l'air",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_morue-de-l-atlantique": {
+  "groupe": "Poissons",
+  "habitat": "Atlantique Nord",
+  "particularite": "Appelée cabillaud quand fraîche",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_sardina-pilchardus": {
+  "groupe": "Poissons",
+  "habitat": "Eaux côtières",
+  "particularite": "Mise en conserve à l'huile",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_clupea-harengus": {
+  "groupe": "Poissons",
+  "habitat": "Atlantique Nord",
+  "particularite": "Vit en énormes bancs",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_scomber-scombrus": {
+  "groupe": "Poissons",
+  "habitat": "Eaux côtières",
+  "particularite": "Dos rayé bleu-vert",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_epinephelus-marginatus": {
+  "groupe": "Poissons",
+  "habitat": "Fonds rocheux",
+  "particularite": "Change de sexe",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-mako": {
+  "groupe": "Requins",
+  "habitat": "Haute mer",
+  "particularite": "Requin le plus rapide",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_requin-lutin": {
+  "groupe": "Requins",
+  "habitat": "Grands fonds",
+  "particularite": "Mâchoire projetable",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_phycodurus-eques": {
+  "groupe": "Poissons",
+  "habitat": "Côtes d'Australie",
+  "particularite": "Camouflé en algue",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_combattant": {
+  "groupe": "Poissons",
+  "habitat": "Rizières d'Asie",
+  "particularite": "Mâles très agressifs",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_poecilia-reticulata": {
+  "groupe": "Poissons",
+  "habitat": "Eaux douces tropicales",
+  "particularite": "Petit poisson vivipare",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_petromyzon-marinus": {
+  "groupe": "Poissons",
+  "habitat": "Mer et rivières",
+  "particularite": "Bouche en ventouse",
+  "confiance": "tranchee",
+  "note": "Agnathe, poisson sans mâchoire : rangée avec les poissons, usage courant"
+ },
+ "poissons-et-vie-marine_huitre": {
+  "groupe": "Mollusques",
+  "habitat": "Fonds côtiers",
+  "particularite": "Peut produire des perles",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_coquille-saint-jacques": {
+  "groupe": "Mollusques",
+  "habitat": "Fonds sableux",
+  "particularite": "Nage en claquant ses valves",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_tridacne-geant": {
+  "groupe": "Mollusques",
+  "habitat": "Récifs coralliens",
+  "particularite": "Plus gros bivalve",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_pagure": {
+  "groupe": "Crustacés",
+  "habitat": "Estran",
+  "particularite": "Loge dans une coquille vide",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_langouste-rouge": {
+  "groupe": "Crustacés",
+  "habitat": "Fonds rocheux",
+  "particularite": "Longues antennes sans pinces",
+  "confiance": "sure"
+ },
+ "poissons-et-vie-marine_physalia": {
+  "groupe": "Cnidaires",
+  "habitat": "Surface de la haute mer",
+  "particularite": "Flotteur en forme de voile",
+  "confiance": "sure"
+ }
+}

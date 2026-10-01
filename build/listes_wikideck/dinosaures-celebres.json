@@ -1,0 +1,384 @@
+{
+ "dinosaures-celebres_tyrannosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis · Canada",
+  "confiance": "sure",
+  "nom": "Tyrannosaurus rex"
+ },
+ "dinosaures-celebres_velociraptor": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Mongolie · Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_triceratops": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis · Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_stegosaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis · Portugal",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_brachiosaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_diplodocus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_spinosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Égypte · Maroc",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_allosaurus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis · Portugal",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_ankylosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis · Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_parasaurolophus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada · États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_iguanodon": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Belgique · Angleterre",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_compsognathus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "Allemagne · France",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_archaeopteryx": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "Allemagne",
+  "confiance": "tranchee",
+  "note": "oiseau primitif, donc dinosaure avien ; régime insectivore à carnivore"
+ },
+ "dinosaures-celebres_deinonychus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_carnotaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_giganotosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_therizinosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Mongolie",
+  "confiance": "tranchee",
+  "note": "théropode probablement herbivore, régime discuté"
+ },
+ "dinosaures-celebres_pachycephalosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "tranchee",
+  "note": "herbivore le plus souvent retenu, omnivorie parfois proposée"
+ },
+ "dinosaures-celebres_styracosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_dilophosaurus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_baryonyx": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Angleterre · Espagne · Portugal",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_oviraptor": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "Mongolie",
+  "confiance": "tranchee",
+  "note": "régime discuté : omnivore le plus souvent retenu"
+ },
+ "dinosaures-celebres_protoceratops": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Mongolie · Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_maiasaura": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_edmontosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada · États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_corythosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada · États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_camarasaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_apatosaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_supersaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis · Portugal",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_argentinosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_amargasaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_kentrosaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "Tanzanie",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_gallimimus": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "Mongolie",
+  "confiance": "tranchee",
+  "note": "ornithomimosaure : omnivore ou herbivore selon les auteurs"
+ },
+ "dinosaures-celebres_struthiomimus": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "Canada · États-Unis",
+  "confiance": "tranchee",
+  "note": "ornithomimosaure : omnivore ou herbivore selon les auteurs"
+ },
+ "dinosaures-celebres_coelophysis": {
+  "periode": "Trias",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_ceratosaurus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis · Portugal",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_torosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_chasmosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_microraptor": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_sinosauropteryx": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_yutyrannus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_suchomimus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Niger",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_herrerasaurus": {
+  "periode": "Trias",
+  "regime": "Carnivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_eoraptor": {
+  "periode": "Trias",
+  "regime": "Omnivore",
+  "fossiles": "Argentine",
+  "confiance": "tranchee",
+  "note": "longtemps vu comme carnivore, aujourd'hui plutôt omnivore"
+ },
+ "dinosaures-celebres_plateosaurus": {
+  "periode": "Trias",
+  "regime": "Herbivore",
+  "fossiles": "Allemagne · Suisse · France",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_megalosaurus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "Angleterre",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_utahraptor": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_carcharodontosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Maroc · Égypte · Algérie",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_brontosaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_tarbosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Mongolie · Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_albertosaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_troodon": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "États-Unis",
+  "confiance": "tranchee",
+  "note": "carnivore ou omnivore selon les auteurs ; les fossiles canadiens sont aujourd'hui rangés sous Stenonychosaurus"
+ },
+ "dinosaures-celebres_deinocheirus": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "Mongolie",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_psittacosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Chine · Mongolie",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_cryolophosaurus": {
+  "periode": "Jurassique",
+  "regime": "Carnivore",
+  "fossiles": "Antarctique",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_mamenchisaurus": {
+  "periode": "Jurassique",
+  "regime": "Herbivore",
+  "fossiles": "Chine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_patagotitan": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Argentine",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_pentaceratops": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_euoplocephalus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "Canada",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_hadrosaurus": {
+  "periode": "Crétacé",
+  "regime": "Herbivore",
+  "fossiles": "États-Unis",
+  "confiance": "sure"
+ },
+ "dinosaures-celebres_ornithomimus": {
+  "periode": "Crétacé",
+  "regime": "Omnivore",
+  "fossiles": "Canada · États-Unis",
+  "confiance": "tranchee",
+  "note": "ornithomimosaure : omnivore ou herbivore selon les auteurs"
+ },
+ "dinosaures-celebres_majungasaurus": {
+  "periode": "Crétacé",
+  "regime": "Carnivore",
+  "fossiles": "Madagascar",
+  "confiance": "sure"
+ }
+}

@@ -1,0 +1,826 @@
+{
+ "races-de-chien_labrador-retriever": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Race fixée au Royaume-Uni (pays FCI), ancêtres venus de Terre-Neuve"
+ },
+ "races-de-chien_golden-retriever": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-allemand": {
+  "pays": "Allemagne",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_malinois-chien": {
+  "pays": "Belgique",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_border-collie": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_colley": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_caniche": {
+  "pays": "France",
+  "groupe": "Chien de compagnie",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Quatre tailles, du toy au grand caniche"
+ },
+ "races-de-chien_bulldog-anglais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Molosse",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_bouledogue": {
+  "pays": "France",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Type molosse, mais classé chien de compagnie par la FCI"
+ },
+ "races-de-chien_boxer-chien": {
+  "pays": "Allemagne",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_rottweiler": {
+  "pays": "Allemagne",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_dobermann": {
+  "nom": "Dobermann",
+  "pays": "Allemagne",
+  "groupe": "Chien de garde",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Groupe pinscher et schnauzer, usage de garde"
+ },
+ "races-de-chien_dogue-allemand": {
+  "pays": "Allemagne",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_saint-bernard": {
+  "pays": "Suisse",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_terre-neuve-chien": {
+  "pays": "Canada",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_husky-de-siberie": {
+  "pays": "Russie",
+  "groupe": "Chien de traîneau",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Origine sibérienne ; la FCI donne les États-Unis comme pays de la race"
+ },
+ "races-de-chien_malamute-de-l-alaska": {
+  "pays": "États-Unis",
+  "groupe": "Chien de traîneau",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_samoyede-chien": {
+  "pays": "Russie",
+  "groupe": "Chien de traîneau",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Chien de traîneau et de troupeau des Nénètses"
+ },
+ "races-de-chien_akita-chien": {
+  "pays": "Japon",
+  "groupe": "Spitz",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_shiba-chien": {
+  "pays": "Japon",
+  "groupe": "Spitz",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_chow-chow": {
+  "pays": "Chine",
+  "groupe": "Spitz",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_shar-pei": {
+  "pays": "Chine",
+  "groupe": "Molosse",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_basset-hound": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Court sur pattes mais lourd : entre petite et moyenne"
+ },
+ "races-de-chien_beagle-chien": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "33 à 40 cm, à la limite de moyenne"
+ },
+ "races-de-chien_chien-de-saint-hubert": {
+  "pays": "Belgique",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_cocker-spaniel": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Cocker anglais retenu, environ 40 cm"
+ },
+ "races-de-chien_cavalier-king-charles-spaniel": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_jack-russell-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_fox-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_yorkshire-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_bichon-a-poil-frise": {
+  "pays": "Belgique · France",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_bichon-maltais": {
+  "pays": "Malte",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Bassin méditerranéen ; la FCI place la race sous patronage italien"
+ },
+ "races-de-chien_chihuahua-chien": {
+  "pays": "Mexique",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_pekinois-chien": {
+  "pays": "Chine",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_carlin": {
+  "pays": "Chine",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_teckel": {
+  "pays": "Allemagne",
+  "groupe": "Chien de chasse",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_levrier-whippet": {
+  "pays": "Royaume-Uni",
+  "groupe": "Lévrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_levrier-afghan": {
+  "pays": "Afghanistan",
+  "groupe": "Lévrier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_irish-wolfhound": {
+  "pays": "Irlande",
+  "groupe": "Lévrier",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_dalmatien": {
+  "pays": "Croatie",
+  "groupe": "Chien de compagnie",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Classé chien courant par la FCI, connu comme chien de compagnie"
+ },
+ "races-de-chien_braque-de-weimar": {
+  "pays": "Allemagne",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_braque-allemand-a-poil-court": {
+  "pays": "Allemagne",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_epagneul-breton": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_epagneul-francais": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_setter-anglais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_setter-irlandais-rouge": {
+  "pays": "Irlande",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_pointer-anglais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-australien": {
+  "pays": "États-Unis",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_shetland-chien": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-blanc-suisse": {
+  "pays": "Suisse",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_bouvier-bernois": {
+  "pays": "Suisse",
+  "groupe": "Bouvier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_bouvier-des-flandres": {
+  "pays": "Belgique · France",
+  "groupe": "Bouvier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_schnauzer": {
+  "pays": "Allemagne",
+  "groupe": "Chien de garde",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Trois tailles ; schnauzer moyen retenu"
+ },
+ "races-de-chien_airedale-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_bull-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_staffordshire-bull-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_american-staffordshire-terrier": {
+  "pays": "États-Unis",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_american-pit-bull-terrier": {
+  "pays": "États-Unis",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_cane-corso": {
+  "pays": "Italie",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_dogue-de-bordeaux": {
+  "pays": "France",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_mastiff": {
+  "pays": "Royaume-Uni",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_fila-brasileiro": {
+  "pays": "Brésil",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_chien-de-montagne-des-pyrenees": {
+  "pays": "France",
+  "groupe": "Chien de protection",
+  "taille": "Très grande",
+  "confiance": "tranchee",
+  "note": "Patou, gardien de troupeau ; molossoïde de montagne pour la FCI"
+ },
+ "races-de-chien_leonberg-chien": {
+  "pays": "Allemagne",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_spitz-japonais": {
+  "pays": "Japon",
+  "groupe": "Spitz",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_spitz-nain": {
+  "nom": "Spitz nain",
+  "pays": "Allemagne",
+  "groupe": "Spitz",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_epagneul-nain-continental-papillon": {
+  "nom": "Papillon",
+  "pays": "France · Belgique",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_lhassa-apso": {
+  "pays": "Chine",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Originaire du Tibet"
+ },
+ "races-de-chien_shih-tzu": {
+  "pays": "Chine",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Origine tibétaine, fixé en Chine"
+ },
+ "races-de-chien_terrier-de-boston": {
+  "pays": "États-Unis",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_griffon-bruxellois": {
+  "pays": "Belgique",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_king-charles-spaniel": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_basenji": {
+  "pays": "RD Congo",
+  "groupe": "Chien primitif",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Bassin du Congo (RD Congo) ; patronage FCI britannique"
+ },
+ "races-de-chien_xoloitzcuintle": {
+  "pays": "Mexique",
+  "groupe": "Chien primitif",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Trois tailles, le standard retenu"
+ },
+ "races-de-chien_chien-nu-du-perou": {
+  "nom": "Chien nu du Pérou",
+  "pays": "Pérou",
+  "groupe": "Chien primitif",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Trois tailles, la moyenne retenue"
+ },
+ "races-de-chien_chien-de-rhodesie-a-crete-dorsale": {
+  "pays": "Zimbabwe",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Fixé en Rhodésie (Zimbabwe) ; la FCI indique l'Afrique du Sud"
+ },
+ "races-de-chien_boerboel": {
+  "pays": "Afrique du Sud",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-kangal": {
+  "pays": "Turquie",
+  "groupe": "Chien de protection",
+  "taille": "Très grande",
+  "confiance": "sure",
+  "nom": "Kangal · Berger d'Anatolie"
+ },
+ "races-de-chien_berger-de-beauce": {
+  "pays": "France",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-picard": {
+  "pays": "France",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_barbet-chien": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Chien d'eau, rapporteur de gibier d'eau"
+ },
+ "races-de-chien_terrier-ecossais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_cairn-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_west-highland-white-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_sealyham-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_norfolk-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_norwich-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_skye-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_border-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_bedlington-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_terrier-kerry-blue": {
+  "pays": "Irlande",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_terrier-irlandais": {
+  "pays": "Irlande",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_welsh-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_manchester-terrier": {
+  "pays": "Royaume-Uni",
+  "groupe": "Terrier",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_bichon-havanais": {
+  "pays": "Cuba",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_coton-de-tulear": {
+  "pays": "Madagascar",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-hollandais": {
+  "pays": "Pays-Bas",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-de-brie": {
+  "pays": "France",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-polonais-de-plaine": {
+  "nom": "Berger polonais de plaine",
+  "pays": "Pologne",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_puli": {
+  "pays": "Hongrie",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_komondor": {
+  "pays": "Hongrie",
+  "groupe": "Chien de protection",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Gardien de troupeau, classé chien de berger par la FCI"
+ },
+ "races-de-chien_chien-loup-tchecoslovaque": {
+  "pays": "Slovaquie",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Créé en Tchécoslovaquie ; la FCI le rattache à la Slovaquie"
+ },
+ "races-de-chien_chien-loup-de-saarloos": {
+  "pays": "Pays-Bas",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_basset-fauve-de-bretagne": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_basset-bleu-de-gascogne": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_grand-bleu-de-gascogne": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_beagle-harrier": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_chien-a-loutre": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_chien-noir-et-feu-pour-la-chasse-au-raton-laveur": {
+  "pays": "États-Unis",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_foxhound-americain": {
+  "pays": "États-Unis",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_foxhound-anglais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_levrier-greyhound": {
+  "pays": "Royaume-Uni",
+  "groupe": "Lévrier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_levrier-persan": {
+  "pays": "Iran",
+  "groupe": "Lévrier",
+  "taille": "Grande",
+  "confiance": "tranchee",
+  "note": "Moyen-Orient pour la FCI ; nom de lévrier persan"
+ },
+ "races-de-chien_barzoi": {
+  "pays": "Russie",
+  "groupe": "Lévrier",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_welsh-corgi-pembroke": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_bobtail": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_bearded-collie": {
+  "pays": "Royaume-Uni",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "51 à 56 cm, à la limite de grande"
+ },
+ "races-de-chien_bouvier-australien": {
+  "pays": "Australie",
+  "groupe": "Bouvier",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_australian-kelpie": {
+  "pays": "Australie",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-des-pyrenees": {
+  "pays": "France",
+  "groupe": "Berger",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Entre petite et moyenne selon la variété"
+ },
+ "races-de-chien_dogue-argentin": {
+  "nom": "Dogue argentin",
+  "pays": "Argentine",
+  "groupe": "Molosse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_berger-du-caucase": {
+  "pays": "Russie",
+  "groupe": "Chien de protection",
+  "taille": "Très grande",
+  "confiance": "tranchee",
+  "note": "Origine caucasienne (Géorgie, Arménie) ; patronage FCI russe"
+ },
+ "races-de-chien_dogue-du-tibet": {
+  "pays": "Chine",
+  "groupe": "Molosse",
+  "taille": "Très grande",
+  "confiance": "tranchee",
+  "note": "Originaire du Tibet"
+ },
+ "races-de-chien_braque-hongrois-a-poil-court": {
+  "pays": "Hongrie",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_springer-anglais": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "sure"
+ },
+ "races-de-chien_retriever-a-poil-plat": {
+  "pays": "Royaume-Uni",
+  "groupe": "Chien de chasse",
+  "taille": "Grande",
+  "confiance": "sure"
+ },
+ "races-de-chien_griffon-d-arret-a-poil-dur-korthals": {
+  "pays": "France",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Créé en Allemagne par un Néerlandais ; la FCI le rattache à la France"
+ },
+ "races-de-chien_chien-d-eau-portugais": {
+  "pays": "Portugal",
+  "groupe": "Chien de chasse",
+  "taille": "Moyenne",
+  "confiance": "tranchee",
+  "note": "Chien d'eau des pêcheurs, rangé avec les chiens de chasse par la FCI"
+ },
+ "races-de-chien_chien-chinois-a-crete": {
+  "pays": "Chine",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "sure"
+ },
+ "races-de-chien_pinscher-nain": {
+  "pays": "Allemagne",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Ancien ratier, classé avec les pinschers par la FCI"
+ },
+ "races-de-chien_affenpinscher": {
+  "pays": "Allemagne",
+  "groupe": "Chien de compagnie",
+  "taille": "Petite",
+  "confiance": "tranchee",
+  "note": "Ancien ratier, classé avec les pinschers par la FCI"
+ }
+}

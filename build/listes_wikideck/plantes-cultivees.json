@@ -1,0 +1,415 @@
+{
+ "plantes-cultivees_ble": {
+  "origine": "Croissant fertile",
+  "usage": "Alimentation",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_riz": {
+  "origine": "Chine",
+  "usage": "Alimentation",
+  "famille": "Poacées",
+  "confiance": "tranchee",
+  "note": "Riz asiatique domestiqué en Chine ; un riz africain existe aussi"
+ },
+ "plantes-cultivees_mais": {
+  "origine": "Mésoamérique",
+  "usage": "Alimentation",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_pomme-de-terre": {
+  "origine": "Andes",
+  "usage": "Alimentation",
+  "famille": "Solanacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_tomate": {
+  "origine": "Andes",
+  "usage": "Alimentation",
+  "famille": "Solanacées",
+  "confiance": "tranchee",
+  "note": "Ancêtre andin, domestication achevée au Mexique"
+ },
+ "plantes-cultivees_vigne": {
+  "origine": "Caucase",
+  "usage": "Boisson",
+  "famille": "Vitacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_canne-a-sucre": {
+  "origine": "Nouvelle-Guinée",
+  "usage": "Sucre",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_soja": {
+  "origine": "Chine",
+  "usage": "Alimentation",
+  "famille": "Fabacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_coton": {
+  "origine": "Inde",
+  "usage": "Textile",
+  "famille": "Malvacées",
+  "confiance": "tranchee",
+  "note": "Domestiqué séparément en Inde, Afrique et Amériques"
+ },
+ "plantes-cultivees_lin-cultive": {
+  "origine": "Croissant fertile",
+  "usage": "Textile",
+  "famille": "Linacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_cafe": {
+  "origine": "Éthiopie",
+  "usage": "Boisson",
+  "famille": "Rubiacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_cacao": {
+  "origine": "Amazonie",
+  "usage": "Chocolat",
+  "famille": "Malvacées",
+  "confiance": "tranchee",
+  "note": "Né en haute Amazonie, cultivé d'abord en Mésoamérique"
+ },
+ "plantes-cultivees_the": {
+  "origine": "Chine",
+  "usage": "Boisson",
+  "famille": "Théacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_tabac": {
+  "origine": "Andes",
+  "usage": "Stimulant",
+  "famille": "Solanacées",
+  "confiance": "tranchee",
+  "note": "Originaire d'Amérique du Sud andine"
+ },
+ "plantes-cultivees_poivrier-noir": {
+  "origine": "Inde",
+  "usage": "Épice",
+  "famille": "Pipéracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_vanille": {
+  "origine": "Mésoamérique",
+  "usage": "Épice",
+  "famille": "Orchidacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_safran-epice": {
+  "origine": "Grèce",
+  "usage": "Épice",
+  "famille": "Iridacées",
+  "confiance": "tranchee",
+  "note": "Domestiqué en Crète ou en Grèce selon les études"
+ },
+ "plantes-cultivees_cannelle": {
+  "origine": "Sri Lanka",
+  "usage": "Épice",
+  "famille": "Lauracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_piment": {
+  "origine": "Mésoamérique",
+  "usage": "Épice",
+  "famille": "Solanacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_ail-cultive": {
+  "origine": "Asie centrale",
+  "usage": "Condiment",
+  "famille": "Amaryllidacées",
+  "confiance": "tranchee",
+  "note": "Longtemps classé dans les Liliacées ou Alliacées"
+ },
+ "plantes-cultivees_oignon": {
+  "origine": "Asie centrale",
+  "usage": "Alimentation",
+  "famille": "Amaryllidacées",
+  "confiance": "tranchee",
+  "note": "Longtemps classé dans les Liliacées ou Alliacées"
+ },
+ "plantes-cultivees_carotte": {
+  "origine": "Asie centrale",
+  "usage": "Alimentation",
+  "famille": "Apiacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_chou-commun": {
+  "origine": "Méditerranée",
+  "usage": "Alimentation",
+  "famille": "Brassicacées",
+  "confiance": "tranchee",
+  "note": "Chou sauvage des côtes atlantiques et méditerranéennes"
+ },
+ "plantes-cultivees_haricot": {
+  "origine": "Mésoamérique",
+  "usage": "Alimentation",
+  "famille": "Fabacées",
+  "confiance": "tranchee",
+  "note": "Domestiqué aussi dans les Andes"
+ },
+ "plantes-cultivees_pois-cultive": {
+  "origine": "Croissant fertile",
+  "usage": "Alimentation",
+  "famille": "Fabacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_lentille-cultivee": {
+  "origine": "Croissant fertile",
+  "usage": "Alimentation",
+  "famille": "Fabacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_banane": {
+  "origine": "Nouvelle-Guinée",
+  "usage": "Alimentation",
+  "famille": "Musacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_pomme": {
+  "origine": "Asie centrale",
+  "usage": "Alimentation",
+  "famille": "Rosacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_orange-fruit": {
+  "origine": "Chine",
+  "usage": "Alimentation",
+  "famille": "Rutacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_citron": {
+  "origine": "Inde",
+  "usage": "Alimentation",
+  "famille": "Rutacées",
+  "confiance": "tranchee",
+  "note": "Piémont himalayen, entre Inde et Birmanie"
+ },
+ "plantes-cultivees_fraise": {
+  "origine": "Amériques",
+  "usage": "Alimentation",
+  "famille": "Rosacées",
+  "confiance": "tranchee",
+  "note": "Fraise des jardins : hybride de deux espèces américaines obtenu en Bretagne"
+ },
+ "plantes-cultivees_melon-plante": {
+  "origine": "Inde",
+  "usage": "Alimentation",
+  "famille": "Cucurbitacées",
+  "confiance": "tranchee",
+  "note": "Double domestication, en Afrique et en Inde ; les melons courants descendent de la lignée indienne"
+ },
+ "plantes-cultivees_courge": {
+  "origine": "Mésoamérique",
+  "usage": "Alimentation",
+  "famille": "Cucurbitacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_aubergine": {
+  "origine": "Inde",
+  "usage": "Alimentation",
+  "famille": "Solanacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_concombre": {
+  "origine": "Inde",
+  "usage": "Alimentation",
+  "famille": "Cucurbitacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_betterave": {
+  "origine": "Méditerranée",
+  "usage": "Sucre · Alimentation",
+  "famille": "Amaranthacées",
+  "confiance": "tranchee",
+  "note": "Anciennement classée dans les Chénopodiacées"
+ },
+ "plantes-cultivees_colza": {
+  "origine": "Europe",
+  "usage": "Huile",
+  "famille": "Brassicacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_orge-commune": {
+  "origine": "Croissant fertile",
+  "usage": "Alimentation · Bière",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_manioc": {
+  "origine": "Amazonie",
+  "usage": "Alimentation",
+  "famille": "Euphorbiacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_avoine-cultivee": {
+  "origine": "Europe",
+  "usage": "Alimentation · Fourrage",
+  "famille": "Poacées",
+  "confiance": "tranchee",
+  "note": "Venue du Proche-Orient comme mauvaise herbe, domestiquée en Europe"
+ },
+ "plantes-cultivees_seigle": {
+  "origine": "Croissant fertile",
+  "usage": "Alimentation",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_sorgo-commun": {
+  "origine": "Afrique",
+  "usage": "Alimentation",
+  "famille": "Poacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_quinoa": {
+  "origine": "Andes",
+  "usage": "Alimentation",
+  "famille": "Amaranthacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_patate-douce": {
+  "origine": "Mésoamérique",
+  "usage": "Alimentation",
+  "famille": "Convolvulacées",
+  "confiance": "tranchee",
+  "note": "Amérique tropicale, entre Mexique et nord de l'Amérique du Sud"
+ },
+ "plantes-cultivees_igname": {
+  "origine": "Afrique de l'Ouest",
+  "usage": "Alimentation",
+  "famille": "Dioscoréacées",
+  "confiance": "tranchee",
+  "note": "Plusieurs espèces domestiquées en Afrique et en Asie"
+ },
+ "plantes-cultivees_arachide": {
+  "origine": "Amérique du Sud",
+  "usage": "Alimentation · Huile",
+  "famille": "Fabacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_palmier-a-huile": {
+  "origine": "Afrique de l'Ouest",
+  "usage": "Huile",
+  "famille": "Arécacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_chanvre": {
+  "origine": "Asie centrale",
+  "usage": "Textile",
+  "famille": "Cannabacées",
+  "confiance": "tranchee",
+  "note": "Asie centrale selon la tradition ; une étude génomique de 2021 place la domestication en Asie de l'Est"
+ },
+ "plantes-cultivees_houblon": {
+  "origine": "Europe",
+  "usage": "Bière",
+  "famille": "Cannabacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_gingembre": {
+  "origine": "Asie du Sud-Est",
+  "usage": "Épice",
+  "famille": "Zingibéracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_curcuma": {
+  "origine": "Inde",
+  "usage": "Épice",
+  "famille": "Zingibéracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_clou-de-girofle": {
+  "origine": "Moluques",
+  "usage": "Épice",
+  "famille": "Myrtacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_noix-de-muscade": {
+  "origine": "Moluques",
+  "usage": "Épice",
+  "famille": "Myristicacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_laitue-cultivee": {
+  "origine": "Égypte",
+  "usage": "Alimentation",
+  "famille": "Astéracées",
+  "confiance": "tranchee",
+  "note": "Domestiquée dans l'Égypte antique, ancêtre du Proche-Orient"
+ },
+ "plantes-cultivees_artichaut": {
+  "origine": "Méditerranée",
+  "usage": "Alimentation",
+  "famille": "Astéracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_asperge": {
+  "origine": "Méditerranée",
+  "usage": "Alimentation",
+  "famille": "Asparagacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_poireau": {
+  "origine": "Méditerranée",
+  "usage": "Alimentation",
+  "famille": "Amaryllidacées",
+  "confiance": "tranchee",
+  "note": "Longtemps classé dans les Liliacées ou Alliacées"
+ },
+ "plantes-cultivees_pasteque": {
+  "origine": "Afrique",
+  "usage": "Alimentation",
+  "famille": "Cucurbitacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_ananas": {
+  "origine": "Amérique du Sud",
+  "usage": "Alimentation",
+  "famille": "Broméliacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_avocat-fruit": {
+  "origine": "Mésoamérique",
+  "usage": "Alimentation",
+  "famille": "Lauracées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_poire": {
+  "origine": "Caucase",
+  "usage": "Alimentation",
+  "famille": "Rosacées",
+  "confiance": "tranchee",
+  "note": "Poirier commun d'Europe et d'Asie occidentale"
+ },
+ "plantes-cultivees_peche-fruit": {
+  "origine": "Chine",
+  "usage": "Alimentation",
+  "famille": "Rosacées",
+  "confiance": "sure"
+ },
+ "plantes-cultivees_cerise": {
+  "origine": "Asie Mineure",
+  "usage": "Alimentation",
+  "famille": "Rosacées",
+  "confiance": "tranchee",
+  "note": "Cerisier sauvage d'Europe et d'Asie occidentale"
+ },
+ "plantes-cultivees_grenade-fruit": {
+  "origine": "Iran",
+  "usage": "Alimentation",
+  "famille": "Lythracées",
+  "confiance": "tranchee",
+  "note": "Anciennement famille des Punicacées"
+ },
+ "plantes-cultivees_mangue": {
+  "origine": "Inde",
+  "usage": "Alimentation",
+  "famille": "Anacardiacées",
+  "confiance": "sure"
+ }
+}

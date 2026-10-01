@@ -1,0 +1,344 @@
+{
+ "fleurs_rose-fleur": {
+  "famille": "Rosacées",
+  "couleurs": "Rouge · Rose · Blanc",
+  "symbole": "Amour",
+  "confiance": "sure"
+ },
+ "fleurs_tulipe": {
+  "famille": "Liliacées",
+  "couleurs": "Rouge · Jaune · Rose",
+  "symbole": "Emblème des Pays-Bas",
+  "confiance": "sure"
+ },
+ "fleurs_tournesol": {
+  "famille": "Astéracées",
+  "couleurs": "Jaune",
+  "symbole": "Suit le soleil",
+  "confiance": "sure"
+ },
+ "fleurs_orchidaceae": {
+  "famille": "Orchidacées",
+  "couleurs": "Blanc · Rose · Violet",
+  "symbole": "Luxe et raffinement",
+  "confiance": "tranchee",
+  "note": "Symbole variable selon les cultures"
+ },
+ "fleurs_lys": {
+  "famille": "Liliacées",
+  "couleurs": "Blanc · Orange · Rose",
+  "symbole": "Royauté française",
+  "confiance": "sure"
+ },
+ "fleurs_pivoine": {
+  "famille": "Paeoniacées",
+  "couleurs": "Rose · Blanc · Rouge",
+  "symbole": "Prospérité en Chine",
+  "confiance": "tranchee",
+  "note": "Fleur emblématique de la Chine, symbole de richesse et d'honneur"
+ },
+ "fleurs_marguerite-commune": {
+  "famille": "Astéracées",
+  "couleurs": "Blanc · Jaune",
+  "symbole": "Effeuiller : il m'aime",
+  "confiance": "sure"
+ },
+ "fleurs_coquelicot": {
+  "famille": "Papavéracées",
+  "couleurs": "Rouge",
+  "symbole": "Souvenir des morts de guerre",
+  "confiance": "sure"
+ },
+ "fleurs_lavande": {
+  "famille": "Lamiacées",
+  "couleurs": "Violet",
+  "symbole": "Parfum de Provence",
+  "confiance": "sure"
+ },
+ "fleurs_jasmin": {
+  "famille": "Oléacées",
+  "couleurs": "Blanc · Jaune",
+  "symbole": "Base de parfums",
+  "confiance": "sure"
+ },
+ "fleurs_iris-genre-vegetal": {
+  "famille": "Iridacées",
+  "couleurs": "Violet · Bleu · Jaune",
+  "symbole": "Origine de la fleur de lys",
+  "confiance": "tranchee",
+  "note": "La fleur de lys héraldique viendrait de l'iris des marais, hypothèse courante mais discutée"
+ },
+ "fleurs_muguet-de-mai": {
+  "famille": "Asparagacées",
+  "couleurs": "Blanc",
+  "symbole": "Porte-bonheur du 1er Mai",
+  "confiance": "sure"
+ },
+ "fleurs_illet": {
+  "famille": "Caryophyllacées",
+  "couleurs": "Rouge · Rose · Blanc",
+  "symbole": "Révolution des Œillets",
+  "confiance": "sure"
+ },
+ "fleurs_chrysantheme": {
+  "famille": "Astéracées",
+  "couleurs": "Jaune · Blanc · Mauve",
+  "symbole": "Fleur de la Toussaint",
+  "confiance": "sure"
+ },
+ "fleurs_dahlia": {
+  "famille": "Astéracées",
+  "couleurs": "Rouge · Rose · Jaune",
+  "symbole": "Fleur nationale du Mexique",
+  "confiance": "sure"
+ },
+ "fleurs_hydrangea": {
+  "famille": "Hydrangéacées",
+  "couleurs": "Bleu · Rose · Blanc",
+  "symbole": "Couleur selon le sol",
+  "confiance": "sure"
+ },
+ "fleurs_camellia": {
+  "famille": "Théacées",
+  "couleurs": "Rose · Rouge · Blanc",
+  "symbole": "La Dame aux camélias",
+  "confiance": "sure"
+ },
+ "fleurs_magnolia": {
+  "famille": "Magnoliacées",
+  "couleurs": "Blanc · Rose",
+  "symbole": "Fleur parmi les plus anciennes",
+  "confiance": "tranchee",
+  "note": "Pas de symbole unique ; on retient son ancienneté"
+ },
+ "fleurs_wisteria": {
+  "famille": "Fabacées",
+  "couleurs": "Mauve · Blanc",
+  "symbole": "Grappes sur les façades",
+  "confiance": "sure"
+ },
+ "fleurs_bougainvillea": {
+  "famille": "Nyctaginacées",
+  "couleurs": "Fuchsia · Violet · Orange",
+  "symbole": "Bractées colorées",
+  "confiance": "sure"
+ },
+ "fleurs_hibiscus": {
+  "famille": "Malvacées",
+  "couleurs": "Rouge · Rose · Jaune",
+  "symbole": "Fleur d'Hawaï",
+  "confiance": "sure"
+ },
+ "fleurs_nenuphar": {
+  "famille": "Nymphéacées",
+  "couleurs": "Blanc · Rose · Jaune",
+  "symbole": "Nymphéas de Monet",
+  "confiance": "sure"
+ },
+ "fleurs_nelumbo-nucifera": {
+  "famille": "Nélumbonacées",
+  "couleurs": "Rose · Blanc",
+  "symbole": "Pureté dans le bouddhisme",
+  "confiance": "sure"
+ },
+ "fleurs_edelweiss": {
+  "famille": "Astéracées",
+  "couleurs": "Blanc",
+  "symbole": "Emblème des Alpes",
+  "confiance": "sure"
+ },
+ "fleurs_cyanus-segetum": {
+  "famille": "Astéracées",
+  "couleurs": "Bleu",
+  "symbole": "Mémoire des combattants",
+  "confiance": "sure"
+ },
+ "fleurs_viola-plante-b": {
+  "famille": "Violacées",
+  "couleurs": "Violet · Jaune · Blanc",
+  "symbole": "Souvenir",
+  "confiance": "sure"
+ },
+ "fleurs_jonquille": {
+  "famille": "Amaryllidacées",
+  "couleurs": "Jaune",
+  "symbole": "Emblème du pays de Galles",
+  "confiance": "sure"
+ },
+ "fleurs_crocus": {
+  "famille": "Iridacées",
+  "couleurs": "Violet · Jaune · Blanc",
+  "symbole": "Source du safran",
+  "confiance": "sure"
+ },
+ "fleurs_bruyere": {
+  "famille": "Éricacées",
+  "couleurs": "Rose · Mauve · Blanc",
+  "symbole": "Bruyère blanche porte-bonheur",
+  "confiance": "sure"
+ },
+ "fleurs_acacia-dealbata": {
+  "famille": "Fabacées",
+  "couleurs": "Jaune",
+  "symbole": "Fête du mimosa",
+  "confiance": "sure"
+ },
+ "fleurs_prunus-serrulata": {
+  "famille": "Rosacées",
+  "couleurs": "Rose · Blanc",
+  "symbole": "Hanami",
+  "confiance": "sure"
+ },
+ "fleurs_plumeria": {
+  "famille": "Apocynacées",
+  "couleurs": "Blanc · Jaune · Rose",
+  "symbole": "Colliers de fleurs",
+  "confiance": "sure"
+ },
+ "fleurs_rafflesia": {
+  "famille": "Rafflésiacées",
+  "couleurs": "Rouge",
+  "symbole": "Plus grande fleur du monde",
+  "confiance": "sure"
+ },
+ "fleurs_arum": {
+  "famille": "Aracées",
+  "couleurs": "Vert · Pourpre",
+  "symbole": "Piège les insectes",
+  "confiance": "tranchee",
+  "note": "Le genre Arum a une spathe verdâtre ; l'arum blanc des fleuristes est un Zantedeschia"
+ },
+ "fleurs_gentiane": {
+  "famille": "Gentianacées",
+  "couleurs": "Bleu · Jaune",
+  "symbole": "Liqueur de gentiane",
+  "confiance": "sure"
+ },
+ "fleurs_digitalis-purpurea": {
+  "famille": "Plantaginacées",
+  "couleurs": "Pourpre · Rose",
+  "symbole": "Médicament du cœur",
+  "confiance": "sure"
+ },
+ "fleurs_renoncule": {
+  "famille": "Renonculacées",
+  "couleurs": "Jaune",
+  "symbole": "Toxique pour le bétail",
+  "confiance": "sure"
+ },
+ "fleurs_pissenlit": {
+  "famille": "Astéracées",
+  "couleurs": "Jaune",
+  "symbole": "Graines au vent",
+  "confiance": "sure"
+ },
+ "fleurs_chardon": {
+  "famille": "Astéracées",
+  "couleurs": "Violet · Mauve",
+  "symbole": "Emblème de l'Écosse",
+  "confiance": "sure"
+ },
+ "fleurs_pelargonium": {
+  "famille": "Géraniacées",
+  "couleurs": "Rouge · Rose · Blanc",
+  "symbole": "Fleurit les balcons",
+  "confiance": "sure"
+ },
+ "fleurs_primevere-officinale": {
+  "famille": "Primulacées",
+  "couleurs": "Jaune",
+  "symbole": "Annonce le printemps",
+  "confiance": "sure"
+ },
+ "fleurs_perce-neige": {
+  "famille": "Amaryllidacées",
+  "couleurs": "Blanc",
+  "symbole": "Fin de l'hiver",
+  "confiance": "sure"
+ },
+ "fleurs_hyacinthus-orientalis": {
+  "famille": "Asparagacées",
+  "couleurs": "Bleu · Rose · Blanc",
+  "symbole": "Mythe d'Hyacinthe",
+  "confiance": "sure"
+ },
+ "fleurs_syringa-vulgaris": {
+  "famille": "Oléacées",
+  "couleurs": "Mauve · Blanc",
+  "symbole": "Parfum de mai",
+  "confiance": "sure"
+ },
+ "fleurs_myosotis": {
+  "famille": "Boraginacées",
+  "couleurs": "Bleu",
+  "symbole": "Ne m'oubliez pas",
+  "confiance": "sure"
+ },
+ "fleurs_glaieul": {
+  "famille": "Iridacées",
+  "couleurs": "Rouge · Rose · Blanc",
+  "symbole": "Fleur des gladiateurs",
+  "confiance": "sure"
+ },
+ "fleurs_clematite": {
+  "famille": "Renonculacées",
+  "couleurs": "Mauve · Blanc · Rose",
+  "symbole": "Grimpante des jardins",
+  "confiance": "sure"
+ },
+ "fleurs_fuchsia": {
+  "famille": "Onagracées",
+  "couleurs": "Rose · Violet · Rouge",
+  "symbole": "Nom d'une couleur",
+  "confiance": "sure"
+ },
+ "fleurs_chevrefeuille-des-bois": {
+  "famille": "Caprifoliacées",
+  "couleurs": "Blanc · Jaune · Rose",
+  "symbole": "Amour de Tristan et Iseut",
+  "confiance": "sure"
+ },
+ "fleurs_rhododendron": {
+  "famille": "Éricacées",
+  "couleurs": "Rose · Mauve · Rouge",
+  "symbole": "Fleur nationale du Népal",
+  "confiance": "sure"
+ },
+ "fleurs_rhododendron-b": {
+  "famille": "Éricacées",
+  "couleurs": "Rose · Rouge · Blanc",
+  "symbole": "Jardins japonais",
+  "confiance": "tranchee",
+  "note": "Pas de symbole établi ; associée aux jardins japonais"
+ },
+ "fleurs_passiflore": {
+  "famille": "Passifloracées",
+  "couleurs": "Violet · Blanc",
+  "symbole": "Passion du Christ",
+  "confiance": "sure"
+ },
+ "fleurs_strelitzia-reginae": {
+  "famille": "Strélitziacées",
+  "couleurs": "Orange · Bleu",
+  "symbole": "Oiseau de paradis",
+  "confiance": "sure"
+ },
+ "fleurs_protea-cynaroides": {
+  "famille": "Protéacées",
+  "couleurs": "Rose · Blanc",
+  "symbole": "Emblème de l'Afrique du Sud",
+  "confiance": "sure"
+ },
+ "fleurs_arum-titan": {
+  "famille": "Aracées",
+  "couleurs": "Pourpre · Vert",
+  "symbole": "Odeur de cadavre",
+  "confiance": "sure"
+ },
+ "fleurs_dionee-attrape-mouche": {
+  "famille": "Droséracées",
+  "couleurs": "Blanc",
+  "symbole": "Plante carnivore",
+  "confiance": "sure"
+ }
+}
