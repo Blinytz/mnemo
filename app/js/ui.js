@@ -12,7 +12,7 @@ export const eclat = (cls = 'eclat-glyphe') => `<svg class="${cls}" viewBox="0 0
 export const sansAccents = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 export const pluriel = (n, mot, motPluriel = mot + 's') => `${n} ${n > 1 ? motPluriel : mot}`;
 
-/** Une image de Mémo, une adresse web, ou une photo importée (« perso:<clé> »). */
+/** Une image de Mnémo, une adresse web, ou une photo importée (« perso:<clé> »). */
 export function img(p, alt = '', attrs = '') {
   if (!p) return `<span class="sans-image" aria-hidden="true"></span>`;
   if (String(p).startsWith('perso:')) return `<img data-perso="${esc(p.slice(6))}" alt="${esc(alt)}" ${attrs}>`;

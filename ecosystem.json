@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "appId": "memo",
-  "displayName": "Mémo",
+  "displayName": "Mnémo",
   "description": "Listes de culture générale, révision espacée et quiz du jour à barème.",
   "lifecycle": "construction",
   "ownership": {
     "audience": "single-user",
     "repositoryVisibility": "public",
-    "publicUrl": "https://blinytz.github.io/memo/",
-    "repository": "Blinytz/memo"
+    "publicUrl": "https://blinytz.github.io/mnemo/",
+    "repository": "Blinytz/mnemo"
   },
   "data": {
     "storage": [

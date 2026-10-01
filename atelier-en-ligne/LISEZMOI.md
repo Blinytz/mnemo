@@ -1,9 +1,9 @@
-# Atelier Mémo en ligne
+# Atelier Mnémo en ligne
 
 Version navigateur de l'Atelier, publiée à l'adresse
-<https://blinytz.github.io/memo/atelier.html>.
+<https://blinytz.github.io/mnemo/atelier.html>.
 
-Il écrit directement dans le dépôt `Blinytz/memo` (branche `main`) par l'API
+Il écrit directement dans le dépôt `Blinytz/mnemo` (branche `main`) par l'API
 GitHub, avec un jeton gardé en `sessionStorage`. Chaque enregistrement est un
 commit, qui relance la publication GitHub Pages.
 

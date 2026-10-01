@@ -213,7 +213,7 @@ export function reprendreAncienne(ed, ancienne) {
     if (!valeurs.some(Boolean)) continue;
     const f = {id: nouvelId('f'), valeurs};
     const img = String(r[1] || '').trim();
-    // une photo web, une image de Mémo ou une photo importée (rangée ensuite à part)
+    // une photo web, une image de Mnémo ou une photo importée (rangée ensuite à part)
     if (!sansImage && /^(https?:|thumbs\/|full\/|data:image\/(?!svg))/.test(img)) f.image = img;
     l.fiches.push(f);
   }

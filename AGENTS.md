@@ -1,4 +1,4 @@
-# Mémo — consignes de travail
+# Mnémo — consignes de travail
 
 ## Profil du propriétaire
 
@@ -16,7 +16,7 @@ distantes.
 - Miniatures utilisées par l'application : `thumbs/`.
 - Images haute définition : `full/` (seuls les fichiers utilisés sont versionnés,
   ajoutés avec `git add -f` ; le dossier reste ignoré).
-- Adresse officielle : <https://blinytz.github.io/memo/> (publication
+- Adresse officielle : <https://blinytz.github.io/mnemo/> (publication
   automatique à chaque envoi sur `main`). `memo-web` n'est plus qu'une
   redirection.
 - Scripts de construction et de contrôle : `build/`.
@@ -24,7 +24,7 @@ distantes.
 
 ## Nouvelle version (app/), officielle depuis le 01/10/2026
 
-- L'adresse officielle <https://blinytz.github.io/memo/> ouvre `app/` (index.html,
+- L'adresse officielle <https://blinytz.github.io/mnemo/> ouvre `app/` (index.html,
   manifeste, et `memo.html` qui redirige). Détails : `app/LISEZMOI.md`.
 - `memo.html` reste dans le dépôt et reste **la source des listes** : l'Atelier
   (local et en ligne) et le générateur WikiDeck y écrivent. L'ancienne version

@@ -1,4 +1,4 @@
-# Mémo
+# Mnémo
 
 Application web personnelle de mémorisation organisée en listes thématiques.
 
@@ -11,9 +11,9 @@ Application web personnelle de mémorisation organisée en listes thématiques.
 - `thumbs/` : miniatures utilisées dans les listes ;
 - `build/` : scripts de génération et de contrôle.
 
-Adresse officielle : <https://blinytz.github.io/memo/>, publiée par
+Adresse officielle : <https://blinytz.github.io/mnemo/>, publiée par
 `.github/workflows/deploy-pages.yml` à chaque envoi sur `main`. L'Atelier en
-ligne est à <https://blinytz.github.io/memo/atelier.html>.
+ligne est à <https://blinytz.github.io/mnemo/atelier.html>.
 
 Les images haute définition de `full/` (et les originaux de `originaux/`) qui
 sont utilisées par l'application sont versionnées ; les deux dossiers restent

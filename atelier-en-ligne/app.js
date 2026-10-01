@@ -1,10 +1,10 @@
-// Atelier Mémo (version en ligne) — même organisation que l'Atelier des Cartes
+// Atelier Mnémo (version en ligne) — même organisation que l'Atelier des Cartes
 // de WikiDeck : une grille de TOUTES les listes d'abord, avec un sommaire, et
 // l'éditeur de cadrage en plein écran par-dessus.
 //
 // La logique d'interface est reprise de l'atelier local (apps/memo/atelier).
 // Seule la couche d'enregistrement change : ici il n'y a pas de serveur Node,
-// on écrit directement dans le dépôt Blinytz/memo par l'API GitHub.
+// on écrit directement dans le dépôt Blinytz/mnemo par l'API GitHub.
 
 import { Editeur, FORMAT } from './image-editor.js?v=20260802h';
 import { lireMemo, ecrireMemo, poserImage, cheminsDe, cleDeEntree, clesPrises }
@@ -15,7 +15,7 @@ import { lireMemo, ecrireMemo, poserImage, cheminsDe, cleDeEntree, clesPrises }
 // version précédente à la même adresse, et on croit corriger dans le vide.
 const VERSION = '20260802h';
 
-const REPO = 'Blinytz/memo', BRANCHE = 'main';
+const REPO = 'Blinytz/mnemo', BRANCHE = 'main';
 const API = `https://api.github.com/repos/${REPO}`;
 
 const $ = s => document.querySelector(s);
@@ -629,7 +629,7 @@ async function enregistrerAvecRetour() {
   bouton.disabled = true;
   try {
     message('enregistrement…');
-    await commiterGithub([fichierWorkspace()], 'Atelier Mémo : mise à jour des données');
+    await commiterGithub([fichierWorkspace()], 'Atelier Mnémo : mise à jour des données');
     etat.modifie = false;
     message('enregistré sur GitHub');
   } catch (err) {
@@ -708,7 +708,7 @@ async function enregistrerImage() {
         fichiers.push({ chemin: 'memo.html', texte: ecrireMemo(memo) });
       }
       fichiers.push(fichierWorkspace());
-      await commiterGithub(fichiers, `Atelier Mémo : ${nom}`);
+      await commiterGithub(fichiers, `Atelier Mnémo : ${nom}`);
       etat.modifie = false;
       if (!dansApplication) {
         console.warn(`liste ${idListe} absente de memo.html : image écrite mais non affichée`);

@@ -1,6 +1,6 @@
 {
-  "name": "Mémo",
-  "short_name": "Mémo",
+  "name": "Mnémo",
+  "short_name": "Mnémo",
   "description": "Retenir durablement : révision espacée, quiz du jour, listes de culture générale",
   "start_url": "./app/",
   "display": "standalone",
@@ -29,5 +29,5 @@
     }
   ],
   "scope": "./",
-  "id": "./app/?appli=memo"
+  "id": "./app/"
 }

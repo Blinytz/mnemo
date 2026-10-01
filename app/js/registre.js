@@ -1,7 +1,7 @@
 // Client du registre commun d'Éclats (partagé avec Pronos, Missions, Sport,
 // Rédac, Cagnottes et Centrale). Copie du client de Sport, avec APP_ID = memo.
 //
-// Mémo ne fait que CRÉDITER : le gain du quiz du jour, collecté par
+// Mnémo ne fait que CRÉDITER : le gain du quiz du jour, collecté par
 // l'utilisateur (`eclats_reward`). Aucune dépense n'est exposée ici.
 //
 // Aucune clé secrète : seule la clé publishable, comme les autres applications.

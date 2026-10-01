@@ -1,4 +1,4 @@
-# Instructions Claude Code — Mémo
+# Instructions Claude Code — Mnémo
 
 Lire et appliquer intégralement `AGENTS.md` avant toute intervention.
 

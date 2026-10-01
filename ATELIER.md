@@ -1,6 +1,6 @@
-# Atelier Mémo
+# Atelier Mnémo
 
-L'Atelier sert à mettre à jour les images de Mémo. Ce qu'on y enregistre est
+L'Atelier sert à mettre à jour les images de Mnémo. Ce qu'on y enregistre est
 écrit **dans l'application** : les fichiers image et `memo.html` sont mis à jour
 d'un seul geste, et la miniature est toujours découpée dans le même cadrage que
 la grande image. Il n'y a donc jamais deux choses à gérer séparément.
@@ -9,8 +9,8 @@ la grande image. Il n'y a donc jamais deux choses à gérer séparément.
 
 Deux accès existent, et ils ne se remplacent pas l'un l'autre.
 
-**En ligne, sans rien lancer** : <https://blinytz.github.io/memo/atelier.html>.
-C'est le lien à garder en favori. Il écrit dans `Blinytz/memo` et demande
+**En ligne, sans rien lancer** : <https://blinytz.github.io/mnemo/atelier.html>.
+C'est le lien à garder en favori. Il écrit dans `Blinytz/mnemo` et demande
 donc un jeton GitHub (bouton ⚙). Ses sources sont dans `atelier-en-ligne/`.
 L'ancienne adresse `memo-web` ne fait plus que rediriger ici (depuis le 29/09/2026).
 
@@ -26,7 +26,7 @@ service est arrêté.
 
 Attention : l'« Atelier des Cartes » de WikiDeck
 (`blinytz.github.io/wikideck/atelier.html`) est un autre outil, il n'ouvre pas
-les listes de Mémo. En revanche les deux ateliers partagent désormais la même
+les listes de Mnémo. En revanche les deux ateliers partagent désormais la même
 interface — mêmes onglets, même grille, même éditeur — pour qu'on passe de l'un
 à l'autre sans réapprendre.
 
@@ -60,7 +60,7 @@ Elles sont enregistrées automatiquement toutes les 30 secondes et avec le bouto
 ## Recadrer une image
 
 Un clic sur une vignette ouvre l'éditeur. On glisse la photo sous le cadre, on
-zoome à la molette ou au pincement ; le cadre est exactement ce que Mémo
+zoome à la molette ou au pincement ; le cadre est exactement ce que Mnémo
 affichera, et la miniature à droite se redessine en direct.
 
 Le zoom minimum couvre toujours le cadre : il est **impossible** de produire une
@@ -76,8 +76,8 @@ elle-même avec Ctrl+V, ou la déposer dans la fenêtre.
 | fichier | format | rôle |
 | --- | --- | --- |
 | `originaux/<liste>/<clé>.webp` | ≤ 2400 px | la source, pour recadrer plus tard sans perte |
-| `full/<liste>/<clé>.webp` | 2000 × 1500 | la grande image de Mémo |
-| `thumbs/<liste>/<clé>.webp` | 400 × 300 | la miniature de Mémo |
+| `full/<liste>/<clé>.webp` | 2000 × 1500 | la grande image de Mnémo |
+| `thumbs/<liste>/<clé>.webp` | 400 × 300 | la miniature de Mnémo |
 
 …et met à jour `memo.html` dans la foulée. Une copie du fichier est déposée dans
 `backups/` avant la première écriture de la journée.
@@ -85,17 +85,17 @@ elle-même avec Ctrl+V, ou la déposer dans la fenêtre.
 ## Reprendre le travail fait dans WikiDeck
 
 L'atelier WikiDeck a déjà cadré des centaines d'images. Plutôt que de chercher
-les mêmes photos une seconde fois, on apparie une liste de Mémo à une collection
+les mêmes photos une seconde fois, on apparie une liste de Mnémo à une collection
 WikiDeck.
 
-L'appariement ne peut pas se faire sur le lien Wikipédia : les entrées de Mémo
+L'appariement ne peut pas se faire sur le lien Wikipédia : les entrées de Mnémo
 n'en avaient aucun. Il se fait sur **la colonne qui porte le sujet** — pour la
 Formule 1 c'est « Pilote », pas « Année ». `memo.html` déclare lui-même cette
 colonne pour chaque liste, l'Atelier la propose donc d'office ; l'écran affiche
 le nombre de correspondances par colonne si l'on veut en essayer une autre.
 
 Le lien Wikipédia voyage dans l'autre sens : c'est WikiDeck qui en fournit un à
-Mémo au passage.
+Mnémo au passage.
 
 Marche à suivre : choisir la liste et la collection, vérifier le tableau des
 paires, décocher ce qu'on ne veut pas, puis importer. Rien n'est écrit avant

@@ -1,9 +1,9 @@
-# Mémo, nouvelle version
+# Mnémo, nouvelle version
 
 Application issue de la refonte : révision espacée, quiz du jour, réponses
 tapées. C'est la version officielle depuis le 01/10/2026 ; l'ancienne reste
 accessible avec `memo.html?ancienne`.
-En ligne : https://blinytz.github.io/memo/app/
+En ligne : https://blinytz.github.io/mnemo/app/
 
 ## Fichiers
 
@@ -22,7 +22,7 @@ En ligne : https://blinytz.github.io/memo/app/
 | `js/eclats.js` | barème du quiz du jour, journal des gains, versement dans le registre |
 | `js/donnees.js` | lecture de `../data/catalogue.json` et `../data/listes/<id>.json` |
 | `js/icones.js` | icônes Phosphor et glyphes de l'écosystème |
-| `tests/` | tests sans écran : `node --test "app/tests/*.test.mjs"` depuis la racine de Mémo |
+| `tests/` | tests sans écran : `node --test "app/tests/*.test.mjs"` depuis la racine de Mnémo |
 
 ## Données
 
@@ -55,7 +55,7 @@ node build/exporter_donnees.mjs
 ## Stockage
 
 Tout l'état tient sous la clé `memo2-etat` du stockage local (préfixe propre à
-Mémo : le domaine blinytz.github.io est partagé par toutes les applis).
+Mnémo : le domaine blinytz.github.io est partagé par toutes les applis).
 
 ## Hors ligne et mises à jour
 
@@ -70,7 +70,7 @@ Mémo : le domaine blinytz.github.io est partagé par toutes les applis).
 
 Les gains du quiz restent « à verser » jusqu'à ce que l'utilisateur les verse
 (Réglages, ou fin du quiz). La session `eclats_session` est partagée avec les
-autres applis du domaine. Rien n'est jamais dépensé depuis Mémo.
+autres applis du domaine. Rien n'est jamais dépensé depuis Mnémo.
 
 ## Données de l'utilisateur
 

@@ -1,4 +1,4 @@
-// Mémo : écrans et séances.
+// Mnémo : écrans et séances.
 //
 // Quatre onglets (Aujourd'hui, Listes, Réviser, Progrès), une page par liste,
 // une feuille de détail par fiche, une séance plein écran qui sert à la fois
@@ -185,7 +185,7 @@ function vueAujourdhui() {
   const pasSuivies = C.listes.filter(l => !etat.suivies.includes(l.id) && l.fiches).map(l => l.id);
   const aDecouvrir = [...pasSuivies.filter(estNouvelle), ...ordreDuJour(pasSuivies.filter(id => !estNouvelle(id)))].slice(0, 8).map(infoListe);
 
-  return haut('Mémo') + `
+  return haut('Mnémo') + `
   <section class="quiz-jour monte">
     <div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
       <span class="etiquette" style="color:var(--eclat)">Quiz du jour</span>

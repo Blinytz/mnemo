@@ -1,4 +1,4 @@
-// Éclats de Mémo : seul le quiz du jour en rapporte, selon un barème.
+// Éclats de Mnémo : seul le quiz du jour en rapporte, selon un barème.
 //
 // Le barème est réglable par l'utilisateur (écran Réglages). Un quiz fige le
 // barème en vigueur à son lancement : le changer en cours de route ne modifie

@@ -1,4 +1,4 @@
-// Service worker de Mémo : fonctionnement hors ligne.
+// Service worker de Mnémo : fonctionnement hors ligne.
 //
 // Réseau d'abord, cache en secours : en ligne, on voit toujours la dernière
 // version ; hors ligne, on retrouve ce qui a déjà servi.
@@ -9,7 +9,7 @@
 // version.json ne passe jamais par le cache : c'est lui qui annonce une
 // nouvelle version à l'application installée.
 
-const CACHE = 'memo-v94';
+const CACHE = 'mnemo-v1';
 const COQUILLE = [
   './app/', './app/index.html', './app/style.css', './app/manifest.json', './manifest.json', './icone.svg',
   './app/js/main.js', './app/js/ui.js', './app/js/icones.js', './app/js/donnees.js',
@@ -51,8 +51,9 @@ self.addEventListener('activate', e => {
   e.waitUntil(
     caches.keys().then(keys =>
       // Le domaine blinytz.github.io est partagé par toutes les applications :
-      // ne supprimer que les anciens caches de Mémo.
-      Promise.all(keys.filter(k => k.startsWith('memo-') && k !== CACHE).map(k => caches.delete(k)))
+      // ne supprimer que les anciens caches de Mnémo.
+      // (les caches « memo-vN » sont ceux de l'ancienne adresse /memo/)
+      Promise.all(keys.filter(k => (k.startsWith('mnemo-') && k !== CACHE) || /^memo-v\d+$/.test(k)).map(k => caches.delete(k)))
     )
   );
   self.clients.claim();

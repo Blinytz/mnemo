@@ -1,6 +1,6 @@
 {
-  "name": "Mémo",
-  "short_name": "Mémo",
+  "name": "Mnémo",
+  "short_name": "Mnémo",
   "description": "Retenir durablement : révision espacée, quiz du jour, listes de culture générale",
   "id": "./",
   "start_url": "./",

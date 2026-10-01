@@ -1,7 +1,7 @@
 // Chargement des données : le catalogue au démarrage, chaque liste à la demande.
 // Les fichiers sont produits par build/exporter_donnees.mjs.
 
-// Racine de Mémo vue depuis cette page (l'application vit dans app/ tant que
+// Racine de Mnémo vue depuis cette page (l'application vit dans app/ tant que
 // l'ancienne version reste en place)
 export const RACINE = new URL('../', document.baseURI).href;
 export const chemin = p => p ? new URL(p, RACINE).href : '';
