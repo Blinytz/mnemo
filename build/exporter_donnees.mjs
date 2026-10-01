@@ -38,6 +38,22 @@ vm.createContext(ctx);
 vm.runInContext(code, ctx, { filename: 'memo.html (données)' });
 const S = ctx.__sortie;
 
+/* ---------- liens Wikipédia des cartes WikiDeck ---------- */
+// La table LISTES du générateur relie chaque collection WikiDeck à sa liste Mémo ;
+// les cartes de la collection portent le lien exact vers leur article.
+const liens = new Map();                         // idListe -> Map(clé d'image -> lien)
+const wikideck = path.join(racine, '..', 'wikideck', 'data');
+const generateur = fs.readFileSync(path.join(racine, 'build', 'listes_wikideck.py'), 'utf8');
+for (const [, collection, idListe] of generateur.matchAll(/'([a-z0-9-]+)':\s*dict\(id='([a-z0-9_]+)'/g)) {
+  const fichier = path.join(wikideck, `${collection}.json`);
+  if (!fs.existsSync(fichier)) continue;
+  const m = new Map();
+  for (const c of JSON.parse(fs.readFileSync(fichier, 'utf8')).cartes || [])
+    if (c.lienWikipedia) m.set(c.id.split('_').slice(1).join('_'), c.lienWikipedia);
+  liens.set(idListe, m);
+}
+if (!liens.size) console.log('Attention : dossier wikideck/data introuvable, les fiches partiront sans lien Wikipédia.');
+
 /* ---------- 2. Mettre en forme ---------- */
 // Colonne qui nomme la fiche, quand ce n'est pas la première colonne de texte
 const CLE = { films: 'Titre', consoles: 'Console', periodes_geologiques: 'Période', coupes_monde: 'Édition', jo_ete: 'Édition', jo_hiver: 'Édition' };
@@ -70,8 +86,11 @@ for (const l of S.listes) {
   const fiches = l.rows.map((r, ri) => {
     const valeurs = texte.map(i => String(r[i] ?? '').trim());
     if (l.id === 'pays') valeurs[cle] = valeurs[cle].replace(DRAPEAU, '');
-    // identifiant stable : tiré du nom, pas du rang (les listes WikiDeck sont retriées)
-    let id = slug(valeurs[cle] || r[0] || ri + 1);
+    // identifiant stable, qui porte la progression : la clé de l'image quand il y
+    // en a une (elle ne bouge ni quand la liste est retriée, ni quand un nom est
+    // corrigé), sinon le nom
+    const cleImage = String(r[1] || '').match(/^thumbs\/[^/]+\/([^/.]+)\.[a-z0-9]+$/i)?.[1];
+    let id = avecImage && cleImage ? slug(cleImage) : slug(valeurs[cle] || r[0] || ri + 1);
     const n = (pris.get(id) || 0) + 1; pris.set(id, n);
     if (n > 1) id += '-' + n;
     const fiche = { id, valeurs };
@@ -83,6 +102,8 @@ for (const l of S.listes) {
       if (!fs.existsSync(path.join(racine, r[1]))) problemes.push(`${l.id} : miniature absente ${r[1]}`);
     }
     if (secondaires.length) fiche.carte = r[secondaires[0]];
+    const lien = cleImage && liens.get(l.id)?.get(cleImage);
+    if (lien) fiche.wiki = lien;
     if (!valeurs[cle]) problemes.push(`${l.id} : fiche ${ri + 1} sans nom`);
     return fiche;
   });
@@ -93,10 +114,14 @@ for (const l of S.listes) {
   fs.writeFileSync(path.join(dossier, `${l.id}.json`), JSON.stringify(donnee));
   catalogue.listes.push({ id: l.id, nom: l.name, icone: l.icon, categorie, colonnes, cle,
     fiches: fiches.length, images: avecImage, wikideck: S.wikideck.includes(l.id),
-    apercu: fiches.filter(f => f.image).slice(0, 3).map(f => f.image) });
+    apercu: fiches.filter(f => f.image).slice(0, 3).map(f => f.image),
+    // identifiants des fiches : l'application y reconnaît les fiches retirées
+    ids: fiches.map(f => f.id).join(' ') });
 }
 fs.writeFileSync(path.join(racine, 'data', 'catalogue.json'), JSON.stringify(catalogue, null, 1));
 
 const total = catalogue.listes.reduce((n, l) => n + l.fiches, 0);
-console.log(`${catalogue.listes.length} listes, ${total} fiches écrites dans data/`);
+let avecLien = 0;
+for (const l of catalogue.listes) avecLien += JSON.parse(fs.readFileSync(path.join(dossier, `${l.id}.json`), 'utf8')).fiches.filter(f => f.wiki).length;
+console.log(`${catalogue.listes.length} listes, ${total} fiches écrites dans data/ (${avecLien} avec leur lien Wikipédia)`);
 if (problemes.length) { console.log(`${problemes.length} point(s) à regarder :`); for (const p of problemes.slice(0, 40)) console.log(' - ' + p); }

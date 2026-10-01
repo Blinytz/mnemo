@@ -66,7 +66,8 @@
     "thumbs/chefs_etat/1.webp",
     "thumbs/chefs_etat/2.webp",
     "thumbs/chefs_etat/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43"
   },
   {
    "id": "departements",
@@ -85,7 +86,8 @@
     "thumbs/departements/1.webp",
     "thumbs/departements/2.webp",
     "thumbs/departements/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101"
   },
   {
    "id": "elements",
@@ -106,7 +108,8 @@
     "thumbs/elements/hydrogene.webp",
     "thumbs/elements/helium.webp",
     "thumbs/elements/lithium.webp"
-   ]
+   ],
+   "ids": "hydrogene helium lithium beryllium bore carbone azote oxygene fluor neon sodium magnesium aluminium silicium phosphore soufre chlore argon potassium calcium scandium titane vanadium chrome manganese fer cobalt nickel cuivre zinc gallium germanium arsenic selenium brome krypton rubidium strontium yttrium zirconium niobium molybdene technetium ruthenium rhodium palladium argent cadmium indium etain antimoine tellure iode xenon cesium baryum lanthane cerium praseodyme neodyme promethium samarium europium gadolinium terbium dysprosium holmium erbium thulium ytterbium lutecium hafnium tantale-chimie tungstene rhenium osmium iridium platine or mercure-chimie thallium plomb bismuth polonium astate radon francium radium actinium thorium protactinium uranium neptunium plutonium americium curium berkelium californium einsteinium fermium mendelevium nobelium lawrencium rutherfordium dubnium seaborgium bohrium hassium meitnerium darmstadtium roentgenium copernicium nihonium flerovium moscovium livermorium tennesse oganesson"
   },
   {
    "id": "etats_usa",
@@ -127,7 +130,8 @@
     "thumbs/etats_usa/1.svg",
     "thumbs/etats_usa/2.svg",
     "thumbs/etats_usa/3.svg"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
   },
   {
    "id": "mythologie",
@@ -149,7 +153,8 @@
     "thumbs/mythologie/aphrodite.webp",
     "thumbs/mythologie/apollon.webp",
     "thumbs/mythologie/ares.webp"
-   ]
+   ],
+   "ids": "aphrodite apollon ares artemis athena demeter dionysos hephaistos hera hermes hestia poseidon zeus atlas-mythologie cronos hyperion-mythologie leto mnemosyne ocean-mythologie promethee rhea-mythologie themis chaos-cosmogonie chronos erebe gaia nyx ouranos asclepios charon-mythologie circe eos erinyes eris eros hades hebe hecate helios hypnos iris-mythologie moros-mythologie nemesis nike pan persephone selene thanatos zagreus achille agamemnon ajax-fils-de-telamon atalante bellerophon dioscures enee hector heracles jason dipe oreste orphee patrocle persee thesee ulysse adonis-mythologie andromaque andromede-mythologie antigone-montpellier arachne ariane-mythologie cassandre clytemnestre dedale electre helene-mythologie icare iphigenie medee-mythologie midas narcisse-mythologie pandore paris penelope phedre-mythologie priam sisyphe eurydice maia-pleiade nymphe styx muses centaure cerbere charybde chimere-mythologie chiron-mythologie cyclope gorgones harpies hydre-de-lerne meduse-mythologie minotaure pegase polypheme satyre scylla-monstre sirene-mythologie-grecque sphinx talos-crete typhon-mythologie"
   },
   {
    "id": "os",
@@ -170,7 +175,8 @@
     "thumbs/os/1.webp",
     "thumbs/os/2.webp",
     "thumbs/os/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122"
   },
   {
    "id": "pays",
@@ -190,7 +196,8 @@
     "thumbs/pays/1.svg",
     "thumbs/pays/2.svg",
     "thumbs/pays/3.svg"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197"
   },
   {
    "id": "peintres",
@@ -212,7 +219,8 @@
     "thumbs/peintres/cimabue.webp",
     "thumbs/peintres/giotto-di-bondone.webp",
     "thumbs/peintres/jan-van-eyck.webp"
-   ]
+   ],
+   "ids": "cimabue giotto-di-bondone jan-van-eyck fra-angelico paolo-uccello rogier-van-der-weyden masaccio piero-della-francesca andrea-mantegna hans-memling sandro-botticelli jerome-bosch leonard-de-vinci albrecht-durer lucas-cranach-l-ancien michel-ange giorgione raphael-peintre titien le-correge hans-holbein-le-jeune le-tintoret pieter-brueghel-l-ancien giuseppe-arcimboldo paul-veronese le-greco le-caravage pierre-paul-rubens frans-hals jose-de-ribera artemisia-gentileschi georges-de-la-tour nicolas-poussin francisco-de-zurbaran antoine-van-dyck diego-velasquez claude-gellee rembrandt bartolome-esteban-murillo jan-steen johannes-vermeer antoine-watteau giambattista-tiepolo canaletto william-hogarth jean-simeon-chardin francois-boucher joshua-reynolds thomas-gainsborough jean-honore-fragonard francisco-de-goya jacques-louis-david utamaro elisabeth-vigee-le-brun william-blake hokusai caspar-david-friedrich william-turner john-constable jean-auguste-dominique-ingres theodore-gericault camille-corot hiroshige eugene-delacroix honore-daumier jean-francois-millet emanuel-leutze ivan-aivazovski gustave-courbet rosa-bonheur william-bouguereau gustave-moreau arnold-bocklin dante-gabriel-rossetti john-everett-millais camille-pissarro gustave-dore edouard-manet edgar-degas james-abbott-mcneill-whistler winslow-homer alfred-sisley paul-cezanne claude-monet odilon-redon berthe-morisot auguste-renoir henri-rousseau ilia-repine mary-cassatt gustave-caillebotte paul-gauguin john-william-waterhouse vincent-van-gogh john-singer-sargent georges-seurat alfons-mucha james-ensor gustav-klimt hilma-af-klint edvard-munch joaquin-sorolla paul-signac henri-de-toulouse-lautrec qi-baishi suzanne-valadon vassily-kandinsky emil-nolde pierre-bonnard henri-matisse piet-mondrian raoul-dufy kasimir-malevitch paul-klee ernst-ludwig-kirchner franz-marc fernand-leger pablo-picasso edward-hopper georges-braque jose-clemente-orozco amedeo-modigliani robert-delaunay sonia-delaunay diego-rivera oskar-kokoschka tarsila-do-amaral tsugouharu-foujita georgia-o-keeffe juan-gris marc-chagall marcel-duchamp giorgio-de-chirico egon-schiele grant-wood max-ernst otto-dix chaim-soutine joan-miro norman-rockwell david-alfaro-siqueiros paul-delvaux rene-magritte tamara-de-lempicka yves-tanguy-peintre jean-dubuffet mark-rothko salvador-dali willem-de-kooning victor-vasarely frida-kahlo balthus remedios-varo francis-bacon-peintre jackson-pollock nicolas-de-stael andrew-wyeth leonora-carrington pierre-soulages zao-wou-ki lucian-freud roy-lichtenstein robert-rauschenberg andy-warhol cy-twombly yves-klein yayoi-kusama jasper-johns fernando-botero gerhard-richter david-hockney anselm-kiefer keith-haring jean-michel-basquiat takashi-murakami banksy"
   },
   {
    "id": "rois_france",
@@ -232,7 +240,8 @@
     "thumbs/rois_france/1.webp",
     "thumbs/rois_france/2.webp",
     "thumbs/rois_france/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67"
   },
   {
    "id": "coupes_monde",
@@ -254,7 +263,8 @@
     "thumbs/coupes_monde/coupe-du-monde-de-football-1930.webp",
     "thumbs/coupes_monde/coupe-du-monde-de-football-1934.webp",
     "thumbs/coupes_monde/coupe-du-monde-de-football-1938.webp"
-   ]
+   ],
+   "ids": "coupe-du-monde-de-football-1930 coupe-du-monde-de-football-1934 coupe-du-monde-de-football-1938 coupe-du-monde-de-football-1950 coupe-du-monde-de-football-1954 coupe-du-monde-de-football-1958 coupe-du-monde-de-football-1962 coupe-du-monde-de-football-1966 coupe-du-monde-de-football-1970 coupe-du-monde-de-football-1974 coupe-du-monde-de-football-1978 coupe-du-monde-de-football-1982 coupe-du-monde-de-football-1986 coupe-du-monde-de-football-1990 coupe-du-monde-de-football-1994 coupe-du-monde-de-football-1998 coupe-du-monde-de-football-2002 coupe-du-monde-de-football-2006 coupe-du-monde-de-football-2010 coupe-du-monde-de-football-2014 coupe-du-monde-de-football-2018 coupe-du-monde-de-football-2022 coupe-du-monde-de-football-2026"
   },
   {
    "id": "xixe",
@@ -275,7 +285,8 @@
     "thumbs/xixe/1.webp",
     "thumbs/xixe/2.webp",
     "thumbs/xixe/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75"
   },
   {
    "id": "xxe",
@@ -296,7 +307,8 @@
     "thumbs/xxe/1.webp",
     "thumbs/xxe/2.webp",
     "thumbs/xxe/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97"
   },
   {
    "id": "litterature",
@@ -318,7 +330,8 @@
     "thumbs/litterature/epopee-de-gilgamesh.webp",
     "thumbs/litterature/iliade.webp",
     "thumbs/litterature/mahabharata.webp"
-   ]
+   ],
+   "ids": "epopee-de-gilgamesh iliade mahabharata eneide metamorphoses-ovide le-dit-du-genji divine-comedie decameron les-trois-royaumes-roman les-mille-et-une-nuits les-contes-de-canterbury pantagruel essais-montaigne le-cid-corneille le-misanthrope fables-de-la-fontaine phedre-racine candide les-liaisons-dangereuses le-reve-dans-le-pavillon-rouge contes-de-l-enfance-et-du-foyer orgueil-et-prejuges le-rouge-et-le-noir notre-dame-de-paris-roman le-pere-goriot les-trois-mousquetaires les-hauts-de-hurlevent moby-dick la-case-de-l-oncle-tom les-fleurs-du-mal madame-bovary les-miserables les-aventures-d-alice-au-pays-des-merveilles guerre-et-paix crime-et-chatiment vingt-mille-lieues-sous-les-mers le-tour-du-monde-en-quatre-vingts-jours les-freres-karamazov l-ile-au-tresor bel-ami germinal-roman le-grand-meaulnes a-la-recherche-du-temps-perdu la-metamorphose ulysse-roman gatsby-le-magnifique le-proces le-chateau le-meilleur-des-mondes voyage-au-bout-de-la-nuit le-hobbit les-raisins-de-la-colere l-etranger la-ferme-des-animaux la-peste le-journal-d-anne-frank si-c-est-un-homme 1984-roman fondation-isaac-asimov l-attrape-c-urs le-vieil-homme-et-la-mer fahrenheit-451 le-seigneur-des-anneaux lolita tout-s-effondre ne-tirez-pas-sur-l-oiseau-moqueur dune-roman le-maitre-et-marguerite cent-ans-de-solitude l-archipel-du-goulag le-nom-de-la-rose-roman le-parfum beloved-roman le-trone-de-fer"
   },
   {
    "id": "guerres",
@@ -339,7 +352,8 @@
     "thumbs/guerres/guerres-mediques.webp",
     "thumbs/guerres/guerre-du-peloponnese.webp",
     "thumbs/guerres/guerres-puniques.webp"
-   ]
+   ],
+   "ids": "guerres-mediques guerre-du-peloponnese guerres-puniques guerres-civiles-romaines guerre-des-gaules reconquista croisade guerre-de-cent-ans guerre-des-deux-roses guerres-d-italie guerres-de-religion-france guerre-de-trente-ans guerre-de-hollande guerre-de-succession-d-espagne guerre-de-succession-d-autriche guerre-de-sept-ans guerre-d-independance-des-etats-unis guerres-indiennes revolution-francaise revolution-haitienne guerres-de-la-revolution-francaise guerre-de-vendee guerres-napoleoniennes guerres-d-independance-hispano-americaines guerre-anglo-americaine-de-1812 guerre-d-independance-grecque guerres-de-l-opium guerre-americano-mexicaine risorgimento revolte-des-taiping guerre-de-crimee guerre-de-secession guerre-de-la-triple-alliance guerre-franco-allemande-de-1870 guerre-anglo-zouloue guerre-hispano-americaine guerre-des-boers revolte-des-boxers guerre-russo-japonaise revolution-mexicaine guerres-balkaniques premiere-guerre-mondiale guerre-civile-russe revolution-russe guerre-civile-chinoise guerre-du-chaco guerre-d-espagne seconde-guerre-sino-japonaise seconde-guerre-mondiale guerre-d-indochine guerre-froide guerre-israelo-arabe-de-1948-1949 guerre-de-coree guerre-d-algerie guerre-du-vietnam guerre-des-six-jours guerre-du-biafra guerre-du-kippour guerre-du-liban guerre-d-afghanistan-1979-1989 guerre-iran-irak guerre-des-malouines guerre-du-golfe guerres-de-yougoslavie premiere-guerre-de-tchetchenie genocide-des-tutsi-du-rwanda deuxieme-guerre-du-congo guerre-d-afghanistan-2001-2021 guerre-d-irak guerre-civile-syrienne guerre-civile-yemenite guerre-russo-ukrainienne"
   },
   {
    "id": "philosophes",
@@ -361,7 +375,8 @@
     "thumbs/philosophes/thales.webp",
     "thumbs/philosophes/anaximandre.webp",
     "thumbs/philosophes/lao-tseu.webp"
-   ]
+   ],
+   "ids": "thales anaximandre lao-tseu heraclite parmenide protagoras mozi socrate democrite platon diogene-de-sinope aristote mencius tchouang-tseu vishnugupta-chanakya epicure zenon-de-kition xun-zi epictete nagarjuna plotin augustin-d-hippone hypatie boece adi-shankara al-farabi anselme-de-cantorbery al-ghazali pierre-abelard zhu-xi moise-maimonide dogen thomas-d-aquin guillaume-d-ockham ibn-khaldoun nicolas-machiavel wang-yangming thomas-hobbes rene-descartes zera-yacob elisabeth-de-boheme-1618-1680 anne-conway baruch-spinoza john-locke nicolas-malebranche george-berkeley montesquieu david-hume emmanuel-kant nicolas-de-condorcet jeremy-bentham mary-wollstonecraft johann-gottlieb-fichte georg-wilhelm-friedrich-hegel friedrich-wilhelm-joseph-von-schelling arthur-schopenhauer auguste-comte alexis-de-tocqueville john-stuart-mill pierre-joseph-proudhon s-ren-kierkegaard mikhail-bakounine karl-marx friedrich-engels william-james friedrich-nietzsche gottlob-frege edmund-husserl henri-bergson john-dewey alain-philosophe bertrand-russell gaston-bachelard ludwig-wittgenstein martin-heidegger antonio-gramsci walter-benjamin jiddu-krishnamurti herbert-marcuse karl-popper theodor-w-adorno emmanuel-levinas hannah-arendt maurice-merleau-ponty willard-van-orman-quine simone-weil paul-ric-ur roland-barthes g-e-m-anscombe philippa-foot john-rawls-philosophe cheikh-anta-diop gilles-deleuze michel-foucault jurgen-habermas jacques-derrida daniel-dennett donna-haraway peter-singer martha-nussbaum judith-butler"
   },
   {
    "id": "mouvements_peinture",
@@ -382,7 +397,8 @@
     "thumbs/mouvements_peinture/1.webp",
     "thumbs/mouvements_peinture/2.webp",
     "thumbs/mouvements_peinture/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41"
   },
   {
    "id": "jo_ete",
@@ -404,7 +420,8 @@
     "thumbs/jo_ete/jeux-olympiques-de-1896.webp",
     "thumbs/jo_ete/jeux-olympiques-de-1900.webp",
     "thumbs/jo_ete/jeux-olympiques-de-1904.webp"
-   ]
+   ],
+   "ids": "jeux-olympiques-de-1896 jeux-olympiques-de-1900 jeux-olympiques-de-1904 jeux-olympiques-de-1908 jeux-olympiques-de-1912 jeux-olympiques-de-1920 jeux-olympiques-d-ete-de-1924 jeux-olympiques-d-ete-de-1928 jeux-olympiques-d-ete-de-1932 jeux-olympiques-d-ete-de-1936 jeux-olympiques-d-ete-de-1948 jeux-olympiques-d-ete-de-1952 jeux-olympiques-d-ete-de-1956 jeux-olympiques-d-ete-de-1960 jeux-olympiques-d-ete-de-1964 jeux-olympiques-d-ete-de-1968 jeux-olympiques-d-ete-de-1972 jeux-olympiques-d-ete-de-1976 jeux-olympiques-d-ete-de-1980 jeux-olympiques-d-ete-de-1984 jeux-olympiques-d-ete-de-1988 jeux-olympiques-d-ete-de-1992 jeux-olympiques-d-ete-de-1996 jeux-olympiques-d-ete-de-2000 jeux-olympiques-d-ete-de-2004 jeux-olympiques-d-ete-de-2008 jeux-olympiques-d-ete-de-2012 jeux-olympiques-d-ete-de-2016 jeux-olympiques-d-ete-de-2020 jeux-olympiques-d-ete-de-2024"
   },
   {
    "id": "jo_hiver",
@@ -426,7 +443,8 @@
     "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1924.webp",
     "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1928.webp",
     "thumbs/jo_hiver/jeux-olympiques-d-hiver-de-1932.webp"
-   ]
+   ],
+   "ids": "jeux-olympiques-d-hiver-de-1924 jeux-olympiques-d-hiver-de-1928 jeux-olympiques-d-hiver-de-1932 jeux-olympiques-d-hiver-de-1936 jeux-olympiques-d-hiver-de-1948 jeux-olympiques-d-hiver-de-1952 jeux-olympiques-d-hiver-de-1956 jeux-olympiques-d-hiver-de-1960 jeux-olympiques-d-hiver-de-1964 jeux-olympiques-d-hiver-de-1968 jeux-olympiques-d-hiver-de-1972 jeux-olympiques-d-hiver-de-1976 jeux-olympiques-d-hiver-de-1980 jeux-olympiques-d-hiver-de-1984 jeux-olympiques-d-hiver-de-1988 jeux-olympiques-d-hiver-de-1992 jeux-olympiques-d-hiver-de-1994 jeux-olympiques-d-hiver-de-1998 jeux-olympiques-d-hiver-de-2002 jeux-olympiques-d-hiver-de-2006 jeux-olympiques-d-hiver-de-2010 jeux-olympiques-d-hiver-de-2014 jeux-olympiques-d-hiver-de-2018 jeux-olympiques-d-hiver-de-2022 jeux-olympiques-d-hiver-de-2026"
   },
   {
    "id": "f1_champions",
@@ -447,7 +465,8 @@
     "thumbs/f1_champions/giuseppe-farina.webp",
     "thumbs/f1_champions/juan-manuel-fangio.webp",
     "thumbs/f1_champions/alberto-ascari.webp"
-   ]
+   ],
+   "ids": "giuseppe-farina juan-manuel-fangio alberto-ascari mike-hawthorn jack-brabham phil-hill graham-hill jim-clark john-surtees denny-hulme jackie-stewart jochen-rindt emerson-fittipaldi niki-lauda james-hunt mario-andretti jody-scheckter alan-jones nelson-piquet keke-rosberg alain-prost ayrton-senna nigel-mansell michael-schumacher damon-hill jacques-villeneuve mika-hakkinen fernando-alonso kimi-raikkonen lewis-hamilton jenson-button sebastian-vettel nico-rosberg max-verstappen lando-norris"
   },
   {
    "id": "consoles",
@@ -468,7 +487,8 @@
     "thumbs/consoles/1.webp",
     "thumbs/consoles/2.webp",
     "thumbs/consoles/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43"
   },
   {
    "id": "lunes",
@@ -489,7 +509,8 @@
     "thumbs/lunes/1.webp",
     "thumbs/lunes/2.webp",
     "thumbs/lunes/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56"
   },
   {
    "id": "periodes_geologiques",
@@ -512,7 +533,8 @@
     "thumbs/periodes_geologiques/1.svg",
     "thumbs/periodes_geologiques/2.svg",
     "thumbs/periodes_geologiques/3.svg"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
   },
   {
    "id": "films",
@@ -533,7 +555,8 @@
     "thumbs/films/1.webp",
     "thumbs/films/2.webp",
     "thumbs/films/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390"
   },
   {
    "id": "civilisations",
@@ -554,7 +577,8 @@
     "thumbs/civilisations/sumer.webp",
     "thumbs/civilisations/ancien-empire.webp",
     "thumbs/civilisations/civilisation-minoenne.webp"
-   ]
+   ],
+   "ids": "sumer ancien-empire civilisation-minoenne civilisation-de-la-vallee-de-l-indus empire-d-akkad moyen-empire civilisation-maya civilisation-mycenienne hittites nouvel-empire olmeques pheniciens royaume-de-koush assyrie carthage celtes etrusques scythes medes empire-neo-babylonien achemenides republique-romaine bilan-du-regne-d-alexandre-le-grand empire-maurya seleucides empire-parthe xiongnu nazca-civilisation empire-romain empire-kouchan royaume-d-aksoum moche-culture sassanides empire-du-ghana empire-gupta huns empire-byzantin sriwijaya premier-empire-bulgare republique-de-venise royaume-du-kanem-bornou vikings empire-carolingien empire-khmer dynastie-chola rus-de-kiev tolteques califat-de-cordoue saint-empire-romain-germanique almoravides cahokia almohades hanse royaume-du-benin empire-mongol sultanat-de-delhi empire-du-mali empire-ethiopien majapahit empire-ottoman empire-d-oyo royaume-de-vijayanagara empire-timouride royaume-du-kongo empire-colonial-portugais empire-azteque empire-inca empire-du-monomotapa empire-songhai empire-espagnol dynastie-des-sefevides empire-moghol empire-colonial-francais republique-des-deux-nations empire-britannique empire-colonial-neerlandais empire-suedois empire-marathe empire-ashanti empire-russe dynastie-qadjar royaume-zoulou empire-du-bresil autriche-hongrie empire-du-japon empire-allemand union-des-republiques-socialistes-sovietiques"
   },
   {
    "id": "vocabulaire_precis",
@@ -571,7 +595,8 @@
    "fiches": 40,
    "images": false,
    "wikideck": false,
-   "apercu": []
+   "apercu": [],
+   "ids": "acrimonie alliteration ambivalent anachronique anacoluthe antinomie apocryphe aporie assonance axiome catharsis contingent corollaire dichotomie dilatoire epistemique equivoque heuristique ineffable litote metonymie ostracisme oxymore paradigme paralogisme parangon parcimonieux pejoratif peremptoire phloeme pleonasme prolepse prosaique resilience serendipite sophisme synecdoque tautologie ubiquitaire xyleme"
   },
   {
    "id": "phrasal_verbs",
@@ -588,7 +613,8 @@
    "fiches": 126,
    "images": false,
    "wikideck": false,
-   "apercu": []
+   "apercu": [],
+   "ids": "bring-up carry-away carry-back carry-off carry-on carry-out carry-over carry-through come-about come-across come-along come-apart come-away come-back come-down-with come-in come-off come-on come-out come-over come-through come-up-with find-out get-across get-along-with get-around get-at get-away get-back get-by get-in get-off get-on get-out get-over get-through get-together get-up give-away give-back give-in give-off give-out give-over give-up give-up-on give-way look-after look-ahead look-around look-at look-back-on look-down-on look-for look-forward-to look-in-on look-into look-out look-out-for look-over look-through look-up look-up-to make-up put-aside put-away put-back put-down put-forward put-in put-off put-on put-out put-through put-together put-up-with run-after run-against run-away run-down run-in run-into run-off run-on run-out run-over run-through run-up run-up-against run-up-to set-about set-aside set-back set-down set-forth set-in set-off set-on set-out set-to set-up set-up-for set-up-with take-after take-apart take-away take-back take-down take-in take-off take-on take-out take-over take-up turn-around turn-away turn-back turn-down turn-in turn-into turn-off turn-on turn-out turn-over turn-up work-out"
   },
   {
    "id": "compositeurs",
@@ -610,7 +636,8 @@
     "thumbs/compositeurs/guillaume-de-machaut.webp",
     "thumbs/compositeurs/josquin-des-pres.webp",
     "thumbs/compositeurs/giovanni-pierluigi-da-palestrina.webp"
-   ]
+   ],
+   "ids": "guillaume-de-machaut josquin-des-pres giovanni-pierluigi-da-palestrina claudio-monteverdi jean-baptiste-lully marc-antoine-charpentier arcangelo-corelli johann-pachelbel henry-purcell francois-couperin tomaso-albinoni antonio-vivaldi georg-philipp-telemann jean-philippe-rameau domenico-scarlatti georg-friedrich-haendel jean-sebastien-bach jean-baptiste-pergolese christoph-willibald-gluck joseph-haydn wolfgang-amadeus-mozart ludwig-van-beethoven niccolo-paganini carl-maria-von-weber gioachino-rossini franz-schubert gaetano-donizetti vincenzo-bellini hector-berlioz mikhail-glinka fanny-mendelssohn felix-mendelssohn frederic-chopin robert-schumann franz-liszt giuseppe-verdi richard-wagner charles-gounod clara-schumann jacques-offenbach cesar-franck anton-bruckner bedrich-smetana johann-strauss-ii alexandre-borodine johannes-brahms camille-saint-saens georges-bizet modeste-moussorgski piotr-ilitch-tchaikovski antonin-dvorak jules-massenet edvard-grieg nikolai-rimski-korsakov gabriel-faure leos-janacek edward-elgar giacomo-puccini gustav-mahler isaac-albeniz claude-debussy richard-strauss jean-sibelius erik-satie scott-joplin serguei-rachmaninov arnold-schonberg gustav-holst maurice-ravel manuel-de-falla bela-bartok igor-stravinsky edgard-varese alban-berg heitor-villa-lobos serguei-prokofiev lili-boulanger carl-orff george-gershwin duke-ellington francis-poulenc aaron-copland kurt-weill joaquin-rodrigo dmitri-chostakovitch olivier-messiaen samuel-barber bernard-herrmann nino-rota john-cage benjamin-britten leonard-bernstein astor-piazzolla gyorgy-ligeti maurice-jarre pierre-boulez ennio-morricone karlheinz-stockhausen toru-takemitsu john-williams-compositeur michel-legrand krzysztof-penderecki arvo-part steve-reich philip-glass vangelis howard-shore joe-hisaishi hans-zimmer"
   },
   {
    "id": "constellations",
@@ -631,7 +658,8 @@
     "thumbs/constellations/aigle-constellation.webp",
     "thumbs/constellations/andromede-constellation.webp",
     "thumbs/constellations/autel-constellation.webp"
-   ]
+   ],
+   "ids": "aigle-constellation andromede-constellation autel-constellation balance-constellation baleine-constellation belier-constellation ecu-de-sobieski boussole-constellation bouvier-constellation burin-constellation cameleon-constellation girafe-constellation cancer-constellation capricorne-constellation carene-constellation cassiopee-constellation centaure-constellation cephee-constellation chevelure-de-berenice chiens-de-chasse cocher-constellation colombe-constellation compas-constellation corbeau-constellation coupe-constellation couronne-australe couronne-boreale croix-du-sud cygne-constellation dauphin-constellation dorade-constellation dragon-constellation eridan-constellation fleche-constellation fourneau-constellation gemeaux grand-chien grande-ourse grue-constellation hercule-constellation horloge-constellation hydre-constellation hydre-male indien-constellation lezard-constellation licorne-constellation lievre-constellation lion-constellation loup-constellation lynx-constellation lyre-constellation machine-pneumatique microscope-constellation mouche-constellation octant-constellation oiseau-de-paradis-constellation orion-constellation paon-constellation pegase-constellation peintre-constellation persee-constellation petit-cheval petit-chien-constellation petit-lion petite-ourse phenix-constellation poisson-austral poisson-volant-constellation poissons-constellation poupe-constellation regle-constellation petit-renard reticule-constellation sagittaire-constellation scorpion-constellation sculpteur-constellation serpent-constellation ophiuchus sextant-constellation table-constellation taureau-constellation telescope-constellation toucan-constellation triangle-constellation triangle-austral verseau vierge-constellation voiles-constellation"
   },
   {
    "id": "grands_scientifiques",
@@ -653,7 +681,8 @@
     "thumbs/grands_scientifiques/pythagore.webp",
     "thumbs/grands_scientifiques/hippocrate.webp",
     "thumbs/grands_scientifiques/euclide.webp"
-   ]
+   ],
+   "ids": "pythagore hippocrate euclide archimede eratosthene zhang-heng claude-ptolemee claude-galien aryabhata brahmagupta al-khwarizmi alhazen al-biruni avicenne shen-kuo averroes al-jazari leonardo-fibonacci nasir-al-din-al-tusi nicolas-copernic ambroise-pare andre-vesale tycho-brahe francis-bacon-philosophe galilee-savant johannes-kepler william-harvey pierre-de-fermat blaise-pascal robert-boyle christian-huygens antoni-van-leeuwenhoek robert-hooke isaac-newton gottfried-wilhelm-leibniz edmond-halley benjamin-franklin emilie-du-chatelet georges-louis-leclerc-de-buffon carl-von-linne leonhard-euler adam-smith james-hutton henry-cavendish joseph-priestley charles-augustin-coulomb joseph-louis-lagrange william-herschel antoine-lavoisier jean-baptiste-de-lamarck alessandro-volta edward-jenner pierre-simon-de-laplace caroline-herschel john-dalton joseph-fourier georges-cuvier david-ricardo andre-marie-ampere amedeo-avogadro carl-friedrich-gauss hans-christian-rsted louis-joseph-gay-lussac augustin-fresnel georg-ohm jean-francois-champollion michael-faraday sadi-carnot-physicien charles-lyell-geologue mary-anning charles-darwin evariste-galois claude-bernard ada-lovelace ignace-philippe-semmelweis james-prescott-joule leon-foucault florence-nightingale gregor-mendel louis-pasteur alfred-russel-wallace william-thomson-lord-kelvin bernhard-riemann joseph-lister friedrich-kekule-von-stradonitz james-clerk-maxwell dmitri-mendeleiev ernst-haeckel robert-koch ludwig-boltzmann georg-cantor wilhelm-rontgen ivan-pavlov antoine-becquerel santiago-ramon-y-cajal henri-poincare paul-ehrlich sigmund-freud ferdinand-de-saussure heinrich-hertz franz-boas max-planck emile-durkheim pierre-curie svante-august-arrhenius david-hilbert max-weber thomas-hunt-morgan marie-curie fritz-haber henrietta-swan-leavitt jean-perrin ernest-rutherford paul-langevin carl-gustav-jung lise-meitner albert-einstein alfred-wegener alexander-fleming arthur-eddington emmy-noether max-born john-maynard-keynes bronis-aw-malinowski niels-bohr erwin-schrodinger srinivasa-ramanujan chandrashekhara-venkata-raman edwin-hubble frederick-banting louis-de-broglie georges-lemaitre norbert-wiener jean-piaget irene-joliot-curie wolfgang-pauli enrico-fermi linus-pauling margaret-mead werner-heisenberg barbara-mcclintock paul-dirac theodore-monod john-von-neumann robert-oppenheimer grace-hopper kurt-godel rachel-carson claude-levi-strauss rita-levi-montalcini dorothy-crowfoot-hodgkin jacques-monod subrahmanyan-chandrasekhar alan-turing chien-shiung-wu jonas-salk fred-hoyle claude-shannon francis-crick frederick-sanger katherine-johnson richard-feynman marie-tharp rosalind-franklin andrei-sakharov har-gobind-khorana abdus-salam alexandre-grothendieck james-dewey-watson john-forbes-nash noam-chomsky vera-rubin edward-osborne-wilson murray-gell-mann peter-higgs pierre-bourdieu tu-youyou roger-penrose dian-fossey hubert-reeves carl-sagan jane-goodall donald-knuth lynn-margulis ada-yonath barbara-liskov kip-thorne richard-dawkins stephen-jay-gould stephen-hawking jocelyn-bell vint-cerf alan-guth katalin-kariko jennifer-doudna grigori-perelman emmanuelle-charpentier"
   },
   {
    "id": "batailles_decisives",
@@ -675,7 +704,8 @@
     "thumbs/batailles_decisives/bataille-de-qadesh.webp",
     "thumbs/batailles_decisives/bataille-de-marathon.webp",
     "thumbs/batailles_decisives/bataille-de-salamine.webp"
-   ]
+   ],
+   "ids": "bataille-de-qadesh bataille-de-marathon bataille-de-salamine bataille-des-thermopyles bataille-de-platees bataille-d-issos bataille-de-gaugameles bataille-du-lac-trasimene bataille-de-cannes bataille-de-zama siege-d-alesia bataille-de-pharsale bataille-d-actium bataille-de-philippes bataille-de-gettysburg bataille-d-aboukir-1798 bataille-de-mogadiscio bataille-de-midway bataille-de-wagram bataille-de-la-marne-1914 bataille-d-eylau bataille-de-teutobourg bataille-de-marignan debarquement-de-la-baie-des-cochons bataille-de-megiddo-1918 bataille-de-bannockburn bataille-du-golfe-de-leyte bataille-de-little-bighorn bataille-de-tannenberg-1914 bataille-de-tsushima bataille-du-pont-milvius bataille-d-andrinople-378 bataille-des-champs-catalauniques-451 bataille-de-poitiers-732 bataille-de-talas bataille-de-roncevaux-778 bataille-d-hastings bataille-de-manzikert bataille-de-hattin bataille-de-bouvines bataille-d-ain-djalout bataille-de-courtrai-1302 bataille-de-crecy bataille-de-kosovo-polje bataille-de-nicopolis bataille-de-grunwald bataille-d-azincourt siege-d-orleans-1428-1429 chute-de-constantinople bataille-de-castillon bataille-de-pavie-1525 bataille-de-mohacs-1526 bataille-de-lepante invincible-armada bataille-de-sekigahara bataille-de-breitenfeld-1631 bataille-de-leipzig-1642 bataille-de-rocroi siege-de-vienne-1683 bataille-de-hochstadt-1704 bataille-de-poltava bataille-de-culloden bataille-de-plassey bataille-des-plaines-d-abraham batailles-de-saratoga bataille-de-yorktown bataille-de-valmy bataille-des-pyramides bataille-de-trafalgar bataille-d-austerlitz bataille-d-iena bataille-de-la-moskova bataille-de-waterloo siege-de-fort-alamo siege-de-sebastopol-1854-1855 bataille-de-solferino bataille-de-sadowa bataille-de-sedan bataille-d-isandhlwana bataille-d-adoua bataille-des-dardanelles bataille-d-ypres-1915 bataille-de-verdun bataille-de-la-somme bataille-du-chemin-des-dames bataille-de-dunkerque bataille-d-angleterre siege-de-leningrad attaque-de-pearl-harbor bataille-de-bir-hakeim bataille-de-stalingrad bataille-de-guadalcanal seconde-bataille-d-el-alamein bataille-de-koursk bataille-de-monte-cassino debarquement-de-normandie bataille-des-ardennes bataille-d-iwo-jima bataille-d-okinawa bataille-de-berlin bataille-de-dien-bien-phu bataille-de-khe-sanh deuxieme-bataille-de-falloujah"
   },
   {
    "id": "grandes_explorations",
@@ -696,7 +726,8 @@
     "thumbs/grandes_explorations/hannon-le-navigateur.webp",
     "thumbs/grandes_explorations/pytheas.webp",
     "thumbs/grandes_explorations/xuanzang.webp"
-   ]
+   ],
+   "ids": "hannon-le-navigateur pytheas xuanzang ibn-fadlan erik-le-rouge leif-erikson marco-polo ibn-battuta zheng-he diogo-cao bartolomeu-dias christophe-colomb jean-cabot vasco-de-gama amerigo-vespucci pedro-alvares-cabral juan-ponce-de-leon vasco-nunez-de-balboa fernand-de-magellan hernan-cortes juan-sebastian-elcano giovanni-da-verrazzano alvar-nunez-cabeza-de-vaca francisco-pizarro jacques-cartier hernando-de-soto-conquistador francisco-vasquez-de-coronado francisco-de-orellana francis-drake willem-barentsz willem-janszoon samuel-de-champlain henry-hudson abel-tasman jacques-marquette louis-jolliet rene-robert-cavelier-de-la-salle vitus-bering jeanne-barret louis-antoine-de-bougainville james-cook james-bruce-explorateur jean-francois-de-la-perouse alexander-mackenzie-explorateur mungo-park alexander-von-humboldt meriwether-lewis sacagawea william-clark rene-caillie jules-dumont-d-urville ida-pfeiffer heinrich-barth david-livingstone richard-francis-burton john-hanning-speke nikolai-prjevalski henry-morton-stanley pierre-savorgnan-de-brazza adolf-erik-nordenskiold nellie-bly mary-kingsley sven-hedin isabelle-eberhardt hiram-bingham-iii gertrude-bell howard-carter alexandra-david-neel percy-fawcett freya-stark ella-maillart"
   },
   {
    "id": "revolutions",
@@ -717,7 +748,8 @@
     "thumbs/revolutions/1.webp",
     "thumbs/revolutions/2.webp",
     "thumbs/revolutions/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30"
   },
   {
    "id": "montagnes_monde",
@@ -739,7 +771,8 @@
     "thumbs/montagnes_monde/everest.webp",
     "thumbs/montagnes_monde/k2.webp",
     "thumbs/montagnes_monde/kangchenjunga.webp"
-   ]
+   ],
+   "ids": "everest k2 kangchenjunga lhotse makalu cho-oyu dhaulagiri nanga-parbat annapurna aconcagua huascaran mont-kailash chimborazo-volcan mont-mckinley cotopaxi kilimandjaro elbrouz mont-damavand popocatepetl mont-kenya mont-ararat massif-vinson puncak-jaya mont-blanc mont-rose cervin mauna-kea mauna-loa djebel-toubkal eiger mont-erebus mont-fuji teide nyiragongo fitz-roy etna cerro-torre merapi mont-olympe tambora mont-roraima piton-de-la-fournaise mont-saint-helens caldeira-de-yellowstone el-capitan sinai mont-kosciuszko mont-ventoux eyjafjallajokull hekla pinatubo puy-de-dome montagne-pelee vesuve montagne-de-la-table stromboli uluru-ayers-rock krakatoa mont-du-pain-de-sucre"
   },
   {
    "id": "detroits_monde",
@@ -760,7 +793,8 @@
     "thumbs/detroits_monde/1.webp",
     "thumbs/detroits_monde/2.webp",
     "thumbs/detroits_monde/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
   },
   {
    "id": "parcs_nationaux",
@@ -781,7 +815,8 @@
     "thumbs/parcs_nationaux/1.webp",
     "thumbs/parcs_nationaux/2.webp",
     "thumbs/parcs_nationaux/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30"
   },
   {
    "id": "architectes_majeurs",
@@ -802,7 +837,8 @@
     "thumbs/architectes_majeurs/1.webp",
     "thumbs/architectes_majeurs/2.webp",
     "thumbs/architectes_majeurs/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30"
   },
   {
    "id": "musees_monde",
@@ -823,7 +859,8 @@
     "thumbs/musees_monde/1.webp",
     "thumbs/musees_monde/2.webp",
     "thumbs/musees_monde/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
   },
   {
    "id": "inventions_majeures",
@@ -844,7 +881,8 @@
     "thumbs/inventions_majeures/domestication-du-feu.webp",
     "thumbs/inventions_majeures/arc-architecture.webp",
     "thumbs/inventions_majeures/poterie.webp"
-   ]
+   ],
+   "ids": "domestication-du-feu arc-architecture poterie agriculture metier-a-tisser charrue roue voile-navire age-du-bronze ecriture calendrier savon boulier egout verre acier cadran-solaire alphabet monnaie aqueduc moulin-a-eau industrie-lithique brouette gouvernail-d-etambot papier etrier-equitation zero moulin-a-vent poudre-noire ecluse boussole monnaie-fiduciaire arme-a-feu canon-artillerie horloge-mecanique lunettes imprimerie microscope thermometre chasse-d-eau lunette-astronomique sous-marin calculatrice barometre chronometre-de-marine paratonnerre sextant machine-a-vapeur bateau-a-vapeur montgolfiere parachute roulement-mecanique conserve vaccin pile-electrique pont-suspendu locomotive-a-vapeur stethoscope velo transfusion-sanguine machine-electrique chemin-de-fer allumette photographie turbine braille machine-a-coudre telegraphie-electrique code-morse-international vulcanisation anesthesie ascenseur ballon-dirigeable moteur-a-combustion-interne metro pasteurisation dynamite antisepsie beton-arme machine-a-ecrire dynamo refrigerateur telephone phonographe lampe-a-incandescence reseau-electrique gratte-ciel automobile lave-vaisselle production-de-l-aluminium-par-electrolyse eolienne pneumatique-vehicule cinema radiocommunication radiographie acide-acetylsalicylique aspirateur climatisation avion bakelite helicoptere lave-linge procede-haber ligne-de-montage fermeture-eclair char-d-assaut drone fusee-astronautique television antibiotique penicilline turboreacteur nylon radar photocopieur stylo-a-bille ordinateur reacteur-nucleaire scaphandre-autonome bombe-a four-a-micro-ondes langage-de-programmation defibrillateur-automatise-externe transistor velcro code-barres capteur-solaire-photovoltaique horloge-atomique conteneur contraception disque-dur intelligence-artificielle magnetoscope satellite-artificiel circuit-integre jeu-video stimulateur-cardiaque echographie laser diode-electroluminescente cassette-audio souris-informatique ecran-tactile fibre-optique-noire guichet-automatique-bancaire courrier-electronique processeur tomodensitometrie global-positioning-system imagerie-par-resonance-magnetique ordinateur-personnel telephone-mobile carte-a-puce internet memoire-flash navette-spatiale disque-compact impression-3d accumulateur-lithium-ion world-wide-web moteur-de-recherche smartphone wi-fi vaccin-a-arn blockchain crispr"
   },
   {
    "id": "decouvertes_scientifiques",
@@ -865,7 +903,8 @@
     "thumbs/decouvertes_scientifiques/1.webp",
     "thumbs/decouvertes_scientifiques/2.webp",
     "thumbs/decouvertes_scientifiques/3.webp"
-   ]
+   ],
+   "ids": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24"
   },
   {
    "id": "tableaux_celebres",
@@ -887,7 +926,8 @@
     "thumbs/tableaux_celebres/l-agneau-mystique.webp",
     "thumbs/tableaux_celebres/les-epoux-arnolfini.webp",
     "thumbs/tableaux_celebres/la-bataille-de-san-romano.webp"
-   ]
+   ],
+   "ids": "l-agneau-mystique les-epoux-arnolfini la-bataille-de-san-romano le-printemps-botticelli la-vierge-aux-rochers la-naissance-de-venus-botticelli la-dame-a-l-hermine le-jardin-des-delices la-cene-leonard-de-vinci la-nef-des-fous-bosch la-joconde la-tempete-giorgione la-creation-d-adam-michel-ange l-ecole-d-athenes melencolia-i le-christ-mort les-ambassadeurs le-jugement-dernier-michel-ange venus-d-urbin venus-au-miroir la-chute-d-icare le-triomphe-de-la-mort-brueghel les-noces-de-cana-veronese la-tour-de-babel-brueghel l-enterrement-du-comte-d-orgaz vertumne-arcimboldo la-vocation-de-saint-matthieu judith-decapitant-holopherne-gentileschi-naples la-descente-de-croix-rubens-anvers les-trois-graces-rubens la-lecon-d-anatomie-du-docteur-tulp l-enlevement-des-sabines-poussin la-reddition-de-breda le-tricheur-a-l-as-de-carreau et-in-arcadia-ego-poussin la-ronde-de-nuit autoportrait-rembrandt-vienne les-menines la-laitiere vue-de-delft la-jeune-fille-a-la-perle le-retour-du-fils-prodigue-rembrandt le-pelerinage-a-l-ile-de-cythere vue-du-grand-canal-canaletto les-hasards-heureux-de-l-escarpolette la-liseuse-fragonard l-enfant-bleu-gainsborough le-cauchemar-fussli-detroit le-serment-des-horaces marat-assassine le-sacre-de-napoleon la-grande-odalisque el-tres-de-mayo-de-1808-en-madrid le-radeau-de-la-meduse le-voyageur-contemplant-une-mer-de-nuages saturne-devorant-un-de-ses-fils la-charrette-de-foin la-mort-de-sardanapale la-grande-vague-de-kanagawa la-liberte-guidant-le-peuple pluie-vapeur-et-vitesse un-enterrement-a-ornans la-neuvieme-vague ophelie-millais washington-crossing-the-delaware des-glaneuses l-angelus le-bain-turc-ingres le-dejeuner-sur-l-herbe olympia-manet l-origine-du-monde les-bateliers-de-la-volga-repine arrangement-en-gris-et-noir-n-1 impression-soleil-levant le-berceau la-classe-de-danse-degas-paris l-absinthe raboteurs-de-parquet bal-du-moulin-de-la-galette-renoir la-naissance-de-venus-bouguereau l-ile-des-morts-bocklin le-dejeuner-des-canotiers montagne-sainte-victoire-cezanne un-bar-aux-folies-bergere madame-x-sargent un-dimanche-apres-midi-a-l-ile-de-la-grande-jatte les-mangeurs-de-pommes-de-terre la-chambre-de-van-gogh-a-arles the-lady-of-shalott-waterhouse le-cafe-de-nuit les-tournesols autoportrait-a-l-oreille-bandee-et-a-la-pipe la-nuit-etoilee-1889 les-joueurs-de-cartes-cezanne au-moulin-rouge le-cri d-ou-venons-nous-que-sommes-nous-ou-allons-nous les-nympheas portrait-d-adele-bloch-bauer-i le-baiser-klimt les-demoiselles-d-avignon la-danse-i moi-et-le-village nu-descendant-un-escalier-n-2 composition-vii carre-noir-sur-fond-blanc guitare-et-compotier-paris trois-musiciens-picasso composition-viii le-carnaval-d-arlequin la-trahison-des-images american-gothic-wood la-persistance-de-la-memoire le-reve-picasso composition-avec-jaune-bleu-et-rouge guernica-picasso la-femme-qui-pleure-picasso les-maries-de-la-tour-eiffel-chagall les-deux-fridas autoportrait-au-collier-d-epines-et-colibri broadway-boogie-woogie nighthawks a-l-abri-du-besoin la-colonne-brisee-kahlo christina-s-world l-empire-des-lumieres number-1-1950-lavender-mist golconde-magritte mark-rothko anthropometrie-de-l-epoque-bleue campbell-s-soup-cans diptyque-marilyn drowning-girl whaam le-fils-de-l-homme-magritte a-bigger-splash la-petite-fille-au-ballon"
   },
   {
    "id": "plats_francais",
@@ -908,7 +948,8 @@
     "thumbs/plats_francais/baeckeoffe.webp",
     "thumbs/plats_francais/choucroute-d-alsace.webp",
     "thumbs/plats_francais/kougelhopf.webp"
-   ]
+   ],
+   "ids": "baeckeoffe choucroute-d-alsace kougelhopf tarte-flambee aligot petit-sale poule-au-pot moules-frites cannele b-uf-bourguignon coq-au-vin escargots-de-bourgogne ufs-en-meurette crepe far-breton galette-de-sarrasin kouign-amann kig-ha-farz gratin-dauphinois pain-d-epices cuisses-de-grenouille nougat-de-montelimar garbure magret cassoulet clafoutis baba-au-rhum quiche-lorraine madeleine-patisserie cervelle-de-canut eclair-patisserie quenelle paris-brest farcis pan-bagnat pissaladiere salade-nicoise socca brandade-de-morue galette-des-rois brioche tripes-a-la-mode-de-caen baguette-pain chouquette crepe-suzette croissant-viennoiserie croque-monsieur hachis-parmentier jambon-beurre macaron opera-patisserie poire-belle-helene religieuse-patisserie saint-honore-patisserie soupe-a-l-oignon gateau-basque piperade aioli daube-provencale soupe-au-pistou calisson bouillabaisse pieds-paquets tapenade ratatouille tarte-tropezienne fondue-savoyarde tartiflette tarte-tatin confit-de-canard foie-gras rillettes blanquette-de-veau bouchee-a-la-reine buche-de-noel canard-a-l-orange pain-au-chocolat creme-brulee creme-caramel ile-flottante mille-feuille mousse-au-chocolat pate-en-croute pot-au-feu profiterole sole-meuniere souffle steak-frites steak-tartare tarte-au-citron tete-de-veau andouillette"
   },
   {
    "id": "auteurs_classiques",
@@ -930,7 +971,8 @@
     "thumbs/auteurs_classiques/homere.webp",
     "thumbs/auteurs_classiques/hesiode.webp",
     "thumbs/auteurs_classiques/sappho.webp"
-   ]
+   ],
+   "ids": "homere hesiode sappho confucius esope eschyle pindare sophocle herodote euripide thucydide sun-tzu aristophane plaute ciceron lucrece virgile horace ovide seneque plutarque tacite kalidasa li-bai du-fu ferdowsi murasaki-shikibu omar-khayyam chretien-de-troyes rumi saadi dante-alighieri petrarque boccace hafez-poete geoffrey-chaucer christine-de-pizan francois-villon erasme francois-rabelais wu-cheng-en pierre-de-ronsard luis-de-camoes michel-de-montaigne miguel-de-cervantes lope-de-vega william-shakespeare john-donne pedro-calderon-de-la-barca pierre-corneille john-milton francois-de-la-rochefoucauld jean-de-la-fontaine moliere madame-de-sevigne charles-perrault madame-de-la-fayette jean-racine matsuo-basho daniel-defoe jonathan-swift marivaux voltaire carlo-goldoni henry-fielding jean-jacques-rousseau denis-diderot laurence-sterne cao-xueqin pierre-augustin-caron-de-beaumarchais donatien-alphonse-francois-de-sade pierre-choderlos-de-laclos johann-wolfgang-von-goethe friedrich-schiller chateaubriand-viande william-wordsworth walter-scott jane-austen ernst-theodor-amadeus-hoffmann stendhal alessandro-manzoni freres-grimm lord-byron james-fenimore-cooper alphonse-de-lamartine percy-bysshe-shelley john-keats alfred-de-vigny heinrich-heine mary-shelley adam-mickiewicz giacomo-leopardi alexandre-pouchkine honore-de-balzac alexandre-dumas victor-hugo prosper-merimee george-sand nathaniel-hawthorne hans-christian-andersen gerard-de-nerval alfred-tennyson edgar-allan-poe nicolas-gogol alfred-de-musset harriet-beecher-stowe theophile-gautier charles-dickens mikhail-lermontov charlotte-bronte emily-bronte ivan-tourgueniev george-eliot herman-melville walt-whitman anne-bronte charles-baudelaire fiodor-dostoievski gustave-flaubert carlo-collodi henrik-ibsen jules-verne leon-tolstoi emily-dickinson lewis-carroll louisa-may-alcott mark-twain joaquim-maria-machado-de-assis alphonse-daudet thomas-hardy-ecrivain emile-zola stephane-mallarme henry-james anatole-france paul-verlaine henryk-sienkiewicz lautreamont bram-stoker august-strindberg guy-de-maupassant robert-louis-stevenson arthur-rimbaud oscar-wilde joseph-conrad arthur-conan-doyle anton-tchekhov rudyard-kipling h-g-wells natsume-soseki edmond-rostand jack-london"
   },
   {
    "id": "iles",
@@ -951,7 +993,8 @@
     "thumbs/iles/jersey.webp",
     "thumbs/iles/socotra.webp",
     "thumbs/iles/borneo.webp"
-   ]
+   ],
+   "ids": "jersey socotra borneo grande-terre-nouvelle-caledonie java-ile tasmanie cuba hispaniola jamaique guadeloupe martinique rhodes santorin ithaque chypre-ile corse crete ibiza majorque malte sardaigne sicile capri svalbard groenland bahamas ile-de-goree ile-de-la-tortue ile-du-diable madere tenerife ellis-island belle-ile-en-mer ile-de-re ile-de-skye ouessant acores iles-feroe islande terre-neuve sainte-helene-ile tristan-da-cunha ile-maurice la-reunion madagascar maldives seychelles sumatra zanzibar-archipel iles-kerguelen archipel-des-comores mayotte bali iles-galapagos ile-d-alcatraz fidji nouvelle-guinee taiwan-ile bikini-atoll palaos bora-bora hawai-ile ile-de-paques iles-marquises pitcairn tahiti komodo-ile"
   },
   {
    "id": "fromages",
@@ -972,7 +1015,8 @@
     "thumbs/fromages/munster-fromage.webp",
     "thumbs/fromages/stilton-fromage.webp",
     "thumbs/fromages/cabrales.webp"
-   ]
+   ],
+   "ids": "munster-fromage stilton-fromage cabrales laguiole-fromage bleu-d-auvergne cantal-fromage fourme-d-ambert saint-nectaire salers-fromage valencay-fromage epoisses mozzarella emmental gruyere-fromage manchego crottin-de-chavignol chaource-fromage langres-fromage halloumi brocciu saint-marcellin parmigiano-reggiano cancoillotte comte-fromage morbier-fromage feta bleu-de-gex-haut-jura mimolette maroilles-fromage gouda-fromage edam-fromage brie-de-meaux coulommiers-fromage panir ricotta vacherin-fromage tete-de-moine pecorino-romano mascarpone taleggio gorgonzola-fromage camembert-fromage livarot-fromage pont-l-eveque brillat-savarin-fromage brunost roquefort-fromage ossau-iraty grana-padano provolone-valpadana burrata banon-fromage rocamadour-fromage beaufort-fromage tomme-de-savoie abondance-fromage reblochon cheddar sainte-maure-de-touraine raclette-fromage wensleydale-fromage"
   },
   {
    "id": "oeuvres_musicales",
@@ -993,7 +1037,8 @@
     "thumbs/oeuvres_musicales/messe-de-notre-dame.webp",
     "thumbs/oeuvres_musicales/messe-du-pape-marcel.webp",
     "thumbs/oeuvres_musicales/l-orfeo.webp"
-   ]
+   ],
+   "ids": "messe-de-notre-dame messe-du-pape-marcel l-orfeo le-bourgeois-gentilhomme canon-de-pachelbel te-deum-charpentier dido-and-neas toccata-et-fugue-en-re-mineur les-barricades-mysterieuses water-music sonates-pour-clavier-de-domenico-scarlatti les-quatre-saisons messe-en-si-mineur tafelmusik-telemann les-indes-galantes stabat-mater-pergolese messiah orphee-et-eurydice-gluck les-noces-de-figaro don-giovanni la-flute-enchantee requiem-mozart symphonie-no-94-de-joseph-haydn vingt-quatre-caprices-pour-violon-de-paganini le-barbier-de-seville-rossini der-freischutz symphonie-no-9-de-beethoven ave-maria-schubert nocturnes-de-chopin symphonie-fantastique norma-opera concerto-pour-piano-de-clara-schumann lucia-di-lammermoor une-vie-pour-le-tsar scenes-d-enfants-de-schumann das-jahr-fanny-mendelssohn nabucco concerto-pour-violon-no-2-de-mendelssohn rhapsodies-hongroises la-traviata orphee-aux-enfers faust-gounod tristan-und-isolde danses-hongroises le-beau-danube-bleu aida ma-vlast tableaux-d-une-exposition carmen-opera l-anneau-du-nibelung le-lac-des-cygnes symphonie-no-7-de-bruckner manon-opera le-carnaval-des-animaux gymnopedies-satie peer-gynt-suites-orchestrales requiem-faure scheherazade-rimski-korsakov symphonie-en-re-mineur-de-franck la-belle-au-bois-dormant-ballet le-prince-igor casse-noisette symphonie-no-9-de-dvorak prelude-a-l-apres-midi-d-un-faune ainsi-parlait-zarathoustra-strauss la-boheme finlandia-poeme-symphonique maple-leaf-rag tosca concerto-pour-piano-no-2-de-rachmaninov pomp-and-circumstance symphonie-no-5-de-mahler jenufa suite-bergamasque iberia-albeniz pierrot-lunaire le-sacre-du-printemps les-planetes l-amour-sorcier psaume-24-boulanger le-chateau-de-barbe-bleue rhapsody-in-blue wozzeck bolero-ravel l-opera-de-quat-sous bachianas-brasileiras ionisation-varese romeo-et-juliette-ballet adagio-pour-cordes pierre-et-le-loup carmina-burana-cantate concerto-d-aranjuez take-the-a-train quatuor-pour-la-fin-du-temps symphonie-no-7-de-chostakovitch appalachian-spring-ballet 4-33 le-marteau-sans-maitre gesang-der-junglinge west-side-story adagio-en-sol-mineur gloria-poulenc threne-a-la-memoire-des-victimes-d-hiroshima war-requiem the-ecstasy-of-gold libertango music-for-18-musicians einstein-on-the-beach musique-de-star-wars spiegel-im-spiegel les-chariots-de-feu-bande-originale"
   },
   {
    "id": "sculptures_celebres",
@@ -1014,7 +1059,8 @@
     "thumbs/sculptures_celebres/venus-de-willendorf.webp",
     "thumbs/sculptures_celebres/masque-d-agamemnon.webp",
     "thumbs/sculptures_celebres/buste-de-nefertiti.webp"
-   ]
+   ],
+   "ids": "venus-de-willendorf masque-d-agamemnon buste-de-nefertiti masque-funeraire-de-toutankhamon tete-colossale-olmeque aurige-de-delphes bronzes-de-riace discobole louve-capitoline cariatide galate-mourant victoire-de-samothrace venus-de-milo laocoon auguste-de-prima-porta apollon-du-belvedere statue-equestre-de-marc-aurele kotoku-in david-donatello pieta-michel-ange david-michel-ange moise-michel-ange persee-tenant-la-tete-de-meduse-cellini manneken-pis l-enlevement-de-proserpine-le-bernin apollon-et-daphne-le-bernin l-extase-de-sainte-therese bronzes-du-benin psyche-ranimee-par-le-baiser-de-l-amour le-depart-des-volontaires-de-1792 lion-de-belfort la-petite-danseuse-de-quatorze-ans la-porte-de-l-enfer le-penseur le-baiser-rodin les-bourgeois-de-calais la-valse-camille-claudel le-baiser-brancusi la-petite-sirene-copenhague fontaine-duchamp oiseau-dans-l-espace colonne-sans-fin christ-des-abysses statue-de-la-mere-patrie-volgograd homme-qui-marche-i nana-niki-de-saint-phalle taureau-de-wall-street balloon-dog ange-du-nord maman-sculpture cloud-gate"
   },
   {
    "id": "souverains",
@@ -1035,7 +1081,8 @@
     "thumbs/souverains/kheops.webp",
     "thumbs/souverains/sargon-d-akkad.webp",
     "thumbs/souverains/hammurabi.webp"
-   ]
+   ],
+   "ids": "kheops sargon-d-akkad hammurabi hatchepsout thoutmosis-iii akhenaton nefertiti toutankhamon ramses-ii piankhy nabuchodonosor-ii cyrus-le-grand darius-ier leonidas-ier-de-sparte xerxes-ier pericles philippe-ii-roi-de-macedoine alexandre-le-grand chandragupta-maurya ashoka hannibal-barca qin-shi-huang vercingetorix cleopatre-vii jules-cesar marc-antoine auguste amanitore neron boudica trajan hadrien marc-aurele septimia-bathzabbai-zenobie constantin-ier-empereur-romain attila clovis-ier justinien-ier theodora-imperatrice-epouse-de-justinien-ier k-inich-janaab-pakal-ier tang-taizong wu-zetian charlemagne haroun-ar-rachid alfred-le-grand otton-ier-empereur-du-saint-empire harald-a-la-dent-bleue basile-ii cnut-le-grand guillaume-le-conquerant harald-hardrada alienor-d-aquitaine frederic-barberousse saladin philippe-ii-auguste jayavarman-vii tamar-ire richard-c-ur-de-lion gengis-khan louis-ix soundiata-keita kubilai-khan robert-ier-roi-d-ecosse mansa-moussa casimir-iii-le-grand tamerlan ming-yongle sejong-le-grand pachacutec moctezuma-ier mehmed-ii matthias-corvin louis-xi isabelle-la-catholique ferdinand-le-catholique askia-mohammed moctezuma-ii henri-viii alphonse-ier-manikongo francois-ier-roi-de-france charles-quint soliman-le-magnifique babur atahualpa ivan-le-terrible marie-stuart catherine-de-medicis marie-ire-reine-d-angleterre akbar philippe-ii-roi-d-espagne elisabeth-ire-reine-d-angleterre guillaume-ier-d-orange-nassau oda-nobunaga toyotomi-hideyoshi henri-iv-roi-de-france tokugawa-ieyasu gustave-ii-adolphe njinga-du-ndongo-et-du-matamba shah-jahan christine-de-suede louis-xiv oliver-cromwell aurangzeb kangxi jean-iii-sobieski pierre-ier-le-grand charles-xii louis-xv qianlong frederic-ii-roi-de-prusse marie-therese-d-autriche-1717-1780 elisabeth-ire-imperatrice-de-russie catherine-ii louis-xvi kamehameha-ier napoleon-ier tecumseh ranavalona-ire"
   },
   {
    "id": "monuments",
@@ -1057,7 +1104,8 @@
     "thumbs/monuments/cathedrale-de-cologne.webp",
     "thumbs/monuments/chateau-de-neuschwanstein.webp",
     "thumbs/monuments/mur-de-berlin.webp"
-   ]
+   ],
+   "ids": "cathedrale-de-cologne chateau-de-neuschwanstein mur-de-berlin porte-de-brandebourg stade-olympique-de-berlin mosquee-al-haram harbour-bridge opera-de-sydney chateau-de-schonbrunn atomium grand-place-de-bruxelles pagode-shwedagon angkor-vat tour-cn grand-bouddha-de-leshan cite-interdite temple-du-ciel palais-du-potala burj-al-arab burj-khalifa alcazar-de-seville alhambra-grenade mosquee-cathedrale-de-cordoue musee-guggenheim-bilbao sagrada-familia barrage-hoover capitole-des-etats-unis chrysler-building empire-state-building gateway-arch pont-du-golden-gate panneau-hollywood lincoln-memorial maison-sur-la-cascade maison-blanche mont-rushmore musee-solomon-r-guggenheim pont-de-brooklyn seagram-building space-needle statue-de-la-liberte eglises-rupestres-de-lalibela arc-de-triomphe cathedrale-notre-dame-de-chartres chateau-de-chambord chateau-de-chenonceau chateau-de-versailles cite-radieuse-de-marseille hotel-des-invalides le-mont-saint-michel cathedrale-notre-dame-de-paris opera-garnier palais-des-papes-d-avignon palais-du-louvre pantheon-paris pont-du-gard pyramide-du-louvre basilique-du-sacre-c-ur-de-montmartre tour-eiffel villa-savoye tunnel-sous-la-manche ellora fatehpur-sikri hampi harmandir-sahib temple-de-borobudur dome-du-rocher basilique-saint-marc-de-venise cathedrale-santa-maria-del-fiore dome-de-milan fontaine-de-trevi palais-des-doges ponte-vecchio tour-de-pise chateau-de-himeji kinkaku-ji todai-ji tokyo-skytree itsukushima-jinja tours-petronas grande-mosquee-de-djenne mosquee-hassan-ii tour-de-belem chateau-de-bran palais-du-parlement-bucarest abbaye-de-westminster big-ben chateau-d-edimbourg chateau-de-windsor palais-de-buckingham tour-de-londres tower-bridge cathedrale-saint-basile-le-bienheureux-de-moscou kremlin-de-moscou palais-d-hiver place-rouge marina-bay-sands krak-des-chevaliers taipei-101 chateau-de-prague pont-charles wat-arun grande-mosquee-de-kairouan mosquee-bleue palais-de-topkap sainte-sophie-constantinople basilique-saint-pierre"
   },
   {
    "id": "villes",
@@ -1077,7 +1125,8 @@
     "thumbs/villes/johannesbourg.webp",
     "thumbs/villes/le-cap.webp",
     "thumbs/villes/alger.webp"
-   ]
+   ],
+   "ids": "johannesbourg le-cap alger berlin la-mecque buenos-aires melbourne sydney vienne-autriche bruxelles brasilia rio-de-janeiro sao-paulo montreal quebec-ville toronto vancouver hong-kong lhassa pekin shanghai bogota seoul la-havane copenhague alexandrie le-caire dubai-ville barcelone madrid seville boston chicago honolulu la-nouvelle-orleans los-angeles new-york san-francisco washington-district-de-columbia addis-abeba bordeaux lyon marseille paris strasbourg toulouse athenes budapest calcutta delhi jaipur bombay benares jakarta bagdad ispahan teheran dublin reykjavik jerusalem florence milan naples rome venise kyoto osaka tokyo nairobi tombouctou fes marrakech mexico katmandou lagos oslo samarcande amsterdam cuzco lima cracovie varsovie lisbonne kinshasa edimbourg londres moscou saint-petersbourg dakar singapour stockholm damas prague bangkok tunis istanbul kiev hanoi"
   },
   {
    "id": "langues",
@@ -1098,7 +1147,8 @@
     "thumbs/langues/langues-berberes.webp",
     "thumbs/langues/copte.webp",
     "thumbs/langues/akkadien.webp"
-   ]
+   ],
+   "ids": "langues-berberes copte akkadien amharique arabe arameen hebreu haoussa khmer vietnamien indonesien malgache tagalog hawaien langues-maories aymara coreen creole-haitien tamoul telougou inuktitut albanais hittite-langue armenien breton gallois irlandais afrikaans allemand anglais neerlandais yiddish gotique islandais suedois vieux-norrois grec-ancien grec-moderne bengali hindi ourdou pendjabi romani sanskrit kurde pachto persan latin catalan espagnol francais italien occitan portugais roumain serbo-croate polonais tcheque russe ukrainien cherokee-langue basque sumerien etrusque japonais georgien thai esperanto maya-yucateque mongol navajo-langue wolof-langue lingala swahili zoulou yoruba-langue finnois hongrois quechua langues-chinoises mandarin-standard tibetain alphabet-phenicien ecriture-cuneiforme ecriture-hieroglyphique-egyptienne ecriture-maya lineaire-b rune guarani-langue turc nahuatl"
   },
   {
    "id": "monnaies",
@@ -1119,7 +1169,8 @@
     "thumbs/monnaies/franc-cfa.webp",
     "thumbs/monnaies/rand-monnaie.webp",
     "thumbs/monnaies/dinar-algerien.webp"
-   ]
+   ],
+   "ids": "franc-cfa rand-monnaie dinar-algerien kwanza-monnaie riyal-saoudien peso-argentin dollar-australien dinar-bahreini taka kyat boliviano real-bresilien lev-bulgare dollar-canadien peso-chilien yuan peso-colombien won-nord-coreen won-sud-coreen-depuis-1962 peso-cubain couronne-danoise livre-egyptienne dirham-des-emirats-arabes-unis dollar-americain birr cedi quetzal-monnaie gourde-monnaie dollar-de-hong-kong forint roupie-indienne roupie-indonesienne dinar-irakien rial-iranien couronne-islandaise shekel yen dinar-jordanien tenge-kazakh shilling-kenyan dinar-koweitien livre-libanaise ariary ringgit dirham-marocain peso-mexicain bitcoin tugrik metical dollar-namibien roupie-nepalaise naira couronne-norvegienne dollar-neo-zelandais rial-omanais roupie-pakistanaise balboa-monnaie guarani-monnaie sol-monnaie-du-perou peso-philippin z-oty franc-pacifique riyal-qatarien leu-roumain livre-sterling rouble-russe dollar-de-singapour roupie-srilankaise couronne-suedoise franc-suisse nouveau-dollar-de-taiwan couronne-tcheque baht dinar-tunisien livre-turque hryvnia peso-uruguayen dong-monnaie kwacha-zambien dollar-du-zimbabwe euro"
   },
   {
    "id": "plats_monde",
@@ -1139,7 +1190,8 @@
     "thumbs/plats_monde/bunny-chow.webp",
     "thumbs/plats_monde/bretzel.webp",
     "thumbs/plats_monde/foret-noire-gateau.webp"
-   ]
+   ],
+   "ids": "bunny-chow bretzel foret-noire-gateau asado confiture-de-lait empanada pavlova-dessert escalope-a-la-viennoise sachertorte strudel brigadeiro feijoada poutine-plat baozi canard-laque-de-pekin congee dimsum fondue-chinoise jiaozi mapo-doufu wonton bibimbap bulgogi kimchi haggis scone-gateau falafel churro gaspacho paella tapas-gastronomie tortilla-de-patatas barbecue brownie gateau-au-fromage donut hamburger hot-dog macaroni-au-fromage pancake poke-plat chili-con-carne injera tarte-aux-pommes khatchapouri foufou moussaka souvlaki tzatziki goulasch biryani curry dal dosa naan samoussa tandoori nasi-goreng rendang sate pates-a-la-carbonara creme-glacee gnocchi lasagnes osso-buco panettone pizza risotto tiramisu katsudon mochi okonomiyaki onigiri ramen sashimi soupe-miso sushi tempura houmous chawarma taboule couscous laksa mafe pastilla tajine burrito enchilada guacamole mole-poblano taco tamal momo-plat-traditionnel plov ceviche adobo-philippin bagel pierogi pastel-de-nata fish-and-chips petit-dejeuner-anglais blini chachlyk pelmeni riz-wolof thieboudiene gravlax kottbullar phat-thai tom-yum chakchouka baklava kebab bortsch arepa banh-mi nem-ran pho"
   },
   {
    "id": "cepages",
@@ -1160,7 +1212,8 @@
     "thumbs/cepages/alvarinho.webp",
     "thumbs/cepages/aligote.webp",
     "thumbs/cepages/altesse-cepage.webp"
-   ]
+   ],
+   "ids": "alvarinho aligote altesse-cepage assyrtiko chardonnay-cepage chasselas-cepage chenin clairette-cepage colombar-cepage folle-blanche furmint gewurztraminer-cepage glera gros-manseng gruner-veltliner jacquere macabeu marsanne-cepage mauzac-cepage melon-cepage muller-thurgau muscat-blanc-a-petits-grains palomino-cepage pedro-ximenez petit-manseng picpoul pinot-blanc riesling-cepage rkatsiteli roussanne sauvignon savagnin semillon sylvaner-cepage trebbiano verdejo vermentino viognier pinot-gris-cepage aglianico barbera blaufrankisch cabernet-franc cabernet-sauvignon carignan-n carmenere cinsault corvina-veronese dolcetto fer-servadou gamay grenache lambrusco malbec mencia merlot mondeuse-noire montepulciano-cepage mourvedre nebbiolo negrette nero-d-avola petit-verdot meunier-cepage pinot-noir-cepage pinotage poulsard sangiovese saperavi syrah tannat tempranillo touriga-nacional trousseau zinfandel"
   },
   {
    "id": "figures_religieuses",
@@ -1181,7 +1234,8 @@
     "thumbs/figures_religieuses/noe-patriarche.webp",
     "thumbs/figures_religieuses/abraham.webp",
     "thumbs/figures_religieuses/moise.webp"
-   ]
+   ],
+   "ids": "noe-patriarche abraham moise zoroastre david-roi-d-israel salomon-roi-d-israel elie siddhartha-gautama mahavira jean-le-baptiste joseph-nouveau-testament marie-mere-de-jesus jesus-de-nazareth jean-apotre judas-iscariote marie-madeleine paul-de-tarse pierre-apotre rabbi-akiva mani-prophete valentin-de-terni nicolas-de-myre georges-de-lydda martin-de-tours patrick-d-irlande genevieve-de-paris benoit-de-nursie gregoire-ier bodhidharma khadija-bint-khuwaylid mahomet abou-bakr-as-siddiq bilal-ibn-rabah omar-ibn-al-khattab ali-ibn-abi-talib fatima-zahra aicha al-hussein-ibn-ali rabia-al-adawiyya padmasambhava kukai cyrille-et-methode milarepa rachi bernard-de-clairvaux hildegarde-de-bingen ibn-arabi shinran francois-d-assise nichiren jeanne-d-arc kabir jerome-savonarole guru-nanak martin-luther ignace-de-loyola jean-calvin therese-d-avila vincent-de-paul guru-gobind-singh baal-shem-tov john-wesley joseph-smith baha-u-llah bab-chef-religieux ramakrishna bernadette-soubirous vivekananda therese-de-lisieux mere-teresa abbe-pierre oscar-romero jean-paul-ii tenzin-gyatso"
   },
   {
    "id": "conquete_spatiale",
@@ -1202,7 +1256,8 @@
     "thumbs/conquete_spatiale/v2-missile.webp",
     "thumbs/conquete_spatiale/cap-canaveral.webp",
     "thumbs/conquete_spatiale/cosmodrome-de-baikonour.webp"
-   ]
+   ],
+   "ids": "v2-missile cap-canaveral cosmodrome-de-baikonour spoutnik-1 programme-mercury national-aeronautics-and-space-administration programme-venera programme-vostok programme-gemini luna-9 soyouz-vehicule-spatial saturn-v apollo-8 apollo-11 apollo-13 lunokhod-1 saliout-1 pioneer-10 apollo-17 skylab agence-spatiale-europeenne apollo-soyouz viking-1 voyager-2 voyager-1 navette-spatiale-americaine accident-de-la-navette-spatiale-challenger mir-station-spatiale ok-1-01 galileo-sonde-spatiale hubble-telescope-spatial ariane-5 mars-pathfinder cassini-huygens station-spatiale-internationale spacex accident-de-la-navette-spatiale-columbia hayabusa-sonde-spatiale opportunity spirit-rover rosetta-sonde-spatiale new-horizons kepler-telescope-spatial falcon-9 juno-sonde-spatiale curiosity-astromobile gaia-satellite parker-sonde-spatiale chang-e-4 spacex-dragon-2 exploration-de-mars-par-perseverance ingenuity-helicoptere station-spatiale-chinoise james-webb-telescope-spatial programme-artemis starship-fusee chandrayaan-3 ariane-6"
   },
   {
    "id": "mythologie_egyptienne",
@@ -1223,7 +1278,8 @@
     "thumbs/mythologie_egyptienne/ammout.webp",
     "thumbs/mythologie_egyptienne/amon.webp",
     "thumbs/mythologie_egyptienne/anoukis.webp"
-   ]
+   ],
+   "ids": "ammout amon anoukis anubis apis apophis aton atoum bastet benou bes geb hapy hathor heqet horus isis khnoum khonsou maat min-dieu montou mout nefertoum neith nekhbet nephtys nout osiris ouadjet oupouaout ptah re sekhmet serket seth shou sobek taouret tefnout thot"
   },
   {
    "id": "mythologie_nordique",
@@ -1244,7 +1300,8 @@
     "thumbs/mythologie_nordique/gir.webp",
     "thumbs/mythologie_nordique/angrboda.webp",
     "thumbs/mythologie_nordique/ask-et-embla.webp"
-   ]
+   ],
+   "ids": "gir angrboda ask-et-embla audhumla baldr beowulf bragi brunehilde-mythologie fafnir fenrir forseti-dieu freyja freyr frigg garm-mythologie grendel heimdall hel-deesse hod hugin-et-munin idunn jormungand loki mimir nanna-deesse nidhogg njord nornes odin ran ratatosk regin sif-deesse siegfried-mythologie sigyn skadi skoll sleipnir surt thor rymr troll tyr ull vali-fils-d-odin valkyrie vidar volund ymir"
   },
   {
    "id": "mythologie_hindoue",
@@ -1265,7 +1322,8 @@
     "thumbs/mythologie_hindoue/agni-dieu.webp",
     "thumbs/mythologie_hindoue/airavata.webp",
     "thumbs/mythologie_hindoue/arjuna.webp"
-   ]
+   ],
+   "ids": "agni-dieu airavata arjuna bhima bhishma brahma chandra-divinite draupadi dourga duryodhana ganesh ganga-deesse garuda hanuman indra jatayu kali kalki kama-divinite karna karttikeya krishna kubera kumbhakarna kurma lakshmana lakshmi mahishasura matsya naga nandi-mythologie narada narasimha parashurama parvati radha rahu rama ravana sarasvati-deesse ananta shiva sita surya vamana varaha varuna vasuki vayou vishnou vishvakarma yama yudhishthira"
   },
   {
    "id": "mythologie_celtique",
@@ -1286,7 +1344,8 @@
     "thumbs/mythologie_celtique/oengus.webp",
     "thumbs/mythologie_celtique/arawn.webp",
     "thumbs/mythologie_celtique/bodb.webp"
-   ]
+   ],
+   "ids": "oengus arawn bodb balor banshee belenos blodeuwedd boann bran-le-beni brigit ceridwen cernunnos cuchulainn dagda danu-hindouisme deirdre diancecht oidheadh-chloinne-lir epona esus fionn-mac-cumhaill fomoires gauvain goibniu guenievre gwydion kelpie lancelot-du-lac leprechaun lug-dieu macha-mythologie-celtique manannan-mac-lir medb merlin mordred fee-morgane morrigan nuada ogmios ossian perceval rhiannon roi-arthur selkie sucellos taliesin taranis-mythologie teutates tristan-et-iseut tuatha-de-danann fee-viviane"
   },
   {
    "id": "mythologies_asie_est",
@@ -1307,7 +1366,8 @@
     "thumbs/mythologies_asie_est/amaterasu.webp",
     "thumbs/mythologies_asie_est/benzaiten.webp",
     "thumbs/mythologies_asie_est/chang-e.webp"
-   ]
+   ],
+   "ids": "amaterasu benzaiten chang-e daikokuten tangun dokkaebi ebisu-divinite empereur-de-jade huangdi fenghuang fujin-divinite fuxi guan-yu guanyin renard-a-neuf-queues hachiman xiezhi budai houyi huit-immortels inari-divinite-japonaise izanagi izanami jiangshi kshitigarbha kagutsuchi kappa-mythologie renard-dans-la-culture-japonaise mazu momotaro onamazu nezha nian nuwa okuninushi oni pangu qilin raiden-divinite roi-dragon ryujin shennong sun-wukong susanoo nyctereutes tengu-folklore tsukuyomi urashima-taro xiwangmu yamata-no-orochi yu-le-grand yuki-onna zhong-kui zhu-bajie"
   },
   {
    "id": "mythologies_slaves",
@@ -1328,7 +1388,8 @@
     "thumbs/mythologies_slaves/alkonost.webp",
     "thumbs/mythologies_slaves/baba-yaga.webp",
     "thumbs/mythologies_slaves/bannik.webp"
-   ]
+   ],
+   "ids": "alkonost baba-yaga bannik belbog dajbog domovoi gamaioun ilya-mouromets ivan-tsarevitch yarilo kikimora-mythologie kochtchei lada-mythologie laima liechi morana-deesse mokoch oiseau-de-feu perkunas peroun rod-mythologie roussalka sadko-mythologie saule sirin stribog svarog svantovit tchernobog triglav-mythologie vassilissa-la-tres-belle veles-mythologie wili vodianoi zmei"
   },
   {
    "id": "mythologies_africaines",
@@ -1349,7 +1410,8 @@
     "thumbs/mythologies_africaines/amma-divinite.webp",
     "thumbs/mythologies_africaines/anansi.webp",
     "thumbs/mythologies_africaines/anzar.webp"
-   ]
+   ],
+   "ids": "amma-divinite anansi anzar asase-ya babalu-aye bumba-dieu damballa eshu heviosso kaggen papa-legba leza mami-wata mwari nommo nyambe nyame nzambi-divinite obatala oshossi ogun-divinite olokun olorun orunmila oshun oya sakpata shango tanit tokoloshe unkulunkulu iemanja"
   },
   {
    "id": "mythologies_mesoamericaines",
@@ -1370,7 +1432,8 @@
     "thumbs/mythologies_mesoamericaines/ah-puch.webp",
     "thumbs/mythologies_mesoamericaines/aiapaec.webp",
     "thumbs/mythologies_mesoamericaines/camazotz.webp"
-   ]
+   ],
+   "ids": "ah-puch aiapaec camazotz centeotl chac chalchiuhtlicue coatlicue coyolxauhqui ehecatl huitzilopochtli hunahpu-et-ixbalanque illapa inti itzamna itzpapalotl hunahpu-et-ixbalanque-b ixchel ixtab k-inich-ajaw kukulkan mama-ocllo mama-quilla manco-capac mayahuel mictlantecuhtli mixcoatl pachacamac-dieu pachamama quetzalcoatl tezcatlipoca tlaloc tlazolteotl tonatiuh viracocha vucub-caquix xipe-totec xochiquetzal xolotl"
   },
   {
    "id": "mythologies_proche_orient",
@@ -1391,7 +1454,8 @@
     "thumbs/mythologies_proche_orient/adad.webp",
     "thumbs/mythologies_proche_orient/ahura-mazda.webp",
     "thumbs/mythologies_proche_orient/anahita.webp"
-   ]
+   ],
+   "ids": "adad ahura-mazda anahita anat ahriman an-dieu asherah assur-dieu astarte baal didon dumuzi ea-dieu enkidu enlil ereshkigal fereydoun gilgamesh humbaba ishtar djamchid kaveh kingu lamashtu lamassu lilith marduk melqart mithra moloch nabu nergal ninurta pazuzu rostam shamash simorgh-mythologie sin sohrab tiamat uta-napishtim verethragna zahhak zervan"
   },
   {
    "id": "mythologies_oceanie_ameriques",
@@ -1412,7 +1476,8 @@
     "thumbs/mythologies_oceanie_ameriques/amaru.webp",
     "thumbs/mythologies_oceanie_ameriques/baiame.webp",
     "thumbs/mythologies_oceanie_ameriques/coyote-mythologie.webp"
-   ]
+   ],
+   "ids": "amaru baiame coyote-mythologie curupira femme-bison-blanc gitche-manitou glouscap hina-divinite hine-nui-te-po iktomi iktomi-b kanaloa-divinite kane kokopelli ku lono maui-mythologie nanabozo oiseau-tonnerre pelee rangi-et-papa rongo sedna-roi-d-irlande serpent-arc-en-ciel skin-walker tane tangaroa-mythologie tawhirimatea tiki tumatauenga tupa wakan-tanka wendigo yowie"
   },
   {
    "id": "mythologie_finnoise",
@@ -1433,7 +1498,8 @@
     "thumbs/mythologie_finnoise/ahti-mythologie.webp",
     "thumbs/mythologie_finnoise/hiisi.webp",
     "thumbs/mythologie_finnoise/ilmarinen.webp"
-   ]
+   ],
+   "ids": "ahti-mythologie hiisi ilmarinen ilmatar joukahainen kalevala kantele kullervo lemminkainen louhi mielikki pohjola surma-mythologie tapio tuonela tuoni ukko-ylijumala vainamoinen"
   },
   {
    "id": "creatures_legendaires",
@@ -1453,7 +1519,8 @@
     "thumbs/creatures_legendaires/basilic-mythologie.webp",
     "thumbs/creatures_legendaires/behemoth.webp",
     "thumbs/creatures_legendaires/bete-du-gevaudan.webp"
-   ]
+   ],
+   "ids": "basilic-mythologie behemoth bete-du-gevaudan bigfoot bunyip chupacabra cocatrix croque-mitaine dahu dame-blanche-legende demon-esprit djinn dragon-oriental dragon-europeen elfe fantome fee geant-mythologie gnome gobelin-folklore golem goule griffon-mythologie hippogriffe diable-de-jersey korrigan kraken lamia-mythologie leviathan licorne lycanthrope lutin manticore melusine-fee mokele-mbembe momie monstre-du-loch-ness homme-papillon nain-creature-fantastique ogre phenix rokh salamandre-animal-legendaire serpent-de-mer sirene-mythologie-grecque sorciere succube tarasque vampire vouivre yeti zombie"
   },
   {
    "id": "lieux_legendaires",
@@ -1473,7 +1540,8 @@
     "thumbs/lieux_legendaires/agartha.webp",
     "thumbs/lieux_legendaires/apsu.webp",
     "thumbs/lieux_legendaires/asgard-mythologie.webp"
-   ]
+   ],
+   "ids": "agartha apsu asgard-mythologie atlantide avalon aztlan broceliande camelot champs-elysees-mythologie cites-d-or eldorado fontaine-de-jouvence ile-de-brasil hyperboreens ile-de-saint-brendan iles-des-bienheureux eden hesperides jerusalem-celeste kitej kunlun-mythologie lemurie lyonesse mictlan midgard mont-meru mu-continent pays-de-cocagne pays-de-pount shambhala-mythe shangri-la sodome-et-gomorrhe tartare-mythologie thule-mythologie tir-na-nog tour-de-babel valhalla xibalba yggdrasil ys"
   },
   {
    "id": "objets_mythiques",
@@ -1494,7 +1562,8 @@
     "thumbs/objets_mythiques/ankh.webp",
     "thumbs/objets_mythiques/anneau-de-gyges.webp",
     "thumbs/objets_mythiques/arche-d-alliance.webp"
-   ]
+   ],
+   "ids": "ankh anneau-de-gyges arche-d-alliance arche-de-noe baton-de-moise boite-de-pandore bottes-de-sept-lieues collier-des-brisingar caducee cheval-de-troie corne-d-abondance draupnir durandal egide excalibur gjallarhorn graal gram-epee gungnir joyeuse-epee kusanagi la-lampe-d-aladin sainte-lance pierre-de-fal mjollnir pierre-philosophale pomme-d-or-de-la-discorde baton-de-bon-plaisir-cercle-d-or sampo sceau-de-salomon-legende table-ronde tables-de-la-loi talaria tizona toison-d-or trishula vajra"
   },
   {
    "id": "evenements_mythiques",
@@ -1514,7 +1583,8 @@
     "thumbs/evenements_mythiques/armageddon.webp",
     "thumbs/evenements_mythiques/barattage-de-la-mer-de-lait.webp",
     "thumbs/evenements_mythiques/bataille-de-kurukshetra.webp"
-   ]
+   ],
+   "ids": "armageddon barattage-de-la-mer-de-lait bataille-de-kurukshetra cain-et-abel-genese chute-bible legende-des-soleils deluge la-descente-d-orphee-aux-enfers argonautes fondation-de-rome gigantomachie ramayana guerre-de-troie guerre-entre-les-ases-et-les-vanes jugement-de-paris jugement-dernier mythe-d-osiris odyssee passage-de-la-mer-rouge jugement-de-l-ame-egypte-antique dix-plaies-d-egypte un-livre-dont-vous-etes-le-heros ragnarok ligature-d-isaac titanomachie travaux-d-heracles vol-du-feu"
   },
   {
    "id": "figures_emancipation",
@@ -1535,7 +1605,8 @@
     "thumbs/figures_emancipation/spartacus.webp",
     "thumbs/figures_emancipation/bartolome-de-las-casas.webp",
     "thumbs/figures_emancipation/zumbi-dos-palmares.webp"
-   ]
+   ],
+   "ids": "spartacus bartolome-de-las-casas zumbi-dos-palmares tupac-amaru-ii olaudah-equiano olympe-de-gouges abbe-gregoire william-wilberforce louis-delgres solitude-vers-1772-1802 sojourner-truth john-brown nat-turner flora-tristan victor-sch-lcher elizabeth-cady-stanton frederick-douglass susan-b-anthony harriet-tubman geronimo louise-michel sitting-bull chef-joseph crazy-horse-chef-amerindien hubertine-auclert clara-zetkin emmeline-pankhurst jean-jaures ida-b-wells w-e-b-du-bois rosa-luxemburg emily-davison pancho-villa emiliano-zapata helen-keller eleanor-roosevelt bhimrao-ramji-ambedkar thurgood-marshall bayard-rustin rosa-parks betty-friedan amilcar-cabral frantz-fanon malcolm-x cesar-chavez gisele-halimi simone-veil che-guevara robert-badinter martin-luther-king dolores-huerta harvey-milk desmond-tutu ruth-bader-ginsburg audre-lorde gloria-steinem vaclav-havel winnie-mandela claudette-colvin john-lewis-homme-politique wangari-muta-maathai lech-wa-esa angela-davis chico-mendes aung-san-suu-kyi marsha-p-johnson steve-biko sylvia-rivera ruby-bridges denis-mukwege liu-xiaobo rigoberta-menchu alexei-navalny nadia-murad malala-yousafzai greta-thunberg"
   },
   {
    "id": "figures_resistance",
@@ -1556,7 +1627,8 @@
     "thumbs/figures_resistance/marc-bloch.webp",
     "thumbs/figures_resistance/berty-albrecht.webp",
     "thumbs/figures_resistance/jean-moulin.webp"
-   ]
+   ],
+   "ids": "marc-bloch berty-albrecht jean-moulin honore-d-estienne-d-orves witold-pilecki jean-cavailles pierre-brossolette henri-frenay josephine-baker claus-von-stauffenberg germaine-tillion jacques-bingen danielle-casanova marie-madeleine-fourcade missak-manouchian irena-sendler lucie-aubrac nancy-wake olga-bancic jan-karski noor-inayat-khan pierre-de-benouville raymond-aubrac tom-morel stephane-hessel hans-scholl colonel-fabien daniel-cordier genevieve-de-gaulle-anthonioz hannie-schaft sophie-scholl violette-szabo guy-moquet"
   },
   {
    "id": "dirigeants_contemporains",
@@ -1577,7 +1649,8 @@
     "thumbs/dirigeants_contemporains/george-washington.webp",
     "thumbs/dirigeants_contemporains/leopold-ii-empereur-du-saint-empire.webp",
     "thumbs/dirigeants_contemporains/maximilien-de-robespierre.webp"
-   ]
+   ],
+   "ids": "george-washington leopold-ii-empereur-du-saint-empire maximilien-de-robespierre charles-maurice-de-talleyrand-perigord thomas-jefferson toussaint-louverture klemens-wenzel-von-metternich chaka-roi-zoulou simon-bolivar louis-philippe-ier pierre-ii-empereur-du-bresil victoria-reine guillaume-ii-roi-des-pays-bas francois-joseph-ier giuseppe-garibaldi camillo-cavour napoleon-iii alexandre-ii-empereur-de-russie benito-juarez abraham-lincoln cixi meiji-empereur otto-von-bismarck menelik-ii nicolas-ii theodore-roosevelt georges-clemenceau sun-yat-sen woodrow-wilson mohandas-karamchand-gandhi vladimir-ilitch-lenine benito-mussolini mustafa-kemal-ataturk joseph-staline hirohito tchang-kai-chek haile-selassie-ier antonio-de-oliveira-salazar adolf-hitler franklin-delano-roosevelt francisco-franco winston-churchill harry-s-truman ho-chi-minh josip-broz-tito soekarno juan-peron jawaharlal-nehru david-ben-gourion kim-il-sung konrad-adenauer mao-zedong dwight-d-eisenhower gamal-abdel-nasser kwame-nkrumah charles-de-gaulle fidel-castro lee-kuan-yew leopold-sedar-senghor patrice-lumumba john-fitzgerald-kennedy indira-gandhi golda-meir mouammar-kadhafi richard-nixon willy-brandt yasser-arafat anouar-el-sadate salvador-allende augusto-pinochet pol-pot deng-xiaoping margaret-thatcher rouhollah-khomeini saddam-hussein francois-mitterrand ronald-reagan helmut-kohl thomas-sankara mikhail-gorbatchev boris-eltsine nelson-mandela barack-obama"
   },
   {
    "id": "auteurs_modernes",
@@ -1599,7 +1672,8 @@
     "thumbs/auteurs_modernes/george-bernard-shaw.webp",
     "thumbs/auteurs_modernes/selma-lagerlof.webp",
     "thumbs/auteurs_modernes/knut-hamsun.webp"
-   ]
+   ],
+   "ids": "george-bernard-shaw selma-lagerlof knut-hamsun rabindranath-tagore edith-wharton maurice-leblanc miguel-de-unamuno william-butler-yeats beatrix-potter luigi-pirandello ruben-dario gaston-leroux maxime-gorki paul-claudel andre-gide marcel-proust paul-valery colette robert-frost rainer-maria-rilke thomas-mann hermann-hesse e-m-forster guillaume-apollinaire munshi-premchand robert-musil lu-xun-ecrivain stefan-zweig alan-alexander-milne james-joyce virginia-woolf franz-kafka khalil-gibran nikos-kazantzakis d-h-lawrence francois-mauriac jun-ichiro-tanizaki blaise-cendrars eugene-o-neill fernando-pessoa georges-bernanos raymond-chandler t-s-eliot anna-akhmatova gabriela-mistral jean-cocteau agatha-christie boris-pasternak h-p-lovecraft karel-capek mikhail-boulgakov j-r-r-tolkien pearl-buck ryunosuke-akutagawa vladimir-maiakovski aldous-huxley louis-ferdinand-celine jean-giono marcel-pagnol paul-eluard f-scott-fitzgerald enid-blyton louis-aragon william-faulkner bertolt-brecht c-s-lewis erich-maria-remarque federico-garcia-lorca joseph-kessel ernest-hemingway jorge-luis-borges vladimir-nabokov yasunari-kawabata antoine-de-saint-exupery jacques-prevert nathalie-sarraute andre-malraux langston-hughes john-steinbeck george-orwell georges-simenon marguerite-yourcenar raymond-queneau graham-greene pablo-neruda elias-canetti jean-paul-sartre samuel-beckett alberto-moravia astrid-lindgren robert-a-heinlein ian-fleming simone-de-beauvoir eugene-ionesco jean-genet naguib-mahfouz rene-barjavel tennessee-williams jorge-amado pierre-boulle aime-cesaire albert-camus julio-cortazar marguerite-duras octavio-paz romain-gary tove-jansson arthur-miller saul-bellow roald-dahl arthur-c-clarke heinrich-boll juan-rulfo alexandre-soljenitsyne doris-lessing j-d-salinger primo-levi boris-vian charles-bukowski clarice-lispector frank-herbert isaac-asimov paul-celan ray-bradbury friedrich-durrenmatt stanis-aw-lem alain-robbe-grillet jack-kerouac jose-saramago kurt-vonnegut italo-calvino nadine-gordimer james-baldwin-ecrivain michel-tournier truman-capote yukio-mishima allen-ginsberg harper-lee gabriel-garcia-marquez gunter-grass carlos-fuentes maya-angelou philip-k-dick kateb-yacine mariama-ba michael-ende milan-kundera ursula-k-le-guin chinua-achebe alice-munro john-le-carre nawal-el-saadawi toni-morrison sylvia-plath umberto-eco cormac-mccarthy philip-roth wole-soyinka francoise-sagan kenzaburo-oe georges-perec ismail-kadare mario-vargas-llosa thomas-pynchon ngugi-wa-thiong-o amos-oz margaret-atwood seamus-heaney annie-ernaux j-m-coetzee j-m-g-le-clezio mahmoud-darwich isabel-allende tahar-ben-jelloun patrick-modiano paul-auster paulo-coelho salman-rushdie stephen-king george-r-r-martin svetlana-alexievitch terry-pratchett haruki-murakami patrick-suskind douglas-adams orhan-pamuk roberto-bolano kazuo-ishiguro mo-yan michel-houellebecq neil-gaiman liu-cixin j-k-rowling amelie-nothomb han-kang chimamanda-ngozi-adichie"
   },
   {
    "id": "personnages_litterature",
@@ -1619,7 +1693,8 @@
     "thumbs/personnages_litterature/albus-dumbledore.webp",
     "thumbs/personnages_litterature/alice-alice-au-pays-des-merveilles.webp",
     "thumbs/personnages_litterature/anna-karenine.webp"
-   ]
+   ],
+   "ids": "albus-dumbledore alice-alice-au-pays-des-merveilles anna-karenine aragorn aramis arsene-lupin aslan-narnia athos babar la-barbe-bleue bilbon-sacquet capitaine-achab capitaine-crochet capitaine-nemo chapelier-fou-comics le-maitre-chat-ou-le-chat-botte le-comte-de-monte-cristo conan-le-barbare cosette cthulhu cyrano-de-bergerac-rostand d-artagnan daenerys-targaryen docteur-watson don-juan don-quichotte le-portrait-de-dorian-gray l-etrange-cas-du-docteur-jekyll-et-de-mister-hyde dracula un-chant-de-noel elizabeth-bennet elric-de-melnibone emma-bovary la-esmeralda-personnage eugene-de-rastignac faust fifi-brindacier monstre-de-frankenstein frodon-sacquet gandalf gargantua gavroche gollum les-voyages-de-gulliver hamlet-personnage harpagon harry-potter heidi-roman hercule-poirot hermione-granger holden-caulfield les-aventures-de-huckleberry-finn iago jane-eyre-personnage javert jay-gatsby jean-valjean jon-snow commissaire-maigret julien-sorel katniss-everdeen le-petit-nicolas b-612-le-petit-prince lisbeth-salander long-john-silver voldemort macbeth-personnage mephistopheles meursault milady-de-winter miss-marple mowgli le-merveilleux-voyage-de-nils-holgersson-a-travers-la-suede oliver-twist othello-personnage paul-atreides peter-pan le-petit-chaperon-rouge phileas-fogg porthos professeur-moriarty quasimodo-personnage robin-des-bois robinson-crusoe rodion-raskolnikov le-roi-lear romeo-et-juliette ron-weasley rouletabille sauron scarlett-o-hara sherlock-holmes tarzan tom-sawyer tyrion-lannister les-souffrances-du-jeune-werther winnie-l-ourson"
   },
   {
    "id": "traites",
@@ -1640,7 +1715,8 @@
     "thumbs/traites/code-de-hammurabi.webp",
     "thumbs/traites/traite-de-paix-egypto-hittite.webp",
     "thumbs/traites/loi-des-douze-tables.webp"
-   ]
+   ],
+   "ids": "code-de-hammurabi traite-de-paix-egypto-hittite loi-des-douze-tables edit-de-milan loi-salique code-de-justinien traite-de-verdun magna-carta charte-du-manden bulle-d-or-1356 traite-de-troyes traite-de-tordesillas ordonnance-de-villers-cotterets paix-d-augsbourg edit-de-nantes traites-de-westphalie actes-de-navigation habeas-corpus code-noir charte-des-droits-de-1689 traites-d-utrecht declaration-d-independance-des-etats-unis traite-de-paris-1783 constitution-des-etats-unis declaration-des-droits-de-l-homme-et-du-citoyen-de-1789 declaration-des-droits-de-la-femme-et-de-la-citoyenne concordat-de-1801 vente-de-la-louisiane code-civil-france congres-de-vienne traite-de-waitangi traite-de-nankin manifeste-du-parti-communiste decret-d-abolition-de-l-esclavage-du-27-avril-1848 conference-de-berlin loi-du-9-decembre-1905-concernant-la-separation-des-eglises-et-de-l-etat accords-sykes-picot declaration-balfour-de-1917 traite-de-brest-litovsk traite-de-versailles accords-de-munich pacte-germano-sovietique accords-de-bretton-woods conference-de-yalta charte-des-nations-unies plan-marshall declaration-universelle-des-droits-de-l-homme traite-de-l-atlantique-nord conventions-de-geneve traite-instituant-la-communaute-economique-europeenne traite-sur-l-antarctique accords-d-evian traite-de-l-elysee traite-sur-la-non-proliferation-des-armes-nucleaires convention-de-vienne-sur-le-droit-des-traites conference-sur-la-securite-et-la-cooperation-en-europe accords-de-camp-david accord-de-schengen protocole-de-montreal convention-relative-aux-droits-de-l-enfant traite-de-maastricht accords-d-oslo protocole-de-kyoto accord-de-paris-sur-le-climat"
   },
   {
    "id": "sites_antiques",
@@ -1661,7 +1737,8 @@
     "thumbs/sites_antiques/grotte-de-lascaux.webp",
     "thumbs/sites_antiques/gobekli-tepe.webp",
     "thumbs/sites_antiques/jericho.webp"
-   ]
+   ],
+   "ids": "grotte-de-lascaux gobekli-tepe jericho catal-hoyuk alignements-de-carnac newgrange skara-brae caral stonehenge saqqarah mohenjo-daro sphinx-de-gizeh ziggurat-d-ur karnak cnossos deir-el-bahari abou-simbel temple-d-amon-louxor troie hattusa mycenes vallee-des-rois forum-romain babylone porte-d-ishtar ephese geoglyphes-de-nazca monte-alban acropole-d-athenes olympie delphes persepolis phil armee-de-terre-cuite meroe ajanta pergame massada herculanum pompei mur-d-hadrien pantheon-rome baalbek jerash leptis-magna palmyre sigiriya teotihuacan palenque copan tikal bagan chan-chan grand-zimbabwe saqsaywaman moai"
   },
   {
    "id": "styles_architecturaux",
@@ -1682,7 +1759,8 @@
     "thumbs/styles_architecturaux/architecture-romaine.webp",
     "thumbs/styles_architecturaux/architecture-de-la-grece-antique.webp",
     "thumbs/styles_architecturaux/art-roman.webp"
-   ]
+   ],
+   "ids": "architecture-romaine architecture-de-la-grece-antique art-roman architecture-byzantine architecture-khmere architecture-de-la-renaissance architecture-gothique art-mudejar pan-de-bois architecture-baroque architecture-moghole architecture-classique palladianisme rococo style-beaux-arts architecture-victorienne architecture-islamique architecture-japonaise architecture-neo-classique style-neogothique ecole-de-chicago-architecture art-nouveau architecture-organique art-deco bauhaus style-international brutalisme postmodernisme-architecture architecture-high-tech deconstructivisme"
   },
   {
    "id": "fleuves_mers_oceans",
@@ -1703,7 +1781,8 @@
     "thumbs/fleuves_mers_oceans/ocean-arctique.webp",
     "thumbs/fleuves_mers_oceans/ocean-atlantique.webp",
     "thumbs/fleuves_mers_oceans/ocean-austral.webp"
-   ]
+   ],
+   "ids": "ocean-arctique ocean-atlantique ocean-austral ocean-indien ocean-pacifique manche-mer mer-adriatique mer-baltique mer-de-corail mer-des-caraibes mer-des-sargasses mer-du-nord mer-egee mer-mediterranee mer-noire mer-rouge golfe-du-mexique golfe-persique bosphore detroit-de-bering detroit-de-gibraltar detroit-de-magellan canal-de-panama canal-de-suez amazone-fleuve amour-fleuve brahmapoutre colorado-fleuve congo-fleuve danube dniepr elbe-fleuve euphrate fleuve-jaune gange garonne ienissei indus jourdain lena loire mekong mississippi-fleuve niger-fleuve nil ob okavango orenoque rio-parana po rhin rhone rio-grande-fleuve fleuve-saint-laurent seine senegal-fleuve tage tamise tibre tigre volga yangtse zambeze missouri-riviere chutes-d-iguazu chutes-du-niagara chutes-victoria salto-angel grands-lacs-amerique-du-nord lac-baikal leman lac-tanganyika lac-tchad lac-titicaca lac-victoria loch-ness mer-caspienne mer-d-aral mer-morte cap-de-bonne-esperance cap-horn fosse-des-mariannes grande-barriere-de-corail triangle-des-bermudes"
   }
  ]
 }

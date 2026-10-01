@@ -27,6 +27,25 @@ générateur WikiDeck y écrivent). Après toute modification :
 node build/exporter_donnees.mjs
 ```
 
+## Règles de fonctionnement
+
+- **Quiz du jour** : 20 questions, une par liste. Les listes jamais posées ou
+  posées il y a le plus longtemps passent en premier (79 listes : tour complet
+  en 4 jours) ; dans une liste, la fiche la moins récemment posée. Le barème est
+  réglable (Réglages, roue dentée) et figé au lancement de chaque quiz.
+- **À découvrir** (accueil) : 8 listes pas encore suivies. Les listes apparues
+  depuis moins de 14 jours passent devant avec un badge « Nouvelle » ; les autres
+  changent d'ordre chaque jour.
+- **Liens** : l'article Wikipédia exact quand la fiche vient de WikiDeck
+  (`wiki` dans les données), sinon une recherche Wikipédia (Wiktionnaire pour
+  les listes de vocabulaire).
+- **Listes ajoutées ou retirées** : le catalogue donne les identifiants de toutes
+  les fiches (`ids`). Une fiche absente du catalogue garde sa progression mais
+  sort de tous les calculs (fiches dues, mémoire, maîtrise) ; elle revient avec
+  sa liste. L'identifiant d'une fiche est la clé de son image : corriger un nom
+  ne fait pas perdre la progression. Une question du quiz dont la liste a
+  disparu est remplacée.
+
 ## Stockage
 
 Tout l'état tient sous la clé `memo2-etat` du stockage local (préfixe propre à
@@ -37,5 +56,6 @@ Mémo : le domaine blinytz.github.io est partagé par toutes les applis).
 - Créditer les Éclats dans le registre commun (RPC `eclats_reward`, clé
   `memo-quiz-AAAA-MM-JJ`, déjà utilisée par le journal local).
 - Hors ligne : service worker propre à la nouvelle version.
+- Liens exacts pour les 21 listes antérieures à WikiDeck (recherche en attendant).
 - Édition des listes et listes personnelles (encore dans l'ancienne version).
 - Bascule : faire pointer `index.html` vers la nouvelle version.

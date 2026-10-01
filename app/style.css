@@ -204,7 +204,7 @@ h3{font-size:16px;font-weight:700}
 /* quiz du jour, barème, saisie, correction */
 .quiz-jour{background:var(--surface);border-radius:22px;padding:18px;display:grid;gap:12px;box-shadow:var(--ombre);border:2px solid color-mix(in srgb,var(--eclat) 45%,transparent)}
 .quiz-jour h1{font-size:24px}
-.bareme{display:grid;grid-template-columns:repeat(6,1fr);gap:5px}
+.bareme{display:grid;grid-template-columns:repeat(auto-fit,minmax(44px,1fr));gap:5px}
 .palier{background:var(--surface-2);border-radius:10px;padding:8px 4px;text-align:center;display:grid;gap:2px}
 .palier b{font-family:var(--f-titre);font-size:14px;color:var(--encre);white-space:nowrap}
 .palier span{font-size:10.5px;color:var(--doux);line-height:1.2}
@@ -235,3 +235,16 @@ h3{font-size:16px;font-weight:700}
 a{color:var(--memo)}
 [hidden]{display:none!important}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+.rond-reglages{padding:6px 8px;color:var(--doux)}
+.lien-wiki{display:inline-flex;align-items:center;gap:6px;font-weight:600;font-size:14px;color:var(--memo);text-decoration:none;justify-self:start}
+.lien-wiki:hover{text-decoration:underline}
+.pied-retour{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 14px}
+.decouverte{text-align:left}
+.decouverte .badge{display:table;margin-bottom:4px}
+.paliers-edition{display:grid;gap:8px}
+.ligne-palier{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto;gap:8px;align-items:center;font-size:14px;color:var(--doux)}
+.ligne-palier label{display:flex;align-items:center;gap:6px;white-space:nowrap}
+.ligne-palier input{width:100%;min-width:0;min-height:42px;border-radius:10px;border:2px solid var(--trait);background:var(--surface);color:var(--encre);font:700 16px var(--f-texte);padding:0 8px;text-align:center}
+.ligne-palier input:focus{border-color:var(--memo);outline:none}
+.icone-bouton{width:40px;height:40px;border-radius:10px;display:grid;place-items:center;color:var(--doux);background:var(--surface-2)}
+.icone-bouton[disabled]{opacity:.35;cursor:default}

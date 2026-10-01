@@ -73,3 +73,41 @@ export function melanger(a, hasard = Math.random) {
   for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(hasard() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; }
   return b;
 }
+
+/* ---------- rotation du quiz du jour ---------- */
+// Le quiz tient la date à laquelle chaque liste et chaque fiche ont été posées.
+// Il prend d'abord les listes jamais posées ou posées il y a le plus longtemps,
+// puis, dans chaque liste, la fiche la moins récemment posée : les 79 listes
+// passent en quatre jours, et une fiche ne revient qu'une fois toutes les
+// autres de sa liste posées. Le hasard ne départage que les ex aequo.
+const anciennete = date => date ?? -Infinity;
+
+export function parAnciennete(cles, dates, hasard = Math.random) {
+  // (pas de soustraction : -Infinity moins -Infinity ne donne pas zéro)
+  return melanger(cles, hasard).sort((a, b) => {
+    const x = anciennete(dates[a]), y = anciennete(dates[b]);
+    return x === y ? 0 : x < y ? -1 : 1;
+  });
+}
+
+/**
+ * Tire les questions du quiz. listes : listes chargées, déjà rangées par
+ * ancienneté ; rotation : {listes, fiches} ; rend [{l, f, t, c}].
+ */
+export function tirerQuiz(listes, rotation, nombre, hasard = Math.random) {
+  const questions = [];
+  for (const l of listes) {
+    if (questions.length >= nombre) break;
+    const ids = parAnciennete(l.fiches.map(f => f.id), Object.fromEntries(l.fiches.map(f => [f.id, rotation.fiches[`${l.id}/${f.id}`]])), hasard);
+    for (const id of ids) {
+      const q = tirerQuestion(l, l.fiches.find(f => f.id === id), hasard);
+      if (q) { questions.push(q); break; }
+    }
+  }
+  return questions;
+}
+
+/** Note dans la rotation ce que le quiz vient de poser. */
+export function noterRotation(rotation, questions, jour) {
+  for (const q of questions) { rotation.listes[q.l] = jour; rotation.fiches[`${q.l}/${q.f}`] = jour; }
+}

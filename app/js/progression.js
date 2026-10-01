@@ -4,6 +4,11 @@
 // erreur la renvoie en boîte 1, à revoir le lendemain. Une fiche jamais vue est
 // en boîte 0. Tout est rangé sous une seule clé du stockage local, préfixée
 // « memo2- » : le domaine blinytz.github.io est partagé par toutes les applis.
+//
+// Des listes peuvent apparaître ou disparaître d'une version à l'autre. La
+// progression d'une fiche retirée n'est jamais effacée (elle reviendrait avec
+// sa liste) ; les calculs prennent un filtre « garde » qui ne laisse passer que
+// les fiches encore présentes.
 
 export const CLE_STOCKAGE = 'memo2-etat';
 export const INTERVALLES = [1, 3, 7, 16, 35];     // jours d'attente après la boîte 1, 2, 3, 4, 5
@@ -20,13 +25,17 @@ export function texteDuJour(j) {
 
 /* ---------- état ---------- */
 export function etatVide() {
-  return {v: 1, fiches: {}, suivies: [], derniere: null, jours: {}, quiz: null, eclats: {journal: []}};
+  return {v: 1, fiches: {}, suivies: [], derniere: null, jours: {}, quiz: null, eclats: {journal: []},
+    reglages: {}, rotation: {listes: {}, fiches: {}}, catalogue: {connues: null, apparues: {}}};
 }
 
 export function charger(stockage) {
   try {
     const brut = JSON.parse(stockage.getItem(CLE_STOCKAGE) || 'null');
-    if (brut && brut.v === 1) return {...etatVide(), ...brut};
+    if (brut && brut.v === 1) {
+      const vide = etatVide();
+      return {...vide, ...brut, rotation: {...vide.rotation, ...brut.rotation}, catalogue: {...vide.catalogue, ...brut.catalogue}};
+    }
   } catch {}
   return etatVide();
 }
@@ -43,27 +52,47 @@ export const estDue = (etat, cle, aujourdhui) => {
   return !!f && f.b >= 1 && f.d <= aujourdhui;
 };
 
-export function maitrise(etat, idListe, nbFiches) {
+const tout = () => true;
+
+export function maitrise(etat, idListe, nbFiches, garde = tout) {
   if (!nbFiches) return 0;
   let s = 0;
   const prefixe = idListe + '/';
-  for (const [cle, f] of Object.entries(etat.fiches)) if (cle.startsWith(prefixe)) s += f.b;
+  for (const [cle, f] of Object.entries(etat.fiches)) if (cle.startsWith(prefixe) && garde(cle)) s += f.b;
   return Math.round(100 * s / (5 * nbFiches));
 }
 
 /** Clés des fiches dues aujourd'hui, les plus en retard d'abord. */
-export function fichesDues(etat, aujourdhui) {
+export function fichesDues(etat, aujourdhui, garde = tout) {
   return Object.entries(etat.fiches)
-    .filter(([, f]) => f.b >= 1 && f.d <= aujourdhui)
+    .filter(([cle, f]) => f.b >= 1 && f.d <= aujourdhui && garde(cle))
     .sort((a, b) => a[1].d - b[1].d || a[1].b - b[1].b)
     .map(([cle]) => cle);
 }
 
-export function repartition(etat) {
+export function repartition(etat, garde = tout) {
   const n = [0, 0, 0, 0, 0, 0];
-  for (const f of Object.values(etat.fiches)) n[f.b]++;
+  for (const [cle, f] of Object.entries(etat.fiches)) if (garde(cle)) n[f.b]++;
   return n;
 }
+
+/** Fiches dont la progression est gardée mais qui ne sont plus au catalogue. */
+export const misesDeCote = (etat, garde) => Object.keys(etat.fiches).filter(cle => !garde(cle)).length;
+
+/**
+ * Note les listes apparues depuis la dernière visite. Au tout premier
+ * lancement, rien n'est « nouveau ». Rend les identifiants des nouvelles.
+ */
+export function noterCatalogue(etat, ids, aujourdhui) {
+  const c = etat.catalogue;
+  if (!c.connues) { c.connues = [...ids]; return []; }
+  const connues = new Set(c.connues), neuves = ids.filter(id => !connues.has(id));
+  for (const id of neuves) c.apparues[id] = aujourdhui;
+  c.connues = [...new Set([...c.connues, ...ids])];
+  return neuves;
+}
+export const estNouvelleListe = (etat, id, aujourdhui, duree = 14) =>
+  etat.catalogue.apparues[id] !== undefined && aujourdhui - etat.catalogue.apparues[id] < duree;
 
 /* ---------- écriture ---------- */
 /** Applique une réponse. Rend l'état d'avant, pour pouvoir annuler. */

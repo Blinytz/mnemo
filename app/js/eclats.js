@@ -1,5 +1,9 @@
 // Éclats de Mémo : seul le quiz du jour en rapporte, selon un barème.
 //
+// Le barème est réglable par l'utilisateur (écran Réglages). Un quiz fige le
+// barème en vigueur à son lancement : le changer en cours de route ne modifie
+// pas ce que rapporte le quiz commencé.
+//
 // Le solde est tenu localement, derrière la même idée que le registre commun :
 // chaque crédit porte une clé unique (une par jour pour le quiz), si bien qu'un
 // même quiz ne peut pas être payé deux fois. Le branchement sur le registre
@@ -7,15 +11,37 @@
 // journal local sans toucher aux écrans.
 
 export const QUESTIONS_QUIZ = 20;
-// [à partir de n bonnes réponses, Éclats gagnés]
-export const BAREME = [[0, 0], [10, 10], [13, 25], [16, 45], [18, 75], [20, 120]];
+export const GAIN_MAX = 10000;
+// [à partir de n bonnes réponses, Éclats gagnés] ; en dessous du premier palier, rien
+export const BAREME_DEFAUT = [[10, 10], [13, 25], [16, 45], [18, 75], [20, 120]];
 
-export const gainPour = n => BAREME.reduce((g, [seuil, e]) => n >= seuil ? e : g, 0);
+/**
+ * Remet un barème saisi en ordre : seuils entiers de 1 à 20, sans doublon,
+ * triés ; gains entiers de 0 à GAIN_MAX. Rend null si rien n'est utilisable.
+ */
+export function normaliserBareme(lignes) {
+  if (!Array.isArray(lignes)) return null;
+  const parSeuil = new Map();
+  for (const l of lignes) {
+    const seuil = Math.round(Number(l?.[0])), gain = Math.round(Number(l?.[1]));
+    if (!Number.isFinite(seuil) || !Number.isFinite(gain)) continue;
+    if (seuil < 1 || seuil > QUESTIONS_QUIZ) continue;
+    parSeuil.set(seuil, Math.min(GAIN_MAX, Math.max(0, gain)));
+  }
+  const out = [...parSeuil].sort((a, b) => a[0] - b[0]);
+  return out.length ? out : null;
+}
 
-/** Paliers prêts à afficher : {libelle, seuil, gain}. */
-export function paliers() {
-  return BAREME.map(([seuil, gain], i) => {
-    const fin = (BAREME[i + 1]?.[0] ?? QUESTIONS_QUIZ + 1) - 1;
+export const baremeEnVigueur = etat => normaliserBareme(etat.reglages?.bareme) || BAREME_DEFAUT;
+export const baremeDuQuiz = (etat, quiz) => normaliserBareme(quiz?.bareme) || baremeEnVigueur(etat);
+
+export const gainPour = (n, bareme = BAREME_DEFAUT) => bareme.reduce((g, [seuil, e]) => n >= seuil ? e : g, 0);
+
+/** Paliers prêts à afficher, palier « rien » compris : {libelle, seuil, fin, gain}. */
+export function paliers(bareme = BAREME_DEFAUT) {
+  const complet = bareme[0][0] > 0 ? [[0, 0], ...bareme] : bareme;
+  return complet.map(([seuil, gain], i) => {
+    const fin = (complet[i + 1]?.[0] ?? QUESTIONS_QUIZ + 1) - 1;
     const libelle = seuil === fin ? String(seuil) : fin === seuil + 1 ? `${seuil} ou ${fin}` : `${seuil} à ${fin}`;
     return {libelle, seuil, fin, gain};
   });
