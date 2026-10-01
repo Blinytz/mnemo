@@ -52,7 +52,17 @@ for (const [, collection, idListe] of generateur.matchAll(/'([a-z0-9-]+)':\s*dic
     if (c.lienWikipedia) m.set(c.id.split('_').slice(1).join('_'), c.lienWikipedia);
   liens.set(idListe, m);
 }
-if (!liens.size) console.log('Attention : dossier wikideck/data introuvable, les fiches partiront sans lien Wikipédia.');
+// Sans le dossier WikiDeck (au déploiement, sur GitHub), on reprend les liens
+// déjà présents dans les données précédentes, fiche par fiche
+const liensPrecedents = new Map();             // « liste/fiche » -> lien
+if (!liens.size) {
+  const avant = path.join(racine, 'data', 'listes');
+  if (fs.existsSync(avant)) for (const f of fs.readdirSync(avant)) {
+    const l = JSON.parse(fs.readFileSync(path.join(avant, f), 'utf8'));
+    for (const x of l.fiches) if (x.wiki) liensPrecedents.set(`${l.id}/${x.id}`, x.wiki);
+  }
+  console.log(`Dossier wikideck/data absent : ${liensPrecedents.size} liens Wikipédia repris des données précédentes.`);
+}
 
 /* ---------- 2. Mettre en forme ---------- */
 // Colonne qui nomme la fiche, quand ce n'est pas la première colonne de texte
@@ -106,7 +116,7 @@ for (const l of S.listes) {
       const k = String(fiche.carte).match(/^thumbs\/[^/]+\/([^/.]+)\.[a-z0-9]+$/i)?.[1];
       if (k && S.grandes[l.id]?.[k]) fiche.carteGrande = S.grandes[l.id][k];
     }
-    const lien = cleImage && liens.get(l.id)?.get(cleImage);
+    const lien = (cleImage && liens.get(l.id)?.get(cleImage)) || liensPrecedents.get(`${l.id}/${id}`);
     if (lien) fiche.wiki = lien;
     if (!valeurs[cle]) problemes.push(`${l.id} : fiche ${ri + 1} sans nom`);
     return fiche;

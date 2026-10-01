@@ -1,44 +1,60 @@
 // Mémo : écrans et séances.
 //
 // Quatre onglets (Aujourd'hui, Listes, Réviser, Progrès), une page par liste,
-// une feuille de détail par fiche, et une séance plein écran qui sert à la fois
+// une feuille de détail par fiche, une séance plein écran qui sert à la fois
 // aux révisions (sans Éclats) et au quiz du jour (20 questions, barème
-// réglable). Le catalogue peut gagner ou perdre des listes d'une version à
-// l'autre : les calculs ne retiennent que les fiches encore présentes.
+// réglable), et les Réglages (registre commun, barème, données).
+//
+// Le catalogue peut gagner ou perdre des listes d'une version à l'autre, et
+// l'utilisateur peut modifier les listes sur son appareil (edition.js) : les
+// calculs ne retiennent que les fiches visibles.
 
-import {ICONES, LOGO, ECLAT} from './icones.js';
 import * as P from './progression.js';
 import * as E from './eclats.js';
+import * as ED from './edition.js';
+import * as IMG from './images-perso.js';
+import {createRegistre} from './registre.js';
 import {corriger} from './correction.js';
 import {tirerQuestion, deplier, melanger, parAnciennete, tirerQuiz, noterRotation} from './questions.js';
 import {chargerCatalogue, chargerListe, chemin} from './donnees.js';
+import {$, $$, esc, ic, logo, eclat, sansAccents, pluriel, img, imgNette, toast} from './ui.js';
+import {initEdition, formulaireFiche, vueNouvelleListe, brancherNouvelleListe, formulaireListe} from './ecrans-edition.js';
 
-/* ---------- outils ---------- */
-const $ = s => document.querySelector(s);
-const $$ = s => document.querySelectorAll(s);
-const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
-const ic = (n, v = 'regular') => `<svg class="i" viewBox="0 0 256 256" aria-hidden="true">${ICONES[`${n}-${v}`] || ''}</svg>`;
-const logo = () => `<svg viewBox="0 0 256 256" aria-hidden="true"><path d="${LOGO}"/></svg>`;
-const eclat = (cls = 'eclat-glyphe') => `<svg class="${cls}" viewBox="0 0 256 256" aria-hidden="true"><path d="${ECLAT}"/></svg>`;
-const sansAccents = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-const pluriel = (n, mot, motPluriel = mot + 's') => `${n} ${n > 1 ? motPluriel : mot}`;
-const img = (p, alt = '', attrs = '') => p ? `<img src="${esc(chemin(p))}" alt="${esc(alt)}" ${attrs}>` : `<span class="sans-image" aria-hidden="true"></span>`;
-// Miniature (400 px) ou grande image (800 px et plus) : le navigateur prend celle
-// qui reste nette à la taille affichée, selon la densité de l'écran
-const imgNette = (f, alt, tailles, attrs = '') => f.grande && f.grande !== f.image
-  ? img(f.image, alt, `srcset="${esc(chemin(f.image))} 400w, ${esc(chemin(f.grande))} 900w" sizes="${tailles}" ${attrs}`)
-  : img(f.image, alt, attrs);
-
+/* ---------- état ---------- */
 let etat = P.charger(localStorage);
 const enregistrer = () => P.sauver(localStorage, etat);
+let ed = ED.chargerEdition(localStorage);
+function sauverEd() {
+  try { ED.sauverEdition(localStorage, ed); return true; }
+  catch { toast("Le stockage de l'appareil est plein : la modification n'a pas pu être enregistrée.", 5000); return false; }
+}
+const registre = createRegistre();
+let soldeCommun = null;                         // dernier solde lu dans le registre
 const auj = () => P.jourDe();
-let C = null;                                   // catalogue
-let actives = new Set();                        // clés « liste/fiche » encore au catalogue
+
+let catalogueOfficiel = null;                   // tel que publié
+let C = null;                                   // catalogue vu par l'utilisateur (officiel + ses listes)
+let actives = new Set();                        // clés « liste/fiche » visibles
 const garde = cle => actives.has(cle);
-const chargees = new Map();                     // listes déjà lues, par identifiant
+const chargees = new Map();                     // listes prêtes à l'affichage, changements appliqués
+
 async function liste(id) {
-  if (!chargees.has(id)) chargees.set(id, await chargerListe(id));
+  if (!chargees.has(id)) {
+    const perso = ED.listePerso(ed, id);
+    chargees.set(id, perso || ED.appliquer(await chargerListe(id), ed));
+  }
   return chargees.get(id);
+}
+
+/** Recalcule le catalogue vu par l'utilisateur après un changement de ses listes. */
+function recomposer() {
+  const listes = catalogueOfficiel.listes.map(l => {
+    const ids = ED.idsVisibles(l, ed);
+    return {...l, fiches: ids.length, idsVisibles: ids};
+  });
+  for (const l of ed.perso) listes.push({...ED.resumePerso(l), idsVisibles: l.fiches.map(f => f.id)});
+  C = {...catalogueOfficiel, listes, parId: new Map(listes.map(l => [l.id, l]))};
+  actives = new Set(listes.flatMap(l => l.idsVisibles.map(id => P.cleFiche(l.id, id))));
 }
 
 /* ---------- calculs sur le catalogue ---------- */
@@ -83,9 +99,10 @@ const vue = {page: 'aujourdhui', liste: null, affichage: 'fiches', filtre: 'tout
 const ONGLETS = [['aujourdhui', "Aujourd'hui", 'house'], ['listes', 'Listes', 'books'], ['reviser', 'Réviser', 'lightning'], ['progres', 'Progrès', 'chart-line-up']];
 
 function rendreOnglets() {
+  const dans = id => vue.page === id || (id === 'listes' && ['liste', 'nouvelle'].includes(vue.page));
   $('#onglets nav').innerHTML = ONGLETS.map(([id, lib, n]) => id === 'reviser'
     ? `<button class="principal" data-onglet="${id}"><span class="rond">${ic(n, 'fill')}</span>${lib}</button>`
-    : `<button data-onglet="${id}" ${vue.page === id || (id === 'listes' && vue.page === 'liste') ? 'aria-current="page"' : ''}>${ic(n, vue.page === id ? 'fill' : 'regular')}${lib}</button>`).join('');
+    : `<button data-onglet="${id}" ${dans(id) ? 'aria-current="page"' : ''}>${ic(n, dans(id) ? 'fill' : 'regular')}${lib}</button>`).join('');
   $$('[data-onglet]').forEach(b => b.onclick = () => {
     if (b.dataset.onglet === 'reviser') return lancerRevision().catch(erreur);
     aller(b.dataset.onglet);
@@ -94,11 +111,11 @@ function rendreOnglets() {
 function aller(page) { vue.page = page; rendre(); window.scrollTo({top: 0}); }
 
 function haut(titre) {
-  const s = P.serie(etat, auj());
+  const s = P.serie(etat, auj()), attente = E.montantACollecter(etat);
   return `<header class="haut"><div class="tuile">${logo()}</div><div class="marque">${titre}</div>
     <span class="pastille serie" title="Série : jours d'affilée à ${P.OBJECTIF_JOUR} réponses">${ic('fire', 'fill')}<span class="chiffre">${s}</span></span>
-    <span class="pastille eclats" title="Éclats gagnés au quiz du jour">${eclat()}<span class="chiffre">${E.solde(etat).toLocaleString('fr-FR')}</span></span>
-    <button class="pastille rond-reglages" id="reglages" aria-label="Réglages" title="Réglages">${ic('gear')}</button></header>`;
+    <button class="pastille eclats ${attente ? 'a-verser' : ''}" data-aller="reglages" title="${attente ? `${attente} Éclats à verser dans le registre commun` : 'Éclats gagnés au quiz du jour'}">${eclat()}<span class="chiffre">${E.solde(etat).toLocaleString('fr-FR')}</span></button>
+    <button class="pastille rond-reglages" data-aller="reglages" aria-label="Réglages" title="Réglages">${ic('gear')}</button></header>`;
 }
 
 function blocBareme(score, bareme) {
@@ -108,6 +125,29 @@ function blocBareme(score, bareme) {
   }).join('')}</div>`;
 }
 
+// Le gain d'un quiz, versé ou non dans le registre
+function blocVersement(cle) {
+  const e = etat.eclats.journal.find(x => x.cle === cle);
+  if (!e) return '';
+  if (e.collecte) return `<p class="sous verse">${ic('check')} Versé dans le registre commun</p>`;
+  return registre.estConnecte()
+    ? `<button class="bouton fantome large" data-verser="${esc(cle)}">${ic('cloud-arrow-up')} Verser ${e.montant} ${eclat()} dans le registre</button>`
+    : `<button class="lien" data-aller="reglages" style="justify-self:start">${ic('sign-in')} Se connecter au registre pour verser ces Éclats</button>`;
+}
+const cleQuiz = j => `memo-quiz-${P.texteDuJour(j)}`;
+
+async function verser(cle) {
+  try {
+    await E.collecter(etat, registre, cle);
+    enregistrer();
+    toast('Éclats versés dans le registre commun');
+    soldeCommun = null;
+  } catch (e) {
+    toast(e.status === 401 ? 'Session expirée : reconnecte-toi dans Réglages.' : `Versement impossible : ${e.message}`, 4000);
+  }
+  if (seance?.fini) terminer(); else rendre();
+}
+
 /* ---------- Aujourd'hui ---------- */
 function vueAujourdhui() {
   const j = auj(), dues = P.fichesDues(etat, j, garde).length, neuves = Math.min(nouvellesDisponibles(), 5);
@@ -115,7 +155,7 @@ function vueAujourdhui() {
   const qj = etat.quiz?.jour === j ? etat.quiz : null;
   const n = E.QUESTIONS_QUIZ, bareme = qj ? E.baremeDuQuiz(etat, qj) : E.baremeEnVigueur(etat);
   const quiz = qj?.fini
-    ? `<h1><span class="chiffre">${qj.score} / ${n}</span> · +${qj.gain} ${eclat()}</h1><p class="sous" style="margin:0">Fait aujourd'hui. Reviens demain pour un nouveau tirage.</p>${blocBareme(qj.score, bareme)}`
+    ? `<h1><span class="chiffre">${qj.score} / ${n}</span> · +${qj.gain} ${eclat()}</h1><p class="sous" style="margin:0">Fait aujourd'hui. Reviens demain pour un nouveau tirage.</p>${blocBareme(qj.score, bareme)}${blocVersement(cleQuiz(j))}`
     : qj
       ? `<h1>Quiz commencé : ${qj.reponses.length} / ${n}</h1><p class="sous" style="margin:0">Tes réponses sont gardées. Reprends où tu t'es arrêté.</p>${blocBareme(undefined, bareme)}
          <button class="bouton eclat large" id="quiz-jour">${ic('play', 'fill')} Reprendre le quiz</button>`
@@ -126,10 +166,10 @@ function vueAujourdhui() {
   if (!suivies().length && !dues) {
     heros = `<h1>Choisis ta première liste</h1>
       <p>Chaque liste que tu révises entre dans ta mémoire : Mémo te repose ensuite ses fiches au bon moment, un peu chaque jour.</p>
-      <button class="bouton plein large" data-onglet-lien="listes">${ic('books', 'fill')} Parcourir les listes</button>`;
+      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Parcourir les listes</button>`;
   } else if (!dues && !neuves) {
     heros = `<h1>Tout est à jour</h1><p>Aucune fiche à revoir aujourd'hui. Ajoute une liste pour découvrir de nouvelles fiches.</p>
-      <button class="bouton plein large" data-onglet-lien="listes">${ic('books', 'fill')} Ajouter une liste</button>`;
+      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Ajouter une liste</button>`;
   } else {
     heros = `<h1>${pluriel(dues + neuves, "fiche t'attend", "fiches t'attendent")}</h1>
       <div class="ligne">
@@ -143,7 +183,7 @@ function vueAujourdhui() {
   const derniere = etat.derniere && infoListe(etat.derniere);
   // « À découvrir » : 8 listes pas encore suivies ; les nouvelles d'abord, puis
   // un ordre qui change chaque jour
-  const pasSuivies = C.listes.filter(l => !etat.suivies.includes(l.id)).map(l => l.id);
+  const pasSuivies = C.listes.filter(l => !etat.suivies.includes(l.id) && l.fiches).map(l => l.id);
   const aDecouvrir = [...pasSuivies.filter(estNouvelle), ...ordreDuJour(pasSuivies.filter(id => !estNouvelle(id)))].slice(0, 8).map(infoListe);
 
   return haut('Mémo') + `
@@ -167,15 +207,15 @@ function vueAujourdhui() {
   </div></section>
 
   ${derniere ? `<section class="section"><header><h2>Continuer</h2></header>
-    <button class="carte continuer" data-liste="${derniere.id}">
+    <button class="carte continuer" data-liste="${esc(derniere.id)}">
       ${img(derniere.apercu[0])}
       <div style="text-align:left"><h3>${esc(derniere.nom)}</h3><div class="barre" style="margin:7px 0 4px"><i style="width:${maitriseListe(derniere.id)}%"></i></div><div class="sous">${maitriseListe(derniere.id)} % maîtrisé · ${derniere.fiches} fiches</div></div>
       ${ic('caret-right')}
     </button></section>` : ''}
 
-  <section class="section"><header><h2>À découvrir</h2><button class="lien" data-onglet-lien="listes">Tout voir</button></header>
-    <div class="defiler">${aDecouvrir.map(l => `<button class="decouverte" data-liste="${l.id}">${img(l.apercu[0])}<div>${estNouvelle(l.id) ? '<span class="badge eclat">Nouvelle</span>' : ''}${esc(l.nom)}<small>${l.fiches} fiches</small></div></button>`).join('')}</div>
-  </section>`;
+  ${aDecouvrir.length ? `<section class="section"><header><h2>À découvrir</h2><button class="lien" data-aller="listes">Tout voir</button></header>
+    <div class="defiler">${aDecouvrir.map(l => `<button class="decouverte" data-liste="${esc(l.id)}">${img(l.apercu[0])}<div>${estNouvelle(l.id) ? '<span class="badge eclat">Nouvelle</span>' : ''}${esc(l.nom)}<small>${l.fiches} fiches</small></div></button>`).join('')}</div>
+  </section>` : ''}`;
 }
 
 /* ---------- Listes ---------- */
@@ -183,20 +223,21 @@ function vueListes() {
   const dues = duesParListe();
   const cats = C.categories.filter(c => C.listes.some(l => l.categorie === c.id));
   const q = sansAccents(vue.recherche.trim());
-  const garde = l => (vue.filtre === 'tout' || l.categorie === vue.filtre) && (!q || sansAccents(l.nom).includes(q));
+  const retenue = l => (vue.filtre === 'tout' || l.categorie === vue.filtre) && (!q || sansAccents(l.nom).includes(q));
   const blocs = cats.map(c => {
-    const ls = C.listes.filter(l => l.categorie === c.id && garde(l)).sort((a, b) => a.nom.localeCompare(b.nom, 'fr'));
+    const ls = C.listes.filter(l => l.categorie === c.id && retenue(l)).sort((a, b) => a.nom.localeCompare(b.nom, 'fr'));
     if (!ls.length) return '';
     return `<div class="titre-cat"><span style="font-size:20px">${c.icone}</span><h2>${esc(c.nom)}</h2><span class="pct">${pluriel(ls.length, 'liste')}</span></div>
       <div class="carte" style="padding:4px 14px">${ls.map(l => {
         const m = maitriseListe(l.id), d = dues.get(l.id) || 0, suivie = etat.suivies.includes(l.id);
-        return `<button class="ligne-liste" data-liste="${l.id}"><span class="ic-liste">${l.icone}</span>
-          <span><span class="nom">${esc(l.nom)}</span><span class="meta">${suivie ? `<span class="barre"><i style="width:${m}%"></i></span><span class="sous chiffre">${m} %</span>` : `<span class="sous">${l.fiches} fiches</span>`}</span></span>
+        return `<button class="ligne-liste" data-liste="${esc(l.id)}"><span class="ic-liste">${esc(l.icone)}</span>
+          <span><span class="nom">${esc(l.nom)}</span><span class="meta">${suivie ? `<span class="barre"><i style="width:${m}%"></i></span><span class="sous chiffre">${m} %</span>` : `<span class="sous">${pluriel(l.fiches, 'fiche')}</span>`}</span></span>
           ${d ? `<span class="badge">${d} à revoir</span>` : estNouvelle(l.id) ? '<span class="badge eclat">Nouvelle</span>' : ic('caret-right')}</button>`;
       }).join('')}</div>`;
   }).join('');
   return haut('Listes') + `
-    <div class="pile"><label class="recherche">${ic('magnifying-glass')}<input id="rech" type="search" placeholder="Chercher parmi ${C.listes.length} listes" value="${esc(vue.recherche)}" aria-label="Chercher une liste"></label>
+    <div class="pile"><div class="barre-recherche"><label class="recherche">${ic('magnifying-glass')}<input id="rech" type="search" placeholder="Chercher parmi ${C.listes.length} listes" value="${esc(vue.recherche)}" aria-label="Chercher une liste"></label>
+      <button class="bouton memo carre" data-aller="nouvelle" aria-label="Créer une liste" title="Créer une liste">${ic('plus')}</button></div>
     <div class="puces" role="group" aria-label="Catégories">${[['tout', 'Tout']].concat(cats.map(c => [c.id, c.icone + ' ' + c.nom])).map(([id, lib]) => `<button class="puce" data-cat="${id}" aria-pressed="${vue.filtre === id}">${esc(lib)}</button>`).join('')}</div></div>
     ${blocs || '<p class="sous" style="margin-top:24px">Aucune liste ne correspond.</p>'}`;
 }
@@ -206,23 +247,31 @@ function niveaux(b) {
   return `<div class="niveaux" aria-label="${P.LIBELLES[b]}">${[1, 2, 3, 4, 5].map(n => `<i class="${b >= n ? 'on' : ''}"></i>`).join('')}</div>`;
 }
 function vueListe() {
-  const info = infoListe(vue.liste), l = chargees.get(vue.liste);
+  const l = chargees.get(vue.liste);
   const retour = `<button class="retour" id="retour">${ic('arrow-left')} Listes</button>`;
   if (!l) return retour + `<p class="sous" style="margin-top:20px">Chargement de la liste…</p>`;
   const m = maitriseListe(l.id), dues = duesParListe().get(l.id) || 0;
   const vues = vuesParListe().get(l.id) || 0, neuves = l.fiches.length - vues;
   const cle = f => P.cleFiche(l.id, f.id);
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle);
+  const perso = ED.estPerso(ed, l.id), masquees = (ed.retraits[l.id] || []).length;
+  const changees = l.fiches.filter(f => f.modifiee || f.ajoutee).length;
   return `${retour}
-    <div class="entete-liste"><div><span class="etiquette">${esc(nomCategorie(l.categorie).nom)}</span><h1>${l.icone} ${esc(l.nom)}</h1>
-      <div class="sous" style="margin-top:4px">${l.fiches.length} fiches · ${esc(l.colonnes.join(' · '))}</div></div>
+    <div class="entete-liste"><div><span class="etiquette">${perso ? 'Ma liste · ' : ''}${esc(nomCategorie(l.categorie).nom)}</span><h1>${esc(l.icone)} ${esc(l.nom)}</h1>
+      <div class="sous" style="margin-top:4px">${pluriel(l.fiches.length, 'fiche')} · ${esc(l.colonnes.join(' · '))}</div></div>
       <div class="jauge" style="--p:${m}"><span class="chiffre">${m}%</span></div></div>
     <div class="actions">
-      <button class="bouton memo" data-reviser="${l.id}">${ic('lightning', 'fill')} ${dues ? `Réviser (${dues})` : 'Réviser'}</button>
-      <button class="bouton fantome" data-reviser="${l.id}" data-mode="decouvrir" ${neuves ? '' : 'disabled'}>${ic('sparkle')} ${neuves ? 'Découvrir' : 'Tout vu'}</button></div>
-    <div class="segment" role="group" aria-label="Affichage"><button data-vue="fiches" aria-pressed="${vue.affichage === 'fiches'}">Fiches</button><button data-vue="tableau" aria-pressed="${vue.affichage === 'tableau'}">Tableau</button></div>
-    ${vue.affichage === 'fiches'
-      ? `<div class="grille">${l.fiches.map(f => `<button class="fiche" data-fiche="${esc(f.id)}">${f.image ? imgNette(f, '', '(max-width: 460px) 46vw, 210px', 'loading="lazy"') : ''}<div class="corps"><div class="nom">${esc(f.valeurs[l.cle])}</div><div class="sec">${esc(f.valeurs[autres[0]] || '')}</div>${niveaux(P.boite(etat, cle(f)))}</div></button>`).join('')}</div>`
+      <button class="bouton memo" data-reviser="${esc(l.id)}" ${l.fiches.length ? '' : 'disabled'}>${ic('lightning', 'fill')} ${dues ? `Réviser (${dues})` : 'Réviser'}</button>
+      <button class="bouton fantome" data-reviser="${esc(l.id)}" data-mode="decouvrir" ${neuves > 0 ? '' : 'disabled'}>${ic('sparkle')} ${neuves > 0 ? 'Découvrir' : 'Tout vu'}</button></div>
+    <div class="outils-liste">
+      <button class="lien" id="ajout-fiche">${ic('plus')} Ajouter une fiche</button>
+      ${perso ? `<button class="lien" id="modif-liste">${ic('pencil-simple')} Modifier la liste</button>` : ''}
+      ${masquees ? `<button class="lien" id="restaurer">${ic('eye')} Revoir ${pluriel(masquees, 'fiche masquée', 'fiches masquées')}</button>` : ''}
+    </div>
+    ${changees && !perso ? `<p class="sous" style="margin:8px 0 0">${pluriel(changees, 'fiche modifiée ou ajoutée', 'fiches modifiées ou ajoutées')} par toi sur cet appareil.</p>` : ''}
+    ${l.fiches.length ? `<div class="segment" role="group" aria-label="Affichage"><button data-vue="fiches" aria-pressed="${vue.affichage === 'fiches'}">Fiches</button><button data-vue="tableau" aria-pressed="${vue.affichage === 'tableau'}">Tableau</button></div>` : `<div class="carte vide" style="margin-top:16px"><p class="sous" style="margin:0">Cette liste est vide. Ajoute une première fiche${perso ? ', ou colle un tableau depuis « Modifier la liste »' : ''}.</p></div>`}
+    ${!l.fiches.length ? '' : vue.affichage === 'fiches'
+      ? `<div class="grille">${l.fiches.map(f => `<button class="fiche" data-fiche="${esc(f.id)}">${f.image ? imgNette(f, '', '(max-width: 460px) 46vw, 210px', 'loading="lazy"') : (l.fiches.some(x => x.image) ? '<span class="sans-image"></span>' : '')}<div class="corps"><div class="nom">${esc(f.valeurs[l.cle])}${f.modifiee || f.ajoutee ? ` <span class="marque-perso" title="${f.ajoutee ? 'Ajoutée par toi' : 'Modifiée par toi'}">${ic('pencil-simple')}</span>` : ''}</div><div class="sec">${esc(f.valeurs[autres[0]] || '')}</div>${niveaux(P.boite(etat, cle(f)))}</div></button>`).join('')}</div>`
       : `<div class="tableau"><table><thead><tr><th>${esc(l.colonnes[l.cle])}</th>${autres.map(i => `<th>${esc(l.colonnes[i])}</th>`).join('')}</tr></thead><tbody>${l.fiches.map(f => `<tr data-fiche="${esc(f.id)}"><td>${esc(f.valeurs[l.cle])}</td>${autres.map(i => `<td>${esc(f.valeurs[i])}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`}`;
 }
 async function ouvrirListe(id) {
@@ -232,22 +281,40 @@ async function ouvrirListe(id) {
   if (vue.page === 'liste' && vue.liste === id) rendre();
 }
 
+function ouvrirFeuille(html) {
+  $('#feuille').innerHTML = html;
+  $('#feuille').scrollTop = 0;
+  $('#voile').classList.add('ouvert');
+}
+function fermerFiche() { $('#voile').classList.remove('ouvert'); }
+
 function ouvrirFiche(idListe, idFiche) {
   const l = chargees.get(idListe), f = l?.fiches.find(x => x.id === idFiche);
   if (!f) return;
   const b = P.boite(etat, P.cleFiche(idListe, idFiche));
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle && f.valeurs[i]);
-  $('#feuille').innerHTML = `<div class="poignee"></div>${f.image ? img(f.grande || f.image, f.valeurs[l.cle]) : ''}<div class="contenu">
-    <div><span class="etiquette">${esc(l.nom)}</span><h1 style="margin-top:4px">${esc(f.valeurs[l.cle])}</h1></div>
+  ouvrirFeuille(`<div class="poignee"></div>${f.image ? img(f.grande || f.image, f.valeurs[l.cle]) : ''}<div class="contenu">
+    <div><span class="etiquette">${esc(l.nom)}${f.ajoutee ? ' · ajoutée par toi' : f.modifiee ? ' · modifiée par toi' : ''}</span><h1 style="margin-top:4px">${esc(f.valeurs[l.cle])}</h1></div>
     ${f.carte ? `<div class="carte-loc">${img(f.carteGrande || f.carte, 'Localisation')}</div>` : ''}
     <dl>${autres.map(i => `<div><dt>${esc(l.colonnes[i])}</dt><dd>${esc(f.valeurs[i])}</dd></div>`).join('')}</dl>
-    ${lienWiki(l, f)}
+    <div class="pied-retour">${lienWiki(l, f)}<button class="lien" id="modifier-fiche">${ic('pencil-simple')} Modifier</button></div>
     <div class="carte" style="box-shadow:none;background:var(--surface-2);display:flex;gap:12px;align-items:center">${niveaux(b).replace('class="niveaux"', 'class="niveaux" style="flex:1;margin:0"')}<span class="sous">${b ? `${P.LIBELLES[b]} · niveau ${b} sur 5` : 'Jamais révisée'}</span></div>
-    <button class="bouton fantome large" id="fermer">Fermer</button></div>`;
-  $('#voile').classList.add('ouvert');
+    <button class="bouton fantome large" id="fermer">Fermer</button></div>`);
   $('#fermer').onclick = fermerFiche;
+  $('#modifier-fiche').onclick = () => formulaireFiche(idListe, idFiche).catch(erreur);
 }
-function fermerFiche() { $('#voile').classList.remove('ouvert'); }
+
+/** Après une modification : catalogue recalculé, liste relue, écran à jour. */
+async function apresEdition(idListe, message, ouvrir = false) {
+  recomposer();
+  if (idListe) chargees.delete(idListe);
+  fermerFiche();
+  if (message) toast(message);
+  if (!idListe || !C.parId.has(idListe)) { if (vue.page === 'liste') aller('listes'); else rendre(); return; }
+  if (ouvrir) return ouvrirListe(idListe);
+  await liste(idListe);
+  rendre();
+}
 
 /* ---------- Progrès ---------- */
 function vueProgres() {
@@ -272,25 +339,25 @@ function vueProgres() {
     <section class="section"><header><h2>Mémoire</h2><span class="sous">${pluriel(cmpt.slice(1).reduce((a, b) => a + b, 0), 'fiche vue', 'fiches vues')}</span></header>
       <div class="carte"><div class="boites">${[1, 2, 3, 4, 5].map(b => `<div><b class="chiffre">${cmpt[b]}</b><span class="col b${b}" style="height:${Math.max(4, 100 * cmpt[b] / maxB)}%"></span><small>${P.LIBELLES[b]}</small></div>`).join('')}</div>
       <p class="sous" style="margin:12px 0 0">Une fiche réussie monte d'une case et revient de plus en plus tard (${P.INTERVALLES.join(', ').replace(/, (\d+)$/, ' puis $1')} jours). Une erreur la renvoie au début.</p>
-      ${deCote ? `<p class="sous" style="margin:8px 0 0">${pluriel(deCote, 'fiche révisée appartient', 'fiches révisées appartiennent')} à des listes ou des fiches retirées du catalogue : leur progression est gardée de côté, hors de ces chiffres, et reviendra avec elles.</p>` : ''}</div></section>
+      ${deCote ? `<p class="sous" style="margin:8px 0 0">${pluriel(deCote, 'fiche révisée appartient', 'fiches révisées appartiennent')} à des listes ou des fiches retirées : leur progression est gardée de côté, hors de ces chiffres, et reviendra avec elles.</p>` : ''}</div></section>
     <section class="section"><header><h2>12 dernières semaines</h2></header><div class="carte"><div class="calendrier">${jours.map(n => `<i data-n="${n}"></i>`).join('')}</div></div></section>
-    ${cats.length ? `<section class="section"><header><h2>Par catégorie</h2></header><div class="carte cat-maitrise">${cats.map(([i, n, p]) => `<div><span style="font-size:20px">${i}</span><span><b>${esc(n)}</b><span class="barre" style="display:block;margin-top:5px"><i style="width:${p}%"></i></span></span><span class="pct chiffre">${p}%</span></div>`).join('')}</div></section>` : ''}
-    <p class="sous" style="margin-top:24px">Pour modifier une liste ou en créer une, l'<a href="../memo.html">ancienne version de Mémo</a> reste disponible pendant la refonte.</p>`;
+    ${cats.length ? `<section class="section"><header><h2>Par catégorie</h2></header><div class="carte cat-maitrise">${cats.map(([i, n, p]) => `<div><span style="font-size:20px">${i}</span><span><b>${esc(n)}</b><span class="barre" style="display:block;margin-top:5px"><i style="width:${p}%"></i></span></span><span class="pct chiffre">${p}%</span></div>`).join('')}</div></section>` : ''}`;
 }
 
 /* ---------- Séances ---------- */
-let seance = null;   // {mode, items: [question dépliée], reponses: [], n}
+let seance = null;   // {mode, items: [question dépliée], reponses: [], n, fini}
 
 // Rend une question dépliée par question reçue, ou null si sa liste ou sa
-// fiche a disparu du catalogue depuis
+// fiche a disparu depuis
 async function preparer(questions) {
   await Promise.allSettled([...new Set(questions.map(q => q.l))].filter(id => C.parId.has(id)).map(liste));
   return questions.map(q => chargees.has(q.l) ? deplier(q, chargees.get(q.l)) : null);
 }
 
-// Une question de secours, prise n'importe où sauf parmi les fiches déjà posées
+// Une question de secours pour le quiz, prise dans les listes officielles,
+// sauf parmi les fiches déjà posées
 async function questionDeSecours(prises) {
-  for (const id of melanger(C.listes.map(l => l.id))) {
+  for (const id of melanger(C.listes.filter(l => l.fiches && !l.perso).map(l => l.id))) {
     const l = await liste(id).catch(() => null);
     if (!l) continue;
     for (const f of melanger(l.fiches)) {
@@ -322,20 +389,21 @@ async function lancerRevision(idListe, mode) {
     const neuves = [];
     for (const id of suivies()) {
       if (neuves.length >= 5 || dues.length + neuves.length >= 20) break;
-      const l = await liste(id);
+      const l = await liste(id).catch(() => null);
+      if (!l) continue;
       for (const f of l.fiches) {
         const c = P.cleFiche(id, f.id);
         if (!etat.fiches[c]) { neuves.push(c); if (neuves.length >= 5) break; }
       }
     }
     cles = [...dues, ...neuves];
-    if (!cles.length) { toast(suivies().length ? "Rien à revoir aujourd'hui" : 'Choisis d\'abord une liste'); return aller('listes'); }
+    if (!cles.length) { toast(suivies().length ? "Rien à revoir aujourd'hui" : "Choisis d'abord une liste"); return aller('listes'); }
   }
   enregistrer();
   const questions = [];
   for (const c of melanger(cles)) {
     const [l, f] = c.split('/');
-    const lst = await liste(l), fiche = lst.fiches.find(x => x.id === f);
+    const lst = await liste(l).catch(() => null), fiche = lst?.fiches.find(x => x.id === f);
     const q = fiche && tirerQuestion(lst, fiche);
     if (q) questions.push(q);
   }
@@ -347,8 +415,9 @@ async function lancerRevision(idListe, mode) {
 async function lancerQuiz() {
   const j = auj();
   if (!(etat.quiz?.jour === j)) {
-    // les listes les moins récemment posées d'abord (voir tirerQuiz)
-    const ordre = parAnciennete(C.listes.filter(l => l.fiches).map(l => l.id), etat.rotation.listes);
+    // les listes officielles les moins récemment posées d'abord (voir tirerQuiz) ;
+    // les listes personnelles restent hors du quiz, qui doit valoir pour tous
+    const ordre = parAnciennete(C.listes.filter(l => l.fiches && !l.perso).map(l => l.id), etat.rotation.listes);
     const lues = (await Promise.allSettled(ordre.slice(0, E.QUESTIONS_QUIZ + 5).map(liste)))
       .filter(r => r.status === 'fulfilled').map(r => r.value);
     const questions = tirerQuiz(lues, etat.rotation, E.QUESTIONS_QUIZ);
@@ -381,11 +450,15 @@ async function lancerQuiz() {
 
 function ouvrirSeance() {
   $('#seance').classList.add('ouverte'); document.body.style.overflow = 'hidden';
+  // toutes les grandes images de la séance se chargent d'avance : elles restent
+  // ainsi disponibles si la connexion tombe en route
+  for (const it of seance.items.slice(seance.n)) if (it?.fiche.grande) new Image().src = chemin(it.fiche.grande);
   rendreQuestion();
 }
 function fermerSeance() {
   $('#seance').classList.remove('ouverte'); document.body.style.overflow = ''; seance = null;
-  if (vue.page === 'liste' && chargees.has(vue.liste)) rendre(); else rendre();
+  rendre();
+  verifierVersion();
 }
 const bonnes = () => seance.reponses.filter(r => r.juste).length;
 
@@ -422,9 +495,6 @@ function rendreQuestion() {
         <button class="bouton ${quiz ? 'eclat' : 'memo'} large suite-fixe" id="suite">${seance.n + 1 < total ? 'Question suivante' : 'Voir le résultat'} ${ic('caret-right')}</button>` : ''}
     </div></div>`;
   $('#quitter').onclick = fermerSeance;
-  // la grande image de la question suivante se charge pendant qu'on répond
-  const suivanteF = seance.items[seance.n + 1]?.fiche;
-  if (suivanteF?.grande) new Image().src = chemin(suivanteF.grande);
   if (!fini) {
     const champ = $('#rep');
     setTimeout(() => champ.focus(), 50);
@@ -470,10 +540,13 @@ function terminer() {
   let gain = 0;
   const bareme = quiz ? E.baremeDuQuiz(etat, etat.quiz) : null;
   if (quiz) {
-    gain = E.gainPour(n, bareme);
-    E.crediter(etat, `memo-quiz-${P.texteDuJour(j)}`, gain, 'Quiz du jour');
-    Object.assign(etat.quiz, {fini: true, score: n, gain});
+    gain = etat.quiz.fini ? etat.quiz.gain : E.gainPour(n, bareme);
+    if (!etat.quiz.fini) {
+      E.crediter(etat, cleQuiz(j), gain, 'Quiz du jour', {jour: P.texteDuJour(j), score: n, bareme});
+      Object.assign(etat.quiz, {fini: true, score: n, gain});
+    }
   }
+  seance.fini = true;
   enregistrer();
   const s = P.serie(etat, j);
   $('#seance').classList.add('ouverte'); document.body.style.overflow = 'hidden';
@@ -483,12 +556,15 @@ function terminer() {
     <h2>${n === total ? 'Sans faute !' : n >= total * .7 ? 'Très bien joué' : 'On continue demain'}</h2>
     ${quiz ? `<div class="eclats-gagnes monte" style="animation-delay:.15s">+${gain} ${eclat()}</div>
       ${blocBareme(n, bareme)}
-      <p class="sous" style="margin:0">${corriges ? `${pluriel(corriges, 'correction manuelle prise', 'corrections manuelles prises')} en compte.` : ''}</p>`
+      ${corriges ? `<p class="sous" style="margin:0">${pluriel(corriges, 'correction manuelle prise', 'corrections manuelles prises')} en compte.</p>` : ''}
+      ${gain ? blocVersement(cleQuiz(j)) : ''}`
     : `<p class="sous" style="margin:0">Les révisions ne rapportent pas d'Éclats : c'est le quiz du jour qui en donne.</p>`}
     <div class="bilan monte" style="animation-delay:.25s"><div><b class="chiffre">${n}</b><span>${quiz ? (n > 1 ? 'bonnes réponses' : 'bonne réponse') : (n > 1 ? 'fiches en progrès' : 'fiche en progrès')}</span></div><div><b class="chiffre">${total - n}</b><span>${quiz ? (total - n > 1 ? 'manquées' : 'manquée') : 'à revoir demain'}</span></div><div><b class="chiffre">${s} j</b><span>de série</span></div></div>
     ${quiz ? '' : `<button class="bouton memo large" id="encore">${ic('lightning', 'fill')} Encore une révision</button>`}
     <button class="bouton fantome large" id="finir">Terminer</button></div></div>`;
-  const e = $('#encore'); if (e) e.onclick = () => lancerRevision().catch(erreur);
+  $('#encore')?.addEventListener('click', () => lancerRevision().catch(erreur));
+  $('#seance [data-verser]')?.addEventListener('click', e => verser(e.currentTarget.dataset.verser));
+  $('#seance [data-aller]')?.addEventListener('click', () => { fermerSeance(); aller('reglages'); });
   $('#finir').onclick = fermerSeance;
   $('#finir').focus();
 }
@@ -499,8 +575,29 @@ function vueReglages() {
   if (!brouillon) brouillon = E.baremeEnVigueur(etat).map(l => [...l]);
   const valide = E.normaliserBareme(brouillon);
   const qj = etat.quiz?.jour === auj() && !etat.quiz.fini;
+  const attente = E.aCollecter(etat), montant = E.montantACollecter(etat);
+  const connecte = registre.estConnecte();
+  const anciennes = ED.listesAnciennes(localStorage).filter(a => !ed.perso.some(l => l.ancienneId === a.id));
   return `<button class="retour" id="retour-accueil">${ic('arrow-left')} Aujourd'hui</button>
     <h1>Réglages</h1>
+
+    <section class="section"><header><h2>Registre commun des Éclats</h2></header>
+    <div class="carte pile">
+      ${connecte ? `
+        <div class="ligne-info"><span class="sous">Connecté</span><b>${esc(registre.utilisateur()?.email || 'compte du registre')}</b></div>
+        <div class="ligne-info"><span class="sous">Solde commun</span><b class="chiffre" id="solde-commun">${soldeCommun === null ? '…' : `${soldeCommun.toLocaleString('fr-FR')} ${eclat()}`}</b></div>
+        <div class="ligne-info"><span class="sous">À verser depuis Mémo</span><b class="chiffre">${montant} ${eclat()}</b></div>
+        <button class="bouton memo large" id="tout-verser" ${montant ? '' : 'disabled'}>${ic('cloud-arrow-up')} ${montant ? `Verser ${montant} Éclats (${pluriel(attente.length, 'quiz')})` : 'Rien à verser'}</button>
+        <button class="lien" id="deconnexion" style="justify-self:start">${ic('sign-out')} Se déconnecter</button>`
+      : `
+        <p class="sous" style="margin:0">Connecte-toi avec le compte du registre, le même que dans Missions ou Sport, pour verser les Éclats du quiz dans ton solde commun.${montant ? ` <b style="color:var(--encre)">${montant} Éclats attendent d'être versés.</b>` : ''}</p>
+        <form class="pile formulaire" id="connexion" novalidate>
+          <label class="champ"><span>Adresse e-mail</span><input type="email" id="cx-email" autocomplete="username" required></label>
+          <label class="champ"><span>Mot de passe</span><input type="password" id="cx-mdp" autocomplete="current-password" required></label>
+          <button class="bouton memo large" type="submit">${ic('sign-in')} Se connecter</button>
+        </form>`}
+    </div></section>
+
     <section class="section"><header><h2>Barème du quiz du jour</h2></header>
     <div class="carte pile">
       <p class="sous" style="margin:0">Pour ${E.QUESTIONS_QUIZ} questions. Chaque palier dit combien d'Éclats rapporte le quiz à partir d'un nombre de bonnes réponses ; en dessous du premier palier, il ne rapporte rien.</p>
@@ -513,8 +610,23 @@ function vueReglages() {
       ${valide ? blocBareme(undefined, valide) : '<p class="sous" style="margin:0">Il faut au moins un palier entre 1 et 20 bonnes réponses.</p>'}
       ${qj ? `<p class="sous" style="margin:0">Le quiz commencé aujourd'hui garde le barème de son lancement ; le nouveau vaudra dès le prochain.</p>` : ''}
       <div class="actions" style="margin-top:4px"><button class="bouton memo" id="enregistrer-bareme" ${valide ? '' : 'disabled'}>Enregistrer</button><button class="bouton fantome" id="defaut-bareme">${ic('arrow-counter-clockwise')} D'origine</button></div>
+    </div></section>
+
+    <section class="section"><header><h2>Mes données</h2></header>
+    <div class="carte pile">
+      <p class="sous" style="margin:0">Ta progression, tes listes et tes photos restent sur cet appareil. Une sauvegarde permet de les garder ou de les passer sur un autre appareil.</p>
+      ${anciennes.length ? `<button class="bouton fantome large" id="reprendre">${ic('download-simple')} Reprendre ${pluriel(anciennes.length, 'liste personnelle', 'listes personnelles')} de l'ancienne version</button>` : ''}
+      <div class="actions"><button class="bouton fantome" id="exporter">${ic('download-simple')} Sauvegarder</button>
+        <label class="bouton fantome">${ic('upload-simple')} Restaurer<input type="file" accept="application/json,.json" id="importer" hidden></label></div>
+    </div></section>
+
+    <section class="section"><header><h2>Autour de Mémo</h2></header>
+    <div class="carte pile">
+      <a class="lien" href="../atelier.html">${ic('image-square')} Atelier des images (recadrer, remplacer une photo officielle)</a>
+      <a class="lien" href="../memo.html?ancienne">${ic('arrow-square-out')} Ancienne version de Mémo</a>
     </div></section>`;
 }
+
 function brancherReglages() {
   $$('[data-p]').forEach(inp => inp.onchange = () => {
     brouillon[inp.dataset.p][inp.dataset.k] = inp.value;
@@ -541,49 +653,162 @@ function brancherReglages() {
     brouillon = null; toast('Barème enregistré'); rendre();
   };
   $('#retour-accueil').onclick = () => { brouillon = null; aller('aujourdhui'); };
+
+  // registre commun
+  $('#connexion')?.addEventListener('submit', async e => {
+    e.preventDefault();
+    const bouton = e.target.querySelector('button'); bouton.disabled = true;
+    try {
+      await registre.connexion($('#cx-email').value.trim(), $('#cx-mdp').value);
+      soldeCommun = null; toast('Connecté au registre commun'); rendre();
+    } catch (err) { bouton.disabled = false; toast(`Connexion refusée : ${err.message}`, 4000); }
+  });
+  $('#deconnexion')?.addEventListener('click', () => { registre.deconnexion(); soldeCommun = null; rendre(); });
+  $('#tout-verser')?.addEventListener('click', async e => {
+    e.currentTarget.disabled = true;
+    const r = await E.toutCollecter(etat, registre);
+    enregistrer(); soldeCommun = null;
+    toast(r.erreur ? `${r.verses ? `${r.montant} Éclats versés, puis ` : ''}échec : ${r.erreur.message}` : `${r.montant} Éclats versés dans le registre`, 4000);
+    rendre();
+  });
+  if (registre.estConnecte() && soldeCommun === null) {
+    registre.solde().then(v => {
+      soldeCommun = v;
+      const el = $('#solde-commun'); if (el) el.innerHTML = `${v.toLocaleString('fr-FR')} ${eclat()}`;
+    }).catch(() => {
+      // session refusée : le client l'a effacée, on revient au formulaire de connexion
+      if (!registre.estConnecte()) { toast('Session expirée : reconnecte-toi.'); return rendre(); }
+      const el = $('#solde-commun'); if (el) el.textContent = 'indisponible';
+    });
+  }
+
+  // données
+  $('#reprendre')?.addEventListener('click', reprendreAnciennes);
+  $('#exporter').onclick = () => exporter().catch(erreur);
+  $('#importer').onchange = e => { const f = e.target.files?.[0]; if (f) importer(f).catch(err => toast(`Restauration impossible : ${err.message}`, 4000)); };
 }
 
-/* ---------- messages courts ---------- */
-let minuteur;
-function toast(texte) {
-  const t = $('#toast'); t.textContent = texte; t.hidden = false;
-  clearTimeout(minuteur); minuteur = setTimeout(() => { t.hidden = true; }, 2600);
+async function reprendreAnciennes() {
+  let n = 0;
+  for (const a of ED.listesAnciennes(localStorage)) {
+    const l = ED.reprendreAncienne(ed, a);
+    if (!l) continue;
+    n++;
+    // les photos « data: » de l'ancienne version passent dans la base des photos
+    for (const f of l.fiches) if (String(f.image).startsWith('data:')) {
+      try { f.image = await IMG.importerDataUrl(f.image); } catch { delete f.image; }
+    }
+  }
+  if (sauverEd()) { recomposer(); toast(n ? `${pluriel(n, 'liste reprise', 'listes reprises')} dans « Mes listes »` : 'Rien à reprendre'); rendre(); }
+}
+
+async function exporter() {
+  const images = {};
+  for (const cle of ED.imagesUtilisees(ed)) {
+    const blob = await IMG.lire(cle);
+    if (blob) images[cle] = await new Promise(ok => { const r = new FileReader(); r.onload = () => ok(r.result); r.readAsDataURL(blob); });
+  }
+  const sauvegarde = {format: 'memo2-sauvegarde', v: 1, date: new Date().toISOString(), etat, edition: ed, images};
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(sauvegarde)], {type: 'application/json'}));
+  a.download = `memo-sauvegarde-${P.texteDuJour(auj())}.json`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  toast('Sauvegarde téléchargée');
+}
+
+async function importer(fichier) {
+  const s = JSON.parse(await fichier.text());
+  if (s?.format !== 'memo2-sauvegarde' || !s.etat || !s.edition) throw new Error("ce fichier n'est pas une sauvegarde de Mémo");
+  if (!confirm(`Remplacer les données de cet appareil par la sauvegarde du ${new Date(s.date).toLocaleDateString('fr-FR')} ?`)) return;
+  for (const [cle, url] of Object.entries(s.images || {})) {
+    const blob = await (await fetch(url)).blob();
+    await new Promise((ok, ko) => { const r = indexedDB.open('memo2-images', 1); r.onupgradeneeded = () => r.result.createObjectStore('images'); r.onsuccess = () => { const tx = r.result.transaction('images', 'readwrite'); tx.objectStore('images').put(blob, cle); tx.oncomplete = ok; tx.onerror = () => ko(tx.error); }; r.onerror = () => ko(r.error); });
+  }
+  localStorage.setItem(P.CLE_STOCKAGE, JSON.stringify(s.etat));
+  localStorage.setItem(ED.CLE_EDITION, JSON.stringify(s.edition));
+  location.reload();
 }
 
 /* ---------- rendu ---------- */
 function rendre() {
-  const vues = {aujourdhui: vueAujourdhui, listes: vueListes, liste: vueListe, progres: vueProgres, reglages: vueReglages};
+  const vues = {aujourdhui: vueAujourdhui, listes: vueListes, liste: vueListe, progres: vueProgres, reglages: vueReglages, nouvelle: vueNouvelleListe};
   $('#racine').innerHTML = `<div class="app">${vues[vue.page]()}</div>`;
   rendreOnglets();
   if (vue.page === 'reglages') brancherReglages();
-  $('#reglages')?.addEventListener('click', () => { brouillon = null; aller('reglages'); });
+  if (vue.page === 'nouvelle') brancherNouvelleListe();
+  $$('#racine [data-aller]').forEach(b => b.onclick = () => { if (b.dataset.aller === 'reglages') brouillon = null; aller(b.dataset.aller); });
+  $$('#racine [data-verser]').forEach(b => b.onclick = () => verser(b.dataset.verser));
   $('#go')?.addEventListener('click', () => lancerRevision().catch(erreur));
   $('#quiz-jour')?.addEventListener('click', () => lancerQuiz().catch(erreur));
   $$('[data-liste]').forEach(b => b.onclick = () => ouvrirListe(b.dataset.liste));
   $$('[data-fiche]').forEach(b => b.onclick = () => ouvrirFiche(vue.liste, b.dataset.fiche));
-  $$('[data-onglet-lien]').forEach(b => b.onclick = () => aller(b.dataset.ongletLien));
   $$('[data-cat]').forEach(b => b.onclick = () => { vue.filtre = b.dataset.cat; rendre(); });
   $$('[data-vue]').forEach(b => b.onclick = () => { vue.affichage = b.dataset.vue; rendre(); });
   $$('[data-reviser]').forEach(b => b.onclick = () => lancerRevision(b.dataset.reviser, b.dataset.mode).catch(erreur));
   $('#retour')?.addEventListener('click', () => aller('listes'));
+  $('#ajout-fiche')?.addEventListener('click', () => formulaireFiche(vue.liste).catch(erreur));
+  $('#modif-liste')?.addEventListener('click', () => formulaireListe(vue.liste));
+  $('#restaurer')?.addEventListener('click', () => {
+    const n = ED.restaurerFichesRetirees(ed, vue.liste);
+    if (sauverEd()) apresEdition(vue.liste, `${pluriel(n, 'fiche revenue', 'fiches revenues')}`);
+  });
   const rech = $('#rech');
   if (rech) rech.oninput = () => { vue.recherche = rech.value; const pos = rech.selectionStart; rendre(); const n = $('#rech'); n.focus(); n.setSelectionRange(pos, pos); };
 }
 
 function erreur(e) {
   console.error(e);
-  toast('Chargement impossible. Vérifie la connexion et réessaie.');
+  toast(navigator.onLine === false ? 'Hors ligne : cette liste n\'a pas encore été enregistrée sur l\'appareil.' : 'Chargement impossible. Vérifie la connexion et réessaie.', 4000);
 }
 
+/* ---------- mises à jour et hors ligne ---------- */
+// Une application installée n'est pas rechargée quand on la rouvre : elle
+// relit version.json (écrit au déploiement) en revenant au premier plan, et se
+// recharge d'elle-même si rien n'est en cours.
+let versionVue = null;
+async function verifierVersion() {
+  let v = null;
+  try { const r = await fetch(chemin('version.json'), {cache: 'no-store'}); if (r.ok) v = (await r.json()).version; } catch {}
+  if (!v) return;
+  if (!versionVue) { versionVue = v; return; }
+  if (v === versionVue) return;
+  const occupe = seance || $('#voile').classList.contains('ouvert') || ['nouvelle', 'reglages'].includes(vue.page);
+  if (!occupe) return location.reload();
+  const b = $('#mise-a-jour');
+  b.hidden = false;
+  b.onclick = () => location.reload();
+}
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') verifierVersion(); });
+window.addEventListener('focus', verifierVersion);
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register(new URL('../sw.js', document.baseURI).href, {scope: new URL('../', document.baseURI).href, updateViaCache: 'none'}).catch(() => {});
+}
+
+/* ---------- démarrage ---------- */
+// une image pas encore gardée sur l'appareil, hors ligne : un fond neutre
+// plutôt que l'icône d'image cassée
+document.addEventListener('error', e => { if (e.target.tagName === 'IMG') e.target.classList.add('absente'); }, true);
+document.addEventListener('load', e => { if (e.target.tagName === 'IMG') e.target.classList.remove('absente'); }, true);
+window.addEventListener('offline', () => toast("Hors ligne : Mémo continue avec ce qui est déjà sur l'appareil.", 4000));
 $('#voile').onclick = e => { if (e.target.id === 'voile') fermerFiche(); };
-document.addEventListener('keydown', e => { if (e.key === 'Escape') { if ($('#voile').classList.contains('ouvert')) fermerFiche(); } });
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && $('#voile').classList.contains('ouvert')) fermerFiche(); });
+IMG.surveiller();
+initEdition({
+  get ed() { return ed; }, sauverEd, liste, apresEdition, ouvrirListe, fermerFiche, ouvrirFeuille,
+  categories: () => C.categories,
+});
 
 chargerCatalogue().then(c => {
-  C = c;
-  actives = new Set(C.listes.flatMap(l => (l.ids || '').split(' ').filter(Boolean).map(id => P.cleFiche(l.id, id))));
+  catalogueOfficiel = c;
+  recomposer();
   P.noterCatalogue(etat, C.listes.map(l => l.id), auj());
   enregistrer();
   rendre();
+  verifierVersion();
+  // ménage discret : photos importées qui ne servent plus
+  IMG.cles().then(ks => { const vives = ED.imagesUtilisees(ed); ks.filter(k => !vives.has(k)).forEach(k => IMG.effacer(k)); }).catch(() => {});
 }).catch(e => {
   console.error(e);
   $('#racine').innerHTML = `<div class="app"><p class="sous" style="padding-top:40px">Mémo n'a pas pu charger ses listes. Vérifie la connexion puis recharge la page.</p></div>`;

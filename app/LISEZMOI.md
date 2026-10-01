@@ -1,7 +1,8 @@
 # Mémo, nouvelle version
 
 Application issue de la refonte : révision espacée, quiz du jour, réponses
-tapées. Elle vit dans `app/` tant que l'ancienne (`memo.html`) reste en place.
+tapées. C'est la version officielle depuis le 01/10/2026 ; l'ancienne reste
+accessible avec `memo.html?ancienne`.
 En ligne : https://blinytz.github.io/memo/app/
 
 ## Fichiers
@@ -9,14 +10,19 @@ En ligne : https://blinytz.github.io/memo/app/
 | Fichier | Rôle |
 |---|---|
 | `index.html`, `style.css` | page et apparence (reprises de la maquette validée) |
-| `js/main.js` | écrans, navigation, séances de révision et quiz du jour |
+| `js/main.js` | écrans, navigation, séances de révision et quiz du jour, réglages |
+| `js/ui.js` | petits outils d'affichage partagés |
+| `js/edition.js` | modifications des listes sur l'appareil (couche par-dessus les listes officielles), listes personnelles, tableaux collés, reprise de l'ancienne version |
+| `js/ecrans-edition.js` | formulaires : fiche, nouvelle liste, liste personnelle |
+| `js/images-perso.js` | photos importées, rangées dans IndexedDB |
+| `js/registre.js` | client du registre commun (copie de celui de Sport, app_id `memo`) |
 | `js/progression.js` | mémoire des fiches (boîtes de Leitner 1, 3, 7, 16, 35 jours), série, objectif du jour |
 | `js/correction.js` | correction tolérante des réponses tapées |
 | `js/questions.js` | fabrication des questions à partir d'une fiche |
-| `js/eclats.js` | barème du quiz du jour et journal local des Éclats |
+| `js/eclats.js` | barème du quiz du jour, journal des gains, versement dans le registre |
 | `js/donnees.js` | lecture de `../data/catalogue.json` et `../data/listes/<id>.json` |
 | `js/icones.js` | icônes Phosphor et glyphes de l'écosystème |
-| `tests/` | tests sans écran : `node --test app/tests/` depuis la racine de Mémo |
+| `tests/` | tests sans écran : `node --test "app/tests/*.test.mjs"` depuis la racine de Mémo |
 
 ## Données
 
@@ -51,11 +57,24 @@ node build/exporter_donnees.mjs
 Tout l'état tient sous la clé `memo2-etat` du stockage local (préfixe propre à
 Mémo : le domaine blinytz.github.io est partagé par toutes les applis).
 
-## Reste à faire
+## Hors ligne et mises à jour
 
-- Créditer les Éclats dans le registre commun (RPC `eclats_reward`, clé
-  `memo-quiz-AAAA-MM-JJ`, déjà utilisée par le journal local).
-- Hors ligne : service worker propre à la nouvelle version.
-- Liens exacts pour les 21 listes antérieures à WikiDeck (recherche en attendant).
-- Édition des listes et listes personnelles (encore dans l'ancienne version).
-- Bascule : faire pointer `index.html` vers la nouvelle version.
+- `../sw.js` garde l'application, le catalogue et les 79 listes dès
+  l'installation, puis chaque image affichée ; une séance charge d'avance toutes
+  ses grandes images.
+- `version.json`, écrit au déploiement, est relu au retour au premier plan :
+  l'application se recharge seule si rien n'est en cours, sinon un bandeau
+  propose d'actualiser.
+
+## Registre commun
+
+Les gains du quiz restent « à verser » jusqu'à ce que l'utilisateur les verse
+(Réglages, ou fin du quiz). La session `eclats_session` est partagée avec les
+autres applis du domaine. Rien n'est jamais dépensé depuis Mémo.
+
+## Données de l'utilisateur
+
+`memo2-etat` (progression, quiz, gains, réglages) et `memo2-listes`
+(modifications et listes personnelles) dans le stockage local ; photos dans
+IndexedDB (`memo2-images`). Réglages > Mes données : sauvegarde et restauration
+en un fichier JSON, reprise des listes personnelles de l'ancienne version.

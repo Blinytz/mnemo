@@ -49,11 +49,47 @@ export function paliers(bareme = BAREME_DEFAUT) {
 
 export const solde = etat => etat.eclats.journal.reduce((s, e) => s + e.montant, 0);
 
-/** Crédite une seule fois par clé. Rend true si le crédit est nouveau. */
-export function crediter(etat, cle, montant, motif) {
+/** Inscrit un gain une seule fois par clé. Rend true si le gain est nouveau. */
+export function crediter(etat, cle, montant, motif, details = {}) {
   if (!montant || etat.eclats.journal.some(e => e.cle === cle)) return false;
-  etat.eclats.journal.push({cle, montant, motif, quand: new Date().toISOString()});
+  etat.eclats.journal.push({cle, montant, motif, quand: new Date().toISOString(), ...details, collecte: null});
   return true;
+}
+
+/* ---------- collecte dans le registre commun ---------- */
+// Comme dans Sport et Missions, rien ne part tout seul : un gain reste « à
+// collecter » tant que l'utilisateur ne l'a pas versé. Le registre d'abord,
+// l'état local ensuite : la clé d'idempotence (une par jour de quiz) fait
+// qu'un double clic ou une coupure réseau rejoue la même écriture sans
+// créer un second mouvement.
+
+export const aCollecter = etat => etat.eclats.journal.filter(e => !e.collecte);
+export const montantACollecter = etat => aCollecter(etat).reduce((s, e) => s + e.montant, 0);
+
+export async function collecter(etat, registre, cle, maintenant = () => new Date()) {
+  const e = etat.eclats.journal.find(x => x.cle === cle);
+  if (!e || e.collecte) return e;
+  if (!registre.estConnecte()) throw new Error('Connecte-toi au registre commun pour verser tes Éclats.');
+  const reponse = await registre.recompenser({
+    montant: e.montant,
+    reason: e.jour ? `Quiz du jour du ${e.jour} : ${e.score} / ${QUESTIONS_QUIZ}` : e.motif,
+    referenceType: 'quiz_memo',
+    referenceId: null,                    // le registre attend un uuid : le jour part en metadata
+    idempotencyKey: e.cle,
+    metadata: {jour: e.jour ?? null, score: e.score ?? null, bareme: e.bareme ?? null},
+  });
+  e.collecte = {quand: maintenant().toISOString(), mouvementId: reponse?.movement_id || null, soldeApres: reponse?.balance_after ?? null};
+  return e;
+}
+
+/** Verse tous les gains en attente ; rend {verses, montant, erreur}. */
+export async function toutCollecter(etat, registre) {
+  let verses = 0, montant = 0;
+  for (const e of aCollecter(etat)) {
+    try { await collecter(etat, registre, e.cle); verses++; montant += e.montant; }
+    catch (erreur) { return {verses, montant, erreur}; }
+  }
+  return {verses, montant, erreur: null};
 }
 
 export function gagnesDepuis(etat, depuis) {

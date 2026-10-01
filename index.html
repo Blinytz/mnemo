@@ -3,12 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="refresh" content="0; url=./memo.html">
+    <meta http-equiv="refresh" content="0; url=./app/">
     <title>Mémo</title>
-    <link rel="canonical" href="./memo.html">
+    <link rel="canonical" href="./app/">
+    <link rel="manifest" href="./manifest.json">
   </head>
   <body>
-    <p><a href="./memo.html">Ouvrir Mémo</a></p>
-    <script>window.location.replace('./memo.html');</script>
+    <p><a href="./app/">Ouvrir Mémo</a></p>
+    <script>window.location.replace('./app/' + window.location.hash);</script>
   </body>
 </html>

@@ -4,7 +4,8 @@ Application web personnelle de mémorisation organisée en listes thématiques.
 
 ## Fichiers principaux
 
-- `memo.html` : application principale ;
+- `app/` : application (nouvelle version, officielle depuis le 01/10/2026) ;
+- `memo.html` : ancienne version (`memo.html?ancienne`) et source des listes ;
 - `manifest.json` : configuration PWA ;
 - `sw.js` : service worker ;
 - `thumbs/` : miniatures utilisées dans les listes ;

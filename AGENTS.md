@@ -10,7 +10,7 @@ distantes.
 ## Application
 
 - Application web personnelle installable (PWA).
-- Point d'entrée principal : `memo.html`.
+- Point d'entrée : `app/` (nouvelle version) ; `memo.html` garde l'ancienne version et la source des listes.
 - Manifest : `manifest.json`.
 - Service worker : `sw.js`.
 - Miniatures utilisées par l'application : `thumbs/`.
@@ -22,22 +22,32 @@ distantes.
 - Scripts de construction et de contrôle : `build/`.
 - Données éditoriales complémentaires : `data/`.
 
-## Refonte en cours (depuis le 30/09/2026)
+## Nouvelle version (app/), officielle depuis le 01/10/2026
 
-- Nouvelle application dans `app/`, en ligne à <https://blinytz.github.io/memo/app/>
-  depuis le 01/10/2026, à côté de l'ancienne (`memo.html`), qui reste
-  l'application officielle jusqu'à la bascule. Détails : `app/LISEZMOI.md`.
+- L'adresse officielle <https://blinytz.github.io/memo/> ouvre `app/` (index.html,
+  manifeste, et `memo.html` qui redirige). Détails : `app/LISEZMOI.md`.
+- `memo.html` reste dans le dépôt et reste **la source des listes** : l'Atelier
+  (local et en ligne) et le générateur WikiDeck y écrivent. L'ancienne version
+  s'ouvre encore avec `memo.html?ancienne`.
+- Les données de `app/` (`data/catalogue.json`, `data/listes/<id>.json`) sont
+  refaites **à chaque publication** par le workflow (`build/exporter_donnees.mjs`).
+  En local, relancer `node build/exporter_donnees.mjs` après un lot WikiDeck pour
+  tester et pour versionner les liens Wikipédia (le workflow n'a pas le dossier
+  WikiDeck : il reprend les liens déjà présents dans `data/`).
+- Le workflow écrit `version.json` (numéro de commit) : l'application installée
+  le relit au retour au premier plan et se recharge d'elle-même.
+- Éclats : seul le quiz du jour en rapporte ; l'utilisateur les verse dans le
+  registre commun (`eclats_reward`, app_id `memo`, clé `memo-quiz-AAAA-MM-JJ`).
+- Décisions du propriétaire, à ne pas rediscuter : 20 questions au quiz du jour,
+  barème réglable par l'utilisateur (par défaut 0 à 9 : 0 · 10 à 12 : 10 ·
+  13 à 15 : 25 · 16 ou 17 : 45 · 18 ou 19 : 75 · 20 : 120) ; les révisions ne
+  rapportent rien ; pas de propositions, les réponses sont tapées ; le verdict
+  peut toujours être renversé ; liens Wikipédia pour approfondir.
+- Les modifications de listes faites dans l'application restent sur l'appareil
+  (couche par-dessus les listes officielles) ; les corrections destinées à tous
+  passent par WikiDeck ou l'Atelier.
+- Tests : `node --test "app/tests/*.test.mjs"`.
 - `maquette.html` n'est plus qu'une redirection vers `app/`.
-- Elle lit des données propres : `data/catalogue.json` et `data/listes/<id>.json`,
-  produites depuis `memo.html` par `node build/exporter_donnees.mjs`. **À relancer
-  après toute modification des listes ou des images** (lot WikiDeck, Atelier),
-  sinon la nouvelle application ne voit pas le changement.
-- Décisions du propriétaire, à ne pas rediscuter : les Éclats ne viennent que du
-  quiz du jour (20 questions, barème 0 à 9 : 0 · 10 à 12 : 10 · 13 à 15 : 25 ·
-  16 ou 17 : 45 · 18 ou 19 : 75 · 20 : 120) ; les révisions n'en rapportent pas ;
-  pas de propositions, les réponses sont tapées ; le verdict peut toujours être
-  renversé par l'utilisateur.
-- Tests : `node --test app/tests/`.
 
 ## Lancement local
 

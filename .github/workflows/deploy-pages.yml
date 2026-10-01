@@ -22,9 +22,18 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Exporter les listes pour la nouvelle version
+        # memo.html reste la source (l'Atelier en ligne y écrit) : les données de
+        # app/ sont refaites à chaque publication
+        run: node build/exporter_donnees.mjs
       - name: Préparer le site
         run: |
           mkdir -p _site/atelier
+          # numéro de version relu par l'application installée pour se mettre à jour
+          echo "{\"version\": \"$GITHUB_SHA\"}" > _site/version.json
           cp index.html memo.html maquette.html manifest.json sw.js _site/
           cp icone.svg icon-192.png icon-512.png icon-maskable-512.png apple-touch-icon.png _site/
           cp -R thumbs full originaux data app _site/
