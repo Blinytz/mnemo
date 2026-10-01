@@ -26,7 +26,7 @@ const enregistrer = () => P.sauver(localStorage, etat);
 let ed = ED.chargerEdition(localStorage);
 function sauverEd() {
   try { ED.sauverEdition(localStorage, ed); return true; }
-  catch { toast("Le stockage de l'appareil est plein : la modification n'a pas pu être enregistrée.", 5000); return false; }
+  catch { toast('Stockage plein : non enregistré', 4000); return false; }
 }
 const registre = createRegistre();
 let soldeCommun = null;                         // dernier solde lu dans le registre
@@ -129,10 +129,10 @@ function blocBareme(score, bareme) {
 function blocVersement(cle) {
   const e = etat.eclats.journal.find(x => x.cle === cle);
   if (!e) return '';
-  if (e.collecte) return `<p class="sous verse">${ic('check')} Versé dans le registre commun</p>`;
+  if (e.collecte) return `<p class="sous verse">${ic('check')} Versé</p>`;
   return registre.estConnecte()
-    ? `<button class="bouton fantome large" data-verser="${esc(cle)}">${ic('cloud-arrow-up')} Verser ${e.montant} ${eclat()} dans le registre</button>`
-    : `<button class="lien" data-aller="reglages" style="justify-self:start">${ic('sign-in')} Se connecter au registre pour verser ces Éclats</button>`;
+    ? `<button class="bouton fantome large" data-verser="${esc(cle)}">${ic('cloud-arrow-up')} Verser ${e.montant} ${eclat()}</button>`
+    : `<button class="bouton fantome large" data-aller="reglages">${ic('cloud-arrow-up')} Verser ${e.montant} ${eclat()}</button>`;
 }
 const cleQuiz = j => `memo-quiz-${P.texteDuJour(j)}`;
 
@@ -140,10 +140,10 @@ async function verser(cle) {
   try {
     await E.collecter(etat, registre, cle);
     enregistrer();
-    toast('Éclats versés dans le registre commun');
+    toast('Versé');
     soldeCommun = null;
   } catch (e) {
-    toast(e.status === 401 ? 'Session expirée : reconnecte-toi dans Réglages.' : `Versement impossible : ${e.message}`, 4000);
+    toast(e.status === 401 ? 'Session expirée' : `Échec : ${e.message}`, 4000);
   }
   if (seance?.fini) terminer(); else rendre();
 }
@@ -155,21 +155,20 @@ function vueAujourdhui() {
   const qj = etat.quiz?.jour === j ? etat.quiz : null;
   const n = E.QUESTIONS_QUIZ, bareme = qj ? E.baremeDuQuiz(etat, qj) : E.baremeEnVigueur(etat);
   const quiz = qj?.fini
-    ? `<h1><span class="chiffre">${qj.score} / ${n}</span> · +${qj.gain} ${eclat()}</h1><p class="sous" style="margin:0">Fait aujourd'hui. Reviens demain pour un nouveau tirage.</p>${blocBareme(qj.score, bareme)}${blocVersement(cleQuiz(j))}`
+    ? `<h1><span class="chiffre">${qj.score} / ${n}</span> · +${qj.gain} ${eclat()}</h1>${blocBareme(qj.score, bareme)}${blocVersement(cleQuiz(j))}`
     : qj
-      ? `<h1>Quiz commencé : ${qj.reponses.length} / ${n}</h1><p class="sous" style="margin:0">Tes réponses sont gardées. Reprends où tu t'es arrêté.</p>${blocBareme(undefined, bareme)}
-         <button class="bouton eclat large" id="quiz-jour">${ic('play', 'fill')} Reprendre le quiz</button>`
-      : `<h1>N'importe quelle liste, ${n} questions</h1><p class="sous" style="margin:0">Une seule tentative par jour. Tu tapes tes réponses ; plus tu en trouves, plus tu gagnes d'Éclats.</p>${blocBareme(undefined, bareme)}
-         <button class="bouton eclat large" id="quiz-jour">${ic('trophy', 'fill')} Tenter le quiz du jour</button>`;
+      ? `<h1><span class="chiffre">${qj.reponses.length} / ${n}</span></h1>${blocBareme(undefined, bareme)}
+         <button class="bouton eclat large" id="quiz-jour">${ic('play', 'fill')} Reprendre</button>`
+      : `<h1>${n} questions</h1>${blocBareme(undefined, bareme)}
+         <button class="bouton eclat large" id="quiz-jour">${ic('trophy', 'fill')} Jouer</button>`;
 
   let heros;
   if (!suivies().length && !dues) {
-    heros = `<h1>Choisis ta première liste</h1>
-      <p>Chaque liste que tu révises entre dans ta mémoire : Mémo te repose ensuite ses fiches au bon moment, un peu chaque jour.</p>
-      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Parcourir les listes</button>`;
+    heros = `<h1>Choisis une liste</h1>
+      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Listes</button>`;
   } else if (!dues && !neuves) {
-    heros = `<h1>Tout est à jour</h1><p>Aucune fiche à revoir aujourd'hui. Ajoute une liste pour découvrir de nouvelles fiches.</p>
-      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Ajouter une liste</button>`;
+    heros = `<h1>Tout est à jour</h1>
+      <button class="bouton plein large" data-aller="listes">${ic('books', 'fill')} Listes</button>`;
   } else {
     heros = `<h1>${pluriel(dues + neuves, "fiche t'attend", "fiches t'attendent")}</h1>
       <div class="ligne">
@@ -190,7 +189,7 @@ function vueAujourdhui() {
   <section class="quiz-jour monte">
     <div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
       <span class="etiquette" style="color:var(--eclat)">Quiz du jour</span>
-      <span class="sous">${qj?.fini ? 'Nouveau quiz demain' : `${n} questions · toutes les listes`}</span></div>
+      ${qj?.fini ? '<span class="sous">Demain</span>' : ''}</div>
     ${quiz}
   </section>
 
@@ -198,12 +197,11 @@ function vueAujourdhui() {
     <div class="anneau"></div>
     <span class="etiquette" style="color:#8FA0B6">Révision du jour</span>
     ${heros}
-    <p style="font-size:13px">Les révisions ne rapportent pas d'Éclats : elles font monter tes fiches vers « Acquise ».</p>
   </section>
 
   <section class="section"><div class="carte objectif">
     <div class="jauge" style="--p:${objectif}"><span class="chiffre">${objectif}%</span></div>
-    <div><h3>Objectif du jour</h3><div class="sous">${faits} / ${P.OBJECTIF_JOUR} réponses · ${faits >= P.OBJECTIF_JOUR ? 'journée validée' : `la série passe à ${P.serie(etat, j) + 1} ${P.serie(etat, j) ? 'jours' : 'jour'} à ${P.OBJECTIF_JOUR}`}</div></div>
+    <div><h3>Objectif du jour</h3><div class="sous">${faits} / ${P.OBJECTIF_JOUR} réponses</div></div>
   </div></section>
 
   ${derniere ? `<section class="section"><header><h2>Continuer</h2></header>
@@ -255,7 +253,6 @@ function vueListe() {
   const cle = f => P.cleFiche(l.id, f.id);
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle);
   const perso = ED.estPerso(ed, l.id), masquees = (ed.retraits[l.id] || []).length;
-  const changees = l.fiches.filter(f => f.modifiee || f.ajoutee).length;
   return `${retour}
     <div class="entete-liste"><div><span class="etiquette">${perso ? 'Ma liste · ' : ''}${esc(nomCategorie(l.categorie).nom)}</span><h1>${esc(l.icone)} ${esc(l.nom)}</h1>
       <div class="sous" style="margin-top:4px">${pluriel(l.fiches.length, 'fiche')} · ${esc(l.colonnes.join(' · '))}</div></div>
@@ -264,12 +261,11 @@ function vueListe() {
       <button class="bouton memo" data-reviser="${esc(l.id)}" ${l.fiches.length ? '' : 'disabled'}>${ic('lightning', 'fill')} ${dues ? `Réviser (${dues})` : 'Réviser'}</button>
       <button class="bouton fantome" data-reviser="${esc(l.id)}" data-mode="decouvrir" ${neuves > 0 ? '' : 'disabled'}>${ic('sparkle')} ${neuves > 0 ? 'Découvrir' : 'Tout vu'}</button></div>
     <div class="outils-liste">
-      <button class="lien" id="ajout-fiche">${ic('plus')} Ajouter une fiche</button>
-      ${perso ? `<button class="lien" id="modif-liste">${ic('pencil-simple')} Modifier la liste</button>` : ''}
-      ${masquees ? `<button class="lien" id="restaurer">${ic('eye')} Revoir ${pluriel(masquees, 'fiche masquée', 'fiches masquées')}</button>` : ''}
+      <button class="lien" id="ajout-fiche">${ic('plus')} Fiche</button>
+      ${perso ? `<button class="lien" id="modif-liste">${ic('pencil-simple')} Liste</button>` : ''}
+      ${masquees ? `<button class="lien" id="restaurer">${ic('eye')} ${pluriel(masquees, 'masquée', 'masquées')}</button>` : ''}
     </div>
-    ${changees && !perso ? `<p class="sous" style="margin:8px 0 0">${pluriel(changees, 'fiche modifiée ou ajoutée', 'fiches modifiées ou ajoutées')} par toi sur cet appareil.</p>` : ''}
-    ${l.fiches.length ? `<div class="segment" role="group" aria-label="Affichage"><button data-vue="fiches" aria-pressed="${vue.affichage === 'fiches'}">Fiches</button><button data-vue="tableau" aria-pressed="${vue.affichage === 'tableau'}">Tableau</button></div>` : `<div class="carte vide" style="margin-top:16px"><p class="sous" style="margin:0">Cette liste est vide. Ajoute une première fiche${perso ? ', ou colle un tableau depuis « Modifier la liste »' : ''}.</p></div>`}
+    ${l.fiches.length ? `<div class="segment" role="group" aria-label="Affichage"><button data-vue="fiches" aria-pressed="${vue.affichage === 'fiches'}">Fiches</button><button data-vue="tableau" aria-pressed="${vue.affichage === 'tableau'}">Tableau</button></div>` : ''}
     ${!l.fiches.length ? '' : vue.affichage === 'fiches'
       ? `<div class="grille">${l.fiches.map(f => `<button class="fiche" data-fiche="${esc(f.id)}">${f.image ? imgNette(f, '', '(max-width: 460px) 46vw, 210px', 'loading="lazy"') : (l.fiches.some(x => x.image) ? '<span class="sans-image"></span>' : '')}<div class="corps"><div class="nom">${esc(f.valeurs[l.cle])}${f.modifiee || f.ajoutee ? ` <span class="marque-perso" title="${f.ajoutee ? 'Ajoutée par toi' : 'Modifiée par toi'}">${ic('pencil-simple')}</span>` : ''}</div><div class="sec">${esc(f.valeurs[autres[0]] || '')}</div>${niveaux(P.boite(etat, cle(f)))}</div></button>`).join('')}</div>`
       : `<div class="tableau"><table><thead><tr><th>${esc(l.colonnes[l.cle])}</th>${autres.map(i => `<th>${esc(l.colonnes[i])}</th>`).join('')}</tr></thead><tbody>${l.fiches.map(f => `<tr data-fiche="${esc(f.id)}"><td>${esc(f.valeurs[l.cle])}</td>${autres.map(i => `<td>${esc(f.valeurs[i])}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`}`;
@@ -294,7 +290,7 @@ function ouvrirFiche(idListe, idFiche) {
   const b = P.boite(etat, P.cleFiche(idListe, idFiche));
   const autres = l.colonnes.map((c, i) => i).filter(i => i !== l.cle && f.valeurs[i]);
   ouvrirFeuille(`<div class="poignee"></div>${f.image ? img(f.grande || f.image, f.valeurs[l.cle]) : ''}<div class="contenu">
-    <div><span class="etiquette">${esc(l.nom)}${f.ajoutee ? ' · ajoutée par toi' : f.modifiee ? ' · modifiée par toi' : ''}</span><h1 style="margin-top:4px">${esc(f.valeurs[l.cle])}</h1></div>
+    <div><span class="etiquette">${esc(l.nom)}</span><h1 style="margin-top:4px">${esc(f.valeurs[l.cle])}</h1></div>
     ${f.carte ? `<div class="carte-loc">${img(f.carteGrande || f.carte, 'Localisation')}</div>` : ''}
     <dl>${autres.map(i => `<div><dt>${esc(l.colonnes[i])}</dt><dd>${esc(f.valeurs[i])}</dd></div>`).join('')}</dl>
     <div class="pied-retour">${lienWiki(l, f)}<button class="lien" id="modifier-fiche">${ic('pencil-simple')} Modifier</button></div>
@@ -338,8 +334,7 @@ function vueProgres() {
     </div>
     <section class="section"><header><h2>Mémoire</h2><span class="sous">${pluriel(cmpt.slice(1).reduce((a, b) => a + b, 0), 'fiche vue', 'fiches vues')}</span></header>
       <div class="carte"><div class="boites">${[1, 2, 3, 4, 5].map(b => `<div><b class="chiffre">${cmpt[b]}</b><span class="col b${b}" style="height:${Math.max(4, 100 * cmpt[b] / maxB)}%"></span><small>${P.LIBELLES[b]}</small></div>`).join('')}</div>
-      <p class="sous" style="margin:12px 0 0">Une fiche réussie monte d'une case et revient de plus en plus tard (${P.INTERVALLES.join(', ').replace(/, (\d+)$/, ' puis $1')} jours). Une erreur la renvoie au début.</p>
-      ${deCote ? `<p class="sous" style="margin:8px 0 0">${pluriel(deCote, 'fiche révisée appartient', 'fiches révisées appartiennent')} à des listes ou des fiches retirées : leur progression est gardée de côté, hors de ces chiffres, et reviendra avec elles.</p>` : ''}</div></section>
+      ${deCote ? `<p class="sous" style="margin:10px 0 0">+ ${pluriel(deCote, 'fiche retirée', 'fiches retirées')}</p>` : ''}</div></section>
     <section class="section"><header><h2>12 dernières semaines</h2></header><div class="carte"><div class="calendrier">${jours.map(n => `<i data-n="${n}"></i>`).join('')}</div></div></section>
     ${cats.length ? `<section class="section"><header><h2>Par catégorie</h2></header><div class="carte cat-maitrise">${cats.map(([i, n, p]) => `<div><span style="font-size:20px">${i}</span><span><b>${esc(n)}</b><span class="barre" style="display:block;margin-top:5px"><i style="width:${p}%"></i></span></span><span class="pct chiffre">${p}%</span></div>`).join('')}</div></section>` : ''}`;
 }
@@ -397,7 +392,7 @@ async function lancerRevision(idListe, mode) {
       }
     }
     cles = [...dues, ...neuves];
-    if (!cles.length) { toast(suivies().length ? "Rien à revoir aujourd'hui" : "Choisis d'abord une liste"); return aller('listes'); }
+    if (!cles.length) { toast(suivies().length ? 'Rien à revoir' : 'Choisis une liste'); return aller('listes'); }
   }
   enregistrer();
   const questions = [];
@@ -407,7 +402,7 @@ async function lancerRevision(idListe, mode) {
     const q = fiche && tirerQuestion(lst, fiche);
     if (q) questions.push(q);
   }
-  if (!questions.length) return toast('Aucune question possible pour cette liste');
+  if (!questions.length) return toast('Aucune question possible');
   seance = {mode: 'revision', items: (await preparer(questions)).filter(Boolean), reponses: [], n: 0};
   ouvrirSeance();
 }
@@ -536,7 +531,6 @@ function suivante() {
 
 function terminer() {
   const total = seance.items.length, n = bonnes(), quiz = seance.mode === 'quiz', j = auj();
-  const corriges = seance.reponses.filter(r => r.corrige).length;
   let gain = 0;
   const bareme = quiz ? E.baremeDuQuiz(etat, etat.quiz) : null;
   if (quiz) {
@@ -556,12 +550,11 @@ function terminer() {
     <h2>${n === total ? 'Sans faute !' : n >= total * .7 ? 'Très bien joué' : 'On continue demain'}</h2>
     ${quiz ? `<div class="eclats-gagnes monte" style="animation-delay:.15s">+${gain} ${eclat()}</div>
       ${blocBareme(n, bareme)}
-      ${corriges ? `<p class="sous" style="margin:0">${pluriel(corriges, 'correction manuelle prise', 'corrections manuelles prises')} en compte.</p>` : ''}
       ${gain ? blocVersement(cleQuiz(j)) : ''}`
-    : `<p class="sous" style="margin:0">Les révisions ne rapportent pas d'Éclats : c'est le quiz du jour qui en donne.</p>`}
+    : ''}
     <div class="bilan monte" style="animation-delay:.25s"><div><b class="chiffre">${n}</b><span>${quiz ? (n > 1 ? 'bonnes réponses' : 'bonne réponse') : (n > 1 ? 'fiches en progrès' : 'fiche en progrès')}</span></div><div><b class="chiffre">${total - n}</b><span>${quiz ? (total - n > 1 ? 'manquées' : 'manquée') : 'à revoir demain'}</span></div><div><b class="chiffre">${s} j</b><span>de série</span></div></div>
-    ${quiz ? '' : `<button class="bouton memo large" id="encore">${ic('lightning', 'fill')} Encore une révision</button>`}
-    <button class="bouton fantome large" id="finir">Terminer</button></div></div>`;
+    ${quiz ? '' : `<button class="bouton memo large" id="encore">${ic('lightning', 'fill')} Encore</button>`}
+    <button class="bouton fantome large" id="finir">Fermer</button></div></div>`;
   $('#encore')?.addEventListener('click', () => lancerRevision().catch(erreur));
   $('#seance [data-verser]')?.addEventListener('click', e => verser(e.currentTarget.dataset.verser));
   $('#seance [data-aller]')?.addEventListener('click', () => { fermerSeance(); aller('reglages'); });
@@ -574,23 +567,20 @@ let brouillon = null;            // barème en cours de modification, avant enre
 function vueReglages() {
   if (!brouillon) brouillon = E.baremeEnVigueur(etat).map(l => [...l]);
   const valide = E.normaliserBareme(brouillon);
-  const qj = etat.quiz?.jour === auj() && !etat.quiz.fini;
-  const attente = E.aCollecter(etat), montant = E.montantACollecter(etat);
+  const montant = E.montantACollecter(etat);
   const connecte = registre.estConnecte();
   const anciennes = ED.listesAnciennes(localStorage).filter(a => !ed.perso.some(l => l.ancienneId === a.id));
   return `<button class="retour" id="retour-accueil">${ic('arrow-left')} Aujourd'hui</button>
     <h1>Réglages</h1>
 
-    <section class="section"><header><h2>Registre commun des Éclats</h2></header>
+    <section class="section"><header><h2>Registre des Éclats</h2></header>
     <div class="carte pile">
       ${connecte ? `
-        <div class="ligne-info"><span class="sous">Connecté</span><b>${esc(registre.utilisateur()?.email || 'compte du registre')}</b></div>
-        <div class="ligne-info"><span class="sous">Solde commun</span><b class="chiffre" id="solde-commun">${soldeCommun === null ? '…' : `${soldeCommun.toLocaleString('fr-FR')} ${eclat()}`}</b></div>
-        <div class="ligne-info"><span class="sous">À verser depuis Mémo</span><b class="chiffre">${montant} ${eclat()}</b></div>
-        <button class="bouton memo large" id="tout-verser" ${montant ? '' : 'disabled'}>${ic('cloud-arrow-up')} ${montant ? `Verser ${montant} Éclats (${pluriel(attente.length, 'quiz')})` : 'Rien à verser'}</button>
+        <div class="ligne-info"><span class="sous">${esc(registre.utilisateur()?.email || '')}</span><b class="chiffre" id="solde-commun">${soldeCommun === null ? '…' : `${soldeCommun.toLocaleString('fr-FR')} ${eclat()}`}</b></div>
+        ${montant ? `<button class="bouton memo large" id="tout-verser">${ic('cloud-arrow-up')} Verser ${montant} ${eclat()}</button>` : ''}
         <button class="lien" id="deconnexion" style="justify-self:start">${ic('sign-out')} Se déconnecter</button>`
       : `
-        <p class="sous" style="margin:0">Connecte-toi avec le compte du registre, le même que dans Missions ou Sport, pour verser les Éclats du quiz dans ton solde commun.${montant ? ` <b style="color:var(--encre)">${montant} Éclats attendent d'être versés.</b>` : ''}</p>
+        ${montant ? `<div class="ligne-info"><span class="sous">À verser</span><b class="chiffre">${montant} ${eclat()}</b></div>` : ''}
         <form class="pile formulaire" id="connexion" novalidate>
           <label class="champ"><span>Adresse e-mail</span><input type="email" id="cx-email" autocomplete="username" required></label>
           <label class="champ"><span>Mot de passe</span><input type="password" id="cx-mdp" autocomplete="current-password" required></label>
@@ -598,32 +588,28 @@ function vueReglages() {
         </form>`}
     </div></section>
 
-    <section class="section"><header><h2>Barème du quiz du jour</h2></header>
+    <section class="section"><header><h2>Barème du quiz</h2></header>
     <div class="carte pile">
-      <p class="sous" style="margin:0">Pour ${E.QUESTIONS_QUIZ} questions. Chaque palier dit combien d'Éclats rapporte le quiz à partir d'un nombre de bonnes réponses ; en dessous du premier palier, il ne rapporte rien.</p>
       <div class="paliers-edition">${brouillon.map(([s, g], i) => `<div class="ligne-palier">
         <label>Dès <input type="number" inputmode="numeric" min="1" max="${E.QUESTIONS_QUIZ}" value="${esc(s)}" data-p="${i}" data-k="0" aria-label="Bonnes réponses du palier ${i + 1}"> bonnes</label>
         <label><input type="number" inputmode="numeric" min="0" max="${E.GAIN_MAX}" value="${esc(g)}" data-p="${i}" data-k="1" aria-label="Éclats du palier ${i + 1}"> ${eclat()}</label>
         <button class="icone-bouton" data-suppr="${i}" aria-label="Retirer ce palier" ${brouillon.length <= 1 ? 'disabled' : ''}>${ic('trash')}</button></div>`).join('')}</div>
       <button class="lien" id="ajout-palier" style="justify-self:start">${ic('plus')} Ajouter un palier</button>
-      <span class="etiquette">Aperçu</span>
-      ${valide ? blocBareme(undefined, valide) : '<p class="sous" style="margin:0">Il faut au moins un palier entre 1 et 20 bonnes réponses.</p>'}
-      ${qj ? `<p class="sous" style="margin:0">Le quiz commencé aujourd'hui garde le barème de son lancement ; le nouveau vaudra dès le prochain.</p>` : ''}
+      ${valide ? blocBareme(undefined, valide) : ''}
       <div class="actions" style="margin-top:4px"><button class="bouton memo" id="enregistrer-bareme" ${valide ? '' : 'disabled'}>Enregistrer</button><button class="bouton fantome" id="defaut-bareme">${ic('arrow-counter-clockwise')} D'origine</button></div>
     </div></section>
 
     <section class="section"><header><h2>Mes données</h2></header>
     <div class="carte pile">
-      <p class="sous" style="margin:0">Ta progression, tes listes et tes photos restent sur cet appareil. Une sauvegarde permet de les garder ou de les passer sur un autre appareil.</p>
-      ${anciennes.length ? `<button class="bouton fantome large" id="reprendre">${ic('download-simple')} Reprendre ${pluriel(anciennes.length, 'liste personnelle', 'listes personnelles')} de l'ancienne version</button>` : ''}
+      ${anciennes.length ? `<button class="bouton fantome large" id="reprendre">${ic('download-simple')} Importer ${pluriel(anciennes.length, 'liste', 'listes')} de l'ancienne version</button>` : ''}
       <div class="actions"><button class="bouton fantome" id="exporter">${ic('download-simple')} Sauvegarder</button>
         <label class="bouton fantome">${ic('upload-simple')} Restaurer<input type="file" accept="application/json,.json" id="importer" hidden></label></div>
     </div></section>
 
-    <section class="section"><header><h2>Autour de Mémo</h2></header>
+    <section class="section"><header><h2>Liens</h2></header>
     <div class="carte pile">
-      <a class="lien" href="../atelier.html">${ic('image-square')} Atelier des images (recadrer, remplacer une photo officielle)</a>
-      <a class="lien" href="../memo.html?ancienne">${ic('arrow-square-out')} Ancienne version de Mémo</a>
+      <a class="lien" href="../atelier.html">${ic('image-square')} Atelier des images</a>
+      <a class="lien" href="../memo.html?ancienne">${ic('arrow-square-out')} Ancienne version</a>
     </div></section>`;
 }
 
@@ -660,15 +646,15 @@ function brancherReglages() {
     const bouton = e.target.querySelector('button'); bouton.disabled = true;
     try {
       await registre.connexion($('#cx-email').value.trim(), $('#cx-mdp').value);
-      soldeCommun = null; toast('Connecté au registre commun'); rendre();
-    } catch (err) { bouton.disabled = false; toast(`Connexion refusée : ${err.message}`, 4000); }
+      soldeCommun = null; toast('Connecté'); rendre();
+    } catch (err) { bouton.disabled = false; toast(err.message, 4000); }
   });
   $('#deconnexion')?.addEventListener('click', () => { registre.deconnexion(); soldeCommun = null; rendre(); });
   $('#tout-verser')?.addEventListener('click', async e => {
     e.currentTarget.disabled = true;
     const r = await E.toutCollecter(etat, registre);
     enregistrer(); soldeCommun = null;
-    toast(r.erreur ? `${r.verses ? `${r.montant} Éclats versés, puis ` : ''}échec : ${r.erreur.message}` : `${r.montant} Éclats versés dans le registre`, 4000);
+    toast(r.erreur ? `Échec : ${r.erreur.message}` : `${r.montant} versés`, 4000);
     rendre();
   });
   if (registre.estConnecte() && soldeCommun === null) {
@@ -677,7 +663,7 @@ function brancherReglages() {
       const el = $('#solde-commun'); if (el) el.innerHTML = `${v.toLocaleString('fr-FR')} ${eclat()}`;
     }).catch(() => {
       // session refusée : le client l'a effacée, on revient au formulaire de connexion
-      if (!registre.estConnecte()) { toast('Session expirée : reconnecte-toi.'); return rendre(); }
+      if (!registre.estConnecte()) { toast('Session expirée'); return rendre(); }
       const el = $('#solde-commun'); if (el) el.textContent = 'indisponible';
     });
   }
@@ -685,7 +671,7 @@ function brancherReglages() {
   // données
   $('#reprendre')?.addEventListener('click', reprendreAnciennes);
   $('#exporter').onclick = () => exporter().catch(erreur);
-  $('#importer').onchange = e => { const f = e.target.files?.[0]; if (f) importer(f).catch(err => toast(`Restauration impossible : ${err.message}`, 4000)); };
+  $('#importer').onchange = e => { const f = e.target.files?.[0]; if (f) importer(f).catch(err => toast(`Échec : ${err.message}`, 4000)); };
 }
 
 async function reprendreAnciennes() {
@@ -699,7 +685,7 @@ async function reprendreAnciennes() {
       try { f.image = await IMG.importerDataUrl(f.image); } catch { delete f.image; }
     }
   }
-  if (sauverEd()) { recomposer(); toast(n ? `${pluriel(n, 'liste reprise', 'listes reprises')} dans « Mes listes »` : 'Rien à reprendre'); rendre(); }
+  if (sauverEd()) { recomposer(); toast(n ? pluriel(n, 'liste importée', 'listes importées') : 'Rien à importer'); rendre(); }
 }
 
 async function exporter() {
@@ -714,13 +700,13 @@ async function exporter() {
   a.download = `memo-sauvegarde-${P.texteDuJour(auj())}.json`;
   document.body.appendChild(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(a.href), 5000);
-  toast('Sauvegarde téléchargée');
+  toast('Sauvegardé');
 }
 
 async function importer(fichier) {
   const s = JSON.parse(await fichier.text());
-  if (s?.format !== 'memo2-sauvegarde' || !s.etat || !s.edition) throw new Error("ce fichier n'est pas une sauvegarde de Mémo");
-  if (!confirm(`Remplacer les données de cet appareil par la sauvegarde du ${new Date(s.date).toLocaleDateString('fr-FR')} ?`)) return;
+  if (s?.format !== 'memo2-sauvegarde' || !s.etat || !s.edition) throw new Error('fichier non reconnu');
+  if (!confirm(`Restaurer la sauvegarde du ${new Date(s.date).toLocaleDateString('fr-FR')} ?`)) return;
   for (const [cle, url] of Object.entries(s.images || {})) {
     const blob = await (await fetch(url)).blob();
     await new Promise((ok, ko) => { const r = indexedDB.open('memo2-images', 1); r.onupgradeneeded = () => r.result.createObjectStore('images'); r.onsuccess = () => { const tx = r.result.transaction('images', 'readwrite'); tx.objectStore('images').put(blob, cle); tx.oncomplete = ok; tx.onerror = () => ko(tx.error); }; r.onerror = () => ko(r.error); });
@@ -751,15 +737,39 @@ function rendre() {
   $('#modif-liste')?.addEventListener('click', () => formulaireListe(vue.liste));
   $('#restaurer')?.addEventListener('click', () => {
     const n = ED.restaurerFichesRetirees(ed, vue.liste);
-    if (sauverEd()) apresEdition(vue.liste, `${pluriel(n, 'fiche revenue', 'fiches revenues')}`);
+    if (sauverEd()) apresEdition(vue.liste, null);
   });
+  brancherDefilement();
   const rech = $('#rech');
   if (rech) rech.oninput = () => { vue.recherche = rech.value; const pos = rech.selectionStart; rendre(); const n = $('#rech'); n.focus(); n.setSelectionRange(pos, pos); };
 }
 
+// Bandeaux horizontaux : au doigt ils défilent seuls ; à la souris, la molette
+// et le glisser les font défiler aussi
+function brancherDefilement() {
+  $$('.defiler').forEach(d => {
+    d.addEventListener('wheel', e => {
+      if (Math.abs(e.deltaY) <= Math.abs(e.deltaX) || d.scrollWidth <= d.clientWidth) return;
+      e.preventDefault();
+      d.scrollBy({left: e.deltaY});
+    }, {passive: false});
+    let depart = null, glisse = false;
+    d.addEventListener('pointerdown', e => { if (e.pointerType === 'mouse') { depart = {x: e.clientX, s: d.scrollLeft}; glisse = false; } });
+    d.addEventListener('pointermove', e => {
+      if (!depart) return;
+      const dx = e.clientX - depart.x;
+      if (Math.abs(dx) > 5) { glisse = true; d.scrollLeft = depart.s - dx; }
+    });
+    const fin = () => { depart = null; };
+    d.addEventListener('pointerup', fin); d.addEventListener('pointerleave', fin);
+    // un glisser ne doit pas ouvrir la liste sous le pointeur
+    d.addEventListener('click', e => { if (glisse) { e.stopPropagation(); e.preventDefault(); glisse = false; } }, true);
+  });
+}
+
 function erreur(e) {
   console.error(e);
-  toast(navigator.onLine === false ? 'Hors ligne : cette liste n\'a pas encore été enregistrée sur l\'appareil.' : 'Chargement impossible. Vérifie la connexion et réessaie.', 4000);
+  toast(navigator.onLine === false ? 'Hors ligne' : 'Chargement impossible', 3000);
 }
 
 /* ---------- mises à jour et hors ligne ---------- */
@@ -791,7 +801,7 @@ if ('serviceWorker' in navigator) {
 // plutôt que l'icône d'image cassée
 document.addEventListener('error', e => { if (e.target.tagName === 'IMG') e.target.classList.add('absente'); }, true);
 document.addEventListener('load', e => { if (e.target.tagName === 'IMG') e.target.classList.remove('absente'); }, true);
-window.addEventListener('offline', () => toast("Hors ligne : Mémo continue avec ce qui est déjà sur l'appareil.", 4000));
+window.addEventListener('offline', () => toast('Hors ligne'));
 $('#voile').onclick = e => { if (e.target.id === 'voile') fermerFiche(); };
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && $('#voile').classList.contains('ouvert')) fermerFiche(); });
 IMG.surveiller();
@@ -811,5 +821,5 @@ chargerCatalogue().then(c => {
   IMG.cles().then(ks => { const vives = ED.imagesUtilisees(ed); ks.filter(k => !vives.has(k)).forEach(k => IMG.effacer(k)); }).catch(() => {});
 }).catch(e => {
   console.error(e);
-  $('#racine').innerHTML = `<div class="app"><p class="sous" style="padding-top:40px">Mémo n'a pas pu charger ses listes. Vérifie la connexion puis recharge la page.</p></div>`;
+  $('#racine').innerHTML = `<div class="app"><p class="sous" style="padding-top:40px">Chargement impossible.</p></div>`;
 });

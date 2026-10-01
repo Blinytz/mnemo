@@ -17,7 +17,7 @@ export function initEdition(contexte) { ctx = contexte; }
 
 const champTexte = (col, i, valeur, estCle) => {
   const long = String(valeur || '').length > 40;
-  return `<label class="champ"><span>${esc(col)}${estCle ? ' <em>· nom de la fiche</em>' : ''}</span>
+  return `<label class="champ"><span>${esc(col)}</span>
     <textarea rows="${long ? 3 : 1}" data-col="${i}" ${estCle ? 'required' : ''}>${esc(valeur || '')}</textarea></label>`;
 };
 
@@ -32,25 +32,24 @@ export async function formulaireFiche(idListe, idFiche = null) {
 
   const dessiner = () => {
     const a = actuelle();
-    $('#ed-apercu').innerHTML = a ? img(a, 'Image de la fiche') : `<span class="sous">Pas d'image</span>`;
+    $('#ed-apercu').innerHTML = a ? img(a, 'Image de la fiche') : `<span class="sous">${ic('image-square')}</span>`;
     $('#ed-sans').hidden = !a;
   };
 
   ctx.ouvrirFeuille(`<div class="poignee"></div><form class="contenu formulaire" id="ed-fiche" novalidate>
-    <div><span class="etiquette">${esc(l.nom)}</span><h1 style="margin-top:4px">${f ? 'Modifier la fiche' : 'Nouvelle fiche'}</h1></div>
+    <div><span class="etiquette">${esc(l.nom)}</span><h1 style="margin-top:4px">${f ? 'Modifier' : 'Nouvelle fiche'}</h1></div>
     <div class="apercu-image" id="ed-apercu"></div>
     <div class="boutons-image">
       <label class="bouton fantome petit">${ic('image-square')} Photo<input type="file" accept="image/*" id="ed-fichier" hidden></label>
-      <button type="button" class="bouton fantome petit" id="ed-lien">${ic('link')} Adresse web</button>
-      <button type="button" class="bouton fantome petit" id="ed-sans">${ic('trash')} Sans image</button>
+      <button type="button" class="bouton fantome petit" id="ed-lien">${ic('link')} Lien</button>
+      <button type="button" class="bouton fantome petit" id="ed-sans">${ic('trash')} Retirer</button>
     </div>
-    <label class="champ" id="ed-lien-champ" hidden><span>Adresse de l'image</span><input type="url" inputmode="url" placeholder="https://…" id="ed-lien-valeur"></label>
+    <label class="champ" id="ed-lien-champ" hidden><span>Lien de l'image</span><input type="url" inputmode="url" placeholder="https://…" id="ed-lien-valeur"></label>
     ${l.colonnes.map((c, i) => champTexte(c, i, f?.valeurs[i], i === l.cle)).join('')}
-    <p class="sous" style="margin:0">${officielle ? 'Ta modification reste sur cet appareil et passe avant la version officielle ; tu peux revenir à l\'original à tout moment.' : 'Enregistré sur cet appareil.'}</p>
     <div class="actions"><button class="bouton memo" type="submit">Enregistrer</button><button class="bouton fantome" type="button" id="ed-annuler">Annuler</button></div>
     ${f ? `<div class="actions-secondaires">
-      ${f.modifiee ? `<button type="button" class="lien" id="ed-retablir">${ic('arrow-counter-clockwise')} Revenir à l'original</button>` : ''}
-      <button type="button" class="lien danger" id="ed-supprimer">${ic('trash')} ${officielle ? 'Masquer cette fiche' : 'Supprimer cette fiche'}</button></div>` : ''}
+      ${f.modifiee ? `<button type="button" class="lien" id="ed-retablir">${ic('arrow-counter-clockwise')} Original</button>` : ''}
+      <button type="button" class="lien danger" id="ed-supprimer">${ic('trash')} ${officielle ? 'Masquer' : 'Supprimer'}</button></div>` : ''}
   </form>`);
   dessiner();
 
@@ -58,12 +57,12 @@ export async function formulaireFiche(idListe, idFiche = null) {
     const fichier = e.target.files?.[0];
     if (!fichier) return;
     try { image = await importerPhoto(fichier); dessiner(); }
-    catch { toast('Cette image ne peut pas être lue.'); }
+    catch { toast('Image illisible'); }
   };
   $('#ed-lien').onclick = () => { $('#ed-lien-champ').hidden = false; $('#ed-lien-valeur').focus(); };
   $('#ed-lien-valeur').onchange = e => {
     const v = e.target.value.trim();
-    if (v && !/^https?:\/\//i.test(v)) return toast('L\'adresse doit commencer par https://');
+    if (v && !/^https?:\/\//i.test(v)) return toast('Lien invalide');
     image = v || undefined; dessiner();
   };
   $('#ed-sans').onclick = () => { image = ''; dessiner(); };
@@ -72,19 +71,19 @@ export async function formulaireFiche(idListe, idFiche = null) {
   $('#ed-fiche').onsubmit = async e => {
     e.preventDefault();
     const valeurs = l.colonnes.map((c, i) => $(`[data-col="${i}"]`).value.trim());
-    if (!valeurs[l.cle]) { toast(`« ${l.colonnes[l.cle]} » ne peut pas rester vide.`); return $(`[data-col="${l.cle}"]`).focus(); }
+    if (!valeurs[l.cle]) { toast(`${l.colonnes[l.cle]} : obligatoire`); return $(`[data-col="${l.cle}"]`).focus(); }
     if (f) ED.modifierFiche(ctx.ed, l, f.id, valeurs, image);
     else ED.ajouterFiche(ctx.ed, l, valeurs, image || undefined);
-    if (ctx.sauverEd()) ctx.apresEdition(idListe, f ? 'Fiche enregistrée' : 'Fiche ajoutée');
+    if (ctx.sauverEd()) ctx.apresEdition(idListe, null);
   };
   $('#ed-retablir')?.addEventListener('click', () => {
     ED.retablirFiche(ctx.ed, idListe, f.id);
-    if (ctx.sauverEd()) ctx.apresEdition(idListe, 'Fiche revenue à l\'original');
+    if (ctx.sauverEd()) ctx.apresEdition(idListe, null);
   });
   $('#ed-supprimer')?.addEventListener('click', () => {
-    if (!confirm(officielle ? `Masquer « ${f.valeurs[l.cle]} » ? Tu pourras la faire revenir depuis la page de la liste.` : `Supprimer « ${f.valeurs[l.cle]} » ?`)) return;
+    if (!confirm(`${officielle ? 'Masquer' : 'Supprimer'} « ${f.valeurs[l.cle]} » ?`)) return;
     ED.supprimerFiche(ctx.ed, idListe, f.id);
-    if (ctx.sauverEd()) ctx.apresEdition(idListe, officielle ? 'Fiche masquée' : 'Fiche supprimée');
+    if (ctx.sauverEd()) ctx.apresEdition(idListe, null);
   });
 }
 
@@ -102,13 +101,11 @@ export function vueNouvelleListe() {
         <label class="champ"><span>Catégorie</span><select id="nl-categorie">${optionsCategories(ED.CATEGORIE_PERSO)}</select></label>
       </div>
       <label class="champ"><span>Colonnes</span><input id="nl-colonnes" placeholder="Pays, Capitale, Langue"></label>
-      <p class="sous" style="margin:0">Sépare les colonnes par des virgules. La première nomme la fiche : c'est elle que le quiz demande sous l'image.</p>
-      <details class="coller"><summary>Partir d'un tableau (facultatif)</summary>
-        <p class="sous">Copie des cellules dans un tableur et colle-les ici, ou choisis un fichier CSV. La première ligne donne les colonnes.</p>
+      <details class="coller"><summary>Coller un tableau</summary>
         <textarea id="nl-tableau" rows="5" placeholder="Pays&#9;Capitale&#10;France&#9;Paris"></textarea>
-        <label class="bouton fantome petit" style="justify-self:start">${ic('upload-simple')} Fichier CSV<input type="file" accept=".csv,.tsv,.txt,text/csv" id="nl-csv" hidden></label>
+        <label class="bouton fantome petit" style="justify-self:start">${ic('upload-simple')} CSV<input type="file" accept=".csv,.tsv,.txt,text/csv" id="nl-csv" hidden></label>
       </details>
-      <button class="bouton memo large" type="submit">${ic('plus')} Créer la liste</button>
+      <button class="bouton memo large" type="submit">${ic('plus')} Créer</button>
     </form>`;
 }
 
@@ -124,7 +121,7 @@ export function brancherNouvelleListe() {
     try {
       const l = ED.creerListe(ctx.ed, {nom: $('#nl-nom').value, icone: $('#nl-icone').value, categorie: $('#nl-categorie').value,
         colonnes, lignes: tableau.lignes});
-      if (ctx.sauverEd()) { toast(`Liste créée${l.fiches.length ? ` avec ${l.fiches.length} fiches` : ''}`); ctx.apresEdition(l.id, null, true); }
+      if (ctx.sauverEd()) ctx.apresEdition(l.id, null, true);
     } catch (err) { toast(err.message); }
   };
 }
@@ -134,18 +131,17 @@ export function formulaireListe(idListe) {
   const l = ED.listePerso(ctx.ed, idListe);
   if (!l) return;
   ctx.ouvrirFeuille(`<div class="poignee"></div><form class="contenu formulaire" id="ed-liste" novalidate>
-    <div><span class="etiquette">Liste personnelle</span><h1 style="margin-top:4px">Modifier la liste</h1></div>
+    <h1>Modifier la liste</h1>
     <label class="champ"><span>Nom</span><input id="el-nom" maxlength="60" value="${esc(l.nom)}"></label>
     <div class="deux">
       <label class="champ"><span>Icône</span><input id="el-icone" maxlength="4" value="${esc(l.icone)}"></label>
       <label class="champ"><span>Catégorie</span><select id="el-categorie">${optionsCategories(l.categorie)}</select></label>
     </div>
-    <details class="coller"><summary>Ajouter des fiches depuis un tableau</summary>
-      <p class="sous">Une ligne par fiche, dans l'ordre des colonnes : ${esc(l.colonnes.join(' · '))}.</p>
-      <textarea id="el-tableau" rows="5"></textarea>
+    <details class="coller"><summary>Coller des fiches</summary>
+      <textarea id="el-tableau" rows="5" placeholder="${esc(l.colonnes.join('\t'))}"></textarea>
     </details>
     <div class="actions"><button class="bouton memo" type="submit">Enregistrer</button><button class="bouton fantome" type="button" id="el-annuler">Annuler</button></div>
-    <div class="actions-secondaires"><button type="button" class="lien danger" id="el-supprimer">${ic('trash')} Supprimer la liste</button></div>
+    <div class="actions-secondaires"><button type="button" class="lien danger" id="el-supprimer">${ic('trash')} Supprimer</button></div>
   </form>`);
   $('#el-annuler').onclick = ctx.fermerFiche;
   $('#ed-liste').onsubmit = e => {
@@ -161,12 +157,12 @@ export function formulaireListe(idListe) {
         ajoutees++;
       }
     }
-    if (ctx.sauverEd()) ctx.apresEdition(idListe, ajoutees ? `${ajoutees} fiche${ajoutees > 1 ? 's' : ''} ajoutée${ajoutees > 1 ? 's' : ''}` : 'Liste enregistrée');
+    if (ctx.sauverEd()) ctx.apresEdition(idListe, ajoutees ? `+ ${ajoutees}` : null);
   };
   $('#el-supprimer').onclick = () => {
-    if (!confirm(`Supprimer la liste « ${l.nom} » et ses ${l.fiches.length} fiches ? Cette action est définitive.`)) return;
+    if (!confirm(`Supprimer « ${l.nom} » ?`)) return;
     ED.supprimerListe(ctx.ed, idListe);
-    if (ctx.sauverEd()) ctx.apresEdition(null, 'Liste supprimée');
+    if (ctx.sauverEd()) ctx.apresEdition(null, null);
   };
 }
 

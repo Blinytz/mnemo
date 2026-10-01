@@ -277,3 +277,10 @@ details.coller textarea{font:500 14px ui-monospace,Consolas,monospace;color:var(
 .ligne-info b{color:var(--encre);text-align:right;overflow-wrap:anywhere}
 .mise-a-jour{position:fixed;left:50%;top:calc(10px + env(safe-area-inset-top,0px));transform:translateX(-50%);z-index:70;background:var(--memo);color:#fff;font-weight:700;font-size:14px;padding:10px 16px;border-radius:999px;box-shadow:var(--ombre)}
 img.absente{opacity:0}
+.defiler{scroll-snap-type:x proximity;scroll-padding-inline:16px;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y}
+.defiler>*{scroll-snap-align:start}
+@media (pointer:fine){
+  .defiler{cursor:grab;scrollbar-width:thin;scrollbar-color:var(--trait) transparent}
+  .defiler::-webkit-scrollbar{display:block;height:6px}
+  .defiler::-webkit-scrollbar-thumb{background:var(--trait);border-radius:9px}
+}
