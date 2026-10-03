@@ -14,6 +14,17 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="style.css">
+<script>
+  // Chrome Android : le menu « Installer » se croit « déjà installé » sur tout
+  // site qui héberge une autre appli installée (blinytz.github.io). L'événement
+  // beforeinstallprompt, lui, vérifie la bonne adresse : on le garde pour
+  // proposer l'installation depuis la page.
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    window.__installation = e;
+    document.dispatchEvent(new Event('installable'));
+  });
+</script>
 <script type="module" src="js/main.js"></script>
 </head>
 <body>

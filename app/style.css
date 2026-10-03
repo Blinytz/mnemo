@@ -284,3 +284,4 @@ img.absente{opacity:0}
   .defiler::-webkit-scrollbar{display:block;height:6px}
   .defiler::-webkit-scrollbar-thumb{background:var(--trait);border-radius:9px}
 }
+.installer{margin:4px 0 14px}

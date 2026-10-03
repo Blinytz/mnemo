@@ -185,7 +185,9 @@ function vueAujourdhui() {
   const pasSuivies = C.listes.filter(l => !etat.suivies.includes(l.id) && l.fiches).map(l => l.id);
   const aDecouvrir = [...pasSuivies.filter(estNouvelle), ...ordreDuJour(pasSuivies.filter(id => !estNouvelle(id)))].slice(0, 8).map(infoListe);
 
+  const installable = window.__installation && !matchMedia('(display-mode: standalone)').matches;
   return haut('Mnémo') + `
+  ${installable ? `<button class="bouton fantome large installer" id="installer">${ic('download-simple')} Installer l'application</button>` : ''}
   <section class="quiz-jour monte">
     <div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
       <span class="etiquette" style="color:var(--eclat)">Quiz du jour</span>
@@ -725,6 +727,13 @@ function rendre() {
   if (vue.page === 'nouvelle') brancherNouvelleListe();
   $$('#racine [data-aller]').forEach(b => b.onclick = () => { if (b.dataset.aller === 'reglages') brouillon = null; aller(b.dataset.aller); });
   $$('#racine [data-verser]').forEach(b => b.onclick = () => verser(b.dataset.verser));
+  $('#installer')?.addEventListener('click', async () => {
+    const e = window.__installation;
+    if (!e) return;
+    e.prompt();
+    const choix = await e.userChoice.catch(() => null);
+    if (choix?.outcome === 'accepted') { window.__installation = null; rendre(); }
+  });
   $('#go')?.addEventListener('click', () => lancerRevision().catch(erreur));
   $('#quiz-jour')?.addEventListener('click', () => lancerQuiz().catch(erreur));
   $$('[data-liste]').forEach(b => b.onclick = () => ouvrirListe(b.dataset.liste));
@@ -802,6 +811,8 @@ if ('serviceWorker' in navigator) {
 document.addEventListener('error', e => { if (e.target.tagName === 'IMG') e.target.classList.add('absente'); }, true);
 document.addEventListener('load', e => { if (e.target.tagName === 'IMG') e.target.classList.remove('absente'); }, true);
 window.addEventListener('offline', () => toast('Hors ligne'));
+document.addEventListener('installable', () => { if (C && vue.page === 'aujourdhui') rendre(); });
+window.addEventListener('appinstalled', () => { window.__installation = null; if (C) rendre(); });
 $('#voile').onclick = e => { if (e.target.id === 'voile') fermerFiche(); };
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && $('#voile').classList.contains('ouvert')) fermerFiche(); });
 IMG.surveiller();

@@ -9,7 +9,7 @@
 // version.json ne passe jamais par le cache : c'est lui qui annonce une
 // nouvelle version à l'application installée.
 
-const CACHE = 'mnemo-v1';
+const CACHE = 'mnemo-v2';
 const COQUILLE = [
   './app/', './app/index.html', './app/style.css', './app/manifest.json', './manifest.json', './icone.svg',
   './app/js/main.js', './app/js/ui.js', './app/js/icones.js', './app/js/donnees.js',
